@@ -1,0 +1,26 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "People"
+cn "People"  "ui.label":"People"
+cn "People"  "ui.style":"size-mode:fit;"
+an "Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.label":"Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.style":"size:6px; fill-color:white; "
+an "Humans"
+cn "Humans"  "ui.label":"Humans"
+cn "Humans"  "ui.style":"size-mode:fit;"
+an "Anthropology"
+cn "Anthropology"  "ui.label":"Anthropology"
+cn "Anthropology"  "ui.style":"size:6px; fill-color:white; "
+an "Humanities"
+cn "Humanities"  "ui.label":"Humanities"
+cn "Humanities"  "ui.style":"size:6px; fill-color:white; "
+ae "People->Main_topic_classifications" "People"  "Main_topic_classifications"
+ce "People->Main_topic_classifications"  "type":0
+ae "Humans->Anthropology" "Humans"  "Anthropology"
+ce "Humans->Anthropology"  "type":0
+ae "Anthropology->Humanities" "Anthropology"  "Humanities"
+ce "Anthropology->Humanities"  "type":0
+ae "Humanities->Main_topic_classifications" "Humanities"  "Main_topic_classifications"
+ce "Humanities->Main_topic_classifications"  "type":0

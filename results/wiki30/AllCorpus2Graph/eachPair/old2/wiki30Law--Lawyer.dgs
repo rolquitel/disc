@@ -1,0 +1,160 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Law"
+cn "Law"  "ui.label":"Law"
+cn "Law"  "ui.style":"size-mode:fit;"
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyer"
+cn "Lawyer"  "ui.label":"Lawyer"
+cn "Lawyer"  "ui.style":"size-mode:fit;"
+an "professional"
+cn "professional"  "ui.label":"professional"
+cn "professional"  "ui.style":"size:6px; fill-color:white; "
+an "adult"
+cn "adult"  "ui.label":"adult"
+cn "adult"  "ui.style":"size:6px; fill-color:white; "
+an "person"
+cn "person"  "ui.label":"person"
+cn "person"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+ae "Law->collection" "Law"  "collection"
+ce "Law->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Lawyer->professional" "Lawyer"  "professional"
+ce "Lawyer->professional"  "type":0
+ae "professional->adult" "professional"  "adult"
+ce "professional->adult"  "type":0
+ae "adult->person" "adult"  "person"
+ce "adult->person"  "type":0
+ae "person->organism" "person"  "organism"
+ce "person->organism"  "type":0
+ae "organism->living thing" "organism"  "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing"  "whole"
+ce "living thing->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "content->communication" "content"  "communication"
+ce "content->communication"  "type":0
+ae "communication->act" "communication"  "act"
+ce "communication->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "activity->state" "activity"  "state"
+ce "activity->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0

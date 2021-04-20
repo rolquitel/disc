@@ -1,0 +1,134 @@
+DGS004
+null 0 0
+an "Food safety"
+an "Food processing"
+cn "Food processing"  "ui.label":"Food processing"
+cn "Food processing"  "ui.style":"size:6px; fill-color:white; "
+an "Food"
+cn "Food"  "ui.label":"Food"
+cn "Food"  "ui.style":"size:6px; fill-color:white; "
+an "substance"
+cn "substance"  "ui.label":"substance"
+cn "substance"  "ui.style":"size:6px; fill-color:white; "
+an "matter"
+cn "matter"  "ui.label":"matter"
+cn "matter"  "ui.style":"size:6px; fill-color:white; "
+an "concern"
+cn "concern"  "ui.label":"concern"
+cn "concern"  "ui.style":"size:6px; fill-color:white; "
+an "interest"
+cn "interest"  "ui.label":"interest"
+cn "interest"  "ui.style":"size:6px; fill-color:white; "
+an "curiosity"
+cn "curiosity"  "ui.label":"curiosity"
+cn "curiosity"  "ui.style":"size:6px; fill-color:white; "
+an "cognitive state"
+cn "cognitive state"  "ui.label":"cognitive state"
+cn "cognitive state"  "ui.style":"size:6px; fill-color:white; "
+an "psychological state"
+cn "psychological state"  "ui.label":"psychological state"
+cn "psychological state"  "ui.style":"size:6px; fill-color:white; "
+an "condition"
+cn "condition"  "ui.label":"condition"
+cn "condition"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+an "Health education"
+an "Reproductive health"
+cn "Reproductive health"  "ui.label":"Reproductive health"
+cn "Reproductive health"  "ui.style":"size:6px; fill-color:white; "
+an "HIV/AIDS"
+cn "HIV/AIDS"  "ui.label":"HIV/AIDS"
+cn "HIV/AIDS"  "ui.style":"size:6px; fill-color:white; "
+an "Solidarity"
+cn "Solidarity"  "ui.label":"Solidarity"
+cn "Solidarity"  "ui.style":"size:6px; fill-color:white; "
+an "commonality"
+cn "commonality"  "ui.label":"commonality"
+cn "commonality"  "ui.style":"size:6px; fill-color:white; "
+an "class"
+cn "class"  "ui.label":"class"
+cn "class"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+ae "Food safety->Food processing" "Food safety"  "Food processing"
+ce "Food safety->Food processing"  "type":8
+ae "Food processing->Food" "Food processing"  "Food"
+ce "Food processing->Food"  "type":8
+ae "Food->substance" "Food"  "substance"
+ce "Food->substance"  "type":0
+ae "substance->matter" "substance"  "matter"
+ce "substance->matter"  "type":0
+ae "matter->concern" "matter"  "concern"
+ce "matter->concern"  "type":0
+ae "concern->interest" "concern"  "interest"
+ce "concern->interest"  "type":0
+ae "interest->curiosity" "interest"  "curiosity"
+ce "interest->curiosity"  "type":0
+ae "curiosity->cognitive state" "curiosity"  "cognitive state"
+ce "curiosity->cognitive state"  "type":0
+ae "cognitive state->psychological state" "cognitive state"  "psychological state"
+ce "cognitive state->psychological state"  "type":0
+ae "psychological state->condition" "psychological state"  "condition"
+ce "psychological state->condition"  "type":0
+ae "condition->state" "condition"  "state"
+ce "condition->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "Health education->Reproductive health" "Health education"  "Reproductive health"
+ce "Health education->Reproductive health"  "type":8
+ae "Reproductive health->HIV/AIDS" "Reproductive health"  "HIV/AIDS"
+ce "Reproductive health->HIV/AIDS"  "type":8
+ae "HIV/AIDS->Solidarity" "HIV/AIDS"  "Solidarity"
+ce "HIV/AIDS->Solidarity"  "type":8
+ae "Solidarity->commonality" "Solidarity"  "commonality"
+ce "Solidarity->commonality"  "type":0
+ae "commonality->class" "commonality"  "class"
+ce "commonality->class"  "type":0
+ae "class->collection" "class"  "collection"
+ce "class->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0

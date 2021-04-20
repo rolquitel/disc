@@ -1,0 +1,106 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Law"
+cn "Law"  "ui.label":"Law"
+cn "Law"  "ui.style":"size-mode:fit;"
+an "Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.label":"Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers"
+cn "Lawyers"  "ui.label":"Lawyers"
+cn "Lawyers"  "ui.style":"size-mode:fit;"
+an "Judicial_and_penal_systems_people"
+cn "Judicial_and_penal_systems_people"  "ui.label":"Judicial_and_penal_systems_people"
+cn "Judicial_and_penal_systems_people"  "ui.style":"size:6px; fill-color:white; "
+an "Judiciaries"
+cn "Judiciaries"  "ui.label":"Judiciaries"
+cn "Judiciaries"  "ui.style":"size:6px; fill-color:white; "
+an "Commons_category_link_is_locally_defined"
+cn "Commons_category_link_is_locally_defined"  "ui.label":"Commons_category_link_is_locally_defined"
+cn "Commons_category_link_is_locally_defined"  "ui.style":"size:6px; fill-color:white; "
+an "Commons_category_Wikidata_tracking_categories"
+cn "Commons_category_Wikidata_tracking_categories"  "ui.label":"Commons_category_Wikidata_tracking_categories"
+cn "Commons_category_Wikidata_tracking_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Wikidata_tracking_categories"
+cn "Wikidata_tracking_categories"  "ui.label":"Wikidata_tracking_categories"
+cn "Wikidata_tracking_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Tracking_categories"
+cn "Tracking_categories"  "ui.label":"Tracking_categories"
+cn "Tracking_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_categories"
+cn "Wikipedia_categories"  "ui.label":"Wikipedia_categories"
+cn "Wikipedia_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_categorization"
+cn "Wikipedia_categorization"  "ui.label":"Wikipedia_categorization"
+cn "Wikipedia_categorization"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_administration"
+cn "Wikipedia_administration"  "ui.label":"Wikipedia_administration"
+cn "Wikipedia_administration"  "ui.style":"size:6px; fill-color:white; "
+an "Contents"
+cn "Contents"  "ui.label":"Contents"
+cn "Contents"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_navigation"
+cn "Wikipedia_navigation"  "ui.label":"Wikipedia_navigation"
+cn "Wikipedia_navigation"  "ui.style":"size:6px; fill-color:white; "
+an "Humanities"
+cn "Humanities"  "ui.label":"Humanities"
+cn "Humanities"  "ui.style":"size:6px; fill-color:white; "
+an "Justice"
+cn "Justice"  "ui.label":"Justice"
+cn "Justice"  "ui.style":"size:6px; fill-color:white; "
+an "Social_sciences"
+cn "Social_sciences"  "ui.label":"Social_sciences"
+cn "Social_sciences"  "ui.style":"size:6px; fill-color:white; "
+an "People_by_occupation"
+cn "People_by_occupation"  "ui.label":"People_by_occupation"
+cn "People_by_occupation"  "ui.style":"size:6px; fill-color:white; "
+an "Government"
+cn "Government"  "ui.label":"Government"
+cn "Government"  "ui.style":"size:6px; fill-color:white; "
+an "Wikimedia_Commons"
+cn "Wikimedia_Commons"  "ui.label":"Wikimedia_Commons"
+cn "Wikimedia_Commons"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_namespaces"
+cn "Wikipedia_namespaces"  "ui.label":"Wikipedia_namespaces"
+cn "Wikipedia_namespaces"  "ui.style":"size:6px; fill-color:white; "
+ae "Law->Main_topic_classifications" "Law"  "Main_topic_classifications"
+ce "Law->Main_topic_classifications"  "type":0
+ae "Lawyers->Judicial_and_penal_systems_people" "Lawyers"  "Judicial_and_penal_systems_people"
+ce "Lawyers->Judicial_and_penal_systems_people"  "type":0
+ae "Judicial_and_penal_systems_people->Judiciaries" "Judicial_and_penal_systems_people"  "Judiciaries"
+ce "Judicial_and_penal_systems_people->Judiciaries"  "type":0
+ae "Judiciaries->Commons_category_link_is_locally_defined" "Judiciaries"  "Commons_category_link_is_locally_defined"
+ce "Judiciaries->Commons_category_link_is_locally_defined"  "type":0
+ae "Commons_category_link_is_locally_defined->Commons_category_Wikidata_tracking_categories" "Commons_category_link_is_locally_defined"  "Commons_category_Wikidata_tracking_categories"
+ce "Commons_category_link_is_locally_defined->Commons_category_Wikidata_tracking_categories"  "type":0
+ae "Commons_category_Wikidata_tracking_categories->Wikidata_tracking_categories" "Commons_category_Wikidata_tracking_categories"  "Wikidata_tracking_categories"
+ce "Commons_category_Wikidata_tracking_categories->Wikidata_tracking_categories"  "type":0
+ae "Wikidata_tracking_categories->Tracking_categories" "Wikidata_tracking_categories"  "Tracking_categories"
+ce "Wikidata_tracking_categories->Tracking_categories"  "type":0
+ae "Tracking_categories->Wikipedia_categories" "Tracking_categories"  "Wikipedia_categories"
+ce "Tracking_categories->Wikipedia_categories"  "type":0
+ae "Wikipedia_categories->Wikipedia_categorization" "Wikipedia_categories"  "Wikipedia_categorization"
+ce "Wikipedia_categories->Wikipedia_categorization"  "type":0
+ae "Wikipedia_categorization->Wikipedia_administration" "Wikipedia_categorization"  "Wikipedia_administration"
+ce "Wikipedia_categorization->Wikipedia_administration"  "type":0
+ae "Wikipedia_administration->Contents" "Wikipedia_administration"  "Contents"
+ce "Wikipedia_administration->Contents"  "type":0
+ae "Wikipedia_categorization->Wikipedia_navigation" "Wikipedia_categorization"  "Wikipedia_navigation"
+ce "Wikipedia_categorization->Wikipedia_navigation"  "type":0
+ae "Wikipedia_navigation->Contents" "Wikipedia_navigation"  "Contents"
+ce "Wikipedia_navigation->Contents"  "type":0
+ae "Law->Humanities" "Law" > "Humanities"
+ce "Law->Humanities"  "type":0
+ae "Law->Justice" "Law" > "Justice"
+ce "Law->Justice"  "type":0
+ae "Law->Social_sciences" "Law" > "Social_sciences"
+ce "Law->Social_sciences"  "type":0
+ae "Judicial_and_penal_systems_people->People_by_occupation" "Judicial_and_penal_systems_people" > "People_by_occupation"
+ce "Judicial_and_penal_systems_people->People_by_occupation"  "type":0
+ae "Judiciaries->Government" "Judiciaries" > "Government"
+ce "Judiciaries->Government"  "type":0
+ae "Commons_category_Wikidata_tracking_categories->Wikimedia_Commons" "Commons_category_Wikidata_tracking_categories" > "Wikimedia_Commons"
+ce "Commons_category_Wikidata_tracking_categories->Wikimedia_Commons"  "type":0
+ae "Wikipedia_categories->Wikipedia_namespaces" "Wikipedia_categories" > "Wikipedia_namespaces"
+ce "Wikipedia_categories->Wikipedia_namespaces"  "type":0

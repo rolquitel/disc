@@ -1,0 +1,536 @@
+DGS004
+null 0 0
+an "Mobile phone"
+cn "Mobile phone"  "ui.label":"Mobile phone"
+cn "Mobile phone"  "ui.style":"size-mode:fit;"
+an "radiotelephone"
+cn "radiotelephone"  "ui.label":"radiotelephone"
+cn "radiotelephone"  "ui.style":"size:6px; fill-color:white; "
+an "wireless"
+cn "wireless"  "ui.label":"wireless"
+cn "wireless"  "ui.style":"size:6px; fill-color:white; "
+an "broadcasting"
+cn "broadcasting"  "ui.label":"broadcasting"
+cn "broadcasting"  "ui.style":"size:6px; fill-color:white; "
+an "medium"
+cn "medium"  "ui.label":"medium"
+cn "medium"  "ui.style":"size:6px; fill-color:white; "
+an "instrumentality"
+cn "instrumentality"  "ui.label":"instrumentality"
+cn "instrumentality"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "definite quantity"
+cn "definite quantity"  "ui.label":"definite quantity"
+cn "definite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Television"
+cn "Television"  "ui.label":"Television"
+cn "Television"  "ui.style":"size-mode:fit;"
+an "telecommunication system"
+cn "telecommunication system"  "ui.label":"telecommunication system"
+cn "telecommunication system"  "ui.style":"size:6px; fill-color:white; "
+an "communication system"
+cn "communication system"  "ui.label":"communication system"
+cn "communication system"  "ui.style":"size:6px; fill-color:white; "
+an "system"
+cn "system"  "ui.label":"system"
+cn "system"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "White paper"
+cn "White paper"  "ui.label":"White paper"
+cn "White paper"  "ui.style":"size:6px; fill-color:white; "
+an "Computer science"
+cn "Computer science"  "ui.label":"Computer science"
+cn "Computer science"  "ui.style":"size:6px; fill-color:white; "
+an "succession"
+cn "succession"  "ui.label":"succession"
+cn "succession"  "ui.style":"size:6px; fill-color:white; "
+an "AM broadcasting"
+cn "AM broadcasting"  "ui.label":"AM broadcasting"
+cn "AM broadcasting"  "ui.style":"size:6px; fill-color:white; "
+an "release"
+cn "release"  "ui.label":"release"
+cn "release"  "ui.style":"size:6px; fill-color:white; "
+an "Sweden"
+cn "Sweden"  "ui.label":"Sweden"
+cn "Sweden"  "ui.style":"size:6px; fill-color:white; "
+an "temperature change"
+cn "temperature change"  "ui.label":"temperature change"
+cn "temperature change"  "ui.style":"size:6px; fill-color:white; "
+an "Transmission (telecommunications)"
+cn "Transmission (telecommunications)"  "ui.label":"Transmission (telecommunications)"
+cn "Transmission (telecommunications)"  "ui.style":"size:6px; fill-color:white; "
+an "County"
+cn "County"  "ui.label":"County"
+cn "County"  "ui.style":"size:6px; fill-color:white; "
+an "Samsung Electronics"
+cn "Samsung Electronics"  "ui.label":"Samsung Electronics"
+cn "Samsung Electronics"  "ui.style":"size:6px; fill-color:white; "
+an "Physics"
+cn "Physics"  "ui.label":"Physics"
+cn "Physics"  "ui.style":"size:6px; fill-color:white; "
+an "British English"
+cn "British English"  "ui.label":"British English"
+cn "British English"  "ui.style":"size:6px; fill-color:white; "
+an "materialization"
+cn "materialization"  "ui.label":"materialization"
+cn "materialization"  "ui.style":"size:6px; fill-color:white; "
+an "Very high frequency"
+cn "Very high frequency"  "ui.label":"Very high frequency"
+cn "Very high frequency"  "ui.style":"size:6px; fill-color:white; "
+an "leach"
+cn "leach"  "ui.label":"leach"
+cn "leach"  "ui.style":"size:6px; fill-color:white; "
+an "American English"
+cn "American English"  "ui.label":"American English"
+cn "American English"  "ui.style":"size:6px; fill-color:white; "
+an "Improved Mobile Telephone Service"
+cn "Improved Mobile Telephone Service"  "ui.label":"Improved Mobile Telephone Service"
+cn "Improved Mobile Telephone Service"  "ui.style":"size:6px; fill-color:white; "
+an "formation"
+cn "formation"  "ui.label":"formation"
+cn "formation"  "ui.style":"size:6px; fill-color:white; "
+an "Streaming media"
+cn "Streaming media"  "ui.label":"Streaming media"
+cn "Streaming media"  "ui.style":"size:6px; fill-color:white; "
+an "Federal Communications Commission"
+cn "Federal Communications Commission"  "ui.label":"Federal Communications Commission"
+cn "Federal Communications Commission"  "ui.style":"size:6px; fill-color:white; "
+an "patent"
+cn "patent"  "ui.label":"patent"
+cn "patent"  "ui.style":"size:6px; fill-color:white; "
+an "Telegraphy"
+cn "Telegraphy"  "ui.label":"Telegraphy"
+cn "Telegraphy"  "ui.style":"size:6px; fill-color:white; "
+an "network"
+cn "network"  "ui.label":"network"
+cn "network"  "ui.style":"size:6px; fill-color:white; "
+an "Telecommunication"
+cn "Telecommunication"  "ui.label":"Telecommunication"
+cn "Telecommunication"  "ui.style":"size:6px; fill-color:white; "
+an "Thesis"
+cn "Thesis"  "ui.label":"Thesis"
+cn "Thesis"  "ui.style":"size:6px; fill-color:white; "
+an "International Telecommunication Union"
+cn "International Telecommunication Union"  "ui.label":"International Telecommunication Union"
+cn "International Telecommunication Union"  "ui.style":"size:6px; fill-color:white; "
+an "Communication"
+cn "Communication"  "ui.label":"Communication"
+cn "Communication"  "ui.style":"size:6px; fill-color:white; "
+an "University"
+cn "University"  "ui.label":"University"
+cn "University"  "ui.style":"size:6px; fill-color:white; "
+an "production"
+cn "production"  "ui.label":"production"
+cn "production"  "ui.style":"size:6px; fill-color:white; "
+an "diffusion"
+cn "diffusion"  "ui.label":"diffusion"
+cn "diffusion"  "ui.style":"size:6px; fill-color:white; "
+an "air"
+cn "air"  "ui.label":"air"
+cn "air"  "ui.style":"size:6px; fill-color:white; "
+an "Microwave"
+cn "Microwave"  "ui.label":"Microwave"
+cn "Microwave"  "ui.style":"size:6px; fill-color:white; "
+an "World War II"
+cn "World War II"  "ui.label":"World War II"
+cn "World War II"  "ui.style":"size:6px; fill-color:white; "
+an "Radio broadcasting"
+cn "Radio broadcasting"  "ui.label":"Radio broadcasting"
+cn "Radio broadcasting"  "ui.style":"size:6px; fill-color:white; "
+an "Sovereign state"
+cn "Sovereign state"  "ui.label":"Sovereign state"
+cn "Sovereign state"  "ui.style":"size:6px; fill-color:white; "
+an "Screenplay"
+cn "Screenplay"  "ui.label":"Screenplay"
+cn "Screenplay"  "ui.style":"size:6px; fill-color:white; "
+an "Videotape"
+cn "Videotape"  "ui.label":"Videotape"
+cn "Videotape"  "ui.style":"size:6px; fill-color:white; "
+an "television"
+cn "television"  "ui.label":"television"
+cn "television"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "Wireless"
+cn "Wireless"  "ui.label":"Wireless"
+cn "Wireless"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "Vacuum tube"
+cn "Vacuum tube"  "ui.label":"Vacuum tube"
+cn "Vacuum tube"  "ui.style":"size:6px; fill-color:white; "
+an "Television set"
+cn "Television set"  "ui.label":"Television set"
+cn "Television set"  "ui.style":"size:6px; fill-color:white; "
+an "Tablet computer"
+cn "Tablet computer"  "ui.label":"Tablet computer"
+cn "Tablet computer"  "ui.style":"size:6px; fill-color:white; "
+an "Politics"
+cn "Politics"  "ui.label":"Politics"
+cn "Politics"  "ui.style":"size:6px; fill-color:white; "
+an "waste"
+cn "waste"  "ui.label":"waste"
+cn "waste"  "ui.style":"size:6px; fill-color:white; "
+an "Linguistics"
+cn "Linguistics"  "ui.label":"Linguistics"
+cn "Linguistics"  "ui.style":"size:6px; fill-color:white; "
+an "part"
+cn "part"  "ui.label":"part"
+cn "part"  "ui.style":"size:6px; fill-color:white; "
+ae "Mobile phone->radiotelephone" "Mobile phone"  "radiotelephone"
+ce "Mobile phone->radiotelephone"  "type":0
+ae "radiotelephone->wireless" "radiotelephone"  "wireless"
+ce "radiotelephone->wireless"  "type":0
+ae "wireless->broadcasting" "wireless"  "broadcasting"
+ce "wireless->broadcasting"  "type":0
+ae "broadcasting->medium" "broadcasting"  "medium"
+ce "broadcasting->medium"  "type":0
+ae "medium->instrumentality" "medium"  "instrumentality"
+ce "medium->instrumentality"  "type":0
+ae "instrumentality->unit" "instrumentality"  "unit"
+ce "instrumentality->unit"  "type":0
+ae "unit->definite quantity" "unit"  "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity"  "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "activity->state" "activity"  "state"
+ce "activity->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "Television->broadcasting" "Television"  "broadcasting"
+ce "Television->broadcasting"  "type":0
+ae "Television->telecommunication system" "Television"  "telecommunication system"
+ce "Television->telecommunication system"  "type":0
+ae "telecommunication system->communication system" "telecommunication system"  "communication system"
+ce "telecommunication system->communication system"  "type":0
+ae "communication system->system" "communication system"  "system"
+ce "communication system->system"  "type":0
+ae "system->instrumentality" "system"  "instrumentality"
+ce "system->instrumentality"  "type":0
+ae "system->group" "system"  "group"
+ce "system->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "maneuver->British English" "maneuver" > "British English"
+ce "maneuver->British English"  "type":8
+ae "wireless->Tablet computer" "wireless" > "Tablet computer"
+ce "wireless->Tablet computer"  "type":8
+ae "document->White paper" "document" > "White paper"
+ce "document->White paper"  "type":8
+ae "activity->materialization" "activity" > "materialization"
+ce "activity->materialization"  "type":1
+ae "Television->Federal Communications Commission" "Television" > "Federal Communications Commission"
+ce "Television->Federal Communications Commission"  "type":8
+ae "abstraction->Physics" "abstraction" > "Physics"
+ce "abstraction->Physics"  "type":8
+ae "writing->Linguistics" "writing" > "Linguistics"
+ce "writing->Linguistics"  "type":8
+ae "system->Computer science" "system" > "Computer science"
+ce "system->Computer science"  "type":8
+ae "activity->leach" "activity" > "leach"
+ce "activity->leach"  "type":1
+ae "Mobile phone->Samsung Electronics" "Mobile phone" > "Samsung Electronics"
+ce "Mobile phone->Samsung Electronics"  "type":8
+ae "maneuver->American English" "maneuver" > "American English"
+ce "maneuver->American English"  "type":8
+ae "activity->release" "activity" > "release"
+ce "activity->release"  "type":1
+ae "system->Physics" "system" > "Physics"
+ce "system->Physics"  "type":8
+ae "radiotelephone->Telegraphy" "radiotelephone" > "Telegraphy"
+ce "radiotelephone->Telegraphy"  "type":8
+ae "abstraction->Linguistics" "abstraction" > "Linguistics"
+ce "abstraction->Linguistics"  "type":8
+ae "abstraction->Computer science" "abstraction" > "Computer science"
+ce "abstraction->Computer science"  "type":8
+ae "Mobile phone->Improved Mobile Telephone Service" "Mobile phone" > "Improved Mobile Telephone Service"
+ce "Mobile phone->Improved Mobile Telephone Service"  "type":8
+ae "Television->Very high frequency" "Television" > "Very high frequency"
+ce "Television->Very high frequency"  "type":8
+ae "Mobile phone->Streaming media" "Mobile phone" > "Streaming media"
+ce "Mobile phone->Streaming media"  "type":8
+ae "act->waste" "act" > "waste"
+ce "act->waste"  "type":1
+ae "broadcasting->Wireless" "broadcasting" > "Wireless"
+ce "broadcasting->Wireless"  "type":8
+ae "medium->air" "medium" > "air"
+ce "medium->air"  "type":1
+ae "document->patent" "document" > "patent"
+ce "document->patent"  "type":1
+ae "action->diffusion" "action" > "diffusion"
+ce "action->diffusion"  "type":1
+ae "medium->state" "medium" > "state"
+ce "medium->state"  "type":0
+ae "Mobile phone->International Telecommunication Union" "Mobile phone" > "International Telecommunication Union"
+ce "Mobile phone->International Telecommunication Union"  "type":8
+ae "state->Sovereign state" "state" > "Sovereign state"
+ce "state->Sovereign state"  "type":8
+ae "medium->communication" "medium" > "communication"
+ce "medium->communication"  "type":0
+ae "abstraction->Communication" "abstraction" > "Communication"
+ce "abstraction->Communication"  "type":8
+ae "action->leach" "action" > "leach"
+ce "action->leach"  "type":1
+ae "document->communication" "document" > "communication"
+ce "document->communication"  "type":0
+ae "unit->object" "unit" > "object"
+ce "unit->object"  "type":0
+ae "object->part" "object" > "part"
+ce "object->part"  "type":1
+ae "document->Screenplay" "document" > "Screenplay"
+ce "document->Screenplay"  "type":8
+ae "unit->part" "unit" > "part"
+ce "unit->part"  "type":7
+ae "wireless->Radio broadcasting" "wireless" > "Radio broadcasting"
+ce "wireless->Radio broadcasting"  "type":8
+ae "district->Sweden" "district" > "Sweden"
+ce "district->Sweden"  "type":8
+ae "broadcasting->television" "broadcasting" > "television"
+ce "broadcasting->television"  "type":1
+ae "radiotelephone->Telecommunication" "radiotelephone" > "Telecommunication"
+ce "radiotelephone->Telecommunication"  "type":8
+ae "activity->temperature change" "activity" > "temperature change"
+ce "activity->temperature change"  "type":1
+ae "activity->succession" "activity" > "succession"
+ce "activity->succession"  "type":1
+ae "broadcasting->AM broadcasting" "broadcasting" > "AM broadcasting"
+ce "broadcasting->AM broadcasting"  "type":8
+ae "broadcasting->Vacuum tube" "broadcasting" > "Vacuum tube"
+ce "broadcasting->Vacuum tube"  "type":8
+ae "act->production" "act" > "production"
+ce "act->production"  "type":1
+ae "document->Thesis" "document" > "Thesis"
+ce "document->Thesis"  "type":8
+ae "region->Sovereign state" "region" > "Sovereign state"
+ce "region->Sovereign state"  "type":8
+ae "writing->White paper" "writing" > "White paper"
+ce "writing->White paper"  "type":8
+ae "broadcasting->Radio broadcasting" "broadcasting" > "Radio broadcasting"
+ce "broadcasting->Radio broadcasting"  "type":8
+ae "region->air" "region" > "air"
+ce "region->air"  "type":1
+ae "activity->operation" "activity" > "operation"
+ce "activity->operation"  "type":1
+ae "abstraction->measure" "abstraction" > "measure"
+ce "abstraction->measure"  "type":1
+ae "creating by mental acts->formation" "creating by mental acts" > "formation"
+ce "creating by mental acts->formation"  "type":1
+ae "Television->Vacuum tube" "Television" > "Vacuum tube"
+ce "Television->Vacuum tube"  "type":8
+ae "action->temperature change" "action" > "temperature change"
+ce "action->temperature change"  "type":1
+ae "wireless->Microwave" "wireless" > "Microwave"
+ce "wireless->Microwave"  "type":8
+ae "Television->Sweden" "Television" > "Sweden"
+ce "Television->Sweden"  "type":8
+ae "location->activity" "location" > "activity"
+ce "location->activity"  "type":0
+ae "activity->formation" "activity" > "formation"
+ce "activity->formation"  "type":1
+ae "creation->production" "creation" > "production"
+ce "creation->production"  "type":1
+ae "Television->Television set" "Television" > "Television set"
+ce "Television->Television set"  "type":8
+ae "Television->Transmission (telecommunications)" "Television" > "Transmission (telecommunications)"
+ce "Television->Transmission (telecommunications)"  "type":8
+ae "Television->World War II" "Television" > "World War II"
+ce "Television->World War II"  "type":8
+ae "Mobile phone->Microwave" "Mobile phone" > "Microwave"
+ce "Mobile phone->Microwave"  "type":8
+ae "action->succession" "action" > "succession"
+ce "action->succession"  "type":1
+ae "broadcasting->University" "broadcasting" > "University"
+ce "broadcasting->University"  "type":8
+ae "state->representation" "state" > "representation"
+ce "state->representation"  "type":1
+ae "system->network" "system" > "network"
+ce "system->network"  "type":1
+ae "Television->Wireless" "Television" > "Wireless"
+ce "Television->Wireless"  "type":8
+ae "document->Tablet computer" "document" > "Tablet computer"
+ce "document->Tablet computer"  "type":8
+ae "region->World War II" "region" > "World War II"
+ce "region->World War II"  "type":8
+ae "broadcasting->World War II" "broadcasting" > "World War II"
+ce "broadcasting->World War II"  "type":8
+ae "wireless->Telecommunication" "wireless" > "Telecommunication"
+ce "wireless->Telecommunication"  "type":8
+ae "district->County" "district" > "County"
+ce "district->County"  "type":8
+ae "Television->British English" "Television" > "British English"
+ce "Television->British English"  "type":8
+ae "Television->American English" "Television" > "American English"
+ce "Television->American English"  "type":8
+ae "broadcasting->Screenplay" "broadcasting" > "Screenplay"
+ce "broadcasting->Screenplay"  "type":8
+ae "Television->Streaming media" "Television" > "Streaming media"
+ce "Television->Streaming media"  "type":8
+ae "broadcasting->Videotape" "broadcasting" > "Videotape"
+ce "broadcasting->Videotape"  "type":8
+ae "document->Politics" "document" > "Politics"
+ce "document->Politics"  "type":8
+ae "wireless->communication system" "wireless" > "communication system"
+ce "wireless->communication system"  "type":0
+ae "writing->Communication" "writing" > "Communication"
+ce "writing->Communication"  "type":8
+ae "action->formation" "action" > "formation"
+ce "action->formation"  "type":1
+ae "region->Politics" "region" > "Politics"
+ce "region->Politics"  "type":8
+ae "action->release" "action" > "release"
+ce "action->release"  "type":1
+ae "Television->Telegraphy" "Television" > "Telegraphy"
+ce "Television->Telegraphy"  "type":8
+ae "radiotelephone->AM broadcasting" "radiotelephone" > "AM broadcasting"
+ce "radiotelephone->AM broadcasting"  "type":8
+ae "telecommunication system->television" "telecommunication system" > "television"
+ce "telecommunication system->television"  "type":1
+ae "act->Thesis" "act" > "Thesis"
+ce "act->Thesis"  "type":8
+ae "activity->waste" "activity" > "waste"
+ce "activity->waste"  "type":1
+ae "Television->Samsung Electronics" "Television" > "Samsung Electronics"
+ce "Television->Samsung Electronics"  "type":8
+ae "activity->representation" "activity" > "representation"
+ce "activity->representation"  "type":1
+ae "radiotelephone->Transmission (telecommunications)" "radiotelephone" > "Transmission (telecommunications)"
+ce "radiotelephone->Transmission (telecommunications)"  "type":8
+ae "broadcasting->Microwave" "broadcasting" > "Microwave"
+ce "broadcasting->Microwave"  "type":8
+ae "Television->International Telecommunication Union" "Television" > "International Telecommunication Union"
+ce "Television->International Telecommunication Union"  "type":8
+ae "region->County" "region" > "County"
+ce "region->County"  "type":8
+ae "communication system->network" "communication system" > "network"
+ce "communication system->network"  "type":1
+ae "state->medium" "state" > "medium"
+ce "state->medium"  "type":1
+ae "radiotelephone->Very high frequency" "radiotelephone" > "Very high frequency"
+ce "radiotelephone->Very high frequency"  "type":8
+ae "Television->Videotape" "Television" > "Videotape"
+ce "Television->Videotape"  "type":8
+ae "broadcasting->Television set" "broadcasting" > "Television set"
+ce "broadcasting->Television set"  "type":8
+ae "activity->diffusion" "activity" > "diffusion"
+ce "activity->diffusion"  "type":1
+ae "radiotelephone->Improved Mobile Telephone Service" "radiotelephone" > "Improved Mobile Telephone Service"
+ce "radiotelephone->Improved Mobile Telephone Service"  "type":8
+ae "writing->activity" "writing" > "activity"
+ce "writing->activity"  "type":0
+ae "legal document->patent" "legal document" > "patent"
+ce "legal document->patent"  "type":1
+ae "radiotelephone->Federal Communications Commission" "radiotelephone" > "Federal Communications Commission"
+ce "radiotelephone->Federal Communications Commission"  "type":8
+ae "district->University" "district" > "University"
+ce "district->University"  "type":8
+ae "Television->Mobile phone" "Television" > "Mobile phone"
+ce "Television->Mobile phone"  "type":8
+ae "action->materialization" "action" > "materialization"
+ce "action->materialization"  "type":1

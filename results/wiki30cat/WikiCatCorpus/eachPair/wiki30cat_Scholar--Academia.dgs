@@ -1,0 +1,17 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Scholar"
+cn "Scholar"  "ui.label":"Scholar"
+cn "Scholar"  "ui.style":"size-mode:fit;"
+an "Academia"
+cn "Academia"  "ui.label":"Academia"
+cn "Academia"  "ui.style":"size-mode:fit;"
+an "Education"
+cn "Education"  "ui.label":"Education"
+cn "Education"  "ui.style":"size:6px; fill-color:white; "
+an "Main_topic_classifications"
+ae "Academia->Education" "Academia"  "Education"
+ce "Academia->Education"  "type":0
+ae "Education->Main_topic_classifications" "Education"  "Main_topic_classifications"
+ce "Education->Main_topic_classifications"  "type":0

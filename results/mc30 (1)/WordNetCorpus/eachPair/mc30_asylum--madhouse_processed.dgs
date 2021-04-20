@@ -1,0 +1,111 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "asylum"
+cn "asylum"  "ui.label":"asylum"
+cn "asylum"  "ui.style":"size-mode:fit;"
+an "shelter"
+cn "shelter"  "ui.label":"shelter"
+cn "shelter"  "ui.style":"size:6px; fill-color:white; "
+an "structure"
+cn "structure"  "ui.label":"structure"
+cn "structure"  "ui.style":"size:6px; fill-color:white; "
+an "artifact"
+cn "artifact"  "ui.label":"artifact"
+cn "artifact"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "sum"
+cn "sum"  "ui.label":"sum"
+cn "sum"  "ui.style":"size:6px; fill-color:white; "
+an "madhouse"
+cn "madhouse"  "ui.label":"madhouse"
+cn "madhouse"  "ui.style":"size-mode:fit;"
+an "mental hospital"
+cn "mental hospital"  "ui.label":"mental hospital"
+cn "mental hospital"  "ui.style":"size:6px; fill-color:white; "
+an "hospital"
+cn "hospital"  "ui.label":"hospital"
+cn "hospital"  "ui.style":"size:6px; fill-color:white; "
+an "medical building"
+cn "medical building"  "ui.label":"medical building"
+cn "medical building"  "ui.style":"size:6px; fill-color:white; "
+an "building"
+cn "building"  "ui.label":"building"
+cn "building"  "ui.style":"size:6px; fill-color:white; "
+an "arrangement"
+cn "arrangement"  "ui.label":"arrangement"
+cn "arrangement"  "ui.style":"size:6px; fill-color:white; "
+an "part"
+cn "part"  "ui.label":"part"
+cn "part"  "ui.style":"size:6px; fill-color:white; "
+an "law"
+cn "law"  "ui.label":"law"
+cn "law"  "ui.style":"size:6px; fill-color:white; "
+ae "asylum->shelter" "asylum"  "shelter"
+ce "asylum->shelter"  "type":0
+ae "shelter->structure" "shelter"  "structure"
+ce "shelter->structure"  "type":0
+ae "structure->artifact" "structure"  "artifact"
+ce "structure->artifact"  "type":0
+ae "artifact->whole" "artifact"  "whole"
+ce "artifact->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "structure->arrangement" "structure" > "arrangement"
+ce "structure->arrangement"  "type":1
+ae "madhouse->mental hospital" "madhouse"  "mental hospital"
+ce "madhouse->mental hospital"  "type":0
+ae "mental hospital->hospital" "mental hospital"  "hospital"
+ce "mental hospital->hospital"  "type":0
+ae "hospital->medical building" "hospital"  "medical building"
+ce "hospital->medical building"  "type":0
+ae "medical building->building" "medical building"  "building"
+ce "medical building->building"  "type":0
+ae "building->structure" "building"  "structure"
+ce "building->structure"  "type":0
+ae "collection->sum" "collection" > "sum"
+ce "collection->sum"  "type":1
+ae "group->arrangement" "group" > "arrangement"
+ce "group->arrangement"  "type":1
+ae "whole->part" "whole" > "part"
+ce "whole->part"  "type":7
+ae "concept->part" "concept" > "part"
+ce "concept->part"  "type":1
+ae "abstraction->concept" "abstraction" > "concept"
+ce "abstraction->concept"  "type":0
+ae "collection->law" "collection" > "law"
+ce "collection->law"  "type":1
+ae "concept->law" "concept" > "law"
+ce "concept->law"  "type":1
+ae "whole->sum" "whole" > "sum"
+ce "whole->sum"  "type":1

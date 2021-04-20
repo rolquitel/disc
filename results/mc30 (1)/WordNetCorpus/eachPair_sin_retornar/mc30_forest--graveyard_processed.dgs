@@ -1,0 +1,96 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "forest"
+cn "forest"  "ui.label":"forest"
+cn "forest"  "ui.style":"size-mode:fit;"
+an "vegetation"
+cn "vegetation"  "ui.label":"vegetation"
+cn "vegetation"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "graveyard"
+cn "graveyard"  "ui.label":"graveyard"
+cn "graveyard"  "ui.style":"size-mode:fit;"
+an "site"
+cn "site"  "ui.label":"site"
+cn "site"  "ui.style":"size:6px; fill-color:white; "
+an "tract"
+cn "tract"  "ui.label":"tract"
+cn "tract"  "ui.style":"size:6px; fill-color:white; "
+an "geographical area"
+cn "geographical area"  "ui.label":"geographical area"
+cn "geographical area"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "point"
+cn "point"  "ui.label":"point"
+cn "point"  "ui.style":"size:6px; fill-color:white; "
+an "field"
+cn "field"  "ui.label":"field"
+cn "field"  "ui.style":"size:6px; fill-color:white; "
+an "set"
+cn "set"  "ui.label":"set"
+cn "set"  "ui.style":"size:6px; fill-color:white; "
+ae "forest->vegetation" "forest"  "vegetation"
+ce "forest->vegetation"  "type":0
+ae "vegetation->collection" "vegetation"  "collection"
+ce "vegetation->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "graveyard->site" "graveyard"  "site"
+ce "graveyard->site"  "type":0
+ae "site->tract" "site"  "tract"
+ce "site->tract"  "type":0
+ae "tract->geographical area" "tract"  "geographical area"
+ce "tract->geographical area"  "type":0
+ae "geographical area->region" "geographical area"  "region"
+ce "geographical area->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "location->point" "location" > "point"
+ce "location->point"  "type":1
+ae "location->set" "location" > "set"
+ce "location->set"  "type":1
+ae "geographical area->field" "geographical area" > "field"
+ce "geographical area->field"  "type":1
+ae "collection->set" "collection" > "set"
+ce "collection->set"  "type":1
+ae "region->field" "region" > "field"
+ce "region->field"  "type":1
+ae "object->point" "object" > "point"
+ce "object->point"  "type":1
+ae "tract->field" "tract" > "field"
+ce "tract->field"  "type":1
+ae "abstraction->set" "abstraction" > "set"
+ce "abstraction->set"  "type":1

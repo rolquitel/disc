@@ -1,0 +1,1592 @@
+DGS004
+null 0 0
+an "Religion"
+cn "Religion"  "ui.label":"Religion"
+cn "Religion"  "ui.style":"size-mode:fit;"
+an "belief"
+cn "belief"  "ui.label":"belief"
+cn "belief"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Monk"
+cn "Monk"  "ui.label":"Monk"
+cn "Monk"  "ui.style":"size-mode:fit;"
+an "religious"
+cn "religious"  "ui.label":"religious"
+cn "religious"  "ui.style":"size:6px; fill-color:white; "
+an "religious person"
+cn "religious person"  "ui.label":"religious person"
+cn "religious person"  "ui.style":"size:6px; fill-color:white; "
+an "person"
+cn "person"  "ui.label":"person"
+cn "person"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "purpose"
+cn "purpose"  "ui.label":"purpose"
+cn "purpose"  "ui.style":"size:6px; fill-color:white; "
+an "goal"
+cn "goal"  "ui.label":"goal"
+cn "goal"  "ui.style":"size:6px; fill-color:white; "
+an "end"
+cn "end"  "ui.label":"end"
+cn "end"  "ui.style":"size:6px; fill-color:white; "
+an "extremity"
+cn "extremity"  "ui.label":"extremity"
+cn "extremity"  "ui.style":"size:6px; fill-color:white; "
+an "external body part"
+cn "external body part"  "ui.label":"external body part"
+cn "external body part"  "ui.style":"size:6px; fill-color:white; "
+an "body part"
+cn "body part"  "ui.label":"body part"
+cn "body part"  "ui.style":"size:6px; fill-color:white; "
+an "part"
+cn "part"  "ui.label":"part"
+cn "part"  "ui.style":"size:6px; fill-color:white; "
+an "relation"
+cn "relation"  "ui.label":"relation"
+cn "relation"  "ui.style":"size:6px; fill-color:white; "
+an "sexual activity"
+cn "sexual activity"  "ui.label":"sexual activity"
+cn "sexual activity"  "ui.style":"size:6px; fill-color:white; "
+an "bodily process"
+cn "bodily process"  "ui.label":"bodily process"
+cn "bodily process"  "ui.style":"size:6px; fill-color:white; "
+an "organic process"
+cn "organic process"  "ui.label":"organic process"
+cn "organic process"  "ui.style":"size:6px; fill-color:white; "
+an "process"
+cn "process"  "ui.label":"process"
+cn "process"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "artifact"
+cn "artifact"  "ui.label":"artifact"
+cn "artifact"  "ui.style":"size:6px; fill-color:white; "
+an "article"
+cn "article"  "ui.label":"article"
+cn "article"  "ui.style":"size:6px; fill-color:white; "
+an "nonfiction"
+cn "nonfiction"  "ui.label":"nonfiction"
+cn "nonfiction"  "ui.style":"size:6px; fill-color:white; "
+an "prose"
+cn "prose"  "ui.label":"prose"
+cn "prose"  "ui.style":"size:6px; fill-color:white; "
+an "writing style"
+cn "writing style"  "ui.label":"writing style"
+cn "writing style"  "ui.style":"size:6px; fill-color:white; "
+an "expressive style"
+cn "expressive style"  "ui.label":"expressive style"
+cn "expressive style"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "connection"
+cn "connection"  "ui.label":"connection"
+cn "connection"  "ui.style":"size:6px; fill-color:white; "
+an "union"
+cn "union"  "ui.label":"union"
+cn "union"  "ui.style":"size:6px; fill-color:white; "
+an "organization"
+cn "organization"  "ui.label":"organization"
+cn "organization"  "ui.style":"size:6px; fill-color:white; "
+an "social group"
+cn "social group"  "ui.label":"social group"
+cn "social group"  "ui.style":"size:6px; fill-color:white; "
+an "body"
+cn "body"  "ui.label":"body"
+cn "body"  "ui.style":"size:6px; fill-color:white; "
+an "natural object"
+cn "natural object"  "ui.label":"natural object"
+cn "natural object"  "ui.style":"size:6px; fill-color:white; "
+an "cocoon"
+cn "cocoon"  "ui.label":"cocoon"
+cn "cocoon"  "ui.style":"size:6px; fill-color:white; "
+an "Pupa"
+cn "Pupa"  "ui.label":"Pupa"
+cn "Pupa"  "ui.style":"size:6px; fill-color:white; "
+an "insect"
+cn "insect"  "ui.label":"insect"
+cn "insect"  "ui.style":"size:6px; fill-color:white; "
+an "arthropod"
+cn "arthropod"  "ui.label":"arthropod"
+cn "arthropod"  "ui.style":"size:6px; fill-color:white; "
+an "invertebrate"
+cn "invertebrate"  "ui.label":"invertebrate"
+cn "invertebrate"  "ui.style":"size:6px; fill-color:white; "
+an "animal"
+cn "animal"  "ui.label":"animal"
+cn "animal"  "ui.style":"size:6px; fill-color:white; "
+an "pest"
+cn "pest"  "ui.label":"pest"
+cn "pest"  "ui.style":"size:6px; fill-color:white; "
+an "epidemic disease"
+cn "epidemic disease"  "ui.label":"epidemic disease"
+cn "epidemic disease"  "ui.style":"size:6px; fill-color:white; "
+an "infectious disease"
+cn "infectious disease"  "ui.label":"infectious disease"
+cn "infectious disease"  "ui.style":"size:6px; fill-color:white; "
+an "communicable disease"
+cn "communicable disease"  "ui.label":"communicable disease"
+cn "communicable disease"  "ui.style":"size:6px; fill-color:white; "
+an "disease"
+cn "disease"  "ui.label":"disease"
+cn "disease"  "ui.style":"size:6px; fill-color:white; "
+an "illness"
+cn "illness"  "ui.label":"illness"
+cn "illness"  "ui.style":"size:6px; fill-color:white; "
+an "ill health"
+cn "ill health"  "ui.label":"ill health"
+cn "ill health"  "ui.style":"size:6px; fill-color:white; "
+an "pathological state"
+cn "pathological state"  "ui.label":"pathological state"
+cn "pathological state"  "ui.style":"size:6px; fill-color:white; "
+an "physical condition"
+cn "physical condition"  "ui.label":"physical condition"
+cn "physical condition"  "ui.style":"size:6px; fill-color:white; "
+an "condition"
+cn "condition"  "ui.label":"condition"
+cn "condition"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "play"
+cn "play"  "ui.label":"play"
+cn "play"  "ui.style":"size:6px; fill-color:white; "
+an "association"
+cn "association"  "ui.label":"association"
+cn "association"  "ui.style":"size:6px; fill-color:white; "
+an "ownership"
+cn "ownership"  "ui.label":"ownership"
+cn "ownership"  "ui.style":"size:6px; fill-color:white; "
+an "Mitosis"
+cn "Mitosis"  "ui.label":"Mitosis"
+cn "Mitosis"  "ui.style":"size:6px; fill-color:white; "
+an "law"
+cn "law"  "ui.label":"law"
+cn "law"  "ui.style":"size:6px; fill-color:white; "
+an "Abdomen"
+cn "Abdomen"  "ui.label":"Abdomen"
+cn "Abdomen"  "ui.style":"size:6px; fill-color:white; "
+an "Brachiopod"
+cn "Brachiopod"  "ui.label":"Brachiopod"
+cn "Brachiopod"  "ui.style":"size:6px; fill-color:white; "
+an "set"
+cn "set"  "ui.label":"set"
+cn "set"  "ui.style":"size:6px; fill-color:white; "
+an "possession"
+cn "possession"  "ui.label":"possession"
+cn "possession"  "ui.style":"size:6px; fill-color:white; "
+an "Tardigrade"
+cn "Tardigrade"  "ui.label":"Tardigrade"
+cn "Tardigrade"  "ui.style":"size:6px; fill-color:white; "
+an "congregation"
+cn "congregation"  "ui.label":"congregation"
+cn "congregation"  "ui.style":"size:6px; fill-color:white; "
+an "Archaea"
+cn "Archaea"  "ui.label":"Archaea"
+cn "Archaea"  "ui.style":"size:6px; fill-color:white; "
+an "written communication"
+cn "written communication"  "ui.label":"written communication"
+cn "written communication"  "ui.style":"size:6px; fill-color:white; "
+an "Diffusion"
+cn "Diffusion"  "ui.label":"Diffusion"
+cn "Diffusion"  "ui.style":"size:6px; fill-color:white; "
+an "Convergent evolution"
+cn "Convergent evolution"  "ui.label":"Convergent evolution"
+cn "Convergent evolution"  "ui.style":"size:6px; fill-color:white; "
+an "Morality"
+cn "Morality"  "ui.label":"Morality"
+cn "Morality"  "ui.style":"size:6px; fill-color:white; "
+an "Heliconius"
+cn "Heliconius"  "ui.label":"Heliconius"
+cn "Heliconius"  "ui.style":"size:6px; fill-color:white; "
+an "Artery"
+cn "Artery"  "ui.label":"Artery"
+cn "Artery"  "ui.style":"size:6px; fill-color:white; "
+an "Malaria"
+cn "Malaria"  "ui.label":"Malaria"
+cn "Malaria"  "ui.style":"size:6px; fill-color:white; "
+an "Wiley (publisher)"
+cn "Wiley (publisher)"  "ui.label":"Wiley (publisher)"
+cn "Wiley (publisher)"  "ui.style":"size:6px; fill-color:white; "
+an "atmosphere"
+cn "atmosphere"  "ui.label":"atmosphere"
+cn "atmosphere"  "ui.style":"size:6px; fill-color:white; "
+an "population"
+cn "population"  "ui.label":"population"
+cn "population"  "ui.style":"size:6px; fill-color:white; "
+an "good health"
+cn "good health"  "ui.label":"good health"
+cn "good health"  "ui.style":"size:6px; fill-color:white; "
+an "Prayer"
+cn "Prayer"  "ui.label":"Prayer"
+cn "Prayer"  "ui.style":"size:6px; fill-color:white; "
+an "Mosquito"
+cn "Mosquito"  "ui.label":"Mosquito"
+cn "Mosquito"  "ui.style":"size:6px; fill-color:white; "
+an "tune"
+cn "tune"  "ui.label":"tune"
+cn "tune"  "ui.style":"size:6px; fill-color:white; "
+an "limb"
+cn "limb"  "ui.label":"limb"
+cn "limb"  "ui.style":"size:6px; fill-color:white; "
+an "surface"
+cn "surface"  "ui.label":"surface"
+cn "surface"  "ui.style":"size:6px; fill-color:white; "
+an "Larva"
+cn "Larva"  "ui.label":"Larva"
+cn "Larva"  "ui.style":"size:6px; fill-color:white; "
+an "Burgess Shale"
+cn "Burgess Shale"  "ui.label":"Burgess Shale"
+cn "Burgess Shale"  "ui.style":"size:6px; fill-color:white; "
+an "medium"
+cn "medium"  "ui.label":"medium"
+cn "medium"  "ui.style":"size:6px; fill-color:white; "
+an "head"
+cn "head"  "ui.label":"head"
+cn "head"  "ui.style":"size:6px; fill-color:white; "
+an "euphuism"
+cn "euphuism"  "ui.label":"euphuism"
+cn "euphuism"  "ui.style":"size:6px; fill-color:white; "
+an "Holometabolism"
+cn "Holometabolism"  "ui.label":"Holometabolism"
+cn "Holometabolism"  "ui.style":"size:6px; fill-color:white; "
+an "Blood"
+cn "Blood"  "ui.label":"Blood"
+cn "Blood"  "ui.style":"size:6px; fill-color:white; "
+an "Spoken language"
+cn "Spoken language"  "ui.label":"Spoken language"
+cn "Spoken language"  "ui.style":"size:6px; fill-color:white; "
+an "lacrimation"
+cn "lacrimation"  "ui.label":"lacrimation"
+cn "lacrimation"  "ui.style":"size:6px; fill-color:white; "
+an "Kingdom (biology)"
+cn "Kingdom (biology)"  "ui.label":"Kingdom (biology)"
+cn "Kingdom (biology)"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "kingdom"
+cn "kingdom"  "ui.label":"kingdom"
+cn "kingdom"  "ui.style":"size:6px; fill-color:white; "
+an "Structure"
+cn "Structure"  "ui.label":"Structure"
+cn "Structure"  "ui.style":"size:6px; fill-color:white; "
+an "area"
+cn "area"  "ui.label":"area"
+cn "area"  "ui.style":"size:6px; fill-color:white; "
+an "system"
+cn "system"  "ui.label":"system"
+cn "system"  "ui.style":"size:6px; fill-color:white; "
+an "Richard Dawkins"
+cn "Richard Dawkins"  "ui.label":"Richard Dawkins"
+cn "Richard Dawkins"  "ui.style":"size:6px; fill-color:white; "
+an "Semantics"
+cn "Semantics"  "ui.label":"Semantics"
+cn "Semantics"  "ui.style":"size:6px; fill-color:white; "
+an "Cephalocarida"
+cn "Cephalocarida"  "ui.label":"Cephalocarida"
+cn "Cephalocarida"  "ui.style":"size:6px; fill-color:white; "
+an "Myth"
+cn "Myth"  "ui.label":"Myth"
+cn "Myth"  "ui.style":"size:6px; fill-color:white; "
+an "cognition"
+cn "cognition"  "ui.label":"cognition"
+cn "cognition"  "ui.style":"size:6px; fill-color:white; "
+an "Man"
+cn "Man"  "ui.label":"Man"
+cn "Man"  "ui.style":"size:6px; fill-color:white; "
+an "Bivalvia"
+cn "Bivalvia"  "ui.label":"Bivalvia"
+cn "Bivalvia"  "ui.style":"size:6px; fill-color:white; "
+an "Anus"
+cn "Anus"  "ui.label":"Anus"
+cn "Anus"  "ui.style":"size:6px; fill-color:white; "
+an "Ancient Egypt"
+cn "Ancient Egypt"  "ui.label":"Ancient Egypt"
+cn "Ancient Egypt"  "ui.style":"size:6px; fill-color:white; "
+an "Max Weber"
+cn "Max Weber"  "ui.label":"Max Weber"
+cn "Max Weber"  "ui.style":"size:6px; fill-color:white; "
+an "Phylum"
+cn "Phylum"  "ui.label":"Phylum"
+cn "Phylum"  "ui.style":"size:6px; fill-color:white; "
+an "Military"
+cn "Military"  "ui.label":"Military"
+cn "Military"  "ui.style":"size:6px; fill-color:white; "
+an "Idea"
+cn "Idea"  "ui.label":"Idea"
+cn "Idea"  "ui.style":"size:6px; fill-color:white; "
+an "ward"
+cn "ward"  "ui.label":"ward"
+cn "ward"  "ui.style":"size:6px; fill-color:white; "
+an "Flatworm"
+cn "Flatworm"  "ui.label":"Flatworm"
+cn "Flatworm"  "ui.style":"size:6px; fill-color:white; "
+an "thorax"
+cn "thorax"  "ui.label":"thorax"
+cn "thorax"  "ui.style":"size:6px; fill-color:white; "
+an "hip"
+cn "hip"  "ui.label":"hip"
+cn "hip"  "ui.style":"size:6px; fill-color:white; "
+an "Sociology"
+cn "Sociology"  "ui.label":"Sociology"
+cn "Sociology"  "ui.style":"size:6px; fill-color:white; "
+an "Mission statement"
+cn "Mission statement"  "ui.label":"Mission statement"
+cn "Mission statement"  "ui.style":"size:6px; fill-color:white; "
+an "Politics"
+cn "Politics"  "ui.label":"Politics"
+cn "Politics"  "ui.style":"size:6px; fill-color:white; "
+an "Sea spider"
+cn "Sea spider"  "ui.label":"Sea spider"
+cn "Sea spider"  "ui.style":"size:6px; fill-color:white; "
+an "Artificial intelligence"
+cn "Artificial intelligence"  "ui.label":"Artificial intelligence"
+cn "Artificial intelligence"  "ui.style":"size:6px; fill-color:white; "
+an "abdomen"
+cn "abdomen"  "ui.label":"abdomen"
+cn "abdomen"  "ui.style":"size:6px; fill-color:white; "
+an "Bible"
+cn "Bible"  "ui.label":"Bible"
+cn "Bible"  "ui.style":"size:6px; fill-color:white; "
+an "Metaphysics"
+cn "Metaphysics"  "ui.label":"Metaphysics"
+cn "Metaphysics"  "ui.style":"size:6px; fill-color:white; "
+an "Coelom"
+cn "Coelom"  "ui.label":"Coelom"
+cn "Coelom"  "ui.style":"size:6px; fill-color:white; "
+an "Science (journal)"
+cn "Science (journal)"  "ui.label":"Science (journal)"
+cn "Science (journal)"  "ui.style":"size:6px; fill-color:white; "
+an "Creation myth"
+cn "Creation myth"  "ui.label":"Creation myth"
+cn "Creation myth"  "ui.style":"size:6px; fill-color:white; "
+an "Sexual reproduction"
+cn "Sexual reproduction"  "ui.label":"Sexual reproduction"
+cn "Sexual reproduction"  "ui.style":"size:6px; fill-color:white; "
+an "Carl Linnaeus"
+cn "Carl Linnaeus"  "ui.label":"Carl Linnaeus"
+cn "Carl Linnaeus"  "ui.style":"size:6px; fill-color:white; "
+an "Water"
+cn "Water"  "ui.label":"Water"
+cn "Water"  "ui.style":"size:6px; fill-color:white; "
+an "Corporate group"
+cn "Corporate group"  "ui.label":"Corporate group"
+cn "Corporate group"  "ui.style":"size:6px; fill-color:white; "
+an "Identity (social science)"
+cn "Identity (social science)"  "ui.label":"Identity (social science)"
+cn "Identity (social science)"  "ui.style":"size:6px; fill-color:white; "
+an "Intention"
+cn "Intention"  "ui.label":"Intention"
+cn "Intention"  "ui.style":"size:6px; fill-color:white; "
+an "Arthropod"
+cn "Arthropod"  "ui.label":"Arthropod"
+cn "Arthropod"  "ui.style":"size:6px; fill-color:white; "
+an "Alphabet"
+cn "Alphabet"  "ui.label":"Alphabet"
+cn "Alphabet"  "ui.style":"size:6px; fill-color:white; "
+an "Head"
+cn "Head"  "ui.label":"Head"
+cn "Head"  "ui.style":"size:6px; fill-color:white; "
+an "end-all"
+cn "end-all"  "ui.label":"end-all"
+cn "end-all"  "ui.style":"size:6px; fill-color:white; "
+an "bourn"
+cn "bourn"  "ui.label":"bourn"
+cn "bourn"  "ui.style":"size:6px; fill-color:white; "
+an "aim"
+cn "aim"  "ui.label":"aim"
+cn "aim"  "ui.style":"size:6px; fill-color:white; "
+an "Reform Judaism"
+cn "Reform Judaism"  "ui.label":"Reform Judaism"
+cn "Reform Judaism"  "ui.style":"size:6px; fill-color:white; "
+an "Evolution"
+cn "Evolution"  "ui.label":"Evolution"
+cn "Evolution"  "ui.style":"size:6px; fill-color:white; "
+an "cleavage"
+cn "cleavage"  "ui.label":"cleavage"
+cn "cleavage"  "ui.style":"size:6px; fill-color:white; "
+an "Herbivore"
+cn "Herbivore"  "ui.label":"Herbivore"
+cn "Herbivore"  "ui.style":"size:6px; fill-color:white; "
+an "Abstract and concrete"
+cn "Abstract and concrete"  "ui.label":"Abstract and concrete"
+cn "Abstract and concrete"  "ui.style":"size:6px; fill-color:white; "
+an "Body plan"
+cn "Body plan"  "ui.label":"Body plan"
+cn "Body plan"  "ui.style":"size:6px; fill-color:white; "
+an "Crustacean"
+cn "Crustacean"  "ui.label":"Crustacean"
+cn "Crustacean"  "ui.style":"size:6px; fill-color:white; "
+an "Experiment"
+cn "Experiment"  "ui.label":"Experiment"
+cn "Experiment"  "ui.style":"size:6px; fill-color:white; "
+an "Religious denomination"
+cn "Religious denomination"  "ui.label":"Religious denomination"
+cn "Religious denomination"  "ui.style":"size:6px; fill-color:white; "
+an "line"
+cn "line"  "ui.label":"line"
+cn "line"  "ui.style":"size:6px; fill-color:white; "
+an "Ludwig Wittgenstein"
+cn "Ludwig Wittgenstein"  "ui.label":"Ludwig Wittgenstein"
+cn "Ludwig Wittgenstein"  "ui.style":"size:6px; fill-color:white; "
+an "Ethology"
+cn "Ethology"  "ui.label":"Ethology"
+cn "Ethology"  "ui.style":"size:6px; fill-color:white; "
+an "Basal (phylogenetics)"
+cn "Basal (phylogenetics)"  "ui.label":"Basal (phylogenetics)"
+cn "Basal (phylogenetics)"  "ui.style":"size:6px; fill-color:white; "
+an "worker"
+cn "worker"  "ui.label":"worker"
+cn "worker"  "ui.style":"size:6px; fill-color:white; "
+an "Jean-Baptiste Lamarck"
+cn "Jean-Baptiste Lamarck"  "ui.label":"Jean-Baptiste Lamarck"
+cn "Jean-Baptiste Lamarck"  "ui.style":"size:6px; fill-color:white; "
+an "Legal person"
+cn "Legal person"  "ui.label":"Legal person"
+cn "Legal person"  "ui.style":"size:6px; fill-color:white; "
+an "Physical object"
+cn "Physical object"  "ui.label":"Physical object"
+cn "Physical object"  "ui.style":"size:6px; fill-color:white; "
+an "Neuron"
+cn "Neuron"  "ui.label":"Neuron"
+cn "Neuron"  "ui.style":"size:6px; fill-color:white; "
+an "Biology"
+cn "Biology"  "ui.label":"Biology"
+cn "Biology"  "ui.style":"size:6px; fill-color:white; "
+an "Diagnostic and Statistical Manual of Mental Disorders"
+cn "Diagnostic and Statistical Manual of Mental Disorders"  "ui.label":"Diagnostic and Statistical Manual of Mental Disorders"
+cn "Diagnostic and Statistical Manual of Mental Disorders"  "ui.style":"size:6px; fill-color:white; "
+an "Psychiatry"
+cn "Psychiatry"  "ui.label":"Psychiatry"
+cn "Psychiatry"  "ui.style":"size:6px; fill-color:white; "
+an "Perception"
+cn "Perception"  "ui.label":"Perception"
+cn "Perception"  "ui.style":"size:6px; fill-color:white; "
+an "transpiration"
+cn "transpiration"  "ui.label":"transpiration"
+cn "transpiration"  "ui.style":"size:6px; fill-color:white; "
+an "Hierarchy"
+cn "Hierarchy"  "ui.label":"Hierarchy"
+cn "Hierarchy"  "ui.style":"size:6px; fill-color:white; "
+an "Sovereign state"
+cn "Sovereign state"  "ui.label":"Sovereign state"
+cn "Sovereign state"  "ui.style":"size:6px; fill-color:white; "
+an "County"
+cn "County"  "ui.label":"County"
+cn "County"  "ui.style":"size:6px; fill-color:white; "
+an "Goal"
+cn "Goal"  "ui.label":"Goal"
+cn "Goal"  "ui.style":"size:6px; fill-color:white; "
+an "Respiratory system"
+cn "Respiratory system"  "ui.label":"Respiratory system"
+cn "Respiratory system"  "ui.style":"size:6px; fill-color:white; "
+an "Organ (anatomy)"
+cn "Organ (anatomy)"  "ui.label":"Organ (anatomy)"
+cn "Organ (anatomy)"  "ui.style":"size:6px; fill-color:white; "
+an "Social issue"
+cn "Social issue"  "ui.label":"Social issue"
+cn "Social issue"  "ui.style":"size:6px; fill-color:white; "
+an "Communication"
+cn "Communication"  "ui.label":"Communication"
+cn "Communication"  "ui.style":"size:6px; fill-color:white; "
+an "Onychophora"
+cn "Onychophora"  "ui.label":"Onychophora"
+cn "Onychophora"  "ui.style":"size:6px; fill-color:white; "
+an "Carbon dioxide"
+cn "Carbon dioxide"  "ui.label":"Carbon dioxide"
+cn "Carbon dioxide"  "ui.style":"size:6px; fill-color:white; "
+an "Excretion"
+cn "Excretion"  "ui.label":"Excretion"
+cn "Excretion"  "ui.style":"size:6px; fill-color:white; "
+an "Computer science"
+cn "Computer science"  "ui.label":"Computer science"
+cn "Computer science"  "ui.style":"size:6px; fill-color:white; "
+an "Papyrus"
+cn "Papyrus"  "ui.label":"Papyrus"
+cn "Papyrus"  "ui.style":"size:6px; fill-color:white; "
+an "Eusociality"
+cn "Eusociality"  "ui.label":"Eusociality"
+cn "Eusociality"  "ui.style":"size:6px; fill-color:white; "
+an "Linguistics"
+cn "Linguistics"  "ui.label":"Linguistics"
+cn "Linguistics"  "ui.style":"size:6px; fill-color:white; "
+an "piece"
+cn "piece"  "ui.label":"piece"
+cn "piece"  "ui.style":"size:6px; fill-color:white; "
+an "Plato"
+cn "Plato"  "ui.label":"Plato"
+cn "Plato"  "ui.style":"size:6px; fill-color:white; "
+an "Philosophy"
+cn "Philosophy"  "ui.label":"Philosophy"
+cn "Philosophy"  "ui.style":"size:6px; fill-color:white; "
+an "Aphid"
+cn "Aphid"  "ui.label":"Aphid"
+cn "Aphid"  "ui.style":"size:6px; fill-color:white; "
+an "Insect"
+cn "Insect"  "ui.label":"Insect"
+cn "Insect"  "ui.style":"size:6px; fill-color:white; "
+an "Mathematics"
+cn "Mathematics"  "ui.label":"Mathematics"
+cn "Mathematics"  "ui.style":"size:6px; fill-color:white; "
+an "Group dynamics"
+cn "Group dynamics"  "ui.label":"Group dynamics"
+cn "Group dynamics"  "ui.style":"size:6px; fill-color:white; "
+an "Human"
+cn "Human"  "ui.label":"Human"
+cn "Human"  "ui.style":"size:6px; fill-color:white; "
+an "India"
+cn "India"  "ui.label":"India"
+cn "India"  "ui.style":"size:6px; fill-color:white; "
+an "Philosophy of mind"
+cn "Philosophy of mind"  "ui.label":"Philosophy of mind"
+cn "Philosophy of mind"  "ui.style":"size:6px; fill-color:white; "
+an "Drosophila melanogaster"
+cn "Drosophila melanogaster"  "ui.label":"Drosophila melanogaster"
+cn "Drosophila melanogaster"  "ui.style":"size:6px; fill-color:white; "
+an "Earth"
+cn "Earth"  "ui.label":"Earth"
+cn "Earth"  "ui.style":"size:6px; fill-color:white; "
+an "game"
+cn "game"  "ui.label":"game"
+cn "game"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "alliance"
+cn "alliance"  "ui.label":"alliance"
+cn "alliance"  "ui.style":"size:6px; fill-color:white; "
+an "Gene"
+cn "Gene"  "ui.label":"Gene"
+cn "Gene"  "ui.style":"size:6px; fill-color:white; "
+an "deep space"
+cn "deep space"  "ui.label":"deep space"
+cn "deep space"  "ui.style":"size:6px; fill-color:white; "
+an "Xiphosura"
+cn "Xiphosura"  "ui.label":"Xiphosura"
+cn "Xiphosura"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "Milk"
+cn "Milk"  "ui.label":"Milk"
+cn "Milk"  "ui.style":"size:6px; fill-color:white; "
+an "Springtail"
+cn "Springtail"  "ui.label":"Springtail"
+cn "Springtail"  "ui.style":"size:6px; fill-color:white; "
+an "Zen"
+cn "Zen"  "ui.label":"Zen"
+cn "Zen"  "ui.style":"size:6px; fill-color:white; "
+an "form"
+cn "form"  "ui.label":"form"
+cn "form"  "ui.style":"size:6px; fill-color:white; "
+an "layer"
+cn "layer"  "ui.label":"layer"
+cn "layer"  "ui.style":"size:6px; fill-color:white; "
+an "Oxford University Press"
+cn "Oxford University Press"  "ui.label":"Oxford University Press"
+cn "Oxford University Press"  "ui.style":"size:6px; fill-color:white; "
+an "Latin"
+cn "Latin"  "ui.label":"Latin"
+cn "Latin"  "ui.style":"size:6px; fill-color:white; "
+an "side"
+cn "side"  "ui.label":"side"
+cn "side"  "ui.style":"size:6px; fill-color:white; "
+an "Guru Granth Sahib"
+cn "Guru Granth Sahib"  "ui.label":"Guru Granth Sahib"
+cn "Guru Granth Sahib"  "ui.style":"size:6px; fill-color:white; "
+an "variation"
+cn "variation"  "ui.label":"variation"
+cn "variation"  "ui.style":"size:6px; fill-color:white; "
+an "junction"
+cn "junction"  "ui.label":"junction"
+cn "junction"  "ui.style":"size:6px; fill-color:white; "
+an "vacuum"
+cn "vacuum"  "ui.label":"vacuum"
+cn "vacuum"  "ui.style":"size:6px; fill-color:white; "
+an "Journalism"
+cn "Journalism"  "ui.label":"Journalism"
+cn "Journalism"  "ui.style":"size:6px; fill-color:white; "
+an "notion"
+cn "notion"  "ui.label":"notion"
+cn "notion"  "ui.style":"size:6px; fill-color:white; "
+an "rule"
+cn "rule"  "ui.label":"rule"
+cn "rule"  "ui.style":"size:6px; fill-color:white; "
+an "Happiness"
+cn "Happiness"  "ui.label":"Happiness"
+cn "Happiness"  "ui.style":"size:6px; fill-color:white; "
+an "Russia"
+cn "Russia"  "ui.label":"Russia"
+cn "Russia"  "ui.style":"size:6px; fill-color:white; "
+an "Creative writing"
+cn "Creative writing"  "ui.label":"Creative writing"
+cn "Creative writing"  "ui.style":"size:6px; fill-color:white; "
+an "Crab"
+cn "Crab"  "ui.label":"Crab"
+cn "Crab"  "ui.style":"size:6px; fill-color:white; "
+an "PLOS Biology"
+cn "PLOS Biology"  "ui.label":"PLOS Biology"
+cn "PLOS Biology"  "ui.style":"size:6px; fill-color:white; "
+an "Interfaith dialogue"
+cn "Interfaith dialogue"  "ui.label":"Interfaith dialogue"
+cn "Interfaith dialogue"  "ui.style":"size:6px; fill-color:white; "
+an "acquaintance"
+cn "acquaintance"  "ui.label":"acquaintance"
+cn "acquaintance"  "ui.style":"size:6px; fill-color:white; "
+ae "Religion->belief" "Religion"  "belief"
+ce "Religion->belief"  "type":0
+ae "belief->content" "belief"  "content"
+ce "belief->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Monk->religious" "Monk"  "religious"
+ce "Monk->religious"  "type":0
+ae "religious->religious person" "religious"  "religious person"
+ce "religious->religious person"  "type":0
+ae "religious person->person" "religious person"  "person"
+ce "religious person->person"  "type":0
+ae "person->organism" "person"  "organism"
+ce "person->organism"  "type":0
+ae "organism->living thing" "organism"  "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing"  "whole"
+ce "living thing->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "idea->purpose" "idea"  "purpose"
+ce "idea->purpose"  "type":0
+ae "purpose->goal" "purpose"  "goal"
+ce "purpose->goal"  "type":0
+ae "goal->content" "goal"  "content"
+ce "goal->content"  "type":0
+ae "goal->end" "goal"  "end"
+ce "goal->end"  "type":0
+ae "end->extremity" "end"  "extremity"
+ce "end->extremity"  "type":0
+ae "extremity->external body part" "extremity"  "external body part"
+ce "extremity->external body part"  "type":0
+ae "external body part->body part" "external body part"  "body part"
+ce "external body part->body part"  "type":0
+ae "body part->part" "body part"  "part"
+ce "body part->part"  "type":0
+ae "part->relation" "part"  "relation"
+ce "part->relation"  "type":0
+ae "relation->abstraction" "relation"  "abstraction"
+ce "relation->abstraction"  "type":0
+ae "relation->sexual activity" "relation"  "sexual activity"
+ce "relation->sexual activity"  "type":0
+ae "sexual activity->bodily process" "sexual activity"  "bodily process"
+ce "sexual activity->bodily process"  "type":0
+ae "bodily process->organic process" "bodily process"  "organic process"
+ce "bodily process->organic process"  "type":0
+ae "organic process->process" "organic process"  "process"
+ce "organic process->process"  "type":0
+ae "process->activity" "process"  "activity"
+ce "process->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "creation->artifact" "creation"  "artifact"
+ce "creation->artifact"  "type":0
+ae "artifact->whole" "artifact"  "whole"
+ce "artifact->whole"  "type":0
+ae "artifact->article" "artifact"  "article"
+ce "artifact->article"  "type":1
+ae "article->nonfiction" "article"  "nonfiction"
+ce "article->nonfiction"  "type":0
+ae "nonfiction->prose" "nonfiction"  "prose"
+ce "nonfiction->prose"  "type":0
+ae "prose->writing style" "prose"  "writing style"
+ce "prose->writing style"  "type":0
+ae "writing style->expressive style" "writing style"  "expressive style"
+ce "writing style->expressive style"  "type":0
+ae "expressive style->communication" "expressive style"  "communication"
+ce "expressive style->communication"  "type":0
+ae "communication->act" "communication"  "act"
+ce "communication->act"  "type":0
+ae "communication->abstraction" "communication"  "abstraction"
+ce "communication->abstraction"  "type":0
+ae "communication->connection" "communication"  "connection"
+ce "communication->connection"  "type":0
+ae "connection->relation" "connection"  "relation"
+ce "connection->relation"  "type":0
+ae "connection->union" "connection"  "union"
+ce "connection->union"  "type":0
+ae "union->organization" "union"  "organization"
+ce "union->organization"  "type":0
+ae "organization->social group" "organization"  "social group"
+ce "organization->social group"  "type":0
+ae "social group->group" "social group"  "group"
+ce "social group->group"  "type":0
+ae "social group->body" "social group"  "body"
+ce "social group->body"  "type":1
+ae "body->natural object" "body"  "natural object"
+ce "body->natural object"  "type":0
+ae "natural object->whole" "natural object"  "whole"
+ce "natural object->whole"  "type":0
+ae "natural object->cocoon" "natural object"  "cocoon"
+ce "natural object->cocoon"  "type":1
+ae "cocoon->Pupa" "cocoon"  "Pupa"
+ce "cocoon->Pupa"  "type":8
+ae "Pupa->insect" "Pupa"  "insect"
+ce "Pupa->insect"  "type":0
+ae "insect->arthropod" "insect"  "arthropod"
+ce "insect->arthropod"  "type":0
+ae "arthropod->invertebrate" "arthropod"  "invertebrate"
+ce "arthropod->invertebrate"  "type":0
+ae "invertebrate->animal" "invertebrate"  "animal"
+ce "invertebrate->animal"  "type":0
+ae "animal->organism" "animal"  "organism"
+ce "animal->organism"  "type":0
+ae "animal->pest" "animal"  "pest"
+ce "animal->pest"  "type":1
+ae "pest->epidemic disease" "pest"  "epidemic disease"
+ce "pest->epidemic disease"  "type":0
+ae "epidemic disease->infectious disease" "epidemic disease"  "infectious disease"
+ce "epidemic disease->infectious disease"  "type":0
+ae "infectious disease->communicable disease" "infectious disease"  "communicable disease"
+ce "infectious disease->communicable disease"  "type":0
+ae "communicable disease->disease" "communicable disease"  "disease"
+ce "communicable disease->disease"  "type":0
+ae "disease->illness" "disease"  "illness"
+ce "disease->illness"  "type":0
+ae "illness->ill health" "illness"  "ill health"
+ce "illness->ill health"  "type":0
+ae "ill health->pathological state" "ill health"  "pathological state"
+ce "ill health->pathological state"  "type":0
+ae "pathological state->physical condition" "pathological state"  "physical condition"
+ce "pathological state->physical condition"  "type":0
+ae "physical condition->condition" "physical condition"  "condition"
+ce "physical condition->condition"  "type":0
+ae "condition->state" "condition"  "state"
+ce "condition->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "physical entity->thing" "physical entity" > "thing"
+ce "physical entity->thing"  "type":1
+ae "arthropod->Malaria" "arthropod" > "Malaria"
+ce "arthropod->Malaria"  "type":8
+ae "part->whole" "part" > "whole"
+ce "part->whole"  "type":6
+ae "insect->Blood" "insect" > "Blood"
+ce "insect->Blood"  "type":8
+ae "communication->Semantics" "communication" > "Semantics"
+ce "communication->Semantics"  "type":8
+ae "document->form" "document" > "form"
+ce "document->form"  "type":1
+ae "insect->Larva" "insect" > "Larva"
+ce "insect->Larva"  "type":8
+ae "communication->Spoken language" "communication" > "Spoken language"
+ce "communication->Spoken language"  "type":8
+ae "Monk->India" "Monk" > "India"
+ce "Monk->India"  "type":8
+ae "object->Physical object" "object" > "Physical object"
+ce "object->Physical object"  "type":8
+ae "object->Abstract and concrete" "object" > "Abstract and concrete"
+ce "object->Abstract and concrete"  "type":8
+ae "goal->Intention" "goal" > "Intention"
+ce "goal->Intention"  "type":8
+ae "organism->Biology" "organism" > "Biology"
+ce "organism->Biology"  "type":8
+ae "part->game" "part" > "game"
+ce "part->game"  "type":1
+ae "activity->organic process" "activity" > "organic process"
+ce "activity->organic process"  "type":0
+ae "Religion->Morality" "Religion" > "Morality"
+ce "Religion->Morality"  "type":8
+ae "communication->Neuron" "communication" > "Neuron"
+ce "communication->Neuron"  "type":8
+ae "activity->state" "activity" > "state"
+ce "activity->state"  "type":0
+ae "part->end" "part" > "end"
+ce "part->end"  "type":1
+ae "Religion->Wiley (publisher)" "Religion" > "Wiley (publisher)"
+ce "Religion->Wiley (publisher)"  "type":8
+ae "goal->Mission statement" "goal" > "Mission statement"
+ce "goal->Mission statement"  "type":8
+ae "insect->Science (journal)" "insect" > "Science (journal)"
+ce "insect->Science (journal)"  "type":8
+ae "concept->Abstract and concrete" "concept" > "Abstract and concrete"
+ce "concept->Abstract and concrete"  "type":8
+ae "Religion->Prayer" "Religion" > "Prayer"
+ce "Religion->Prayer"  "type":8
+ae "communication->Ethology" "communication" > "Ethology"
+ce "communication->Ethology"  "type":8
+ae "concept->Idea" "concept" > "Idea"
+ce "concept->Idea"  "type":8
+ae "document->communication" "document" > "communication"
+ce "document->communication"  "type":0
+ae "concept->Mathematics" "concept" > "Mathematics"
+ce "concept->Mathematics"  "type":8
+ae "organism->Archaea" "organism" > "Archaea"
+ce "organism->Archaea"  "type":8
+ae "concept->Computer science" "concept" > "Computer science"
+ce "concept->Computer science"  "type":8
+ae "disease->Social issue" "disease" > "Social issue"
+ce "disease->Social issue"  "type":8
+ae "arthropod->Brachiopod" "arthropod" > "Brachiopod"
+ce "arthropod->Brachiopod"  "type":8
+ae "Monk->Zen" "Monk" > "Zen"
+ce "Monk->Zen"  "type":8
+ae "goal->Wiley (publisher)" "goal" > "Wiley (publisher)"
+ce "goal->Wiley (publisher)"  "type":8
+ae "arthropod->Tardigrade" "arthropod" > "Tardigrade"
+ce "arthropod->Tardigrade"  "type":8
+ae "communication->Perception" "communication" > "Perception"
+ce "communication->Perception"  "type":8
+ae "insect->Arthropod" "insect" > "Arthropod"
+ce "insect->Arthropod"  "type":8
+ae "concept->Artificial intelligence" "concept" > "Artificial intelligence"
+ce "concept->Artificial intelligence"  "type":8
+ae "location->Earth" "location" > "Earth"
+ce "location->Earth"  "type":8
+ae "organism->Human" "organism" > "Human"
+ce "organism->Human"  "type":8
+ae "arthropod->Convergent evolution" "arthropod" > "Convergent evolution"
+ce "arthropod->Convergent evolution"  "type":8
+ae "communication->Alphabet" "communication" > "Alphabet"
+ce "communication->Alphabet"  "type":8
+ae "disease->Structure" "disease" > "Structure"
+ce "disease->Structure"  "type":8
+ae "Religion->Richard Dawkins" "Religion" > "Richard Dawkins"
+ce "Religion->Richard Dawkins"  "type":8
+ae "belief->idea" "belief" > "idea"
+ce "belief->idea"  "type":0
+ae "arthropod->Herbivore" "arthropod" > "Herbivore"
+ce "arthropod->Herbivore"  "type":8
+ae "Religion->Myth" "Religion" > "Myth"
+ce "Religion->Myth"  "type":8
+ae "part->vacuum" "part" > "vacuum"
+ce "part->vacuum"  "type":1
+ae "insect->Eusociality" "insect" > "Eusociality"
+ce "insect->Eusociality"  "type":8
+ae "part->side" "part" > "side"
+ce "part->side"  "type":1
+ae "part->layer" "part" > "layer"
+ce "part->layer"  "type":1
+ae "social group->Ethology" "social group" > "Ethology"
+ce "social group->Ethology"  "type":8
+ae "Religion->Max Weber" "Religion" > "Max Weber"
+ce "Religion->Max Weber"  "type":8
+ae "arthropod->Science (journal)" "arthropod" > "Science (journal)"
+ce "arthropod->Science (journal)"  "type":8
+ae "organism->Organ (anatomy)" "organism" > "Organ (anatomy)"
+ce "organism->Organ (anatomy)"  "type":8
+ae "arthropod->Burgess Shale" "arthropod" > "Burgess Shale"
+ce "arthropod->Burgess Shale"  "type":8
+ae "animal->Carl Linnaeus" "animal" > "Carl Linnaeus"
+ce "animal->Carl Linnaeus"  "type":8
+ae "end->state" "end" > "state"
+ce "end->state"  "type":0
+ae "writing->Creative writing" "writing" > "Creative writing"
+ce "writing->Creative writing"  "type":8
+ae "end->surface" "end" > "surface"
+ce "end->surface"  "type":0
+ae "part->deep space" "part" > "deep space"
+ce "part->deep space"  "type":1
+ae "animal->Bivalvia" "animal" > "Bivalvia"
+ce "animal->Bivalvia"  "type":8
+ae "writing->Journalism" "writing" > "Journalism"
+ce "writing->Journalism"  "type":8
+ae "organism->Kingdom (biology)" "organism" > "Kingdom (biology)"
+ce "organism->Kingdom (biology)"  "type":8
+ae "Religion->Artificial intelligence" "Religion" > "Artificial intelligence"
+ce "Religion->Artificial intelligence"  "type":8
+ae "writing->Linguistics" "writing" > "Linguistics"
+ce "writing->Linguistics"  "type":8
+ae "physical condition->good health" "physical condition" > "good health"
+ce "physical condition->good health"  "type":1
+ae "Religion->Metaphysics" "Religion" > "Metaphysics"
+ce "Religion->Metaphysics"  "type":8
+ae "organism->PLOS Biology" "organism" > "PLOS Biology"
+ce "organism->PLOS Biology"  "type":8
+ae "insect->Aphid" "insect" > "Aphid"
+ce "insect->Aphid"  "type":8
+ae "animal->Tardigrade" "animal" > "Tardigrade"
+ce "animal->Tardigrade"  "type":8
+ae "Monk->Russia" "Monk" > "Russia"
+ce "Monk->Russia"  "type":8
+ae "communication->written communication" "communication" > "written communication"
+ce "communication->written communication"  "type":1
+ae "organism->Gene" "organism" > "Gene"
+ce "organism->Gene"  "type":8
+ae "disease->Biology" "disease" > "Biology"
+ce "disease->Biology"  "type":8
+ae "organism->Evolution" "organism" > "Evolution"
+ce "organism->Evolution"  "type":8
+ae "end->aim" "end" > "aim"
+ce "end->aim"  "type":1
+ae "end->bourn" "end" > "bourn"
+ce "end->bourn"  "type":1
+ae "end->end-all" "end" > "end-all"
+ce "end->end-all"  "type":1
+ae "Monk->Prayer" "Monk" > "Prayer"
+ce "Monk->Prayer"  "type":8
+ae "organization->Sociology" "organization" > "Sociology"
+ce "organization->Sociology"  "type":8
+ae "Monk->Latin" "Monk" > "Latin"
+ce "Monk->Latin"  "type":8
+ae "communication->medium" "communication" > "medium"
+ce "communication->medium"  "type":1
+ae "Religion->Reform Judaism" "Religion" > "Reform Judaism"
+ce "Religion->Reform Judaism"  "type":8
+ae "social group->set" "social group" > "set"
+ce "social group->set"  "type":1
+ae "part->limb" "part" > "limb"
+ce "part->limb"  "type":1
+ae "condition->good health" "condition" > "good health"
+ce "condition->good health"  "type":0
+ae "arthropod->Artery" "arthropod" > "Artery"
+ce "arthropod->Artery"  "type":8
+ae "entity->thing" "entity" > "thing"
+ce "entity->thing"  "type":1
+ae "arthropod->Coelom" "arthropod" > "Coelom"
+ce "arthropod->Coelom"  "type":8
+ae "creation->piece" "creation" > "piece"
+ce "creation->piece"  "type":1
+ae "Religion->Religious denomination" "Religion" > "Religious denomination"
+ce "Religion->Religious denomination"  "type":8
+ae "organism->Carbon dioxide" "organism" > "Carbon dioxide"
+ce "organism->Carbon dioxide"  "type":8
+ae "act->play" "act" > "play"
+ce "act->play"  "type":6
+ae "expressive style->euphuism" "expressive style" > "euphuism"
+ce "expressive style->euphuism"  "type":1
+ae "concept->Plato" "concept" > "Plato"
+ce "concept->Plato"  "type":8
+ae "process->variation" "process" > "variation"
+ce "process->variation"  "type":1
+ae "region->Latin" "region" > "Latin"
+ce "region->Latin"  "type":8
+ae "insect->Heliconius" "insect" > "Heliconius"
+ce "insect->Heliconius"  "type":8
+ae "organic process->transpiration" "organic process" > "transpiration"
+ce "organic process->transpiration"  "type":1
+ae "region->County" "region" > "County"
+ce "region->County"  "type":8
+ae "region->Sovereign state" "region" > "Sovereign state"
+ce "region->Sovereign state"  "type":8
+ae "abstraction->Mathematics" "abstraction" > "Mathematics"
+ce "abstraction->Mathematics"  "type":8
+ae "arthropod->Anus" "arthropod" > "Anus"
+ce "arthropod->Anus"  "type":8
+ae "animal->Burgess Shale" "animal" > "Burgess Shale"
+ce "animal->Burgess Shale"  "type":8
+ae "arthropod->Head" "arthropod" > "Head"
+ce "arthropod->Head"  "type":8
+ae "abstraction->Linguistics" "abstraction" > "Linguistics"
+ce "abstraction->Linguistics"  "type":8
+ae "body->representation" "body" > "representation"
+ce "body->representation"  "type":1
+ae "organization->Military" "organization" > "Military"
+ce "organization->Military"  "type":8
+ae "abstraction->Computer science" "abstraction" > "Computer science"
+ce "abstraction->Computer science"  "type":8
+ae "abstraction->Idea" "abstraction" > "Idea"
+ce "abstraction->Idea"  "type":8
+ae "writing style->Oxford University Press" "writing style" > "Oxford University Press"
+ce "writing style->Oxford University Press"  "type":8
+ae "animal->Basal (phylogenetics)" "animal" > "Basal (phylogenetics)"
+ce "animal->Basal (phylogenetics)"  "type":8
+ae "writing style->Creative writing" "writing style" > "Creative writing"
+ce "writing style->Creative writing"  "type":8
+ae "abstraction->Communication" "abstraction" > "Communication"
+ce "abstraction->Communication"  "type":8
+ae "insect->Cephalocarida" "insect" > "Cephalocarida"
+ce "insect->Cephalocarida"  "type":8
+ae "abstraction->Happiness" "abstraction" > "Happiness"
+ce "abstraction->Happiness"  "type":8
+ae "organism->Sexual reproduction" "organism" > "Sexual reproduction"
+ce "organism->Sexual reproduction"  "type":8
+ae "animal->Coelom" "animal" > "Coelom"
+ce "animal->Coelom"  "type":8
+ae "creation->Creation myth" "creation" > "Creation myth"
+ce "creation->Creation myth"  "type":8
+ae "animal->Body plan" "animal" > "Body plan"
+ce "animal->Body plan"  "type":8
+ae "abstraction->Philosophy" "abstraction" > "Philosophy"
+ce "abstraction->Philosophy"  "type":8
+ae "abstraction->Hierarchy" "abstraction" > "Hierarchy"
+ce "abstraction->Hierarchy"  "type":8
+ae "insect->PLOS Biology" "insect" > "PLOS Biology"
+ce "insect->PLOS Biology"  "type":8
+ae "abstraction->Perception" "abstraction" > "Perception"
+ce "abstraction->Perception"  "type":8
+ae "region->Social issue" "region" > "Social issue"
+ce "region->Social issue"  "type":8
+ae "region->Politics" "region" > "Politics"
+ce "region->Politics"  "type":8
+ae "Pupa->Holometabolism" "Pupa" > "Holometabolism"
+ce "Pupa->Holometabolism"  "type":8
+ae "insect->Mosquito" "insect" > "Mosquito"
+ce "insect->Mosquito"  "type":8
+ae "Religion->India" "Religion" > "India"
+ce "Religion->India"  "type":8
+ae "Pupa->Larva" "Pupa" > "Larva"
+ce "Pupa->Larva"  "type":8
+ae "writing style->form" "writing style" > "form"
+ce "writing style->form"  "type":1
+ae "social group->congregation" "social group" > "congregation"
+ce "social group->congregation"  "type":1
+ae "Pupa->Mosquito" "Pupa" > "Mosquito"
+ce "Pupa->Mosquito"  "type":8
+ae "region->Water" "region" > "Water"
+ce "region->Water"  "type":8
+ae "insect->Human" "insect" > "Human"
+ce "insect->Human"  "type":8
+ae "animal->Insect" "animal" > "Insect"
+ce "animal->Insect"  "type":8
+ae "part->tune" "part" > "tune"
+ce "part->tune"  "type":0
+ae "part->line" "part" > "line"
+ce "part->line"  "type":0
+ae "concept->Philosophy of mind" "concept" > "Philosophy of mind"
+ce "concept->Philosophy of mind"  "type":8
+ae "Pupa->Heliconius" "Pupa" > "Heliconius"
+ce "Pupa->Heliconius"  "type":8
+ae "insect->Drosophila melanogaster" "insect" > "Drosophila melanogaster"
+ce "insect->Drosophila melanogaster"  "type":8
+ae "Religion->Zen" "Religion" > "Zen"
+ce "Religion->Zen"  "type":8
+ae "region->Earth" "region" > "Earth"
+ce "region->Earth"  "type":8
+ae "abstraction->Abstract and concrete" "abstraction" > "Abstract and concrete"
+ce "abstraction->Abstract and concrete"  "type":8
+ae "part->object" "part" > "object"
+ce "part->object"  "type":0
+ae "body part->Body plan" "body part" > "Body plan"
+ce "body part->Body plan"  "type":8
+ae "animal->Milk" "animal" > "Milk"
+ce "animal->Milk"  "type":8
+ae "Religion->Guru Granth Sahib" "Religion" > "Guru Granth Sahib"
+ce "Religion->Guru Granth Sahib"  "type":8
+ae "animal->Phylum" "animal" > "Phylum"
+ce "animal->Phylum"  "type":8
+ae "prose->Philosophy" "prose" > "Philosophy"
+ce "prose->Philosophy"  "type":8
+ae "region->area" "region" > "area"
+ce "region->area"  "type":1
+ae "animal->Ethology" "animal" > "Ethology"
+ce "animal->Ethology"  "type":8
+ae "animal->Jean-Baptiste Lamarck" "animal" > "Jean-Baptiste Lamarck"
+ce "animal->Jean-Baptiste Lamarck"  "type":8
+ae "region->cleavage" "region" > "cleavage"
+ce "region->cleavage"  "type":1
+ae "legal document->law" "legal document" > "law"
+ce "legal document->law"  "type":1
+ae "Pupa->Abdomen" "Pupa" > "Abdomen"
+ce "Pupa->Abdomen"  "type":8
+ae "group->Corporate group" "group" > "Corporate group"
+ce "group->Corporate group"  "type":8
+ae "prose->Journalism" "prose" > "Journalism"
+ce "prose->Journalism"  "type":8
+ae "body part->organism" "body part" > "organism"
+ce "body part->organism"  "type":6
+ae "animal->Gene" "animal" > "Gene"
+ce "animal->Gene"  "type":8
+ae "region->vacuum" "region" > "vacuum"
+ce "region->vacuum"  "type":1
+ae "organism->Mitosis" "organism" > "Mitosis"
+ce "organism->Mitosis"  "type":8
+ae "prose->euphuism" "prose" > "euphuism"
+ce "prose->euphuism"  "type":1
+ae "prose->expressive style" "prose" > "expressive style"
+ce "prose->expressive style"  "type":0
+ae "region->deep space" "region" > "deep space"
+ce "region->deep space"  "type":1
+ae "animal->Flatworm" "animal" > "Flatworm"
+ce "animal->Flatworm"  "type":8
+ae "region->atmosphere" "region" > "atmosphere"
+ce "region->atmosphere"  "type":1
+ae "body part->abdomen" "body part" > "abdomen"
+ce "body part->abdomen"  "type":1
+ae "animal->Ancient Egypt" "animal" > "Ancient Egypt"
+ce "animal->Ancient Egypt"  "type":8
+ae "body part->hip" "body part" > "hip"
+ce "body part->hip"  "type":1
+ae "body part->thorax" "body part" > "thorax"
+ce "body part->thorax"  "type":1
+ae "concept->Ludwig Wittgenstein" "concept" > "Ludwig Wittgenstein"
+ce "concept->Ludwig Wittgenstein"  "type":8
+ae "animal->Arthropod" "animal" > "Arthropod"
+ce "animal->Arthropod"  "type":8
+ae "body->body part" "body" > "body part"
+ce "body->body part"  "type":0
+ae "organization->Structure" "organization" > "Structure"
+ce "organization->Structure"  "type":8
+ae "organization->Goal" "organization" > "Goal"
+ce "organization->Goal"  "type":8
+ae "article->notion" "article" > "notion"
+ce "article->notion"  "type":1
+ae "Religion->Experiment" "Religion" > "Experiment"
+ce "Religion->Experiment"  "type":8
+ae "arthropod->Xiphosura" "arthropod" > "Xiphosura"
+ce "arthropod->Xiphosura"  "type":8
+ae "Religion->Evolution" "Religion" > "Evolution"
+ce "Religion->Evolution"  "type":8
+ae "arthropod->Sea spider" "arthropod" > "Sea spider"
+ce "arthropod->Sea spider"  "type":8
+ae "body part->system" "body part" > "system"
+ce "body part->system"  "type":1
+ae "group->system" "group" > "system"
+ce "group->system"  "type":1
+ae "group->population" "group" > "population"
+ce "group->population"  "type":1
+ae "insect->Springtail" "insect" > "Springtail"
+ce "insect->Springtail"  "type":8
+ae "condition->atmosphere" "condition" > "atmosphere"
+ce "condition->atmosphere"  "type":1
+ae "group->kingdom" "group" > "kingdom"
+ce "group->kingdom"  "type":1
+ae "article->piece" "article" > "piece"
+ce "article->piece"  "type":0
+ae "group->set" "group" > "set"
+ce "group->set"  "type":0
+ae "arthropod->Cephalocarida" "arthropod" > "Cephalocarida"
+ce "arthropod->Cephalocarida"  "type":8
+ae "body part->area" "body part" > "area"
+ce "body part->area"  "type":1
+ae "organization->Max Weber" "organization" > "Max Weber"
+ce "organization->Max Weber"  "type":8
+ae "animal->Archaea" "animal" > "Archaea"
+ce "animal->Archaea"  "type":8
+ae "arthropod->Crab" "arthropod" > "Crab"
+ce "arthropod->Crab"  "type":8
+ae "arthropod->Springtail" "arthropod" > "Springtail"
+ce "arthropod->Springtail"  "type":8
+ae "arthropod->Insect" "arthropod" > "Insect"
+ce "arthropod->Insect"  "type":8
+ae "insect->Head" "insect" > "Head"
+ce "insect->Head"  "type":8
+ae "Religion->Interfaith dialogue" "Religion" > "Interfaith dialogue"
+ce "Religion->Interfaith dialogue"  "type":8
+ae "animal->Hierarchy" "animal" > "Hierarchy"
+ce "animal->Hierarchy"  "type":8
+ae "animal->game" "animal" > "game"
+ce "animal->game"  "type":1
+ae "animal->Sexual reproduction" "animal" > "Sexual reproduction"
+ce "animal->Sexual reproduction"  "type":8
+ae "insect->worker" "insect" > "worker"
+ce "insect->worker"  "type":1
+ae "arthropod->Onychophora" "arthropod" > "Onychophora"
+ce "arthropod->Onychophora"  "type":8
+ae "Religion->Happiness" "Religion" > "Happiness"
+ce "Religion->Happiness"  "type":8
+ae "external body part->head" "external body part" > "head"
+ce "external body part->head"  "type":1
+ae "district->Russia" "district" > "Russia"
+ce "district->Russia"  "type":8
+ae "artifact->surface" "artifact" > "surface"
+ce "artifact->surface"  "type":1
+ae "arthropod->Body plan" "arthropod" > "Body plan"
+ce "arthropod->Body plan"  "type":8
+ae "arthropod->Organ (anatomy)" "arthropod" > "Organ (anatomy)"
+ce "arthropod->Organ (anatomy)"  "type":8
+ae "arthropod->Blood" "arthropod" > "Blood"
+ce "arthropod->Blood"  "type":8
+ae "process->rule" "process" > "rule"
+ce "process->rule"  "type":1
+ae "arthropod->Respiratory system" "arthropod" > "Respiratory system"
+ce "arthropod->Respiratory system"  "type":8
+ae "artifact->line" "artifact" > "line"
+ce "artifact->line"  "type":1
+ae "artifact->layer" "artifact" > "layer"
+ce "artifact->layer"  "type":1
+ae "arthropod->Excretion" "arthropod" > "Excretion"
+ce "arthropod->Excretion"  "type":8
+ae "extremity->limb" "extremity" > "limb"
+ce "extremity->limb"  "type":6
+ae "process->condition" "process" > "condition"
+ce "process->condition"  "type":1
+ae "concept->Man" "concept" > "Man"
+ce "concept->Man"  "type":8
+ae "animal->Kingdom (biology)" "animal" > "Kingdom (biology)"
+ce "animal->Kingdom (biology)"  "type":8
+ae "collection->law" "collection" > "law"
+ce "collection->law"  "type":1
+ae "insect->Sea spider" "insect" > "Sea spider"
+ce "insect->Sea spider"  "type":8
+ae "process->cognition" "process" > "cognition"
+ce "process->cognition"  "type":0
+ae "animal->Larva" "animal" > "Larva"
+ce "animal->Larva"  "type":8
+ae "arthropod->Basal (phylogenetics)" "arthropod" > "Basal (phylogenetics)"
+ce "arthropod->Basal (phylogenetics)"  "type":8
+ae "goal->end-all" "goal" > "end-all"
+ce "goal->end-all"  "type":1
+ae "goal->bourn" "goal" > "bourn"
+ce "goal->bourn"  "type":1
+ae "goal->aim" "goal" > "aim"
+ce "goal->aim"  "type":1
+ae "insect->Artery" "insect" > "Artery"
+ce "insect->Artery"  "type":8
+ae "insect->Diffusion" "insect" > "Diffusion"
+ce "insect->Diffusion"  "type":8
+ae "part->unit" "part" > "unit"
+ce "part->unit"  "type":6
+ae "communication->Group dynamics" "communication" > "Group dynamics"
+ce "communication->Group dynamics"  "type":8
+ae "insect->Holometabolism" "insect" > "Holometabolism"
+ce "insect->Holometabolism"  "type":8
+ae "collection->set" "collection" > "set"
+ce "collection->set"  "type":1
+ae "animal->Mitosis" "animal" > "Mitosis"
+ce "animal->Mitosis"  "type":8
+ae "connection->acquaintance" "connection" > "acquaintance"
+ce "connection->acquaintance"  "type":0
+ae "collection->congregation" "collection" > "congregation"
+ce "collection->congregation"  "type":1
+ae "activity->game" "activity" > "game"
+ce "activity->game"  "type":1
+ae "body->Physical object" "body" > "Physical object"
+ce "body->Physical object"  "type":8
+ae "connection->alliance" "connection" > "alliance"
+ce "connection->alliance"  "type":1
+ae "body->abdomen" "body" > "abdomen"
+ce "body->abdomen"  "type":7
+ae "body->hip" "body" > "hip"
+ce "body->hip"  "type":7
+ae "concept->law" "concept" > "law"
+ce "concept->law"  "type":1
+ae "concept->rule" "concept" > "rule"
+ce "concept->rule"  "type":1
+ae "writing->Papyrus" "writing" > "Papyrus"
+ce "writing->Papyrus"  "type":8
+ae "collection->population" "collection" > "population"
+ce "collection->population"  "type":1
+ae "relation->possession" "relation" > "possession"
+ce "relation->possession"  "type":1
+ae "relation->ownership" "relation" > "ownership"
+ce "relation->ownership"  "type":1
+ae "relation->association" "relation" > "association"
+ce "relation->association"  "type":1
+ae "invertebrate->Drosophila melanogaster" "invertebrate" > "Drosophila melanogaster"
+ce "invertebrate->Drosophila melanogaster"  "type":8
+ae "invertebrate->Arthropod" "invertebrate" > "Arthropod"
+ce "invertebrate->Arthropod"  "type":8
+ae "connection->junction" "connection" > "junction"
+ce "connection->junction"  "type":1
+ae "activity->writing" "activity" > "writing"
+ce "activity->writing"  "type":1
+ae "body->side" "body" > "side"
+ce "body->side"  "type":7
+ae "invertebrate->Crustacean" "invertebrate" > "Crustacean"
+ce "invertebrate->Crustacean"  "type":8
+ae "insect->Anus" "insect" > "Anus"
+ce "insect->Anus"  "type":8
+ae "invertebrate->Bivalvia" "invertebrate" > "Bivalvia"
+ce "invertebrate->Bivalvia"  "type":8
+ae "concept->notion" "concept" > "notion"
+ce "concept->notion"  "type":1
+ae "disease->Psychiatry" "disease" > "Psychiatry"
+ce "disease->Psychiatry"  "type":8
+ae "writing->Alphabet" "writing" > "Alphabet"
+ce "writing->Alphabet"  "type":8
+ae "invertebrate->Phylum" "invertebrate" > "Phylum"
+ce "invertebrate->Phylum"  "type":8
+ae "activity->representation" "activity" > "representation"
+ce "activity->representation"  "type":1
+ae "idea->Gene" "idea" > "Gene"
+ce "idea->Gene"  "type":8
+ae "writing->Ancient Egypt" "writing" > "Ancient Egypt"
+ce "writing->Ancient Egypt"  "type":8
+ae "union->junction" "union" > "junction"
+ce "union->junction"  "type":1
+ae "invertebrate->Body plan" "invertebrate" > "Body plan"
+ce "invertebrate->Body plan"  "type":8
+ae "invertebrate->Flatworm" "invertebrate" > "Flatworm"
+ce "invertebrate->Flatworm"  "type":8
+ae "disease->Diagnostic and Statistical Manual of Mental Disorders" "disease" > "Diagnostic and Statistical Manual of Mental Disorders"
+ce "disease->Diagnostic and Statistical Manual of Mental Disorders"  "type":8
+ae "content->cognition" "content" > "cognition"
+ce "content->cognition"  "type":0
+ae "writing->Semantics" "writing" > "Semantics"
+ce "writing->Semantics"  "type":8
+ae "invertebrate->Onychophora" "invertebrate" > "Onychophora"
+ce "invertebrate->Onychophora"  "type":8
+ae "idea->Evolution" "idea" > "Evolution"
+ce "idea->Evolution"  "type":8
+ae "invertebrate->Xiphosura" "invertebrate" > "Xiphosura"
+ce "invertebrate->Xiphosura"  "type":8
+ae "writing->Spoken language" "writing" > "Spoken language"
+ce "writing->Spoken language"  "type":8
+ae "writing->Communication" "writing" > "Communication"
+ce "writing->Communication"  "type":8
+ae "belief->Idea" "belief" > "Idea"
+ce "belief->Idea"  "type":8
+ae "idea->Richard Dawkins" "idea" > "Richard Dawkins"
+ce "idea->Richard Dawkins"  "type":8
+ae "body->head" "body" > "head"
+ce "body->head"  "type":7
+ae "insect->Crustacean" "insect" > "Crustacean"
+ce "insect->Crustacean"  "type":8
+ae "whole->Milk" "whole" > "Milk"
+ce "whole->Milk"  "type":8
+ae "belief->Sociology" "belief" > "Sociology"
+ce "belief->Sociology"  "type":8
+ae "idea->Man" "idea" > "Man"
+ce "idea->Man"  "type":8
+ae "belief->Politics" "belief" > "Politics"
+ce "belief->Politics"  "type":8
+ae "whole->part" "whole" > "part"
+ce "whole->part"  "type":7
+ae "invertebrate->Neuron" "invertebrate" > "Neuron"
+ce "invertebrate->Neuron"  "type":8
+ae "belief->Bible" "belief" > "Bible"
+ce "belief->Bible"  "type":8
+ae "invertebrate->Respiratory system" "invertebrate" > "Respiratory system"
+ce "invertebrate->Respiratory system"  "type":8
+ae "idea->Experiment" "idea" > "Experiment"
+ce "idea->Experiment"  "type":8
+ae "district->County" "district" > "County"
+ce "district->County"  "type":8
+ae "belief->Creation myth" "belief" > "Creation myth"
+ce "belief->Creation myth"  "type":8
+ae "invertebrate->Diffusion" "invertebrate" > "Diffusion"
+ce "invertebrate->Diffusion"  "type":8
+ae "invertebrate->Water" "invertebrate" > "Water"
+ce "invertebrate->Water"  "type":8
+ae "district->possession" "district" > "possession"
+ce "district->possession"  "type":1
+ae "invertebrate->Carbon dioxide" "invertebrate" > "Carbon dioxide"
+ce "invertebrate->Carbon dioxide"  "type":8
+ae "animal->Aphid" "animal" > "Aphid"
+ce "animal->Aphid"  "type":8
+ae "belief->Identity (social science)" "belief" > "Identity (social science)"
+ce "belief->Identity (social science)"  "type":8
+ae "belief->Intention" "belief" > "Intention"
+ce "belief->Intention"  "type":8
+ae "belief->Morality" "belief" > "Morality"
+ce "belief->Morality"  "type":8
+ae "belief->Guru Granth Sahib" "belief" > "Guru Granth Sahib"
+ce "belief->Guru Granth Sahib"  "type":8
+ae "invertebrate->Abdomen" "invertebrate" > "Abdomen"
+ce "invertebrate->Abdomen"  "type":8
+ae "belief->Interfaith dialogue" "belief" > "Interfaith dialogue"
+ce "belief->Interfaith dialogue"  "type":8
+ae "administrative district->ward" "administrative district" > "ward"
+ce "administrative district->ward"  "type":1
+ae "insect->Excretion" "insect" > "Excretion"
+ce "insect->Excretion"  "type":8
+ae "writing->written communication" "writing" > "written communication"
+ce "writing->written communication"  "type":0
+ae "disease->Military" "disease" > "Military"
+ce "disease->Military"  "type":8
+ae "insect->Carl Linnaeus" "insect" > "Carl Linnaeus"
+ce "insect->Carl Linnaeus"  "type":8
+ae "person->Identity (social science)" "person" > "Identity (social science)"
+ce "person->Identity (social science)"  "type":8
+ae "whole->unit" "whole" > "unit"
+ce "whole->unit"  "type":1
+ae "invertebrate->Eusociality" "invertebrate" > "Eusociality"
+ce "invertebrate->Eusociality"  "type":8
+ae "belief->Religious denomination" "belief" > "Religious denomination"
+ce "belief->Religious denomination"  "type":8
+ae "person->Human" "person" > "Human"
+ce "person->Human"  "type":8
+ae "belief->Metaphysics" "belief" > "Metaphysics"
+ce "belief->Metaphysics"  "type":8
+ae "social group->Corporate group" "social group" > "Corporate group"
+ce "social group->Corporate group"  "type":8
+ae "invertebrate->Crab" "invertebrate" > "Crab"
+ce "invertebrate->Crab"  "type":8
+ae "whole->object" "whole" > "object"
+ce "whole->object"  "type":0
+ae "idea->Ludwig Wittgenstein" "idea" > "Ludwig Wittgenstein"
+ce "idea->Ludwig Wittgenstein"  "type":8
+ae "invertebrate->Convergent evolution" "invertebrate" > "Convergent evolution"
+ce "invertebrate->Convergent evolution"  "type":8
+ae "belief->Reform Judaism" "belief" > "Reform Judaism"
+ce "belief->Reform Judaism"  "type":8
+ae "insect->Crab" "insect" > "Crab"
+ce "insect->Crab"  "type":8
+ae "invertebrate->Brachiopod" "invertebrate" > "Brachiopod"
+ce "invertebrate->Brachiopod"  "type":8
+ae "state->Sovereign state" "state" > "Sovereign state"
+ce "state->Sovereign state"  "type":8
+ae "social group->Group dynamics" "social group" > "Group dynamics"
+ce "social group->Group dynamics"  "type":8
+ae "idea->Plato" "idea" > "Plato"
+ce "idea->Plato"  "type":8
+ae "insect->Abdomen" "insect" > "Abdomen"
+ce "insect->Abdomen"  "type":8
+ae "document->Bible" "document" > "Bible"
+ce "document->Bible"  "type":8
+ae "idea->Oxford University Press" "idea" > "Oxford University Press"
+ce "idea->Oxford University Press"  "type":8
+ae "belief->Myth" "belief" > "Myth"
+ce "belief->Myth"  "type":8
+ae "document->Papyrus" "document" > "Papyrus"
+ce "document->Papyrus"  "type":8
+ae "person->ward" "person" > "ward"
+ce "person->ward"  "type":1
+ae "belief->Diagnostic and Statistical Manual of Mental Disorders" "belief" > "Diagnostic and Statistical Manual of Mental Disorders"
+ce "belief->Diagnostic and Statistical Manual of Mental Disorders"  "type":8
+ae "belief->Psychiatry" "belief" > "Psychiatry"
+ce "belief->Psychiatry"  "type":8
+ae "person->worker" "person" > "worker"
+ce "person->worker"  "type":1
+ae "organization->body" "organization" > "body"
+ce "organization->body"  "type":0
+ae "invertebrate->Jean-Baptiste Lamarck" "invertebrate" > "Jean-Baptiste Lamarck"
+ce "invertebrate->Jean-Baptiste Lamarck"  "type":8
+ae "idea->variation" "idea" > "variation"
+ce "idea->variation"  "type":1
+ae "organization->association" "organization" > "association"
+ce "organization->association"  "type":1
+ae "state->kingdom" "state" > "kingdom"
+ce "state->kingdom"  "type":1
+ae "belief->Goal" "belief" > "Goal"
+ce "belief->Goal"  "type":8
+ae "activity->play" "activity" > "play"
+ce "activity->play"  "type":1
+ae "invertebrate->Gene" "invertebrate" > "Gene"
+ce "invertebrate->Gene"  "type":8
+ae "bodily process->lacrimation" "bodily process" > "lacrimation"
+ce "bodily process->lacrimation"  "type":1
+ae "person->Sovereign state" "person" > "Sovereign state"
+ce "person->Sovereign state"  "type":8
+ae "organization->alliance" "organization" > "alliance"
+ce "organization->alliance"  "type":1
+ae "activity->transpiration" "activity" > "transpiration"
+ce "activity->transpiration"  "type":1
+ae "invertebrate->Science (journal)" "invertebrate" > "Science (journal)"
+ce "invertebrate->Science (journal)"  "type":8
+ae "person->acquaintance" "person" > "acquaintance"
+ce "person->acquaintance"  "type":1
+ae "insect->thorax" "insect" > "thorax"
+ce "insect->thorax"  "type":7
+ae "person->Legal person" "person" > "Legal person"
+ce "person->Legal person"  "type":8
+ae "insect->Herbivore" "insect" > "Herbivore"
+ce "insect->Herbivore"  "type":8
+ae "state->end" "state" > "end"
+ce "state->end"  "type":1
+ae "state->ownership" "state" > "ownership"
+ce "state->ownership"  "type":1
+ae "organization->Mission statement" "organization" > "Mission statement"
+ce "organization->Mission statement"  "type":8
+ae "belief->Plato" "belief" > "Plato"
+ce "belief->Plato"  "type":8
+ae "belief->Philosophy" "belief" > "Philosophy"
+ce "belief->Philosophy"  "type":8
+ae "idea->tune" "idea" > "tune"
+ce "idea->tune"  "type":0
+ae "state->union" "state" > "union"
+ce "state->union"  "type":1
+ae "disease->Malaria" "disease" > "Malaria"
+ce "disease->Malaria"  "type":8
+ae "state->medium" "state" > "medium"
+ce "state->medium"  "type":1
+ae "activity->lacrimation" "activity" > "lacrimation"
+ce "activity->lacrimation"  "type":1
+ae "organization->Legal person" "organization" > "Legal person"
+ce "organization->Legal person"  "type":8
+ae "belief->Philosophy of mind" "belief" > "Philosophy of mind"
+ce "belief->Philosophy of mind"  "type":8
+ae "state->cleavage" "state" > "cleavage"
+ce "state->cleavage"  "type":1

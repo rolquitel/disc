@@ -1,0 +1,261 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "magician"
+cn "magician"  "ui.label":"magician"
+cn "magician"  "ui.style":"size-mode:fit;"
+an "performer"
+cn "performer"  "ui.label":"performer"
+cn "performer"  "ui.style":"size:6px; fill-color:white; "
+an "entertainer"
+cn "entertainer"  "ui.label":"entertainer"
+cn "entertainer"  "ui.style":"size:6px; fill-color:white; "
+an "person"
+cn "person"  "ui.label":"person"
+cn "person"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "wizard"
+cn "wizard"  "ui.label":"wizard"
+cn "wizard"  "ui.style":"size-mode:fit;"
+an "expert"
+cn "expert"  "ui.label":"expert"
+cn "expert"  "ui.style":"size:6px; fill-color:white; "
+an "ace"
+cn "ace"  "ui.label":"ace"
+cn "ace"  "ui.style":"size:6px; fill-color:white; "
+an "digit"
+cn "digit"  "ui.label":"digit"
+cn "digit"  "ui.style":"size:6px; fill-color:white; "
+an "integer"
+cn "integer"  "ui.label":"integer"
+cn "integer"  "ui.style":"size:6px; fill-color:white; "
+an "number"
+cn "number"  "ui.label":"number"
+cn "number"  "ui.style":"size:6px; fill-color:white; "
+an "amount"
+cn "amount"  "ui.label":"amount"
+cn "amount"  "ui.style":"size:6px; fill-color:white; "
+an "assets"
+cn "assets"  "ui.label":"assets"
+cn "assets"  "ui.style":"size:6px; fill-color:white; "
+an "possession"
+cn "possession"  "ui.label":"possession"
+cn "possession"  "ui.style":"size:6px; fill-color:white; "
+an "control"
+cn "control"  "ui.label":"control"
+cn "control"  "ui.style":"size:6px; fill-color:white; "
+an "power"
+cn "power"  "ui.label":"power"
+cn "power"  "ui.style":"size:6px; fill-color:white; "
+an "quality"
+cn "quality"  "ui.label":"quality"
+cn "quality"  "ui.style":"size:6px; fill-color:white; "
+an "attribute"
+cn "attribute"  "ui.label":"attribute"
+cn "attribute"  "ui.style":"size:6px; fill-color:white; "
+an "feature"
+cn "feature"  "ui.label":"feature"
+cn "feature"  "ui.style":"size:6px; fill-color:white; "
+an "property"
+cn "property"  "ui.label":"property"
+cn "property"  "ui.style":"size:6px; fill-color:white; "
+an "geographical area"
+cn "geographical area"  "ui.label":"geographical area"
+cn "geographical area"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "magnitude"
+cn "magnitude"  "ui.label":"magnitude"
+cn "magnitude"  "ui.style":"size:6px; fill-color:white; "
+an "goal"
+cn "goal"  "ui.label":"goal"
+cn "goal"  "ui.style":"size:6px; fill-color:white; "
+an "originality"
+cn "originality"  "ui.label":"originality"
+cn "originality"  "ui.style":"size:6px; fill-color:white; "
+an "personality"
+cn "personality"  "ui.label":"personality"
+cn "personality"  "ui.style":"size:6px; fill-color:white; "
+an "size"
+cn "size"  "ui.label":"size"
+cn "size"  "ui.style":"size:6px; fill-color:white; "
+an "hand"
+cn "hand"  "ui.label":"hand"
+cn "hand"  "ui.style":"size:6px; fill-color:white; "
+an "characteristic"
+cn "characteristic"  "ui.label":"characteristic"
+cn "characteristic"  "ui.style":"size:6px; fill-color:white; "
+an "population"
+cn "population"  "ui.label":"population"
+cn "population"  "ui.style":"size:6px; fill-color:white; "
+an "indefinite quantity"
+cn "indefinite quantity"  "ui.label":"indefinite quantity"
+cn "indefinite quantity"  "ui.style":"size:6px; fill-color:white; "
+ae "magician->performer" "magician"  "performer"
+ce "magician->performer"  "type":0
+ae "performer->entertainer" "performer"  "entertainer"
+ce "performer->entertainer"  "type":0
+ae "entertainer->person" "entertainer"  "person"
+ce "entertainer->person"  "type":0
+ae "person->organism" "person"  "organism"
+ce "person->organism"  "type":0
+ae "organism->living thing" "organism"  "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing"  "whole"
+ce "living thing->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "wizard->expert" "wizard"  "expert"
+ce "wizard->expert"  "type":0
+ae "expert->person" "expert"  "person"
+ce "expert->person"  "type":0
+ae "expert->ace" "expert"  "ace"
+ce "expert->ace"  "type":1
+ae "ace->digit" "ace"  "digit"
+ce "ace->digit"  "type":0
+ae "digit->integer" "digit"  "integer"
+ce "digit->integer"  "type":0
+ae "integer->number" "integer"  "number"
+ce "integer->number"  "type":0
+ae "number->amount" "number"  "amount"
+ce "number->amount"  "type":0
+ae "amount->assets" "amount"  "assets"
+ce "amount->assets"  "type":0
+ae "assets->possession" "assets"  "possession"
+ce "assets->possession"  "type":0
+ae "possession->control" "possession"  "control"
+ce "possession->control"  "type":0
+ae "control->power" "control"  "power"
+ce "control->power"  "type":0
+ae "power->quality" "power"  "quality"
+ce "power->quality"  "type":0
+ae "quality->attribute" "quality"  "attribute"
+ce "quality->attribute"  "type":0
+ae "attribute->concept" "attribute"  "concept"
+ce "attribute->concept"  "type":0
+ae "attribute->abstraction" "attribute"  "abstraction"
+ce "attribute->abstraction"  "type":0
+ae "attribute->feature" "attribute"  "feature"
+ce "attribute->feature"  "type":1
+ae "feature->property" "feature"  "property"
+ce "feature->property"  "type":0
+ae "property->possession" "property"  "possession"
+ce "property->possession"  "type":0
+ae "property->attribute" "property"  "attribute"
+ce "property->attribute"  "type":0
+ae "property->geographical area" "property"  "geographical area"
+ce "property->geographical area"  "type":0
+ae "geographical area->region" "geographical area"  "region"
+ce "geographical area->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "group->population" "group" > "population"
+ce "group->population"  "type":1
+ae "collection->population" "collection" > "population"
+ce "collection->population"  "type":1
+ae "quality->characteristic" "quality" > "characteristic"
+ce "quality->characteristic"  "type":1
+ae "property->size" "property" > "size"
+ce "property->size"  "type":1
+ae "amount->indefinite quantity" "amount" > "indefinite quantity"
+ce "amount->indefinite quantity"  "type":1
+ae "region->indefinite quantity" "region" > "indefinite quantity"
+ce "region->indefinite quantity"  "type":0
+ae "attribute->thing" "attribute" > "thing"
+ce "attribute->thing"  "type":1
+ae "concept->abstraction" "concept" > "abstraction"
+ce "concept->abstraction"  "type":1
+ae "power->originality" "power" > "originality"
+ce "power->originality"  "type":1
+ae "entity->thing" "entity" > "thing"
+ce "entity->thing"  "type":1
+ae "person->personality" "person" > "personality"
+ce "person->personality"  "type":7
+ae "number->size" "number" > "size"
+ce "number->size"  "type":0
+ae "object->property" "object" > "property"
+ce "object->property"  "type":1
+ae "abstraction->thing" "abstraction" > "thing"
+ce "abstraction->thing"  "type":1
+ae "property->characteristic" "property" > "characteristic"
+ce "property->characteristic"  "type":1
+ae "object->goal" "object" > "goal"
+ce "object->goal"  "type":0
+ae "property->magnitude" "property" > "magnitude"
+ce "property->magnitude"  "type":1
+ae "content->goal" "content" > "goal"
+ce "content->goal"  "type":1
+ae "attribute->personality" "attribute" > "personality"
+ce "attribute->personality"  "type":1
+ae "collection->hand" "collection" > "hand"
+ce "collection->hand"  "type":1
+ae "content->object" "content" > "object"
+ce "content->object"  "type":1
+ae "quality->originality" "quality" > "originality"
+ce "quality->originality"  "type":1
+ae "amount->magnitude" "amount" > "magnitude"
+ce "amount->magnitude"  "type":0
+ae "amount->abstraction" "amount" > "abstraction"
+ce "amount->abstraction"  "type":0
+ae "power->hand" "power" > "hand"
+ce "power->hand"  "type":1

@@ -1,0 +1,83 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Religion"
+cn "Religion"  "ui.label":"Religion"
+cn "Religion"  "ui.style":"size-mode:fit;"
+an "Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.label":"Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.style":"size:6px; fill-color:white; "
+an "Monks"
+cn "Monks"  "ui.label":"Monks"
+cn "Monks"  "ui.style":"size-mode:fit;"
+an "Ascetics"
+cn "Ascetics"  "ui.label":"Ascetics"
+cn "Ascetics"  "ui.style":"size:6px; fill-color:white; "
+an "Anti-consumerists"
+cn "Anti-consumerists"  "ui.label":"Anti-consumerists"
+cn "Anti-consumerists"  "ui.style":"size:6px; fill-color:white; "
+an "Activists_by_issue"
+cn "Activists_by_issue"  "ui.label":"Activists_by_issue"
+cn "Activists_by_issue"  "ui.style":"size:6px; fill-color:white; "
+an "Activism_by_issue"
+cn "Activism_by_issue"  "ui.label":"Activism_by_issue"
+cn "Activism_by_issue"  "ui.style":"size:6px; fill-color:white; "
+an "Activism"
+cn "Activism"  "ui.label":"Activism"
+cn "Activism"  "ui.style":"size:6px; fill-color:white; "
+an "Human_activities"
+cn "Human_activities"  "ui.label":"Human_activities"
+cn "Human_activities"  "ui.style":"size:6px; fill-color:white; "
+an "Human_behavior"
+cn "Human_behavior"  "ui.label":"Human_behavior"
+cn "Human_behavior"  "ui.style":"size:6px; fill-color:white; "
+an "People_by_behavior"
+cn "People_by_behavior"  "ui.label":"People_by_behavior"
+cn "People_by_behavior"  "ui.style":"size:6px; fill-color:white; "
+an "Simple_living_advocates"
+cn "Simple_living_advocates"  "ui.label":"Simple_living_advocates"
+cn "Simple_living_advocates"  "ui.style":"size:6px; fill-color:white; "
+an "Anti-corporate_activists"
+cn "Anti-corporate_activists"  "ui.label":"Anti-corporate_activists"
+cn "Anti-corporate_activists"  "ui.style":"size:6px; fill-color:white; "
+an "Activists"
+cn "Activists"  "ui.label":"Activists"
+cn "Activists"  "ui.style":"size:6px; fill-color:white; "
+an "Public_sphere"
+cn "Public_sphere"  "ui.label":"Public_sphere"
+cn "Public_sphere"  "ui.style":"size:6px; fill-color:white; "
+an "Humans"
+cn "Humans"  "ui.label":"Humans"
+cn "Humans"  "ui.style":"size:6px; fill-color:white; "
+ae "Religion->Main_topic_classifications" "Religion"  "Main_topic_classifications"
+ce "Religion->Main_topic_classifications"  "type":0
+ae "Monks->Ascetics" "Monks"  "Ascetics"
+ce "Monks->Ascetics"  "type":0
+ae "Ascetics->Anti-consumerists" "Ascetics"  "Anti-consumerists"
+ce "Ascetics->Anti-consumerists"  "type":0
+ae "Anti-consumerists->Activists_by_issue" "Anti-consumerists"  "Activists_by_issue"
+ce "Anti-consumerists->Activists_by_issue"  "type":0
+ae "Activists_by_issue->Activism_by_issue" "Activists_by_issue"  "Activism_by_issue"
+ce "Activists_by_issue->Activism_by_issue"  "type":0
+ae "Activism_by_issue->Activism" "Activism_by_issue"  "Activism"
+ce "Activism_by_issue->Activism"  "type":0
+ae "Activism->Human_activities" "Activism"  "Human_activities"
+ce "Activism->Human_activities"  "type":0
+ae "Human_activities->Human_behavior" "Human_activities"  "Human_behavior"
+ce "Human_activities->Human_behavior"  "type":0
+ae "Human_behavior->Main_topic_classifications" "Human_behavior"  "Main_topic_classifications"
+ce "Human_behavior->Main_topic_classifications"  "type":0
+ae "Religion->Human_activities" "Religion" > "Human_activities"
+ce "Religion->Human_activities"  "type":0
+ae "Ascetics->People_by_behavior" "Ascetics" > "People_by_behavior"
+ce "Ascetics->People_by_behavior"  "type":0
+ae "Ascetics->Simple_living_advocates" "Ascetics" > "Simple_living_advocates"
+ce "Ascetics->Simple_living_advocates"  "type":0
+ae "Anti-consumerists->Anti-corporate_activists" "Anti-consumerists" > "Anti-corporate_activists"
+ce "Anti-consumerists->Anti-corporate_activists"  "type":0
+ae "Activists_by_issue->Activists" "Activists_by_issue" > "Activists"
+ce "Activists_by_issue->Activists"  "type":0
+ae "Activism->Public_sphere" "Activism" > "Public_sphere"
+ce "Activism->Public_sphere"  "type":0
+ae "Human_activities->Humans" "Human_activities" > "Humans"
+ce "Human_activities->Humans"  "type":0

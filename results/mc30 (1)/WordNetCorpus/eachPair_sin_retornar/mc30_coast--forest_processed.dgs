@@ -1,0 +1,63 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "coast"
+cn "coast"  "ui.label":"coast"
+cn "coast"  "ui.style":"size-mode:fit;"
+an "shore"
+cn "shore"  "ui.label":"shore"
+cn "shore"  "ui.style":"size:6px; fill-color:white; "
+an "geological formation"
+cn "geological formation"  "ui.label":"geological formation"
+cn "geological formation"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "forest"
+cn "forest"  "ui.label":"forest"
+cn "forest"  "ui.style":"size-mode:fit;"
+an "vegetation"
+cn "vegetation"  "ui.label":"vegetation"
+cn "vegetation"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "foreshore"
+cn "foreshore"  "ui.label":"foreshore"
+cn "foreshore"  "ui.style":"size:6px; fill-color:white; "
+ae "coast->shore" "coast"  "shore"
+ce "coast->shore"  "type":0
+ae "shore->geological formation" "shore"  "geological formation"
+ce "shore->geological formation"  "type":0
+ae "geological formation->object" "geological formation"  "object"
+ce "geological formation->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "forest->vegetation" "forest"  "vegetation"
+ce "forest->vegetation"  "type":0
+ae "vegetation->collection" "vegetation"  "collection"
+ce "vegetation->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "coast->foreshore" "coast" > "foreshore"
+ce "coast->foreshore"  "type":7
+ae "geological formation->foreshore" "geological formation" > "foreshore"
+ce "geological formation->foreshore"  "type":1

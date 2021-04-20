@@ -1,0 +1,106 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Literature"
+cn "Literature"  "ui.label":"Literature"
+cn "Literature"  "ui.style":"size-mode:fit;"
+an "Arts_by_type"
+cn "Arts_by_type"  "ui.label":"Arts_by_type"
+cn "Arts_by_type"  "ui.style":"size:6px; fill-color:white; "
+an "Arts"
+cn "Arts"  "ui.label":"Arts"
+cn "Arts"  "ui.style":"size:6px; fill-color:white; "
+an "Creativity"
+cn "Creativity"  "ui.label":"Creativity"
+cn "Creativity"  "ui.style":"size:6px; fill-color:white; "
+an "Cognition"
+cn "Cognition"  "ui.label":"Cognition"
+cn "Cognition"  "ui.style":"size:6px; fill-color:white; "
+an "Consciousness"
+cn "Consciousness"  "ui.label":"Consciousness"
+cn "Consciousness"  "ui.style":"size:6px; fill-color:white; "
+an "Mind"
+cn "Mind"  "ui.label":"Mind"
+cn "Mind"  "ui.style":"size:6px; fill-color:white; "
+an "Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.label":"Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.style":"size:6px; fill-color:white; "
+an "Medicine"
+cn "Medicine"  "ui.label":"Medicine"
+cn "Medicine"  "ui.style":"size-mode:fit;"
+an "Branches_of_biology"
+cn "Branches_of_biology"  "ui.label":"Branches_of_biology"
+cn "Branches_of_biology"  "ui.style":"size:6px; fill-color:white; "
+an "Biology"
+cn "Biology"  "ui.label":"Biology"
+cn "Biology"  "ui.style":"size:6px; fill-color:white; "
+an "Life_sciences"
+cn "Life_sciences"  "ui.label":"Life_sciences"
+cn "Life_sciences"  "ui.style":"size:6px; fill-color:white; "
+an "Life"
+cn "Life"  "ui.label":"Life"
+cn "Life"  "ui.style":"size:6px; fill-color:white; "
+an "Culture"
+cn "Culture"  "ui.label":"Culture"
+cn "Culture"  "ui.style":"size:6px; fill-color:white; "
+an "Works_by_medium"
+cn "Works_by_medium"  "ui.label":"Works_by_medium"
+cn "Works_by_medium"  "ui.style":"size:6px; fill-color:white; "
+an "Categories_by_type"
+cn "Categories_by_type"  "ui.label":"Categories_by_type"
+cn "Categories_by_type"  "ui.style":"size:6px; fill-color:white; "
+an "Humanities"
+cn "Humanities"  "ui.label":"Humanities"
+cn "Humanities"  "ui.style":"size:6px; fill-color:white; "
+an "Educational_psychology"
+cn "Educational_psychology"  "ui.label":"Educational_psychology"
+cn "Educational_psychology"  "ui.style":"size:6px; fill-color:white; "
+an "Phenomenology"
+cn "Phenomenology"  "ui.label":"Phenomenology"
+cn "Phenomenology"  "ui.style":"size:6px; fill-color:white; "
+an "Thought"
+cn "Thought"  "ui.label":"Thought"
+cn "Thought"  "ui.style":"size:6px; fill-color:white; "
+an "Subfields_by_academic_discipline"
+cn "Subfields_by_academic_discipline"  "ui.label":"Subfields_by_academic_discipline"
+cn "Subfields_by_academic_discipline"  "ui.style":"size:6px; fill-color:white; "
+ae "Literature->Arts_by_type" "Literature"  "Arts_by_type"
+ce "Literature->Arts_by_type"  "type":0
+ae "Arts_by_type->Arts" "Arts_by_type"  "Arts"
+ce "Arts_by_type->Arts"  "type":0
+ae "Arts->Creativity" "Arts"  "Creativity"
+ce "Arts->Creativity"  "type":0
+ae "Creativity->Cognition" "Creativity"  "Cognition"
+ce "Creativity->Cognition"  "type":0
+ae "Cognition->Consciousness" "Cognition"  "Consciousness"
+ce "Cognition->Consciousness"  "type":0
+ae "Consciousness->Mind" "Consciousness"  "Mind"
+ce "Consciousness->Mind"  "type":0
+ae "Mind->Main_topic_classifications" "Mind"  "Main_topic_classifications"
+ce "Mind->Main_topic_classifications"  "type":0
+ae "Medicine->Branches_of_biology" "Medicine"  "Branches_of_biology"
+ce "Medicine->Branches_of_biology"  "type":0
+ae "Branches_of_biology->Biology" "Branches_of_biology"  "Biology"
+ce "Branches_of_biology->Biology"  "type":0
+ae "Biology->Life_sciences" "Biology"  "Life_sciences"
+ce "Biology->Life_sciences"  "type":0
+ae "Life_sciences->Life" "Life_sciences"  "Life"
+ce "Life_sciences->Life"  "type":0
+ae "Life->Main_topic_classifications" "Life"  "Main_topic_classifications"
+ce "Life->Main_topic_classifications"  "type":0
+ae "Literature->Culture" "Literature" > "Culture"
+ce "Literature->Culture"  "type":0
+ae "Literature->Works_by_medium" "Literature" > "Works_by_medium"
+ce "Literature->Works_by_medium"  "type":0
+ae "Arts_by_type->Categories_by_type" "Arts_by_type" > "Categories_by_type"
+ce "Arts_by_type->Categories_by_type"  "type":0
+ae "Arts->Humanities" "Arts" > "Humanities"
+ce "Arts->Humanities"  "type":0
+ae "Creativity->Educational_psychology" "Creativity" > "Educational_psychology"
+ce "Creativity->Educational_psychology"  "type":0
+ae "Cognition->Phenomenology" "Cognition" > "Phenomenology"
+ce "Cognition->Phenomenology"  "type":0
+ae "Cognition->Thought" "Cognition" > "Thought"
+ce "Cognition->Thought"  "type":0
+ae "Branches_of_biology->Subfields_by_academic_discipline" "Branches_of_biology" > "Subfields_by_academic_discipline"
+ce "Branches_of_biology->Subfields_by_academic_discipline"  "type":0

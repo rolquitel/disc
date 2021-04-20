@@ -1,0 +1,322 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "midday"
+cn "midday"  "ui.label":"midday"
+cn "midday"  "ui.style":"size-mode:fit;"
+an "hour"
+cn "hour"  "ui.label":"hour"
+cn "hour"  "ui.style":"size:6px; fill-color:white; "
+an "time unit"
+cn "time unit"  "ui.label":"time unit"
+cn "time unit"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "noon"
+cn "noon"  "ui.label":"noon"
+cn "noon"  "ui.style":"size-mode:fit;"
+an "day"
+cn "day"  "ui.label":"day"
+cn "day"  "ui.style":"size:6px; fill-color:white; "
+an "time"
+cn "time"  "ui.label":"time"
+cn "time"  "ui.style":"size:6px; fill-color:white; "
+an "case"
+cn "case"  "ui.label":"case"
+cn "case"  "ui.style":"size:6px; fill-color:white; "
+an "happening"
+cn "happening"  "ui.label":"happening"
+cn "happening"  "ui.style":"size:6px; fill-color:white; "
+an "event"
+cn "event"  "ui.label":"event"
+cn "event"  "ui.style":"size:6px; fill-color:white; "
+an "psychological feature"
+cn "psychological feature"  "ui.label":"psychological feature"
+cn "psychological feature"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "attribute"
+cn "attribute"  "ui.label":"attribute"
+cn "attribute"  "ui.style":"size:6px; fill-color:white; "
+an "flocculation"
+cn "flocculation"  "ui.label":"flocculation"
+cn "flocculation"  "ui.style":"size:6px; fill-color:white; "
+an "feedback"
+cn "feedback"  "ui.label":"feedback"
+cn "feedback"  "ui.style":"size:6px; fill-color:white; "
+an "union"
+cn "union"  "ui.label":"union"
+cn "union"  "ui.style":"size:6px; fill-color:white; "
+an "materialization"
+cn "materialization"  "ui.label":"materialization"
+cn "materialization"  "ui.style":"size:6px; fill-color:white; "
+an "domain"
+cn "domain"  "ui.label":"domain"
+cn "domain"  "ui.style":"size:6px; fill-color:white; "
+an "process"
+cn "process"  "ui.label":"process"
+cn "process"  "ui.style":"size:6px; fill-color:white; "
+an "centrifugation"
+cn "centrifugation"  "ui.label":"centrifugation"
+cn "centrifugation"  "ui.style":"size:6px; fill-color:white; "
+an "pair production"
+cn "pair production"  "ui.label":"pair production"
+cn "pair production"  "ui.style":"size:6px; fill-color:white; "
+an "group action"
+cn "group action"  "ui.label":"group action"
+cn "group action"  "ui.style":"size:6px; fill-color:white; "
+an "acidification"
+cn "acidification"  "ui.label":"acidification"
+cn "acidification"  "ui.style":"size:6px; fill-color:white; "
+an "sericulture"
+cn "sericulture"  "ui.label":"sericulture"
+cn "sericulture"  "ui.style":"size:6px; fill-color:white; "
+an "source"
+cn "source"  "ui.label":"source"
+cn "source"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "point"
+cn "point"  "ui.label":"point"
+cn "point"  "ui.style":"size:6px; fill-color:white; "
+an "transpiration"
+cn "transpiration"  "ui.label":"transpiration"
+cn "transpiration"  "ui.style":"size:6px; fill-color:white; "
+an "swing"
+cn "swing"  "ui.label":"swing"
+cn "swing"  "ui.style":"size:6px; fill-color:white; "
+an "mandate"
+cn "mandate"  "ui.label":"mandate"
+cn "mandate"  "ui.style":"size:6px; fill-color:white; "
+an "implantation"
+cn "implantation"  "ui.label":"implantation"
+cn "implantation"  "ui.style":"size:6px; fill-color:white; "
+an "experience"
+cn "experience"  "ui.label":"experience"
+cn "experience"  "ui.style":"size:6px; fill-color:white; "
+ae "midday->hour" "midday"  "hour"
+ce "midday->hour"  "type":0
+ae "hour->time unit" "hour"  "time unit"
+ce "hour->time unit"  "type":0
+ae "time unit->measure" "time unit"  "measure"
+ce "time unit->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "activity->state" "activity"  "state"
+ce "activity->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "noon->hour" "noon"  "hour"
+ce "noon->hour"  "type":0
+ae "noon->day" "noon"  "day"
+ce "noon->day"  "type":6
+ae "day->time unit" "day"  "time unit"
+ce "day->time unit"  "type":0
+ae "day->time" "day"  "time"
+ce "day->time"  "type":0
+ae "time->case" "time"  "case"
+ce "time->case"  "type":0
+ae "case->happening" "case"  "happening"
+ce "case->happening"  "type":0
+ae "happening->event" "happening"  "event"
+ce "happening->event"  "type":0
+ae "event->psychological feature" "event"  "psychological feature"
+ce "event->psychological feature"  "type":0
+ae "psychological feature->abstraction" "psychological feature"  "abstraction"
+ce "psychological feature->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "midday->day" "midday" > "day"
+ce "midday->day"  "type":6
+ae "abstraction->measure" "abstraction" > "measure"
+ce "abstraction->measure"  "type":1
+ae "action->sericulture" "action" > "sericulture"
+ce "action->sericulture"  "type":1
+ae "abstraction->attribute" "abstraction" > "attribute"
+ce "abstraction->attribute"  "type":1
+ae "action->source" "action" > "source"
+ce "action->source"  "type":1
+ae "activity->centrifugation" "activity" > "centrifugation"
+ce "activity->centrifugation"  "type":1
+ae "time->experience" "time" > "experience"
+ce "time->experience"  "type":0
+ae "activity->acidification" "activity" > "acidification"
+ce "activity->acidification"  "type":1
+ae "hour->day" "hour" > "day"
+ce "hour->day"  "type":6
+ae "action->transpiration" "action" > "transpiration"
+ce "action->transpiration"  "type":1
+ae "location->implantation" "location" > "implantation"
+ce "location->implantation"  "type":1
+ae "activity->transpiration" "activity" > "transpiration"
+ce "activity->transpiration"  "type":1
+ae "state->representation" "state" > "representation"
+ce "state->representation"  "type":1
+ae "writing->activity" "writing" > "activity"
+ce "writing->activity"  "type":0
+ae "document->source" "document" > "source"
+ce "document->source"  "type":1
+ae "state->action" "state" > "action"
+ce "state->action"  "type":1
+ae "operation->activity" "operation" > "activity"
+ce "operation->activity"  "type":0
+ae "event->group action" "event" > "group action"
+ce "event->group action"  "type":1
+ae "measure->legal document" "measure" > "legal document"
+ce "measure->legal document"  "type":0
+ae "measure->activity" "measure" > "activity"
+ce "measure->activity"  "type":0
+ae "action->swing" "action" > "swing"
+ce "action->swing"  "type":1
+ae "legal document->mandate" "legal document" > "mandate"
+ce "legal document->mandate"  "type":1
+ae "district->mandate" "district" > "mandate"
+ce "district->mandate"  "type":1
+ae "activity->swing" "activity" > "swing"
+ce "activity->swing"  "type":1
+ae "state->domain" "state" > "domain"
+ce "state->domain"  "type":7
+ae "operation->process" "operation" > "process"
+ce "operation->process"  "type":0
+ae "happening->union" "happening" > "union"
+ce "happening->union"  "type":1
+ae "action->centrifugation" "action" > "centrifugation"
+ce "action->centrifugation"  "type":1
+ae "activity->feedback" "activity" > "feedback"
+ce "activity->feedback"  "type":1
+ae "measure->point" "measure" > "point"
+ce "measure->point"  "type":1
+ae "action->pair production" "action" > "pair production"
+ce "action->pair production"  "type":1
+ae "activity->flocculation" "activity" > "flocculation"
+ce "activity->flocculation"  "type":1
+ae "state->union" "state" > "union"
+ce "state->union"  "type":1
+ae "operation->implantation" "operation" > "implantation"
+ce "operation->implantation"  "type":1
+ae "action->materialization" "action" > "materialization"
+ce "action->materialization"  "type":1
+ae "activity->materialization" "activity" > "materialization"
+ce "activity->materialization"  "type":1
+ae "object->point" "object" > "point"
+ce "object->point"  "type":1
+ae "action->acidification" "action" > "acidification"
+ce "action->acidification"  "type":1
+ae "activity->pair production" "activity" > "pair production"
+ce "activity->pair production"  "type":1
+ae "happening->experience" "happening" > "experience"
+ce "happening->experience"  "type":1
+ae "act->group action" "act" > "group action"
+ce "act->group action"  "type":1
+ae "activity->sericulture" "activity" > "sericulture"
+ce "activity->sericulture"  "type":1
+ae "activity->operation" "activity" > "operation"
+ce "activity->operation"  "type":1
+ae "region->domain" "region" > "domain"
+ce "region->domain"  "type":1
+ae "activity->representation" "activity" > "representation"
+ce "activity->representation"  "type":1
+ae "action->flocculation" "action" > "flocculation"
+ce "action->flocculation"  "type":1
+ae "state->attribute" "state" > "attribute"
+ce "state->attribute"  "type":0
+ae "action->feedback" "action" > "feedback"
+ce "action->feedback"  "type":1
+ae "action->state" "action" > "state"
+ce "action->state"  "type":0
+ae "action->process" "action" > "process"
+ce "action->process"  "type":0

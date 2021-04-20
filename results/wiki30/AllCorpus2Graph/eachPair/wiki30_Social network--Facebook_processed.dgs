@@ -1,0 +1,822 @@
+DGS004
+null 0 0
+an "Social network"
+cn "Social network"  "ui.label":"Social network"
+cn "Social network"  "ui.style":"size-mode:fit;"
+an "Social structure"
+cn "Social structure"  "ui.label":"Social structure"
+cn "Social structure"  "ui.style":"size:6px; fill-color:white; "
+an "system"
+cn "system"  "ui.label":"system"
+cn "system"  "ui.style":"size:6px; fill-color:white; "
+an "instrumentality"
+cn "instrumentality"  "ui.label":"instrumentality"
+cn "instrumentality"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "definite quantity"
+cn "definite quantity"  "ui.label":"definite quantity"
+cn "definite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Facebook"
+cn "Facebook"  "ui.label":"Facebook"
+cn "Facebook"  "ui.style":"size-mode:fit;"
+an "Public company"
+cn "Public company"  "ui.label":"Public company"
+cn "Public company"  "ui.style":"size:6px; fill-color:white; "
+an "Dutch East India Company"
+cn "Dutch East India Company"  "ui.label":"Dutch East India Company"
+cn "Dutch East India Company"  "ui.style":"size:6px; fill-color:white; "
+an "Voorcompagnie"
+cn "Voorcompagnie"  "ui.label":"Voorcompagnie"
+cn "Voorcompagnie"  "ui.style":"size:6px; fill-color:white; "
+an "Dutch Republic"
+cn "Dutch Republic"  "ui.label":"Dutch Republic"
+cn "Dutch Republic"  "ui.style":"size:6px; fill-color:white; "
+an "Statenvlag"
+cn "Statenvlag"  "ui.label":"Statenvlag"
+cn "Statenvlag"  "ui.style":"size:6px; fill-color:white; "
+an "Tricolour (flag)"
+cn "Tricolour (flag)"  "ui.label":"Tricolour (flag)"
+cn "Tricolour (flag)"  "ui.style":"size:6px; fill-color:white; "
+an "Triband (flag)"
+cn "Triband (flag)"  "ui.label":"Triband (flag)"
+cn "Triband (flag)"  "ui.style":"size:6px; fill-color:white; "
+an "Flag"
+cn "Flag"  "ui.label":"Flag"
+cn "Flag"  "ui.style":"size:6px; fill-color:white; "
+an "emblem"
+cn "emblem"  "ui.label":"emblem"
+cn "emblem"  "ui.style":"size:6px; fill-color:white; "
+an "design"
+cn "design"  "ui.label":"design"
+cn "design"  "ui.style":"size:6px; fill-color:white; "
+an "arrangement"
+cn "arrangement"  "ui.label":"arrangement"
+cn "arrangement"  "ui.style":"size:6px; fill-color:white; "
+an "planning"
+cn "planning"  "ui.label":"planning"
+cn "planning"  "ui.style":"size:6px; fill-color:white; "
+an "preparation"
+cn "preparation"  "ui.label":"preparation"
+cn "preparation"  "ui.style":"size:6px; fill-color:white; "
+an "compound"
+cn "compound"  "ui.label":"compound"
+cn "compound"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "Category:Types of flags"
+cn "Category:Types of flags"  "ui.label":"Category:Types of flags"
+cn "Category:Types of flags"  "ui.style":"size:6px; fill-color:white; "
+an "curdling"
+cn "curdling"  "ui.label":"curdling"
+cn "curdling"  "ui.style":"size:6px; fill-color:white; "
+an "dissolution"
+cn "dissolution"  "ui.label":"dissolution"
+cn "dissolution"  "ui.style":"size:6px; fill-color:white; "
+an "capture"
+cn "capture"  "ui.label":"capture"
+cn "capture"  "ui.style":"size:6px; fill-color:white; "
+an "Notion (philosophy)"
+cn "Notion (philosophy)"  "ui.label":"Notion (philosophy)"
+cn "Notion (philosophy)"  "ui.style":"size:6px; fill-color:white; "
+an "colors"
+cn "colors"  "ui.label":"colors"
+cn "colors"  "ui.style":"size:6px; fill-color:white; "
+an "Meme"
+cn "Meme"  "ui.label":"Meme"
+cn "Meme"  "ui.style":"size:6px; fill-color:white; "
+an "Dutch language"
+cn "Dutch language"  "ui.label":"Dutch language"
+cn "Dutch language"  "ui.style":"size:6px; fill-color:white; "
+an "Stadtholder"
+cn "Stadtholder"  "ui.label":"Stadtholder"
+cn "Stadtholder"  "ui.style":"size:6px; fill-color:white; "
+an "Pan-Slavic colors"
+cn "Pan-Slavic colors"  "ui.label":"Pan-Slavic colors"
+cn "Pan-Slavic colors"  "ui.style":"size:6px; fill-color:white; "
+an "Flag of Colombia"
+cn "Flag of Colombia"  "ui.label":"Flag of Colombia"
+cn "Flag of Colombia"  "ui.style":"size:6px; fill-color:white; "
+an "Claude Lévi-Strauss"
+cn "Claude Lévi-Strauss"  "ui.label":"Claude Lévi-Strauss"
+cn "Claude Lévi-Strauss"  "ui.style":"size:6px; fill-color:white; "
+an "part"
+cn "part"  "ui.label":"part"
+cn "part"  "ui.style":"size:6px; fill-color:white; "
+an "States of Germany"
+cn "States of Germany"  "ui.label":"States of Germany"
+cn "States of Germany"  "ui.style":"size:6px; fill-color:white; "
+an "Talcott Parsons"
+cn "Talcott Parsons"  "ui.label":"Talcott Parsons"
+cn "Talcott Parsons"  "ui.style":"size:6px; fill-color:white; "
+an "Peter Blau"
+cn "Peter Blau"  "ui.label":"Peter Blau"
+cn "Peter Blau"  "ui.style":"size:6px; fill-color:white; "
+an "agreement"
+cn "agreement"  "ui.label":"agreement"
+cn "agreement"  "ui.style":"size:6px; fill-color:white; "
+an "government"
+cn "government"  "ui.label":"government"
+cn "government"  "ui.style":"size:6px; fill-color:white; "
+an "pair production"
+cn "pair production"  "ui.label":"pair production"
+cn "pair production"  "ui.style":"size:6px; fill-color:white; "
+an "precession of the equinoxes"
+cn "precession of the equinoxes"  "ui.label":"precession of the equinoxes"
+cn "precession of the equinoxes"  "ui.style":"size:6px; fill-color:white; "
+an "sink"
+cn "sink"  "ui.label":"sink"
+cn "sink"  "ui.style":"size:6px; fill-color:white; "
+an "Thought"
+cn "Thought"  "ui.label":"Thought"
+cn "Thought"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "device"
+cn "device"  "ui.label":"device"
+cn "device"  "ui.style":"size:6px; fill-color:white; "
+an "Flag of Nigeria"
+cn "Flag of Nigeria"  "ui.label":"Flag of Nigeria"
+cn "Flag of Nigeria"  "ui.style":"size:6px; fill-color:white; "
+an "process"
+cn "process"  "ui.label":"process"
+cn "process"  "ui.style":"size:6px; fill-color:white; "
+an "Flag of Chad"
+cn "Flag of Chad"  "ui.label":"Flag of Chad"
+cn "Flag of Chad"  "ui.style":"size:6px; fill-color:white; "
+an "conveyance"
+cn "conveyance"  "ui.label":"conveyance"
+cn "conveyance"  "ui.style":"size:6px; fill-color:white; "
+an "Thailand"
+cn "Thailand"  "ui.label":"Thailand"
+cn "Thailand"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "History"
+cn "History"  "ui.label":"History"
+cn "History"  "ui.style":"size:6px; fill-color:white; "
+an "Canton of Neuchâtel"
+cn "Canton of Neuchâtel"  "ui.label":"Canton of Neuchâtel"
+cn "Canton of Neuchâtel"  "ui.style":"size:6px; fill-color:white; "
+an "base"
+cn "base"  "ui.label":"base"
+cn "base"  "ui.style":"size:6px; fill-color:white; "
+an "Philosophy"
+cn "Philosophy"  "ui.label":"Philosophy"
+cn "Philosophy"  "ui.style":"size:6px; fill-color:white; "
+an "formation"
+cn "formation"  "ui.label":"formation"
+cn "formation"  "ui.style":"size:6px; fill-color:white; "
+an "contrivance"
+cn "contrivance"  "ui.label":"contrivance"
+cn "contrivance"  "ui.style":"size:6px; fill-color:white; "
+an "coordinate system"
+cn "coordinate system"  "ui.label":"coordinate system"
+cn "coordinate system"  "ui.style":"size:6px; fill-color:white; "
+an "prosecution"
+cn "prosecution"  "ui.label":"prosecution"
+cn "prosecution"  "ui.style":"size:6px; fill-color:white; "
+an "side"
+cn "side"  "ui.label":"side"
+cn "side"  "ui.style":"size:6px; fill-color:white; "
+an "Iran"
+cn "Iran"  "ui.label":"Iran"
+cn "Iran"  "ui.style":"size:6px; fill-color:white; "
+an "motif"
+cn "motif"  "ui.label":"motif"
+cn "motif"  "ui.style":"size:6px; fill-color:white; "
+an "Linguistics"
+cn "Linguistics"  "ui.label":"Linguistics"
+cn "Linguistics"  "ui.style":"size:6px; fill-color:white; "
+an "rule"
+cn "rule"  "ui.label":"rule"
+cn "rule"  "ui.style":"size:6px; fill-color:white; "
+an "White paper"
+cn "White paper"  "ui.label":"White paper"
+cn "White paper"  "ui.style":"size:6px; fill-color:white; "
+an "Republic of Ireland"
+cn "Republic of Ireland"  "ui.label":"Republic of Ireland"
+cn "Republic of Ireland"  "ui.style":"size:6px; fill-color:white; "
+an "Culture"
+cn "Culture"  "ui.label":"Culture"
+cn "Culture"  "ui.style":"size:6px; fill-color:white; "
+an "Asia"
+cn "Asia"  "ui.label":"Asia"
+cn "Asia"  "ui.style":"size:6px; fill-color:white; "
+an "Engineering"
+cn "Engineering"  "ui.label":"Engineering"
+cn "Engineering"  "ui.style":"size:6px; fill-color:white; "
+an "Information"
+cn "Information"  "ui.label":"Information"
+cn "Information"  "ui.style":"size:6px; fill-color:white; "
+an "Human"
+cn "Human"  "ui.label":"Human"
+cn "Human"  "ui.style":"size:6px; fill-color:white; "
+an "Computer science"
+cn "Computer science"  "ui.label":"Computer science"
+cn "Computer science"  "ui.style":"size:6px; fill-color:white; "
+an "Morpheme"
+cn "Morpheme"  "ui.label":"Morpheme"
+cn "Morpheme"  "ui.style":"size:6px; fill-color:white; "
+an "Construction"
+cn "Construction"  "ui.label":"Construction"
+cn "Construction"  "ui.style":"size:6px; fill-color:white; "
+an "complex"
+cn "complex"  "ui.label":"complex"
+cn "complex"  "ui.style":"size:6px; fill-color:white; "
+an "Dutch Revolt"
+cn "Dutch Revolt"  "ui.label":"Dutch Revolt"
+cn "Dutch Revolt"  "ui.style":"size:6px; fill-color:white; "
+an "Legal person"
+cn "Legal person"  "ui.label":"Legal person"
+cn "Legal person"  "ui.style":"size:6px; fill-color:white; "
+an "Paper"
+cn "Paper"  "ui.label":"Paper"
+cn "Paper"  "ui.style":"size:6px; fill-color:white; "
+an "Abstraction"
+cn "Abstraction"  "ui.label":"Abstraction"
+cn "Abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "fenestration"
+cn "fenestration"  "ui.label":"fenestration"
+cn "fenestration"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "Cross"
+cn "Cross"  "ui.label":"Cross"
+cn "Cross"  "ui.style":"size:6px; fill-color:white; "
+an "Ontology"
+cn "Ontology"  "ui.label":"Ontology"
+cn "Ontology"  "ui.style":"size:6px; fill-color:white; "
+an "mandate"
+cn "mandate"  "ui.label":"mandate"
+cn "mandate"  "ui.style":"size:6px; fill-color:white; "
+an "Listing (finance)"
+cn "Listing (finance)"  "ui.label":"Listing (finance)"
+cn "Listing (finance)"  "ui.style":"size:6px; fill-color:white; "
+an "Concept"
+cn "Concept"  "ui.label":"Concept"
+cn "Concept"  "ui.style":"size:6px; fill-color:white; "
+an "Sovereign state"
+cn "Sovereign state"  "ui.label":"Sovereign state"
+cn "Sovereign state"  "ui.style":"size:6px; fill-color:white; "
+an "Earth"
+cn "Earth"  "ui.label":"Earth"
+cn "Earth"  "ui.style":"size:6px; fill-color:white; "
+an "Holism"
+cn "Holism"  "ui.label":"Holism"
+cn "Holism"  "ui.style":"size:6px; fill-color:white; "
+an "Amsterdam"
+cn "Amsterdam"  "ui.label":"Amsterdam"
+cn "Amsterdam"  "ui.style":"size:6px; fill-color:white; "
+an "China"
+cn "China"  "ui.label":"China"
+cn "China"  "ui.style":"size:6px; fill-color:white; "
+an "Advertising"
+cn "Advertising"  "ui.label":"Advertising"
+cn "Advertising"  "ui.style":"size:6px; fill-color:white; "
+an "Latin"
+cn "Latin"  "ui.label":"Latin"
+cn "Latin"  "ui.style":"size:6px; fill-color:white; "
+an "Dividend"
+cn "Dividend"  "ui.label":"Dividend"
+cn "Dividend"  "ui.style":"size:6px; fill-color:white; "
+an "Karl Marx"
+cn "Karl Marx"  "ui.label":"Karl Marx"
+cn "Karl Marx"  "ui.style":"size:6px; fill-color:white; "
+an "Nation state"
+cn "Nation state"  "ui.label":"Nation state"
+cn "Nation state"  "ui.style":"size:6px; fill-color:white; "
+an "Massachusetts"
+cn "Massachusetts"  "ui.label":"Massachusetts"
+cn "Massachusetts"  "ui.style":"size:6px; fill-color:white; "
+ae "Social network->Social structure" "Social network"  "Social structure"
+ce "Social network->Social structure"  "type":8
+ae "Social structure->system" "Social structure"  "system"
+ce "Social structure->system"  "type":0
+ae "system->instrumentality" "system"  "instrumentality"
+ce "system->instrumentality"  "type":0
+ae "instrumentality->unit" "instrumentality"  "unit"
+ce "instrumentality->unit"  "type":0
+ae "unit->definite quantity" "unit"  "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity"  "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "activity->state" "activity"  "state"
+ce "activity->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "Facebook->Public company" "Facebook"  "Public company"
+ce "Facebook->Public company"  "type":8
+ae "Public company->Dutch East India Company" "Public company"  "Dutch East India Company"
+ce "Public company->Dutch East India Company"  "type":8
+ae "Dutch East India Company->Voorcompagnie" "Dutch East India Company"  "Voorcompagnie"
+ce "Dutch East India Company->Voorcompagnie"  "type":8
+ae "Voorcompagnie->Dutch Republic" "Voorcompagnie"  "Dutch Republic"
+ce "Voorcompagnie->Dutch Republic"  "type":8
+ae "Dutch Republic->Statenvlag" "Dutch Republic"  "Statenvlag"
+ce "Dutch Republic->Statenvlag"  "type":8
+ae "Statenvlag->Tricolour (flag)" "Statenvlag"  "Tricolour (flag)"
+ce "Statenvlag->Tricolour (flag)"  "type":8
+ae "Tricolour (flag)->Triband (flag)" "Tricolour (flag)"  "Triband (flag)"
+ce "Tricolour (flag)->Triband (flag)"  "type":8
+ae "Triband (flag)->Flag" "Triband (flag)"  "Flag"
+ce "Triband (flag)->Flag"  "type":8
+ae "Flag->emblem" "Flag"  "emblem"
+ce "Flag->emblem"  "type":0
+ae "emblem->design" "emblem"  "design"
+ce "emblem->design"  "type":0
+ae "design->creating by mental acts" "design"  "creating by mental acts"
+ce "design->creating by mental acts"  "type":0
+ae "design->arrangement" "design"  "arrangement"
+ce "design->arrangement"  "type":0
+ae "arrangement->planning" "arrangement"  "planning"
+ce "arrangement->planning"  "type":0
+ae "planning->preparation" "planning"  "preparation"
+ce "planning->preparation"  "type":0
+ae "preparation->activity" "preparation"  "activity"
+ce "preparation->activity"  "type":0
+ae "preparation->compound" "preparation"  "compound"
+ce "preparation->compound"  "type":0
+ae "compound->whole" "compound"  "whole"
+ce "compound->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "activity->curdling" "activity" > "curdling"
+ce "activity->curdling"  "type":1
+ae "activity->dissolution" "activity" > "dissolution"
+ce "activity->dissolution"  "type":1
+ae "idea->motif" "idea" > "motif"
+ce "idea->motif"  "type":1
+ae "object->thing" "object" > "thing"
+ce "object->thing"  "type":1
+ae "activity->formation" "activity" > "formation"
+ce "activity->formation"  "type":1
+ae "measure->rule" "measure" > "rule"
+ce "measure->rule"  "type":1
+ae "Tricolour (flag)->Category:Types of flags" "Tricolour (flag)" > "Category:Types of flags"
+ce "Tricolour (flag)->Category:Types of flags"  "type":8
+ae "Flag->Pan-Slavic colors" "Flag" > "Pan-Slavic colors"
+ce "Flag->Pan-Slavic colors"  "type":8
+ae "design->planning" "design" > "planning"
+ce "design->planning"  "type":1
+ae "abstraction->Morpheme" "abstraction" > "Morpheme"
+ce "abstraction->Morpheme"  "type":8
+ae "activity->pair production" "activity" > "pair production"
+ce "activity->pair production"  "type":1
+ae "Social network->Claude Lévi-Strauss" "Social network" > "Claude Lévi-Strauss"
+ce "Social network->Claude Lévi-Strauss"  "type":8
+ae "abstraction->Linguistics" "abstraction" > "Linguistics"
+ce "abstraction->Linguistics"  "type":8
+ae "abstraction->History" "abstraction" > "History"
+ce "abstraction->History"  "type":8
+ae "Social network->Talcott Parsons" "Social network" > "Talcott Parsons"
+ce "Social network->Talcott Parsons"  "type":8
+ae "Social network->Peter Blau" "Social network" > "Peter Blau"
+ce "Social network->Peter Blau"  "type":8
+ae "activity->precession of the equinoxes" "activity" > "precession of the equinoxes"
+ce "activity->precession of the equinoxes"  "type":1
+ae "state->Sovereign state" "state" > "Sovereign state"
+ce "state->Sovereign state"  "type":8
+ae "activity->sink" "activity" > "sink"
+ce "activity->sink"  "type":1
+ae "Dutch Republic->Amsterdam" "Dutch Republic" > "Amsterdam"
+ce "Dutch Republic->Amsterdam"  "type":8
+ae "Dutch East India Company->Listing (finance)" "Dutch East India Company" > "Listing (finance)"
+ce "Dutch East India Company->Listing (finance)"  "type":8
+ae "abstraction->Computer science" "abstraction" > "Computer science"
+ce "abstraction->Computer science"  "type":8
+ae "Triband (flag)->Flag of Nigeria" "Triband (flag)" > "Flag of Nigeria"
+ce "Triband (flag)->Flag of Nigeria"  "type":8
+ae "Public company->Listing (finance)" "Public company" > "Listing (finance)"
+ce "Public company->Listing (finance)"  "type":8
+ae "abstraction->Thought" "abstraction" > "Thought"
+ce "abstraction->Thought"  "type":8
+ae "state->States of Germany" "state" > "States of Germany"
+ce "state->States of Germany"  "type":8
+ae "Triband (flag)->Flag of Colombia" "Triband (flag)" > "Flag of Colombia"
+ce "Triband (flag)->Flag of Colombia"  "type":8
+ae "Dutch East India Company->Legal person" "Dutch East India Company" > "Legal person"
+ce "Dutch East India Company->Legal person"  "type":8
+ae "document->Paper" "document" > "Paper"
+ce "document->Paper"  "type":8
+ae "region->Human" "region" > "Human"
+ce "region->Human"  "type":8
+ae "abstraction->Construction" "abstraction" > "Construction"
+ce "abstraction->Construction"  "type":8
+ae "content->communication" "content" > "communication"
+ce "content->communication"  "type":0
+ae "region->Culture" "region" > "Culture"
+ce "region->Culture"  "type":8
+ae "content->thing" "content" > "thing"
+ce "content->thing"  "type":0
+ae "abstraction->Ontology" "abstraction" > "Ontology"
+ce "abstraction->Ontology"  "type":8
+ae "state->government" "state" > "government"
+ce "state->government"  "type":0
+ae "abstraction->Karl Marx" "abstraction" > "Karl Marx"
+ce "abstraction->Karl Marx"  "type":8
+ae "unit->side" "unit" > "side"
+ce "unit->side"  "type":1
+ae "location->activity" "location" > "activity"
+ce "location->activity"  "type":0
+ae "Flag->Latin" "Flag" > "Latin"
+ce "Flag->Latin"  "type":8
+ae "region->side" "region" > "side"
+ce "region->side"  "type":1
+ae "location->base" "location" > "base"
+ce "location->base"  "type":1
+ae "whole->Holism" "whole" > "Holism"
+ce "whole->Holism"  "type":8
+ae "whole->part" "whole" > "part"
+ce "whole->part"  "type":7
+ae "whole->complex" "whole" > "complex"
+ce "whole->complex"  "type":1
+ae "Social network->Culture" "Social network" > "Culture"
+ce "Social network->Culture"  "type":8
+ae "maneuver->device" "maneuver" > "device"
+ce "maneuver->device"  "type":1
+ae "document->Information" "document" > "Information"
+ce "document->Information"  "type":8
+ae "location->Earth" "location" > "Earth"
+ce "location->Earth"  "type":1
+ae "Social network->Human" "Social network" > "Human"
+ce "Social network->Human"  "type":8
+ae "concept->Philosophy" "concept" > "Philosophy"
+ce "concept->Philosophy"  "type":8
+ae "state->representation" "state" > "representation"
+ce "state->representation"  "type":1
+ae "abstraction->Information" "abstraction" > "Information"
+ce "abstraction->Information"  "type":8
+ae "Flag->Advertising" "Flag" > "Advertising"
+ce "Flag->Advertising"  "type":8
+ae "document->White paper" "document" > "White paper"
+ce "document->White paper"  "type":8
+ae "abstraction->Concept" "abstraction" > "Concept"
+ce "abstraction->Concept"  "type":8
+ae "instrumentality->conveyance" "instrumentality" > "conveyance"
+ce "instrumentality->conveyance"  "type":1
+ae "concept->Notion (philosophy)" "concept" > "Notion (philosophy)"
+ce "concept->Notion (philosophy)"  "type":8
+ae "instrumentality->device" "instrumentality" > "device"
+ce "instrumentality->device"  "type":1
+ae "Facebook->Iran" "Facebook" > "Iran"
+ce "Facebook->Iran"  "type":8
+ae "operation->activity" "operation" > "activity"
+ce "operation->activity"  "type":0
+ae "Facebook->China" "Facebook" > "China"
+ce "Facebook->China"  "type":8
+ae "Flag->Stadtholder" "Flag" > "Stadtholder"
+ce "Flag->Stadtholder"  "type":8
+ae "act->communication" "act" > "communication"
+ce "act->communication"  "type":1
+ae "region->Earth" "region" > "Earth"
+ce "region->Earth"  "type":8
+ae "emblem->Meme" "emblem" > "Meme"
+ce "emblem->Meme"  "type":8
+ae "object->content" "object" > "content"
+ce "object->content"  "type":0
+ae "object->whole" "object" > "whole"
+ce "object->whole"  "type":1
+ae "concept->Abstraction" "concept" > "Abstraction"
+ce "concept->Abstraction"  "type":8
+ae "Dutch Republic->Dutch language" "Dutch Republic" > "Dutch language"
+ce "Dutch Republic->Dutch language"  "type":8
+ae "content->object" "content" > "object"
+ce "content->object"  "type":1
+ae "object->part" "object" > "part"
+ce "object->part"  "type":1
+ae "idea->Philosophy" "idea" > "Philosophy"
+ce "idea->Philosophy"  "type":8
+ae "activity->capture" "activity" > "capture"
+ce "activity->capture"  "type":1
+ae "planning->agreement" "planning" > "agreement"
+ce "planning->agreement"  "type":1
+ae "Social structure->Claude Lévi-Strauss" "Social structure" > "Claude Lévi-Strauss"
+ce "Social structure->Claude Lévi-Strauss"  "type":8
+ae "arrangement->fenestration" "arrangement" > "fenestration"
+ce "arrangement->fenestration"  "type":1
+ae "planning->Thought" "planning" > "Thought"
+ce "planning->Thought"  "type":8
+ae "Social structure->Karl Marx" "Social structure" > "Karl Marx"
+ce "Social structure->Karl Marx"  "type":8
+ae "arrangement->formation" "arrangement" > "formation"
+ce "arrangement->formation"  "type":1
+ae "idea->Abstraction" "idea" > "Abstraction"
+ce "idea->Abstraction"  "type":8
+ae "idea->Ontology" "idea" > "Ontology"
+ce "idea->Ontology"  "type":8
+ae "district->mandate" "district" > "mandate"
+ce "district->mandate"  "type":1
+ae "Tricolour (flag)->Pan-Slavic colors" "Tricolour (flag)" > "Pan-Slavic colors"
+ce "Tricolour (flag)->Pan-Slavic colors"  "type":8
+ae "Social structure->Talcott Parsons" "Social structure" > "Talcott Parsons"
+ce "Social structure->Talcott Parsons"  "type":8
+ae "Social structure->Peter Blau" "Social structure" > "Peter Blau"
+ce "Social structure->Peter Blau"  "type":8
+ae "arrangement->coordinate system" "arrangement" > "coordinate system"
+ce "arrangement->coordinate system"  "type":1
+ae "physical entity->process" "physical entity" > "process"
+ce "physical entity->process"  "type":1
+ae "entity->thing" "entity" > "thing"
+ce "entity->thing"  "type":1
+ae "arrangement->contrivance" "arrangement" > "contrivance"
+ce "arrangement->contrivance"  "type":1
+ae "Dutch East India Company->Stadtholder" "Dutch East India Company" > "Stadtholder"
+ce "Dutch East India Company->Stadtholder"  "type":8
+ae "idea->Meme" "idea" > "Meme"
+ce "idea->Meme"  "type":8
+ae "Tricolour (flag)->Nation state" "Tricolour (flag)" > "Nation state"
+ce "Tricolour (flag)->Nation state"  "type":8
+ae "Facebook->Asia" "Facebook" > "Asia"
+ce "Facebook->Asia"  "type":8
+ae "operation->fenestration" "operation" > "fenestration"
+ce "operation->fenestration"  "type":1
+ae "arrangement->group" "arrangement" > "group"
+ce "arrangement->group"  "type":0
+ae "Flag->Republic of Ireland" "Flag" > "Republic of Ireland"
+ce "Flag->Republic of Ireland"  "type":8
+ae "entity->Legal person" "entity" > "Legal person"
+ce "entity->Legal person"  "type":8
+ae "writing->History" "writing" > "History"
+ce "writing->History"  "type":8
+ae "Triband (flag)->Canton of Neuchâtel" "Triband (flag)" > "Canton of Neuchâtel"
+ce "Triband (flag)->Canton of Neuchâtel"  "type":8
+ae "group->arrangement" "group" > "arrangement"
+ce "group->arrangement"  "type":1
+ae "Dutch East India Company->Dividend" "Dutch East India Company" > "Dividend"
+ce "Dutch East India Company->Dividend"  "type":8
+ae "writing->Culture" "writing" > "Culture"
+ce "writing->Culture"  "type":8
+ae "action->prosecution" "action" > "prosecution"
+ce "action->prosecution"  "type":1
+ae "Dutch East India Company->Thailand" "Dutch East India Company" > "Thailand"
+ce "Dutch East India Company->Thailand"  "type":8
+ae "Flag->Thailand" "Flag" > "Thailand"
+ce "Flag->Thailand"  "type":8
+ae "Facebook->Massachusetts" "Facebook" > "Massachusetts"
+ce "Facebook->Massachusetts"  "type":8
+ae "Tricolour (flag)->Flag of Nigeria" "Tricolour (flag)" > "Flag of Nigeria"
+ce "Tricolour (flag)->Flag of Nigeria"  "type":8
+ae "preparation->agreement" "preparation" > "agreement"
+ce "preparation->agreement"  "type":1
+ae "Tricolour (flag)->Flag of Chad" "Tricolour (flag)" > "Flag of Chad"
+ce "Tricolour (flag)->Flag of Chad"  "type":8
+ae "legal document->conveyance" "legal document" > "conveyance"
+ce "legal document->conveyance"  "type":1
+ae "activity->writing" "activity" > "writing"
+ce "activity->writing"  "type":1
+ae "Triband (flag)->Category:Types of flags" "Triband (flag)" > "Category:Types of flags"
+ce "Triband (flag)->Category:Types of flags"  "type":8
+ae "Facebook->Advertising" "Facebook" > "Advertising"
+ce "Facebook->Advertising"  "type":8
+ae "action->sink" "action" > "sink"
+ce "action->sink"  "type":1
+ae "action->precession of the equinoxes" "action" > "precession of the equinoxes"
+ce "action->precession of the equinoxes"  "type":1
+ae "action->pair production" "action" > "pair production"
+ce "action->pair production"  "type":1
+ae "Flag->Cross" "Flag" > "Cross"
+ce "Flag->Cross"  "type":8
+ae "Tricolour (flag)->Canton of Neuchâtel" "Tricolour (flag)" > "Canton of Neuchâtel"
+ce "Tricolour (flag)->Canton of Neuchâtel"  "type":8
+ae "system->government" "system" > "government"
+ce "system->government"  "type":1
+ae "emblem->Cross" "emblem" > "Cross"
+ce "emblem->Cross"  "type":1
+ae "legal document->mandate" "legal document" > "mandate"
+ce "legal document->mandate"  "type":1
+ae "Flag->Flag of Chad" "Flag" > "Flag of Chad"
+ce "Flag->Flag of Chad"  "type":8
+ae "Tricolour (flag)->Dutch Republic" "Tricolour (flag)" > "Dutch Republic"
+ce "Tricolour (flag)->Dutch Republic"  "type":8
+ae "system->contrivance" "system" > "contrivance"
+ce "system->contrivance"  "type":1
+ae "system->coordinate system" "system" > "coordinate system"
+ce "system->coordinate system"  "type":1
+ae "design->Construction" "design" > "Construction"
+ce "design->Construction"  "type":8
+ae "system->design" "system" > "design"
+ce "system->design"  "type":1
+ae "district->China" "district" > "China"
+ce "district->China"  "type":8
+ae "document->communication" "document" > "communication"
+ce "document->communication"  "type":0
+ae "emblem->colors" "emblem" > "colors"
+ce "emblem->colors"  "type":1
+ae "concept->rule" "concept" > "rule"
+ce "concept->rule"  "type":1
+ae "Dutch East India Company->Dutch Revolt" "Dutch East India Company" > "Dutch Revolt"
+ce "Dutch East India Company->Dutch Revolt"  "type":8
+ae "writing->Morpheme" "writing" > "Morpheme"
+ce "writing->Morpheme"  "type":8
+ae "design->Engineering" "design" > "Engineering"
+ce "design->Engineering"  "type":8
+ae "Dutch East India Company->Massachusetts" "Dutch East India Company" > "Massachusetts"
+ce "Dutch East India Company->Massachusetts"  "type":8
+ae "action->dissolution" "action" > "dissolution"
+ce "action->dissolution"  "type":1
+ae "district->States of Germany" "district" > "States of Germany"
+ce "district->States of Germany"  "type":8
+ae "idea->Notion (philosophy)" "idea" > "Notion (philosophy)"
+ce "idea->Notion (philosophy)"  "type":8
+ae "Facebook->Republic of Ireland" "Facebook" > "Republic of Ireland"
+ce "Facebook->Republic of Ireland"  "type":8
+ae "collection->Asia" "collection" > "Asia"
+ce "collection->Asia"  "type":1
+ae "creation->representation" "creation" > "representation"
+ce "creation->representation"  "type":1
+ae "action->curdling" "action" > "curdling"
+ce "action->curdling"  "type":1
+ae "system->Latin" "system" > "Latin"
+ce "system->Latin"  "type":8
+ae "collection->prosecution" "collection" > "prosecution"
+ce "collection->prosecution"  "type":1
+ae "region->Dutch language" "region" > "Dutch language"
+ce "region->Dutch language"  "type":8
+ae "action->capture" "action" > "capture"
+ce "action->capture"  "type":1
+ae "Flag->colors" "Flag" > "colors"
+ce "Flag->colors"  "type":1
+ae "Dutch Republic->Nation state" "Dutch Republic" > "Nation state"
+ce "Dutch Republic->Nation state"  "type":8
+ae "unit->part" "unit" > "part"
+ce "unit->part"  "type":7
+ae "concept->Linguistics" "concept" > "Linguistics"
+ce "concept->Linguistics"  "type":8
+ae "region->Sovereign state" "region" > "Sovereign state"
+ce "region->Sovereign state"  "type":8
+ae "district->Iran" "district" > "Iran"
+ce "district->Iran"  "type":8
+ae "writing->White paper" "writing" > "White paper"
+ce "writing->White paper"  "type":8
+ae "compound->base" "compound" > "base"
+ce "compound->base"  "type":1
+ae "system->Earth" "system" > "Earth"
+ce "system->Earth"  "type":8
+ae "document->Thought" "document" > "Thought"
+ce "document->Thought"  "type":8
+ae "system->Concept" "system" > "Concept"
+ce "system->Concept"  "type":8
+ae "writing->Linguistics" "writing" > "Linguistics"
+ce "writing->Linguistics"  "type":8
+ae "Flag->Flag of Colombia" "Flag" > "Flag of Colombia"
+ce "Flag->Flag of Colombia"  "type":8
+ae "design->Holism" "design" > "Holism"
+ce "design->Holism"  "type":8
+ae "measure->legal document" "measure" > "legal document"
+ce "measure->legal document"  "type":0
+ae "Dutch East India Company->Amsterdam" "Dutch East India Company" > "Amsterdam"
+ce "Dutch East India Company->Amsterdam"  "type":8
+ae "measure->abstraction" "measure" > "abstraction"
+ce "measure->abstraction"  "type":0
+ae "design->motif" "design" > "motif"
+ce "design->motif"  "type":1
+ae "action->process" "action" > "process"
+ce "action->process"  "type":0
+ae "compound->complex" "compound" > "complex"
+ce "compound->complex"  "type":1
+ae "writing->Paper" "writing" > "Paper"
+ce "writing->Paper"  "type":8
+ae "system->Computer science" "system" > "Computer science"
+ce "system->Computer science"  "type":8
+ae "design->contrivance" "design" > "contrivance"
+ce "design->contrivance"  "type":1
+ae "system->Engineering" "system" > "Engineering"
+ce "system->Engineering"  "type":8
+ae "action->thing" "action" > "thing"
+ce "action->thing"  "type":1
+ae "Public company->Dividend" "Public company" > "Dividend"
+ce "Public company->Dividend"  "type":8
+ae "Dutch Republic->Dutch Revolt" "Dutch Republic" > "Dutch Revolt"
+ce "Dutch Republic->Dutch Revolt"  "type":8

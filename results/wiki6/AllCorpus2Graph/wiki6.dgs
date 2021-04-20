@@ -1,0 +1,306 @@
+DGS004
+null 0 0
+an "Computer"
+cn "Computer"  "__SUBGRAPH__":0
+an "machine"
+cn "machine"  "__SUBGRAPH__":0
+an "device"
+cn "device"  "__SUBGRAPH__":0
+an "instrumentality"
+cn "instrumentality"  "__SUBGRAPH__":0
+an "unit"
+cn "unit"  "__SUBGRAPH__":0
+an "definite quantity"
+cn "definite quantity"  "__SUBGRAPH__":0
+an "measure"
+cn "measure"  "__SUBGRAPH__":0
+an "maneuver"
+cn "maneuver"  "__SUBGRAPH__":0
+an "operation"
+cn "operation"  "__SUBGRAPH__":0
+an "action"
+cn "action"  "__SUBGRAPH__":0
+an "act"
+cn "act"  "__SUBGRAPH__":0
+an "legal document"
+cn "legal document"  "__SUBGRAPH__":0
+an "document"
+cn "document"  "__SUBGRAPH__":0
+an "writing"
+cn "writing"  "__SUBGRAPH__":0
+an "verbal creation"
+cn "verbal creation"  "__SUBGRAPH__":0
+an "creating by mental acts"
+cn "creating by mental acts"  "__SUBGRAPH__":0
+an "creation"
+cn "creation"  "__SUBGRAPH__":0
+an "activity"
+cn "activity"  "__SUBGRAPH__":0
+an "Internet"
+cn "Internet"  "__SUBGRAPH__":0
+an "computer network"
+cn "computer network"  "__SUBGRAPH__":0
+an "network"
+cn "network"  "__SUBGRAPH__":0
+an "system"
+cn "system"  "__SUBGRAPH__":0
+an "Economic crisis"
+cn "Economic crisis"  "__SUBGRAPH__":0
+an "economic condition"
+cn "economic condition"  "__SUBGRAPH__":0
+an "condition"
+cn "condition"  "__SUBGRAPH__":0
+an "state"
+cn "state"  "__SUBGRAPH__":0
+an "administrative district"
+cn "administrative district"  "__SUBGRAPH__":0
+an "district"
+cn "district"  "__SUBGRAPH__":0
+an "region"
+cn "region"  "__SUBGRAPH__":0
+an "location"
+cn "location"  "__SUBGRAPH__":0
+an "object"
+cn "object"  "__SUBGRAPH__":0
+an "physical entity"
+cn "physical entity"  "__SUBGRAPH__":0
+an "entity"
+cn "entity"  "__SUBGRAPH__":0
+an "abstraction"
+cn "abstraction"  "__SUBGRAPH__":0
+an "concept"
+cn "concept"  "__SUBGRAPH__":0
+an "idea"
+cn "idea"  "__SUBGRAPH__":0
+an "content"
+cn "content"  "__SUBGRAPH__":0
+an "collection"
+cn "collection"  "__SUBGRAPH__":0
+an "group"
+cn "group"  "__SUBGRAPH__":0
+an "Bank"
+cn "Bank"  "__SUBGRAPH__":0
+an "slope"
+cn "slope"  "__SUBGRAPH__":0
+an "geological formation"
+cn "geological formation"  "__SUBGRAPH__":0
+an "Food safety"
+cn "Food safety"  "__SUBGRAPH__":0
+an "Food processing"
+cn "Food processing"  "__SUBGRAPH__":0
+an "Food"
+cn "Food"  "__SUBGRAPH__":0
+an "substance"
+cn "substance"  "__SUBGRAPH__":0
+an "matter"
+cn "matter"  "__SUBGRAPH__":0
+an "concern"
+cn "concern"  "__SUBGRAPH__":0
+an "interest"
+cn "interest"  "__SUBGRAPH__":0
+an "curiosity"
+cn "curiosity"  "__SUBGRAPH__":0
+an "cognitive state"
+cn "cognitive state"  "__SUBGRAPH__":0
+an "psychological state"
+cn "psychological state"  "__SUBGRAPH__":0
+an "Health education"
+cn "Health education"  "__SUBGRAPH__":0
+an "Reproductive health"
+cn "Reproductive health"  "__SUBGRAPH__":0
+an "HIV/AIDS"
+cn "HIV/AIDS"  "__SUBGRAPH__":0
+an "Solidarity"
+cn "Solidarity"  "__SUBGRAPH__":0
+an "commonality"
+cn "commonality"  "__SUBGRAPH__":0
+an "class"
+cn "class"  "__SUBGRAPH__":0
+an "Fruit"
+cn "Fruit"  "__SUBGRAPH__":0
+an "reproductive structure"
+cn "reproductive structure"  "__SUBGRAPH__":0
+an "plant organ"
+cn "plant organ"  "__SUBGRAPH__":0
+an "plant part"
+cn "plant part"  "__SUBGRAPH__":0
+an "natural object"
+cn "natural object"  "__SUBGRAPH__":0
+an "whole"
+cn "whole"  "__SUBGRAPH__":0
+an "Knowledge"
+cn "Knowledge"  "__SUBGRAPH__":0
+an "psychological feature"
+cn "psychological feature"  "__SUBGRAPH__":0
+an "Information"
+cn "Information"  "__SUBGRAPH__":0
+an "message"
+cn "message"  "__SUBGRAPH__":0
+an "communication"
+cn "communication"  "__SUBGRAPH__":0
+an "Artificial intelligence"
+cn "Artificial intelligence"  "__SUBGRAPH__":0
+an "computer science"
+cn "computer science"  "__SUBGRAPH__":0
+an "engineering"
+cn "engineering"  "__SUBGRAPH__":0
+an "application"
+cn "application"  "__SUBGRAPH__":0
+an "use"
+cn "use"  "__SUBGRAPH__":0
+an "Cloud computing"
+cn "Cloud computing"  "__SUBGRAPH__":0
+ae "Computer->machine" "Computer" > "machine"
+ce "Computer->machine"  "type":0
+ae "machine->device" "machine" > "device"
+ce "machine->device"  "type":0
+ae "device->instrumentality" "device" > "instrumentality"
+ce "device->instrumentality"  "type":0
+ae "instrumentality->unit" "instrumentality" > "unit"
+ce "instrumentality->unit"  "type":0
+ae "unit->definite quantity" "unit" > "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity" > "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure" > "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver" > "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation" > "action"
+ce "operation->action"  "type":0
+ae "action->act" "action" > "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act" > "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document" > "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document" > "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing" > "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation" > "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts" > "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation" > "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity" > "act"
+ce "activity->act"  "type":0
+ae "Internet->computer network" "Internet" > "computer network"
+ce "Internet->computer network"  "type":0
+ae "computer network->network" "computer network" > "network"
+ce "computer network->network"  "type":0
+ae "network->system" "network" > "system"
+ce "network->system"  "type":0
+ae "system->instrumentality" "system" > "instrumentality"
+ce "system->instrumentality"  "type":0
+ae "Economic crisis->economic condition" "Economic crisis" > "economic condition"
+ce "Economic crisis->economic condition"  "type":0
+ae "economic condition->condition" "economic condition" > "condition"
+ce "economic condition->condition"  "type":0
+ae "condition->state" "condition" > "state"
+ce "condition->state"  "type":0
+ae "state->administrative district" "state" > "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district" > "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district" > "region"
+ce "district->region"  "type":0
+ae "region->location" "region" > "location"
+ce "region->location"  "type":0
+ae "location->object" "location" > "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object" > "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity" > "entity"
+ce "physical entity->entity"  "type":0
+ae "entity->physical entity" "entity" > "physical entity"
+ce "entity->physical entity"  "type":1
+ae "entity->abstraction" "entity" > "abstraction"
+ce "entity->abstraction"  "type":1
+ae "abstraction->concept" "abstraction" > "concept"
+ce "abstraction->concept"  "type":0
+ae "concept->idea" "concept" > "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea" > "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content" > "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection" > "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group" > "abstraction"
+ce "group->abstraction"  "type":0
+ae "group->unit" "group" > "unit"
+ce "group->unit"  "type":0
+ae "Bank->slope" "Bank" > "slope"
+ce "Bank->slope"  "type":0
+ae "slope->geological formation" "slope" > "geological formation"
+ce "slope->geological formation"  "type":0
+ae "geological formation->object" "geological formation" > "object"
+ce "geological formation->object"  "type":0
+ae "Food safety->Food processing" "Food safety" > "Food processing"
+ce "Food safety->Food processing"  "type":8
+ae "Food processing->Food" "Food processing" > "Food"
+ce "Food processing->Food"  "type":8
+ae "Food->substance" "Food" > "substance"
+ce "Food->substance"  "type":0
+ae "substance->matter" "substance" > "matter"
+ce "substance->matter"  "type":0
+ae "matter->concern" "matter" > "concern"
+ce "matter->concern"  "type":0
+ae "concern->interest" "concern" > "interest"
+ce "concern->interest"  "type":0
+ae "interest->curiosity" "interest" > "curiosity"
+ce "interest->curiosity"  "type":0
+ae "curiosity->cognitive state" "curiosity" > "cognitive state"
+ce "curiosity->cognitive state"  "type":0
+ae "cognitive state->psychological state" "cognitive state" > "psychological state"
+ce "cognitive state->psychological state"  "type":0
+ae "psychological state->condition" "psychological state" > "condition"
+ce "psychological state->condition"  "type":0
+ae "Health education->Reproductive health" "Health education" > "Reproductive health"
+ce "Health education->Reproductive health"  "type":8
+ae "Reproductive health->HIV/AIDS" "Reproductive health" > "HIV/AIDS"
+ce "Reproductive health->HIV/AIDS"  "type":8
+ae "HIV/AIDS->Solidarity" "HIV/AIDS" > "Solidarity"
+ce "HIV/AIDS->Solidarity"  "type":8
+ae "Solidarity->commonality" "Solidarity" > "commonality"
+ce "Solidarity->commonality"  "type":0
+ae "commonality->class" "commonality" > "class"
+ce "commonality->class"  "type":0
+ae "class->collection" "class" > "collection"
+ce "class->collection"  "type":0
+ae "Fruit->reproductive structure" "Fruit" > "reproductive structure"
+ce "Fruit->reproductive structure"  "type":0
+ae "reproductive structure->plant organ" "reproductive structure" > "plant organ"
+ce "reproductive structure->plant organ"  "type":0
+ae "plant organ->plant part" "plant organ" > "plant part"
+ce "plant organ->plant part"  "type":0
+ae "plant part->natural object" "plant part" > "natural object"
+ce "plant part->natural object"  "type":0
+ae "natural object->whole" "natural object" > "whole"
+ce "natural object->whole"  "type":0
+ae "whole->concept" "whole" > "concept"
+ce "whole->concept"  "type":0
+ae "Knowledge->psychological feature" "Knowledge" > "psychological feature"
+ce "Knowledge->psychological feature"  "type":0
+ae "psychological feature->abstraction" "psychological feature" > "abstraction"
+ce "psychological feature->abstraction"  "type":0
+ae "Information->message" "Information" > "message"
+ce "Information->message"  "type":0
+ae "message->communication" "message" > "communication"
+ce "message->communication"  "type":0
+ae "communication->act" "communication" > "act"
+ce "communication->act"  "type":0
+ae "Artificial intelligence->computer science" "Artificial intelligence" > "computer science"
+ce "Artificial intelligence->computer science"  "type":0
+ae "computer science->engineering" "computer science" > "engineering"
+ce "computer science->engineering"  "type":0
+ae "engineering->application" "engineering" > "application"
+ce "engineering->application"  "type":0
+ae "application->use" "application" > "use"
+ce "application->use"  "type":0
+ae "use->activity" "use" > "activity"
+ce "use->activity"  "type":0
+ae "Cloud computing->Computer" "Cloud computing" > "Computer"
+ce "Cloud computing->Computer"  "type":8

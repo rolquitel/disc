@@ -1,0 +1,69 @@
+DGS004
+null 0 0
+an "Health"
+an "wellbeing"
+cn "wellbeing"  "ui.label":"wellbeing"
+cn "wellbeing"  "ui.style":"size:6px; fill-color:white; "
+an "prosperity"
+cn "prosperity"  "ui.label":"prosperity"
+cn "prosperity"  "ui.style":"size:6px; fill-color:white; "
+an "economic condition"
+cn "economic condition"  "ui.label":"economic condition"
+cn "economic condition"  "ui.style":"size:6px; fill-color:white; "
+an "condition"
+cn "condition"  "ui.label":"condition"
+cn "condition"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+an "Wealth"
+an "financial condition"
+cn "financial condition"  "ui.label":"financial condition"
+cn "financial condition"  "ui.style":"size:6px; fill-color:white; "
+ae "Health->wellbeing" "Health"  "wellbeing"
+ce "Health->wellbeing"  "type":0
+ae "wellbeing->prosperity" "wellbeing"  "prosperity"
+ce "wellbeing->prosperity"  "type":0
+ae "prosperity->economic condition" "prosperity"  "economic condition"
+ce "prosperity->economic condition"  "type":0
+ae "economic condition->condition" "economic condition"  "condition"
+ce "economic condition->condition"  "type":0
+ae "condition->state" "condition"  "state"
+ce "condition->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "Wealth->financial condition" "Wealth"  "financial condition"
+ce "Wealth->financial condition"  "type":0
+ae "financial condition->condition" "financial condition"  "condition"
+ce "financial condition->condition"  "type":0

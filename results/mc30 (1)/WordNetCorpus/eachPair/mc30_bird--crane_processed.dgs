@@ -1,0 +1,306 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "bird"
+cn "bird"  "ui.label":"bird"
+cn "bird"  "ui.style":"size-mode:fit;"
+an "vertebrate"
+cn "vertebrate"  "ui.label":"vertebrate"
+cn "vertebrate"  "ui.style":"size:6px; fill-color:white; "
+an "chordate"
+cn "chordate"  "ui.label":"chordate"
+cn "chordate"  "ui.style":"size:6px; fill-color:white; "
+an "animal"
+cn "animal"  "ui.label":"animal"
+cn "animal"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "succession"
+cn "succession"  "ui.label":"succession"
+cn "succession"  "ui.style":"size:6px; fill-color:white; "
+an "crane"
+cn "crane"  "ui.label":"crane"
+cn "crane"  "ui.style":"size-mode:fit;"
+an "lifting device"
+cn "lifting device"  "ui.label":"lifting device"
+cn "lifting device"  "ui.style":"size:6px; fill-color:white; "
+an "device"
+cn "device"  "ui.label":"device"
+cn "device"  "ui.style":"size:6px; fill-color:white; "
+an "instrumentality"
+cn "instrumentality"  "ui.label":"instrumentality"
+cn "instrumentality"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "definite quantity"
+cn "definite quantity"  "ui.label":"definite quantity"
+cn "definite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "survival"
+cn "survival"  "ui.label":"survival"
+cn "survival"  "ui.style":"size:6px; fill-color:white; "
+an "support"
+cn "support"  "ui.label":"support"
+cn "support"  "ui.style":"size:6px; fill-color:white; "
+an "search"
+cn "search"  "ui.label":"search"
+cn "search"  "ui.style":"size:6px; fill-color:white; "
+an "phase change"
+cn "phase change"  "ui.label":"phase change"
+cn "phase change"  "ui.style":"size:6px; fill-color:white; "
+an "reaction"
+cn "reaction"  "ui.label":"reaction"
+cn "reaction"  "ui.style":"size:6px; fill-color:white; "
+an "waste"
+cn "waste"  "ui.label":"waste"
+cn "waste"  "ui.style":"size:6px; fill-color:white; "
+an "performance"
+cn "performance"  "ui.label":"performance"
+cn "performance"  "ui.style":"size:6px; fill-color:white; "
+an "sum"
+cn "sum"  "ui.label":"sum"
+cn "sum"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "production"
+cn "production"  "ui.label":"production"
+cn "production"  "ui.style":"size:6px; fill-color:white; "
+an "play"
+cn "play"  "ui.label":"play"
+cn "play"  "ui.style":"size:6px; fill-color:white; "
+an "dissolution"
+cn "dissolution"  "ui.label":"dissolution"
+cn "dissolution"  "ui.style":"size:6px; fill-color:white; "
+an "design"
+cn "design"  "ui.label":"design"
+cn "design"  "ui.style":"size:6px; fill-color:white; "
+an "population"
+cn "population"  "ui.label":"population"
+cn "population"  "ui.style":"size:6px; fill-color:white; "
+an "chemical process"
+cn "chemical process"  "ui.label":"chemical process"
+cn "chemical process"  "ui.style":"size:6px; fill-color:white; "
+an "prosecution"
+cn "prosecution"  "ui.label":"prosecution"
+cn "prosecution"  "ui.style":"size:6px; fill-color:white; "
+an "group action"
+cn "group action"  "ui.label":"group action"
+cn "group action"  "ui.style":"size:6px; fill-color:white; "
+ae "bird->vertebrate" "bird"  "vertebrate"
+ce "bird->vertebrate"  "type":0
+ae "vertebrate->chordate" "vertebrate"  "chordate"
+ce "vertebrate->chordate"  "type":0
+ae "chordate->animal" "chordate"  "animal"
+ce "chordate->animal"  "type":0
+ae "animal->organism" "animal"  "organism"
+ce "animal->organism"  "type":0
+ae "organism->living thing" "organism"  "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing"  "whole"
+ce "living thing->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "whole->unit" "whole" > "unit"
+ce "whole->unit"  "type":1
+ae "crane->lifting device" "crane"  "lifting device"
+ce "crane->lifting device"  "type":0
+ae "lifting device->device" "lifting device"  "device"
+ce "lifting device->device"  "type":0
+ae "device->instrumentality" "device"  "instrumentality"
+ce "device->instrumentality"  "type":0
+ae "instrumentality->unit" "instrumentality"  "unit"
+ce "instrumentality->unit"  "type":0
+ae "unit->definite quantity" "unit"  "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity"  "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "whole->sum" "whole" > "sum"
+ce "whole->sum"  "type":1
+ae "activity->survival" "activity" > "survival"
+ce "activity->survival"  "type":1
+ae "activity->succession" "activity" > "succession"
+ce "activity->succession"  "type":1
+ae "concept->abstraction" "concept" > "abstraction"
+ce "concept->abstraction"  "type":1
+ae "act->performance" "act" > "performance"
+ce "act->performance"  "type":0
+ae "action->dissolution" "action" > "dissolution"
+ce "action->dissolution"  "type":1
+ae "device->maneuver" "device" > "maneuver"
+ce "device->maneuver"  "type":0
+ae "activity->phase change" "activity" > "phase change"
+ce "activity->phase change"  "type":1
+ae "device->design" "device" > "design"
+ce "device->design"  "type":0
+ae "unit->object" "unit" > "object"
+ce "unit->object"  "type":0
+ae "action->prosecution" "action" > "prosecution"
+ce "action->prosecution"  "type":1
+ae "bird->bird" "bird" > "bird"
+ce "bird->bird"  "type":6
+ae "unit->group" "unit" > "group"
+ce "unit->group"  "type":1
+ae "collection->prosecution" "collection" > "prosecution"
+ce "collection->prosecution"  "type":1
+ae "action->survival" "action" > "survival"
+ce "action->survival"  "type":1
+ae "activity->dissolution" "activity" > "dissolution"
+ce "activity->dissolution"  "type":1
+ae "action->succession" "action" > "succession"
+ce "action->succession"  "type":1
+ae "unit->living thing" "unit" > "living thing"
+ce "unit->living thing"  "type":1
+ae "activity->operation" "activity" > "operation"
+ce "activity->operation"  "type":1
+ae "activity->chemical process" "activity" > "chemical process"
+ce "activity->chemical process"  "type":1
+ae "action->phase change" "action" > "phase change"
+ce "action->phase change"  "type":1
+ae "operation->support" "operation" > "support"
+ce "operation->support"  "type":1
+ae "idea->reaction" "idea" > "reaction"
+ce "idea->reaction"  "type":1
+ae "operation->search" "operation" > "search"
+ce "operation->search"  "type":1
+ae "collection->population" "collection" > "population"
+ce "collection->population"  "type":1
+ae "whole->object" "whole" > "object"
+ce "whole->object"  "type":0
+ae "activity->reaction" "activity" > "reaction"
+ce "activity->reaction"  "type":1
+ae "action->chemical process" "action" > "chemical process"
+ce "action->chemical process"  "type":1
+ae "act->play" "act" > "play"
+ce "act->play"  "type":6
+ae "unit->sum" "unit" > "sum"
+ce "unit->sum"  "type":1
+ae "activity->play" "activity" > "play"
+ce "activity->play"  "type":1
+ae "maneuver->device" "maneuver" > "device"
+ce "maneuver->device"  "type":1
+ae "creating by mental acts->design" "creating by mental acts" > "design"
+ce "creating by mental acts->design"  "type":1
+ae "activity->search" "activity" > "search"
+ce "activity->search"  "type":1
+ae "action->play" "action" > "play"
+ce "action->play"  "type":1
+ae "action->group action" "action" > "group action"
+ce "action->group action"  "type":0
+ae "operation->activity" "operation" > "activity"
+ce "operation->activity"  "type":0
+ae "activity->waste" "activity" > "waste"
+ce "activity->waste"  "type":1
+ae "act->production" "act" > "production"
+ce "act->production"  "type":1
+ae "group->population" "group" > "population"
+ce "group->population"  "type":1
+ae "creation->production" "creation" > "production"
+ce "creation->production"  "type":1
+ae "device->support" "device" > "support"
+ce "device->support"  "type":1
+ae "action->performance" "action" > "performance"
+ce "action->performance"  "type":1
+ae "act->group action" "act" > "group action"
+ce "act->group action"  "type":1
+ae "activity->support" "activity" > "support"
+ce "activity->support"  "type":1
+ae "measure->abstraction" "measure" > "abstraction"
+ce "measure->abstraction"  "type":0
+ae "act->waste" "act" > "waste"
+ce "act->waste"  "type":1

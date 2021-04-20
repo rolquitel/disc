@@ -1,0 +1,184 @@
+DGS004
+null 0 0
+an "President"
+cn "President"  "ui.label":"President"
+cn "President"  "ui.style":"size-mode:fit;"
+an "corporate executive"
+cn "corporate executive"  "ui.label":"corporate executive"
+cn "corporate executive"  "ui.style":"size:6px; fill-color:white; "
+an "executive"
+cn "executive"  "ui.label":"executive"
+cn "executive"  "ui.style":"size:6px; fill-color:white; "
+an "administrator"
+cn "administrator"  "ui.label":"administrator"
+cn "administrator"  "ui.style":"size:6px; fill-color:white; "
+an "head"
+cn "head"  "ui.label":"head"
+cn "head"  "ui.style":"size:6px; fill-color:white; "
+an "external body part"
+cn "external body part"  "ui.label":"external body part"
+cn "external body part"  "ui.style":"size:6px; fill-color:white; "
+an "body part"
+cn "body part"  "ui.label":"body part"
+cn "body part"  "ui.style":"size:6px; fill-color:white; "
+an "part"
+cn "part"  "ui.label":"part"
+cn "part"  "ui.style":"size:6px; fill-color:white; "
+an "relation"
+cn "relation"  "ui.label":"relation"
+cn "relation"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Civil servant"
+cn "Civil servant"  "ui.label":"Civil servant"
+cn "Civil servant"  "ui.style":"size-mode:fit;"
+an "official"
+cn "official"  "ui.label":"official"
+cn "official"  "ui.style":"size:6px; fill-color:white; "
+an "skilled worker"
+cn "skilled worker"  "ui.label":"skilled worker"
+cn "skilled worker"  "ui.style":"size:6px; fill-color:white; "
+an "worker"
+cn "worker"  "ui.label":"worker"
+cn "worker"  "ui.style":"size:6px; fill-color:white; "
+an "person"
+cn "person"  "ui.label":"person"
+cn "person"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "face"
+cn "face"  "ui.label":"face"
+cn "face"  "ui.style":"size:6px; fill-color:white; "
+an "subject"
+cn "subject"  "ui.label":"subject"
+cn "subject"  "ui.style":"size:6px; fill-color:white; "
+an "Human"
+cn "Human"  "ui.label":"Human"
+cn "Human"  "ui.style":"size:6px; fill-color:white; "
+an "Latin"
+cn "Latin"  "ui.label":"Latin"
+cn "Latin"  "ui.style":"size:6px; fill-color:white; "
+an "neck"
+cn "neck"  "ui.label":"neck"
+cn "neck"  "ui.style":"size:6px; fill-color:white; "
+an "Property"
+cn "Property"  "ui.label":"Property"
+cn "Property"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "appointee"
+cn "appointee"  "ui.label":"appointee"
+cn "appointee"  "ui.style":"size:6px; fill-color:white; "
+ae "President->corporate executive" "President"  "corporate executive"
+ce "President->corporate executive"  "type":0
+ae "corporate executive->executive" "corporate executive"  "executive"
+ce "corporate executive->executive"  "type":0
+ae "executive->administrator" "executive"  "administrator"
+ce "executive->administrator"  "type":0
+ae "administrator->head" "administrator"  "head"
+ce "administrator->head"  "type":0
+ae "head->external body part" "head"  "external body part"
+ce "head->external body part"  "type":0
+ae "external body part->body part" "external body part"  "body part"
+ce "external body part->body part"  "type":0
+ae "body part->part" "body part"  "part"
+ce "body part->part"  "type":0
+ae "part->relation" "part"  "relation"
+ce "part->relation"  "type":0
+ae "relation->abstraction" "relation"  "abstraction"
+ce "relation->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Civil servant->official" "Civil servant"  "official"
+ce "Civil servant->official"  "type":0
+ae "official->skilled worker" "official"  "skilled worker"
+ce "official->skilled worker"  "type":0
+ae "skilled worker->worker" "skilled worker"  "worker"
+ce "skilled worker->worker"  "type":0
+ae "worker->person" "worker"  "person"
+ce "worker->person"  "type":0
+ae "person->organism" "person"  "organism"
+ce "person->organism"  "type":0
+ae "organism->living thing" "organism"  "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing"  "whole"
+ce "living thing->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "person->face" "person" > "face"
+ce "person->face"  "type":1
+ae "official->appointee" "official" > "appointee"
+ce "official->appointee"  "type":1
+ae "organism->Human" "organism" > "Human"
+ce "organism->Human"  "type":8
+ae "part->thing" "part" > "thing"
+ce "part->thing"  "type":0
+ae "abstraction->concept" "abstraction" > "concept"
+ce "abstraction->concept"  "type":0
+ae "external body part->neck" "external body part" > "neck"
+ce "external body part->neck"  "type":1
+ae "external body part->face" "external body part" > "face"
+ce "external body part->face"  "type":1
+ae "part->whole" "part" > "whole"
+ce "part->whole"  "type":6
+ae "part->neck" "part" > "neck"
+ce "part->neck"  "type":1
+ae "President->Latin" "President" > "Latin"
+ce "President->Latin"  "type":8
+ae "idea->Property" "idea" > "Property"
+ce "idea->Property"  "type":8
+ae "person->appointee" "person" > "appointee"
+ce "person->appointee"  "type":1
+ae "official->Latin" "official" > "Latin"
+ce "official->Latin"  "type":8
+ae "person->Human" "person" > "Human"
+ce "person->Human"  "type":8
+ae "person->Property" "person" > "Property"
+ce "person->Property"  "type":8
+ae "concept->abstraction" "concept" > "abstraction"
+ce "concept->abstraction"  "type":1
+ae "entity->thing" "entity" > "thing"
+ce "entity->thing"  "type":1
+ae "organism->body part" "organism" > "body part"
+ce "organism->body part"  "type":7
+ae "person->subject" "person" > "subject"
+ce "person->subject"  "type":1
+ae "head->subject" "head" > "subject"
+ce "head->subject"  "type":0

@@ -1,0 +1,21 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Health"
+cn "Health"  "ui.label":"Health"
+cn "Health"  "ui.style":"size-mode:fit;"
+an "Hidden_categories"
+cn "Hidden_categories"  "ui.label":"Hidden_categories"
+cn "Hidden_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Wealth"
+cn "Wealth"  "ui.label":"Wealth"
+cn "Wealth"  "ui.style":"size-mode:fit;"
+an "Categories_which_are_included_in_the_JEL_classification_codes"
+cn "Categories_which_are_included_in_the_JEL_classification_codes"  "ui.label":"Categories_which_are_included_in_the_JEL_classification_codes"
+cn "Categories_which_are_included_in_the_JEL_classification_codes"  "ui.style":"size:6px; fill-color:white; "
+ae "Hidden_categories->Hidden_categories" "Hidden_categories"  "Hidden_categories"
+ce "Hidden_categories->Hidden_categories"  "type":0
+ae "Wealth->Categories_which_are_included_in_the_JEL_classification_codes" "Wealth"  "Categories_which_are_included_in_the_JEL_classification_codes"
+ce "Wealth->Categories_which_are_included_in_the_JEL_classification_codes"  "type":0
+ae "Categories_which_are_included_in_the_JEL_classification_codes->Hidden_categories" "Categories_which_are_included_in_the_JEL_classification_codes"  "Hidden_categories"
+ce "Categories_which_are_included_in_the_JEL_classification_codes->Hidden_categories"  "type":0

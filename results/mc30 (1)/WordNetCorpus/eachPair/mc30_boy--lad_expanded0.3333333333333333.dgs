@@ -1,0 +1,813 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "boy"
+cn "boy"  "ui.label":"boy"
+cn "boy"  "ui.style":"size-mode:fit;"
+an "male"
+cn "male"  "ui.label":"male"
+cn "male"  "ui.style":"size:6px; fill-color:white; "
+an "animal"
+cn "animal"  "ui.label":"animal"
+cn "animal"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "lad"
+cn "lad"  "ui.label":"lad"
+cn "lad"  "ui.style":"size-mode:fit;"
+an "altar boy"
+cn "altar boy"  "ui.label":"altar boy"
+cn "altar boy"  "ui.style":"size:6px; fill-color:white; "
+an "cub"
+cn "cub"  "ui.label":"cub"
+cn "cub"  "ui.style":"size:6px; fill-color:white; "
+an "Fauntleroy"
+cn "Fauntleroy"  "ui.label":"Fauntleroy"
+cn "Fauntleroy"  "ui.style":"size:6px; fill-color:white; "
+an "Scout"
+cn "Scout"  "ui.label":"Scout"
+cn "Scout"  "ui.style":"size:6px; fill-color:white; "
+an "broth of a boy"
+cn "broth of a boy"  "ui.label":"broth of a boy"
+cn "broth of a boy"  "ui.style":"size:6px; fill-color:white; "
+an "mother's boy"
+cn "mother's boy"  "ui.label":"mother's boy"
+cn "mother's boy"  "ui.style":"size:6px; fill-color:white; "
+an "chap"
+cn "chap"  "ui.label":"chap"
+cn "chap"  "ui.style":"size:6px; fill-color:white; "
+an "male offspring"
+cn "male offspring"  "ui.label":"male offspring"
+cn "male offspring"  "ui.style":"size:6px; fill-color:white; "
+an "man"
+cn "man"  "ui.label":"man"
+cn "man"  "ui.style":"size:6px; fill-color:white; "
+an "male body"
+cn "male body"  "ui.label":"male body"
+cn "male body"  "ui.style":"size:6px; fill-color:white; "
+an "darter"
+cn "darter"  "ui.label":"darter"
+cn "darter"  "ui.style":"size:6px; fill-color:white; "
+an "work animal"
+cn "work animal"  "ui.label":"work animal"
+cn "work animal"  "ui.style":"size:6px; fill-color:white; "
+an "domestic animal"
+cn "domestic animal"  "ui.label":"domestic animal"
+cn "domestic animal"  "ui.style":"size:6px; fill-color:white; "
+an "stunt"
+cn "stunt"  "ui.label":"stunt"
+cn "stunt"  "ui.style":"size:6px; fill-color:white; "
+an "female"
+cn "female"  "ui.label":"female"
+cn "female"  "ui.style":"size:6px; fill-color:white; "
+an "giant"
+cn "giant"  "ui.label":"giant"
+cn "giant"  "ui.style":"size:6px; fill-color:white; "
+an "zooplankton"
+cn "zooplankton"  "ui.label":"zooplankton"
+cn "zooplankton"  "ui.style":"size:6px; fill-color:white; "
+an "chordate"
+cn "chordate"  "ui.label":"chordate"
+cn "chordate"  "ui.style":"size:6px; fill-color:white; "
+an "predator"
+cn "predator"  "ui.label":"predator"
+cn "predator"  "ui.style":"size:6px; fill-color:white; "
+an "prey"
+cn "prey"  "ui.label":"prey"
+cn "prey"  "ui.style":"size:6px; fill-color:white; "
+an "hexapod"
+cn "hexapod"  "ui.label":"hexapod"
+cn "hexapod"  "ui.style":"size:6px; fill-color:white; "
+an "mate"
+cn "mate"  "ui.label":"mate"
+cn "mate"  "ui.style":"size:6px; fill-color:white; "
+an "face"
+cn "face"  "ui.label":"face"
+cn "face"  "ui.style":"size:6px; fill-color:white; "
+an "benthos"
+cn "benthos"  "ui.label":"benthos"
+cn "benthos"  "ui.style":"size:6px; fill-color:white; "
+an "person"
+cn "person"  "ui.label":"person"
+cn "person"  "ui.style":"size:6px; fill-color:white; "
+an "native"
+cn "native"  "ui.label":"native"
+cn "native"  "ui.style":"size:6px; fill-color:white; "
+an "conspecific"
+cn "conspecific"  "ui.label":"conspecific"
+cn "conspecific"  "ui.style":"size:6px; fill-color:white; "
+an "amphidiploid"
+cn "amphidiploid"  "ui.label":"amphidiploid"
+cn "amphidiploid"  "ui.style":"size:6px; fill-color:white; "
+an "polymorph"
+cn "polymorph"  "ui.label":"polymorph"
+cn "polymorph"  "ui.style":"size:6px; fill-color:white; "
+an "myrmecophile"
+cn "myrmecophile"  "ui.label":"myrmecophile"
+cn "myrmecophile"  "ui.style":"size:6px; fill-color:white; "
+an "eukaryote"
+cn "eukaryote"  "ui.label":"eukaryote"
+cn "eukaryote"  "ui.style":"size:6px; fill-color:white; "
+an "atavist"
+cn "atavist"  "ui.label":"atavist"
+cn "atavist"  "ui.style":"size:6px; fill-color:white; "
+an "individual"
+cn "individual"  "ui.label":"individual"
+cn "individual"  "ui.style":"size:6px; fill-color:white; "
+an "utterer"
+cn "utterer"  "ui.label":"utterer"
+cn "utterer"  "ui.style":"size:6px; fill-color:white; "
+an "relict"
+cn "relict"  "ui.label":"relict"
+cn "relict"  "ui.style":"size:6px; fill-color:white; "
+an "saprophyte"
+cn "saprophyte"  "ui.label":"saprophyte"
+cn "saprophyte"  "ui.style":"size:6px; fill-color:white; "
+an "body part"
+cn "body part"  "ui.label":"body part"
+cn "body part"  "ui.style":"size:6px; fill-color:white; "
+an "biont"
+cn "biont"  "ui.label":"biont"
+cn "biont"  "ui.style":"size:6px; fill-color:white; "
+an "cell"
+cn "cell"  "ui.label":"cell"
+cn "cell"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "compound"
+cn "compound"  "ui.label":"compound"
+cn "compound"  "ui.style":"size:6px; fill-color:white; "
+an "complex"
+cn "complex"  "ui.label":"complex"
+cn "complex"  "ui.style":"size:6px; fill-color:white; "
+an "congener"
+cn "congener"  "ui.label":"congener"
+cn "congener"  "ui.style":"size:6px; fill-color:white; "
+an "item"
+cn "item"  "ui.label":"item"
+cn "item"  "ui.style":"size:6px; fill-color:white; "
+an "part"
+cn "part"  "ui.label":"part"
+cn "part"  "ui.style":"size:6px; fill-color:white; "
+an "category"
+cn "category"  "ui.label":"category"
+cn "category"  "ui.style":"size:6px; fill-color:white; "
+an "rule"
+cn "rule"  "ui.label":"rule"
+cn "rule"  "ui.style":"size:6px; fill-color:white; "
+an "law"
+cn "law"  "ui.label":"law"
+cn "law"  "ui.style":"size:6px; fill-color:white; "
+an "lexicalized concept"
+cn "lexicalized concept"  "ui.label":"lexicalized concept"
+cn "lexicalized concept"  "ui.style":"size:6px; fill-color:white; "
+an "inspiration"
+cn "inspiration"  "ui.label":"inspiration"
+cn "inspiration"  "ui.style":"size:6px; fill-color:white; "
+an "misconception"
+cn "misconception"  "ui.label":"misconception"
+cn "misconception"  "ui.style":"size:6px; fill-color:white; "
+an "plan"
+cn "plan"  "ui.label":"plan"
+cn "plan"  "ui.style":"size:6px; fill-color:white; "
+an "figment"
+cn "figment"  "ui.label":"figment"
+cn "figment"  "ui.style":"size:6px; fill-color:white; "
+an "burden"
+cn "burden"  "ui.label":"burden"
+cn "burden"  "ui.style":"size:6px; fill-color:white; "
+an "scalage"
+cn "scalage"  "ui.label":"scalage"
+cn "scalage"  "ui.style":"size:6px; fill-color:white; "
+an "underestimate"
+cn "underestimate"  "ui.label":"underestimate"
+cn "underestimate"  "ui.style":"size:6px; fill-color:white; "
+an "motif"
+cn "motif"  "ui.label":"motif"
+cn "motif"  "ui.style":"size:6px; fill-color:white; "
+an "statement"
+cn "statement"  "ui.label":"statement"
+cn "statement"  "ui.style":"size:6px; fill-color:white; "
+an "variation"
+cn "variation"  "ui.label":"variation"
+cn "variation"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "acceptance"
+cn "acceptance"  "ui.label":"acceptance"
+cn "acceptance"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "body"
+cn "body"  "ui.label":"body"
+cn "body"  "ui.style":"size:6px; fill-color:white; "
+an "reminder"
+cn "reminder"  "ui.label":"reminder"
+cn "reminder"  "ui.style":"size:6px; fill-color:white; "
+an "request"
+cn "request"  "ui.label":"request"
+cn "request"  "ui.style":"size:6px; fill-color:white; "
+an "latent content"
+cn "latent content"  "ui.label":"latent content"
+cn "latent content"  "ui.style":"size:6px; fill-color:white; "
+an "meaning"
+cn "meaning"  "ui.label":"meaning"
+cn "meaning"  "ui.style":"size:6px; fill-color:white; "
+an "nonsense"
+cn "nonsense"  "ui.label":"nonsense"
+cn "nonsense"  "ui.style":"size:6px; fill-color:white; "
+an "drivel"
+cn "drivel"  "ui.label":"drivel"
+cn "drivel"  "ui.style":"size:6px; fill-color:white; "
+an "commitment"
+cn "commitment"  "ui.label":"commitment"
+cn "commitment"  "ui.style":"size:6px; fill-color:white; "
+an "disrespect"
+cn "disrespect"  "ui.label":"disrespect"
+cn "disrespect"  "ui.style":"size:6px; fill-color:white; "
+an "wit"
+cn "wit"  "ui.label":"wit"
+cn "wit"  "ui.style":"size:6px; fill-color:white; "
+an "opinion"
+cn "opinion"  "ui.label":"opinion"
+cn "opinion"  "ui.style":"size:6px; fill-color:white; "
+an "offer"
+cn "offer"  "ui.label":"offer"
+cn "offer"  "ui.style":"size:6px; fill-color:white; "
+an "vital capacity"
+cn "vital capacity"  "ui.label":"vital capacity"
+cn "vital capacity"  "ui.style":"size:6px; fill-color:white; "
+an "food"
+cn "food"  "ui.label":"food"
+cn "food"  "ui.style":"size:6px; fill-color:white; "
+an "topic"
+cn "topic"  "ui.label":"topic"
+cn "topic"  "ui.style":"size:6px; fill-color:white; "
+an "kernel"
+cn "kernel"  "ui.label":"kernel"
+cn "kernel"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "belief"
+cn "belief"  "ui.label":"belief"
+cn "belief"  "ui.style":"size:6px; fill-color:white; "
+an "unbelief"
+cn "unbelief"  "ui.label":"unbelief"
+cn "unbelief"  "ui.style":"size:6px; fill-color:white; "
+an "goal"
+cn "goal"  "ui.label":"goal"
+cn "goal"  "ui.style":"size:6px; fill-color:white; "
+an "education"
+cn "education"  "ui.label":"education"
+cn "education"  "ui.style":"size:6px; fill-color:white; "
+an "ignorance"
+cn "ignorance"  "ui.label":"ignorance"
+cn "ignorance"  "ui.style":"size:6px; fill-color:white; "
+an "knowledge domain"
+cn "knowledge domain"  "ui.label":"knowledge domain"
+cn "knowledge domain"  "ui.style":"size:6px; fill-color:white; "
+an "publication"
+cn "publication"  "ui.label":"publication"
+cn "publication"  "ui.style":"size:6px; fill-color:white; "
+an "grouping"
+cn "grouping"  "ui.label":"grouping"
+cn "grouping"  "ui.style":"size:6px; fill-color:white; "
+an "pharmacopoeia"
+cn "pharmacopoeia"  "ui.label":"pharmacopoeia"
+cn "pharmacopoeia"  "ui.style":"size:6px; fill-color:white; "
+an "population"
+cn "population"  "ui.label":"population"
+cn "population"  "ui.style":"size:6px; fill-color:white; "
+an "armamentarium"
+cn "armamentarium"  "ui.label":"armamentarium"
+cn "armamentarium"  "ui.style":"size:6px; fill-color:white; "
+an "block"
+cn "block"  "ui.label":"block"
+cn "block"  "ui.style":"size:6px; fill-color:white; "
+an "bunch"
+cn "bunch"  "ui.label":"bunch"
+cn "bunch"  "ui.style":"size:6px; fill-color:white; "
+an "coin collection"
+cn "coin collection"  "ui.label":"coin collection"
+cn "coin collection"  "ui.style":"size:6px; fill-color:white; "
+an "crop"
+cn "crop"  "ui.label":"crop"
+cn "crop"  "ui.style":"size:6px; fill-color:white; "
+an "flinders"
+cn "flinders"  "ui.label":"flinders"
+cn "flinders"  "ui.style":"size:6px; fill-color:white; "
+an "statuary"
+cn "statuary"  "ui.label":"statuary"
+cn "statuary"  "ui.style":"size:6px; fill-color:white; "
+an "sum"
+cn "sum"  "ui.label":"sum"
+cn "sum"  "ui.style":"size:6px; fill-color:white; "
+an "pile"
+cn "pile"  "ui.label":"pile"
+cn "pile"  "ui.style":"size:6px; fill-color:white; "
+an "congregation"
+cn "congregation"  "ui.label":"congregation"
+cn "congregation"  "ui.style":"size:6px; fill-color:white; "
+an "biota"
+cn "biota"  "ui.label":"biota"
+cn "biota"  "ui.style":"size:6px; fill-color:white; "
+an "fauna"
+cn "fauna"  "ui.label":"fauna"
+cn "fauna"  "ui.style":"size:6px; fill-color:white; "
+an "petting zoo"
+cn "petting zoo"  "ui.label":"petting zoo"
+cn "petting zoo"  "ui.style":"size:6px; fill-color:white; "
+an "defense"
+cn "defense"  "ui.label":"defense"
+cn "defense"  "ui.style":"size:6px; fill-color:white; "
+an "prosecution"
+cn "prosecution"  "ui.label":"prosecution"
+cn "prosecution"  "ui.style":"size:6px; fill-color:white; "
+an "signage"
+cn "signage"  "ui.label":"signage"
+cn "signage"  "ui.style":"size:6px; fill-color:white; "
+an "generally accepted accounting principles"
+cn "generally accepted accounting principles"  "ui.label":"generally accepted accounting principles"
+cn "generally accepted accounting principles"  "ui.style":"size:6px; fill-color:white; "
+an "pantheon"
+cn "pantheon"  "ui.label":"pantheon"
+cn "pantheon"  "ui.style":"size:6px; fill-color:white; "
+an "Central America"
+cn "Central America"  "ui.label":"Central America"
+cn "Central America"  "ui.style":"size:6px; fill-color:white; "
+an "fleet"
+cn "fleet"  "ui.label":"fleet"
+cn "fleet"  "ui.style":"size:6px; fill-color:white; "
+an "assortment"
+cn "assortment"  "ui.label":"assortment"
+cn "assortment"  "ui.style":"size:6px; fill-color:white; "
+an "batch"
+cn "batch"  "ui.label":"batch"
+cn "batch"  "ui.style":"size:6px; fill-color:white; "
+an "rogue's gallery"
+cn "rogue's gallery"  "ui.label":"rogue's gallery"
+cn "rogue's gallery"  "ui.style":"size:6px; fill-color:white; "
+an "vegetation"
+cn "vegetation"  "ui.label":"vegetation"
+cn "vegetation"  "ui.style":"size:6px; fill-color:white; "
+an "ana"
+cn "ana"  "ui.label":"ana"
+cn "ana"  "ui.style":"size:6px; fill-color:white; "
+an "treasure"
+cn "treasure"  "ui.label":"treasure"
+cn "treasure"  "ui.style":"size:6px; fill-color:white; "
+an "trinketry"
+cn "trinketry"  "ui.label":"trinketry"
+cn "trinketry"  "ui.style":"size:6px; fill-color:white; "
+an "troponymy"
+cn "troponymy"  "ui.label":"troponymy"
+cn "troponymy"  "ui.style":"size:6px; fill-color:white; "
+an "smithereens"
+cn "smithereens"  "ui.label":"smithereens"
+cn "smithereens"  "ui.style":"size:6px; fill-color:white; "
+an "compilation"
+cn "compilation"  "ui.label":"compilation"
+cn "compilation"  "ui.style":"size:6px; fill-color:white; "
+an "gather"
+cn "gather"  "ui.label":"gather"
+cn "gather"  "ui.style":"size:6px; fill-color:white; "
+an "pickup"
+cn "pickup"  "ui.label":"pickup"
+cn "pickup"  "ui.style":"size:6px; fill-color:white; "
+an "tax collection"
+cn "tax collection"  "ui.label":"tax collection"
+cn "tax collection"  "ui.style":"size:6px; fill-color:white; "
+an "world"
+cn "world"  "ui.label":"world"
+cn "world"  "ui.style":"size:6px; fill-color:white; "
+an "kingdom"
+cn "kingdom"  "ui.label":"kingdom"
+cn "kingdom"  "ui.style":"size:6px; fill-color:white; "
+an "people"
+cn "people"  "ui.label":"people"
+cn "people"  "ui.style":"size:6px; fill-color:white; "
+an "association"
+cn "association"  "ui.label":"association"
+cn "association"  "ui.style":"size:6px; fill-color:white; "
+an "swarm"
+cn "swarm"  "ui.label":"swarm"
+cn "swarm"  "ui.style":"size:6px; fill-color:white; "
+an "multitude"
+cn "multitude"  "ui.label":"multitude"
+cn "multitude"  "ui.style":"size:6px; fill-color:white; "
+an "system"
+cn "system"  "ui.label":"system"
+cn "system"  "ui.style":"size:6px; fill-color:white; "
+an "actinoid"
+cn "actinoid"  "ui.label":"actinoid"
+cn "actinoid"  "ui.style":"size:6px; fill-color:white; "
+an "acyl"
+cn "acyl"  "ui.label":"acyl"
+cn "acyl"  "ui.style":"size:6px; fill-color:white; "
+an "alcohol group"
+cn "alcohol group"  "ui.label":"alcohol group"
+cn "alcohol group"  "ui.style":"size:6px; fill-color:white; "
+an "aldehyde group"
+cn "aldehyde group"  "ui.label":"aldehyde group"
+cn "aldehyde group"  "ui.style":"size:6px; fill-color:white; "
+an "azido group"
+cn "azido group"  "ui.label":"azido group"
+cn "azido group"  "ui.style":"size:6px; fill-color:white; "
+an "glyceryl"
+cn "glyceryl"  "ui.label":"glyceryl"
+cn "glyceryl"  "ui.style":"size:6px; fill-color:white; "
+an "ketone group"
+cn "ketone group"  "ui.label":"ketone group"
+cn "ketone group"  "ui.style":"size:6px; fill-color:white; "
+an "butyl"
+cn "butyl"  "ui.label":"butyl"
+cn "butyl"  "ui.style":"size:6px; fill-color:white; "
+an "vinyl"
+cn "vinyl"  "ui.label":"vinyl"
+cn "vinyl"  "ui.style":"size:6px; fill-color:white; "
+an "subgroup"
+cn "subgroup"  "ui.label":"subgroup"
+cn "subgroup"  "ui.style":"size:6px; fill-color:white; "
+an "Abelian group"
+cn "Abelian group"  "ui.label":"Abelian group"
+cn "Abelian group"  "ui.style":"size:6px; fill-color:white; "
+an "right"
+cn "right"  "ui.label":"right"
+cn "right"  "ui.style":"size:6px; fill-color:white; "
+an "absolute"
+cn "absolute"  "ui.label":"absolute"
+cn "absolute"  "ui.style":"size:6px; fill-color:white; "
+an "reverie"
+cn "reverie"  "ui.label":"reverie"
+cn "reverie"  "ui.style":"size:6px; fill-color:white; "
+an "attribute"
+cn "attribute"  "ui.label":"attribute"
+cn "attribute"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+ae "boy->male" "boy"  "male"
+ce "boy->male"  "type":0
+ae "male->animal" "male"  "animal"
+ce "male->animal"  "type":0
+ae "animal->organism" "animal"  "organism"
+ce "animal->organism"  "type":0
+ae "organism->living thing" "organism"  "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing"  "whole"
+ce "living thing->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "lad->male" "lad"  "male"
+ce "lad->male"  "type":0
+ae "boy->altar boy" "boy" > "altar boy"
+ce "boy->altar boy"  "type":1
+ae "boy->cub" "boy" > "cub"
+ce "boy->cub"  "type":1
+ae "boy->Fauntleroy" "boy" > "Fauntleroy"
+ce "boy->Fauntleroy"  "type":1
+ae "boy->Scout" "boy" > "Scout"
+ce "boy->Scout"  "type":1
+ae "boy->broth of a boy" "boy" > "broth of a boy"
+ce "boy->broth of a boy"  "type":1
+ae "boy->mother's boy" "boy" > "mother's boy"
+ce "boy->mother's boy"  "type":1
+ae "male->chap" "male" > "chap"
+ce "male->chap"  "type":1
+ae "male->male offspring" "male" > "male offspring"
+ce "male->male offspring"  "type":1
+ae "male->man" "male" > "man"
+ce "male->man"  "type":1
+ae "male->male body" "male" > "male body"
+ce "male->male body"  "type":7
+ae "animal->darter" "animal" > "darter"
+ce "animal->darter"  "type":1
+ae "animal->work animal" "animal" > "work animal"
+ce "animal->work animal"  "type":1
+ae "animal->domestic animal" "animal" > "domestic animal"
+ce "animal->domestic animal"  "type":1
+ae "animal->stunt" "animal" > "stunt"
+ce "animal->stunt"  "type":1
+ae "animal->female" "animal" > "female"
+ce "animal->female"  "type":1
+ae "animal->giant" "animal" > "giant"
+ce "animal->giant"  "type":1
+ae "animal->zooplankton" "animal" > "zooplankton"
+ce "animal->zooplankton"  "type":1
+ae "animal->chordate" "animal" > "chordate"
+ce "animal->chordate"  "type":1
+ae "animal->predator" "animal" > "predator"
+ce "animal->predator"  "type":1
+ae "animal->prey" "animal" > "prey"
+ce "animal->prey"  "type":1
+ae "animal->hexapod" "animal" > "hexapod"
+ce "animal->hexapod"  "type":1
+ae "animal->mate" "animal" > "mate"
+ce "animal->mate"  "type":1
+ae "animal->face" "animal" > "face"
+ce "animal->face"  "type":7
+ae "organism->benthos" "organism" > "benthos"
+ce "organism->benthos"  "type":1
+ae "organism->person" "organism" > "person"
+ce "organism->person"  "type":1
+ae "organism->native" "organism" > "native"
+ce "organism->native"  "type":1
+ae "organism->conspecific" "organism" > "conspecific"
+ce "organism->conspecific"  "type":1
+ae "organism->amphidiploid" "organism" > "amphidiploid"
+ce "organism->amphidiploid"  "type":1
+ae "organism->polymorph" "organism" > "polymorph"
+ce "organism->polymorph"  "type":1
+ae "organism->myrmecophile" "organism" > "myrmecophile"
+ce "organism->myrmecophile"  "type":1
+ae "organism->eukaryote" "organism" > "eukaryote"
+ce "organism->eukaryote"  "type":1
+ae "organism->atavist" "organism" > "atavist"
+ce "organism->atavist"  "type":1
+ae "organism->individual" "organism" > "individual"
+ce "organism->individual"  "type":1
+ae "organism->utterer" "organism" > "utterer"
+ce "organism->utterer"  "type":1
+ae "organism->relict" "organism" > "relict"
+ce "organism->relict"  "type":1
+ae "organism->saprophyte" "organism" > "saprophyte"
+ce "organism->saprophyte"  "type":1
+ae "organism->body part" "organism" > "body part"
+ce "organism->body part"  "type":7
+ae "living thing->biont" "living thing" > "biont"
+ce "living thing->biont"  "type":1
+ae "living thing->cell" "living thing" > "cell"
+ce "living thing->cell"  "type":1
+ae "whole->unit" "whole" > "unit"
+ce "whole->unit"  "type":1
+ae "whole->compound" "whole" > "compound"
+ce "whole->compound"  "type":1
+ae "whole->complex" "whole" > "complex"
+ce "whole->complex"  "type":1
+ae "whole->congener" "whole" > "congener"
+ce "whole->congener"  "type":1
+ae "whole->item" "whole" > "item"
+ce "whole->item"  "type":1
+ae "whole->part" "whole" > "part"
+ce "whole->part"  "type":7
+ae "concept->category" "concept" > "category"
+ce "concept->category"  "type":1
+ae "concept->rule" "concept" > "rule"
+ce "concept->rule"  "type":1
+ae "concept->abstraction" "concept" > "abstraction"
+ce "concept->abstraction"  "type":1
+ae "concept->law" "concept" > "law"
+ce "concept->law"  "type":1
+ae "concept->lexicalized concept" "concept" > "lexicalized concept"
+ce "concept->lexicalized concept"  "type":1
+ae "idea->inspiration" "idea" > "inspiration"
+ce "idea->inspiration"  "type":1
+ae "idea->misconception" "idea" > "misconception"
+ce "idea->misconception"  "type":1
+ae "idea->plan" "idea" > "plan"
+ce "idea->plan"  "type":1
+ae "idea->figment" "idea" > "figment"
+ce "idea->figment"  "type":1
+ae "idea->burden" "idea" > "burden"
+ce "idea->burden"  "type":1
+ae "idea->scalage" "idea" > "scalage"
+ce "idea->scalage"  "type":1
+ae "idea->underestimate" "idea" > "underestimate"
+ce "idea->underestimate"  "type":1
+ae "idea->motif" "idea" > "motif"
+ce "idea->motif"  "type":1
+ae "idea->statement" "idea" > "statement"
+ce "idea->statement"  "type":1
+ae "idea->variation" "idea" > "variation"
+ce "idea->variation"  "type":1
+ae "content->communication" "content" > "communication"
+ce "content->communication"  "type":0
+ae "content->acceptance" "content" > "acceptance"
+ce "content->acceptance"  "type":0
+ae "content->thing" "content" > "thing"
+ce "content->thing"  "type":0
+ae "content->body" "content" > "body"
+ce "content->body"  "type":1
+ae "content->reminder" "content" > "reminder"
+ce "content->reminder"  "type":1
+ae "content->request" "content" > "request"
+ce "content->request"  "type":1
+ae "content->latent content" "content" > "latent content"
+ce "content->latent content"  "type":1
+ae "content->meaning" "content" > "meaning"
+ce "content->meaning"  "type":1
+ae "content->nonsense" "content" > "nonsense"
+ce "content->nonsense"  "type":1
+ae "content->drivel" "content" > "drivel"
+ce "content->drivel"  "type":1
+ae "content->commitment" "content" > "commitment"
+ce "content->commitment"  "type":1
+ae "content->disrespect" "content" > "disrespect"
+ce "content->disrespect"  "type":1
+ae "content->statement" "content" > "statement"
+ce "content->statement"  "type":1
+ae "content->wit" "content" > "wit"
+ce "content->wit"  "type":1
+ae "content->opinion" "content" > "opinion"
+ce "content->opinion"  "type":1
+ae "content->offer" "content" > "offer"
+ce "content->offer"  "type":1
+ae "content->vital capacity" "content" > "vital capacity"
+ce "content->vital capacity"  "type":1
+ae "content->food" "content" > "food"
+ce "content->food"  "type":1
+ae "content->topic" "content" > "topic"
+ce "content->topic"  "type":1
+ae "content->kernel" "content" > "kernel"
+ce "content->kernel"  "type":1
+ae "content->representation" "content" > "representation"
+ce "content->representation"  "type":1
+ae "content->belief" "content" > "belief"
+ce "content->belief"  "type":1
+ae "content->unbelief" "content" > "unbelief"
+ce "content->unbelief"  "type":1
+ae "content->goal" "content" > "goal"
+ce "content->goal"  "type":1
+ae "content->education" "content" > "education"
+ce "content->education"  "type":1
+ae "content->ignorance" "content" > "ignorance"
+ce "content->ignorance"  "type":1
+ae "content->knowledge domain" "content" > "knowledge domain"
+ce "content->knowledge domain"  "type":1
+ae "collection->publication" "collection" > "publication"
+ce "collection->publication"  "type":0
+ae "collection->grouping" "collection" > "grouping"
+ce "collection->grouping"  "type":0
+ae "collection->pharmacopoeia" "collection" > "pharmacopoeia"
+ce "collection->pharmacopoeia"  "type":1
+ae "collection->population" "collection" > "population"
+ce "collection->population"  "type":1
+ae "collection->armamentarium" "collection" > "armamentarium"
+ce "collection->armamentarium"  "type":1
+ae "collection->block" "collection" > "block"
+ce "collection->block"  "type":1
+ae "collection->bunch" "collection" > "bunch"
+ce "collection->bunch"  "type":1
+ae "collection->coin collection" "collection" > "coin collection"
+ce "collection->coin collection"  "type":1
+ae "collection->crop" "collection" > "crop"
+ce "collection->crop"  "type":1
+ae "collection->flinders" "collection" > "flinders"
+ce "collection->flinders"  "type":1
+ae "collection->statuary" "collection" > "statuary"
+ce "collection->statuary"  "type":1
+ae "collection->sum" "collection" > "sum"
+ce "collection->sum"  "type":1
+ae "collection->pile" "collection" > "pile"
+ce "collection->pile"  "type":1
+ae "collection->congregation" "collection" > "congregation"
+ce "collection->congregation"  "type":1
+ae "collection->biota" "collection" > "biota"
+ce "collection->biota"  "type":1
+ae "collection->fauna" "collection" > "fauna"
+ce "collection->fauna"  "type":1
+ae "collection->petting zoo" "collection" > "petting zoo"
+ce "collection->petting zoo"  "type":1
+ae "collection->defense" "collection" > "defense"
+ce "collection->defense"  "type":1
+ae "collection->prosecution" "collection" > "prosecution"
+ce "collection->prosecution"  "type":1
+ae "collection->signage" "collection" > "signage"
+ce "collection->signage"  "type":1
+ae "collection->generally accepted accounting principles" "collection" > "generally accepted accounting principles"
+ce "collection->generally accepted accounting principles"  "type":1
+ae "collection->pantheon" "collection" > "pantheon"
+ce "collection->pantheon"  "type":1
+ae "collection->Central America" "collection" > "Central America"
+ce "collection->Central America"  "type":1
+ae "collection->fleet" "collection" > "fleet"
+ce "collection->fleet"  "type":1
+ae "collection->assortment" "collection" > "assortment"
+ce "collection->assortment"  "type":1
+ae "collection->batch" "collection" > "batch"
+ce "collection->batch"  "type":1
+ae "collection->rogue's gallery" "collection" > "rogue's gallery"
+ce "collection->rogue's gallery"  "type":1
+ae "collection->vegetation" "collection" > "vegetation"
+ce "collection->vegetation"  "type":1
+ae "collection->ana" "collection" > "ana"
+ce "collection->ana"  "type":1
+ae "collection->treasure" "collection" > "treasure"
+ce "collection->treasure"  "type":1
+ae "collection->trinketry" "collection" > "trinketry"
+ce "collection->trinketry"  "type":1
+ae "collection->troponymy" "collection" > "troponymy"
+ce "collection->troponymy"  "type":1
+ae "collection->smithereens" "collection" > "smithereens"
+ce "collection->smithereens"  "type":1
+ae "collection->compilation" "collection" > "compilation"
+ce "collection->compilation"  "type":1
+ae "collection->gather" "collection" > "gather"
+ce "collection->gather"  "type":1
+ae "collection->pickup" "collection" > "pickup"
+ce "collection->pickup"  "type":1
+ae "collection->tax collection" "collection" > "tax collection"
+ce "collection->tax collection"  "type":1
+ae "group->world" "group" > "world"
+ce "group->world"  "type":1
+ae "group->kingdom" "group" > "kingdom"
+ce "group->kingdom"  "type":1
+ae "group->people" "group" > "people"
+ce "group->people"  "type":1
+ae "group->association" "group" > "association"
+ce "group->association"  "type":1
+ae "group->swarm" "group" > "swarm"
+ce "group->swarm"  "type":1
+ae "group->population" "group" > "population"
+ce "group->population"  "type":1
+ae "group->multitude" "group" > "multitude"
+ce "group->multitude"  "type":1
+ae "group->system" "group" > "system"
+ce "group->system"  "type":1
+ae "group->actinoid" "group" > "actinoid"
+ce "group->actinoid"  "type":1
+ae "group->acyl" "group" > "acyl"
+ce "group->acyl"  "type":1
+ae "group->alcohol group" "group" > "alcohol group"
+ce "group->alcohol group"  "type":1
+ae "group->aldehyde group" "group" > "aldehyde group"
+ce "group->aldehyde group"  "type":1
+ae "group->azido group" "group" > "azido group"
+ce "group->azido group"  "type":1
+ae "group->glyceryl" "group" > "glyceryl"
+ce "group->glyceryl"  "type":1
+ae "group->ketone group" "group" > "ketone group"
+ce "group->ketone group"  "type":1
+ae "group->butyl" "group" > "butyl"
+ce "group->butyl"  "type":1
+ae "group->vinyl" "group" > "vinyl"
+ce "group->vinyl"  "type":1
+ae "group->subgroup" "group" > "subgroup"
+ce "group->subgroup"  "type":1
+ae "group->Abelian group" "group" > "Abelian group"
+ce "group->Abelian group"  "type":1
+ae "abstraction->concept" "abstraction" > "concept"
+ce "abstraction->concept"  "type":0
+ae "abstraction->right" "abstraction" > "right"
+ce "abstraction->right"  "type":1
+ae "abstraction->absolute" "abstraction" > "absolute"
+ce "abstraction->absolute"  "type":1
+ae "abstraction->reverie" "abstraction" > "reverie"
+ce "abstraction->reverie"  "type":1
+ae "abstraction->attribute" "abstraction" > "attribute"
+ce "abstraction->attribute"  "type":1
+ae "abstraction->communication" "abstraction" > "communication"
+ce "abstraction->communication"  "type":1
+ae "abstraction->measure" "abstraction" > "measure"
+ce "abstraction->measure"  "type":1
+ae "entity->physical entity" "entity" > "physical entity"
+ce "entity->physical entity"  "type":1
+ae "entity->thing" "entity" > "thing"
+ce "entity->thing"  "type":1

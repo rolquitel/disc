@@ -1,0 +1,210 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "cemetery"
+cn "cemetery"  "ui.label":"cemetery"
+cn "cemetery"  "ui.style":"size-mode:fit;"
+an "site"
+cn "site"  "ui.label":"site"
+cn "site"  "ui.style":"size:6px; fill-color:white; "
+an "tract"
+cn "tract"  "ui.label":"tract"
+cn "tract"  "ui.style":"size:6px; fill-color:white; "
+an "geographical area"
+cn "geographical area"  "ui.label":"geographical area"
+cn "geographical area"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "woodland"
+cn "woodland"  "ui.label":"woodland"
+cn "woodland"  "ui.style":"size-mode:fit;"
+an "land"
+cn "land"  "ui.label":"land"
+cn "land"  "ui.style":"size:6px; fill-color:white; "
+an "real property"
+cn "real property"  "ui.label":"real property"
+cn "real property"  "ui.style":"size:6px; fill-color:white; "
+an "property"
+cn "property"  "ui.label":"property"
+cn "property"  "ui.style":"size:6px; fill-color:white; "
+an "possession"
+cn "possession"  "ui.label":"possession"
+cn "possession"  "ui.style":"size:6px; fill-color:white; "
+an "control"
+cn "control"  "ui.label":"control"
+cn "control"  "ui.style":"size:6px; fill-color:white; "
+an "power"
+cn "power"  "ui.label":"power"
+cn "power"  "ui.style":"size:6px; fill-color:white; "
+an "quality"
+cn "quality"  "ui.label":"quality"
+cn "quality"  "ui.style":"size:6px; fill-color:white; "
+an "attribute"
+cn "attribute"  "ui.label":"attribute"
+cn "attribute"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "law"
+cn "law"  "ui.label":"law"
+cn "law"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "field"
+cn "field"  "ui.label":"field"
+cn "field"  "ui.style":"size:6px; fill-color:white; "
+an "characteristic"
+cn "characteristic"  "ui.label":"characteristic"
+cn "characteristic"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "set"
+cn "set"  "ui.label":"set"
+cn "set"  "ui.style":"size:6px; fill-color:white; "
+an "causal agent"
+cn "causal agent"  "ui.label":"causal agent"
+cn "causal agent"  "ui.style":"size:6px; fill-color:white; "
+an "floor"
+cn "floor"  "ui.label":"floor"
+cn "floor"  "ui.style":"size:6px; fill-color:white; "
+an "sphere"
+cn "sphere"  "ui.label":"sphere"
+cn "sphere"  "ui.style":"size:6px; fill-color:white; "
+an "stuff"
+cn "stuff"  "ui.label":"stuff"
+cn "stuff"  "ui.style":"size:6px; fill-color:white; "
+an "population"
+cn "population"  "ui.label":"population"
+cn "population"  "ui.style":"size:6px; fill-color:white; "
+ae "cemetery->site" "cemetery"  "site"
+ce "cemetery->site"  "type":0
+ae "site->tract" "site"  "tract"
+ce "site->tract"  "type":0
+ae "tract->geographical area" "tract"  "geographical area"
+ce "tract->geographical area"  "type":0
+ae "geographical area->region" "geographical area"  "region"
+ce "geographical area->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "woodland->land" "woodland"  "land"
+ce "woodland->land"  "type":0
+ae "land->real property" "land"  "real property"
+ce "land->real property"  "type":0
+ae "real property->property" "real property"  "property"
+ce "real property->property"  "type":0
+ae "property->possession" "property"  "possession"
+ce "property->possession"  "type":0
+ae "possession->control" "possession"  "control"
+ce "possession->control"  "type":0
+ae "control->power" "control"  "power"
+ce "control->power"  "type":0
+ae "power->quality" "power"  "quality"
+ce "power->quality"  "type":0
+ae "quality->attribute" "quality"  "attribute"
+ce "quality->attribute"  "type":0
+ae "attribute->concept" "attribute"  "concept"
+ce "attribute->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "abstraction->set" "abstraction" > "set"
+ce "abstraction->set"  "type":1
+ae "concept->law" "concept" > "law"
+ce "concept->law"  "type":1
+ae "abstraction->attribute" "abstraction" > "attribute"
+ce "abstraction->attribute"  "type":1
+ae "quality->characteristic" "quality" > "characteristic"
+ce "quality->characteristic"  "type":1
+ae "land->floor" "land" > "floor"
+ce "land->floor"  "type":1
+ae "concept->abstraction" "concept" > "abstraction"
+ce "concept->abstraction"  "type":1
+ae "collection->population" "collection" > "population"
+ce "collection->population"  "type":1
+ae "attribute->property" "attribute" > "property"
+ce "attribute->property"  "type":1
+ae "power->causal agent" "power" > "causal agent"
+ce "power->causal agent"  "type":0
+ae "geographical area->sphere" "geographical area" > "sphere"
+ce "geographical area->sphere"  "type":1
+ae "control->floor" "control" > "floor"
+ce "control->floor"  "type":1
+ae "tract->field" "tract" > "field"
+ce "tract->field"  "type":1
+ae "location->activity" "location" > "activity"
+ce "location->activity"  "type":0
+ae "geographical area->field" "geographical area" > "field"
+ce "geographical area->field"  "type":1
+ae "region->district" "region" > "district"
+ce "region->district"  "type":1
+ae "region->field" "region" > "field"
+ce "region->field"  "type":1
+ae "collection->law" "collection" > "law"
+ce "collection->law"  "type":1
+ae "property->characteristic" "property" > "characteristic"
+ce "property->characteristic"  "type":1
+ae "object->land" "object" > "land"
+ce "object->land"  "type":1
+ae "object->stuff" "object" > "stuff"
+ce "object->stuff"  "type":1
+ae "group->population" "group" > "population"
+ce "group->population"  "type":1
+ae "control->activity" "control" > "activity"
+ce "control->activity"  "type":0
+ae "land->sphere" "land" > "sphere"
+ce "land->sphere"  "type":0
+ae "quality->stuff" "quality" > "stuff"
+ce "quality->stuff"  "type":1
+ae "possession->district" "possession" > "district"
+ce "possession->district"  "type":0
+ae "physical entity->causal agent" "physical entity" > "causal agent"
+ce "physical entity->causal agent"  "type":1
+ae "location->set" "location" > "set"
+ce "location->set"  "type":1
+ae "object->property" "object" > "property"
+ce "object->property"  "type":1

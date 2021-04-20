@@ -1,0 +1,223 @@
+DGS004
+null 0 0
+an "Knowledge"
+cn "Knowledge"  "ui.label":"Knowledge"
+cn "Knowledge"  "ui.style":"size-mode:fit;"
+an "psychological feature"
+cn "psychological feature"  "ui.label":"psychological feature"
+cn "psychological feature"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Information"
+cn "Information"  "ui.label":"Information"
+cn "Information"  "ui.style":"size-mode:fit;"
+an "message"
+cn "message"  "ui.label":"message"
+cn "message"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "Thermodynamic state"
+cn "Thermodynamic state"  "ui.label":"Thermodynamic state"
+cn "Thermodynamic state"  "ui.style":"size:6px; fill-color:white; "
+an "Manuscript"
+cn "Manuscript"  "ui.label":"Manuscript"
+cn "Manuscript"  "ui.style":"size:6px; fill-color:white; "
+an "Classification_systems"
+cn "Classification_systems"  "ui.label":"Classification_systems"
+cn "Classification_systems"  "ui.style":"size:6px; fill-color:white; "
+an "Code"
+cn "Code"  "ui.label":"Code"
+cn "Code"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "Email"
+cn "Email"  "ui.label":"Email"
+cn "Email"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "White paper"
+cn "White paper"  "ui.label":"White paper"
+cn "White paper"  "ui.style":"size:6px; fill-color:white; "
+an "Education"
+cn "Education"  "ui.label":"Education"
+cn "Education"  "ui.style":"size:6px; fill-color:white; "
+an "Thesauri"
+cn "Thesauri"  "ui.label":"Thesauri"
+cn "Thesauri"  "ui.style":"size:6px; fill-color:white; "
+an "Aristotle"
+cn "Aristotle"  "ui.label":"Aristotle"
+cn "Aristotle"  "ui.style":"size:6px; fill-color:white; "
+an "Sign language"
+cn "Sign language"  "ui.label":"Sign language"
+cn "Sign language"  "ui.style":"size:6px; fill-color:white; "
+an "Economics"
+cn "Economics"  "ui.label":"Economics"
+cn "Economics"  "ui.style":"size:6px; fill-color:white; "
+an "Thesis"
+cn "Thesis"  "ui.label":"Thesis"
+cn "Thesis"  "ui.style":"size:6px; fill-color:white; "
+an "Semiotics"
+cn "Semiotics"  "ui.label":"Semiotics"
+cn "Semiotics"  "ui.style":"size:6px; fill-color:white; "
+ae "Knowledge->psychological feature" "Knowledge"  "psychological feature"
+ce "Knowledge->psychological feature"  "type":0
+ae "psychological feature->abstraction" "psychological feature"  "abstraction"
+ce "psychological feature->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Information->message" "Information"  "message"
+ce "Information->message"  "type":0
+ae "message->communication" "message"  "communication"
+ce "message->communication"  "type":0
+ae "communication->act" "communication"  "act"
+ce "communication->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "activity->state" "activity"  "state"
+ce "activity->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "writing->Sign language" "writing" > "Sign language"
+ce "writing->Sign language"  "type":8
+ae "document->White paper" "document" > "White paper"
+ce "document->White paper"  "type":8
+ae "Information->Education" "Information" > "Education"
+ce "Information->Education"  "type":8
+ae "Information->Semiotics" "Information" > "Semiotics"
+ce "Information->Semiotics"  "type":8
+ae "message->Email" "message" > "Email"
+ce "message->Email"  "type":8
+ae "region->Economics" "region" > "Economics"
+ce "region->Economics"  "type":8
+ae "Knowledge->content" "Knowledge" > "content"
+ce "Knowledge->content"  "type":1
+ae "state->Thermodynamic state" "state" > "Thermodynamic state"
+ce "state->Thermodynamic state"  "type":8
+ae "Knowledge->Education" "Knowledge" > "Education"
+ce "Knowledge->Education"  "type":8
+ae "abstraction->Information" "abstraction" > "Information"
+ce "abstraction->Information"  "type":8
+ae "Knowledge->Classification_systems" "Knowledge" > "Classification_systems"
+ce "Knowledge->Classification_systems"  "type":8
+ae "act->action" "act" > "action"
+ce "act->action"  "type":1
+ae "writing->Email" "writing" > "Email"
+ce "writing->Email"  "type":8
+ae "abstraction->Aristotle" "abstraction" > "Aristotle"
+ce "abstraction->Aristotle"  "type":8
+ae "writing->Manuscript" "writing" > "Manuscript"
+ce "writing->Manuscript"  "type":8
+ae "act->Thesis" "act" > "Thesis"
+ce "act->Thesis"  "type":8
+ae "communication->Code" "communication" > "Code"
+ce "communication->Code"  "type":8
+ae "message->Semiotics" "message" > "Semiotics"
+ce "message->Semiotics"  "type":8
+ae "Information->Thermodynamic state" "Information" > "Thermodynamic state"
+ce "Information->Thermodynamic state"  "type":8
+ae "communication->Sign language" "communication" > "Sign language"
+ce "communication->Sign language"  "type":8
+ae "Information->Thesauri" "Information" > "Thesauri"
+ce "Information->Thesauri"  "type":8
+ae "state->action" "state" > "action"
+ce "state->action"  "type":1
+ae "writing->activity" "writing" > "activity"
+ce "writing->activity"  "type":0
+ae "writing->White paper" "writing" > "White paper"
+ce "writing->White paper"  "type":8
+ae "Knowledge->Thesauri" "Knowledge" > "Thesauri"
+ce "Knowledge->Thesauri"  "type":8
+ae "Information->Code" "Information" > "Code"
+ce "Information->Code"  "type":8
+ae "communication->Semiotics" "communication" > "Semiotics"
+ce "communication->Semiotics"  "type":8
+ae "Information->Classification_systems" "Information" > "Classification_systems"
+ce "Information->Classification_systems"  "type":8
+ae "document->Thesis" "document" > "Thesis"
+ce "document->Thesis"  "type":8
+ae "object->content" "object" > "content"
+ce "object->content"  "type":0
+ae "document->Manuscript" "document" > "Manuscript"
+ce "document->Manuscript"  "type":8
+ae "abstraction->Economics" "abstraction" > "Economics"
+ce "abstraction->Economics"  "type":8
+ae "Information->Aristotle" "Information" > "Aristotle"
+ce "Information->Aristotle"  "type":8

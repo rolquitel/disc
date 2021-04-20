@@ -1,0 +1,635 @@
+DGS004
+null 0 0
+an "Swimming"
+cn "Swimming"  "ui.label":"Swimming"
+cn "Swimming"  "ui.style":"size-mode:fit;"
+an "water sport"
+cn "water sport"  "ui.label":"water sport"
+cn "water sport"  "ui.style":"size:6px; fill-color:white; "
+an "sport"
+cn "sport"  "ui.label":"sport"
+cn "sport"  "ui.style":"size:6px; fill-color:white; "
+an "diversion"
+cn "diversion"  "ui.label":"diversion"
+cn "diversion"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "artifact"
+cn "artifact"  "ui.label":"artifact"
+cn "artifact"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Water sport"
+cn "Water sport"  "ui.label":"Water sport"
+cn "Water sport"  "ui.style":"size-mode:fit;"
+an "swimming"
+cn "swimming"  "ui.label":"swimming"
+cn "swimming"  "ui.style":"size:6px; fill-color:white; "
+an "domain"
+cn "domain"  "ui.label":"domain"
+cn "domain"  "ui.style":"size:6px; fill-color:white; "
+an "Synchronised_swimming_in_the_United_Kingdom"
+cn "Synchronised_swimming_in_the_United_Kingdom"  "ui.label":"Synchronised_swimming_in_the_United_Kingdom"
+cn "Synchronised_swimming_in_the_United_Kingdom"  "ui.style":"size:6px; fill-color:white; "
+an "dip"
+cn "dip"  "ui.label":"dip"
+cn "dip"  "ui.style":"size:6px; fill-color:white; "
+an "depression"
+cn "depression"  "ui.label":"depression"
+cn "depression"  "ui.style":"size:6px; fill-color:white; "
+an "psychological state"
+cn "psychological state"  "ui.label":"psychological state"
+cn "psychological state"  "ui.style":"size:6px; fill-color:white; "
+an "condition"
+cn "condition"  "ui.label":"condition"
+cn "condition"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "Immanuel Kant"
+cn "Immanuel Kant"  "ui.label":"Immanuel Kant"
+cn "Immanuel Kant"  "ui.style":"size:6px; fill-color:white; "
+an "Non-disclosure agreement"
+cn "Non-disclosure agreement"  "ui.label":"Non-disclosure agreement"
+cn "Non-disclosure agreement"  "ui.style":"size:6px; fill-color:white; "
+an "Breaststroke"
+cn "Breaststroke"  "ui.label":"Breaststroke"
+cn "Breaststroke"  "ui.style":"size:6px; fill-color:white; "
+an "Bill of lading"
+cn "Bill of lading"  "ui.label":"Bill of lading"
+cn "Bill of lading"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_New_Zealand"
+cn "Swimming_in_New_Zealand"  "ui.label":"Swimming_in_New_Zealand"
+cn "Swimming_in_New_Zealand"  "ui.style":"size:6px; fill-color:white; "
+an "Mathematics"
+cn "Mathematics"  "ui.label":"Mathematics"
+cn "Mathematics"  "ui.style":"size:6px; fill-color:white; "
+an "Abstract and concrete"
+cn "Abstract and concrete"  "ui.label":"Abstract and concrete"
+cn "Abstract and concrete"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Luxembourg"
+cn "Swimming_in_Luxembourg"  "ui.label":"Swimming_in_Luxembourg"
+cn "Swimming_in_Luxembourg"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Lithuania"
+cn "Swimming_in_Lithuania"  "ui.label":"Swimming_in_Lithuania"
+cn "Swimming_in_Lithuania"  "ui.style":"size:6px; fill-color:white; "
+an "Sovereign state"
+cn "Sovereign state"  "ui.label":"Sovereign state"
+cn "Sovereign state"  "ui.style":"size:6px; fill-color:white; "
+an "Language"
+cn "Language"  "ui.label":"Language"
+cn "Language"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Lesotho"
+cn "Swimming_in_Lesotho"  "ui.label":"Swimming_in_Lesotho"
+cn "Swimming_in_Lesotho"  "ui.style":"size:6px; fill-color:white; "
+an "Marine biology"
+cn "Marine biology"  "ui.label":"Marine biology"
+cn "Marine biology"  "ui.style":"size:6px; fill-color:white; "
+an "United States Army Special Forces"
+cn "United States Army Special Forces"  "ui.label":"United States Army Special Forces"
+cn "United States Army Special Forces"  "ui.style":"size:6px; fill-color:white; "
+an "Panic"
+cn "Panic"  "ui.label":"Panic"
+cn "Panic"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Uzbekistan"
+cn "Swimming_in_Uzbekistan"  "ui.label":"Swimming_in_Uzbekistan"
+cn "Swimming_in_Uzbekistan"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Albania"
+cn "Swimming_in_Albania"  "ui.label":"Swimming_in_Albania"
+cn "Swimming_in_Albania"  "ui.style":"size:6px; fill-color:white; "
+an "scene"
+cn "scene"  "ui.label":"scene"
+cn "scene"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Canada"
+cn "Swimming_in_Canada"  "ui.label":"Swimming_in_Canada"
+cn "Swimming_in_Canada"  "ui.style":"size:6px; fill-color:white; "
+an "part"
+cn "part"  "ui.label":"part"
+cn "part"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Algeria"
+cn "Swimming_in_Algeria"  "ui.label":"Swimming_in_Algeria"
+cn "Swimming_in_Algeria"  "ui.style":"size:6px; fill-color:white; "
+an "Hypostatic abstraction"
+cn "Hypostatic abstraction"  "ui.label":"Hypostatic abstraction"
+cn "Hypostatic abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Nepal"
+cn "Swimming_in_Nepal"  "ui.label":"Swimming_in_Nepal"
+cn "Swimming_in_Nepal"  "ui.style":"size:6px; fill-color:white; "
+an "Pool fence"
+cn "Pool fence"  "ui.label":"Pool fence"
+cn "Pool fence"  "ui.style":"size:6px; fill-color:white; "
+an "Aquatic locomotion"
+cn "Aquatic locomotion"  "ui.label":"Aquatic locomotion"
+cn "Aquatic locomotion"  "ui.style":"size:6px; fill-color:white; "
+an "List of swimmers"
+cn "List of swimmers"  "ui.label":"List of swimmers"
+cn "List of swimmers"  "ui.style":"size:6px; fill-color:white; "
+an "Winter swimming"
+cn "Winter swimming"  "ui.label":"Winter swimming"
+cn "Winter swimming"  "ui.style":"size:6px; fill-color:white; "
+an "University of Minnesota Press"
+cn "University of Minnesota Press"  "ui.label":"University of Minnesota Press"
+cn "University of Minnesota Press"  "ui.style":"size:6px; fill-color:white; "
+an "Charles Sanders Peirce"
+cn "Charles Sanders Peirce"  "ui.label":"Charles Sanders Peirce"
+cn "Charles Sanders Peirce"  "ui.style":"size:6px; fill-color:white; "
+an "source"
+cn "source"  "ui.label":"source"
+cn "source"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Angola"
+cn "Swimming_in_Angola"  "ui.label":"Swimming_in_Angola"
+cn "Swimming_in_Angola"  "ui.style":"size:6px; fill-color:white; "
+an "Synchronised_swimming_in_Israel"
+cn "Synchronised_swimming_in_Israel"  "ui.label":"Synchronised_swimming_in_Israel"
+cn "Synchronised_swimming_in_Israel"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Norway"
+cn "Swimming_in_Norway"  "ui.label":"Swimming_in_Norway"
+cn "Swimming_in_Norway"  "ui.style":"size:6px; fill-color:white; "
+an "List of water sports"
+cn "List of water sports"  "ui.label":"List of water sports"
+cn "List of water sports"  "ui.style":"size:6px; fill-color:white; "
+an "Morpheme"
+cn "Morpheme"  "ui.label":"Morpheme"
+cn "Morpheme"  "ui.style":"size:6px; fill-color:white; "
+an "law"
+cn "law"  "ui.label":"law"
+cn "law"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Turkey"
+cn "Swimming_in_Turkey"  "ui.label":"Swimming_in_Turkey"
+cn "Swimming_in_Turkey"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Turkmenistan"
+cn "Swimming_in_Turkmenistan"  "ui.label":"Swimming_in_Turkmenistan"
+cn "Swimming_in_Turkmenistan"  "ui.style":"size:6px; fill-color:white; "
+an "Iran"
+cn "Iran"  "ui.label":"Iran"
+cn "Iran"  "ui.style":"size:6px; fill-color:white; "
+an "Ancient Greece"
+cn "Ancient Greece"  "ui.label":"Ancient Greece"
+cn "Ancient Greece"  "ui.style":"size:6px; fill-color:white; "
+an "Paper"
+cn "Paper"  "ui.label":"Paper"
+cn "Paper"  "ui.style":"size:6px; fill-color:white; "
+an "line"
+cn "line"  "ui.label":"line"
+cn "line"  "ui.style":"size:6px; fill-color:white; "
+an "Synchronised_swimming_in_Kazakhstan"
+cn "Synchronised_swimming_in_Kazakhstan"  "ui.label":"Synchronised_swimming_in_Kazakhstan"
+cn "Synchronised_swimming_in_Kazakhstan"  "ui.style":"size:6px; fill-color:white; "
+an "Nude swimming"
+cn "Nude swimming"  "ui.label":"Nude swimming"
+cn "Nude swimming"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_East_Timor"
+cn "Swimming_in_East_Timor"  "ui.label":"Swimming_in_East_Timor"
+cn "Swimming_in_East_Timor"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Eswatini"
+cn "Swimming_in_Eswatini"  "ui.label":"Swimming_in_Eswatini"
+cn "Swimming_in_Eswatini"  "ui.style":"size:6px; fill-color:white; "
+an "water-skiing"
+cn "water-skiing"  "ui.label":"water-skiing"
+cn "water-skiing"  "ui.style":"size:6px; fill-color:white; "
+an "Category of being"
+cn "Category of being"  "ui.label":"Category of being"
+cn "Category of being"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Bolivia"
+cn "Swimming_in_Bolivia"  "ui.label":"Swimming_in_Bolivia"
+cn "Swimming_in_Bolivia"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Syria"
+cn "Swimming_in_Syria"  "ui.label":"Swimming_in_Syria"
+cn "Swimming_in_Syria"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Croatia"
+cn "Swimming_in_Croatia"  "ui.label":"Swimming_in_Croatia"
+cn "Swimming_in_Croatia"  "ui.style":"size:6px; fill-color:white; "
+an "Synchronised_swimming_in_Germany"
+cn "Synchronised_swimming_in_Germany"  "ui.label":"Synchronised_swimming_in_Germany"
+cn "Synchronised_swimming_in_Germany"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Tanzania"
+cn "Swimming_in_Tanzania"  "ui.label":"Swimming_in_Tanzania"
+cn "Swimming_in_Tanzania"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_China"
+cn "Swimming_in_China"  "ui.label":"Swimming_in_China"
+cn "Swimming_in_China"  "ui.style":"size:6px; fill-color:white; "
+an "State (polity)"
+cn "State (polity)"  "ui.label":"State (polity)"
+cn "State (polity)"  "ui.style":"size:6px; fill-color:white; "
+an "set"
+cn "set"  "ui.label":"set"
+cn "set"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_Togo"
+cn "Swimming_in_Togo"  "ui.label":"Swimming_in_Togo"
+cn "Swimming_in_Togo"  "ui.style":"size:6px; fill-color:white; "
+an "Parchment"
+cn "Parchment"  "ui.label":"Parchment"
+cn "Parchment"  "ui.style":"size:6px; fill-color:white; "
+an "Swimming_in_the_United_States"
+cn "Swimming_in_the_United_States"  "ui.label":"Swimming_in_the_United_States"
+cn "Swimming_in_the_United_States"  "ui.style":"size:6px; fill-color:white; "
+ae "Swimming->water sport" "Swimming"  "water sport"
+ce "Swimming->water sport"  "type":0
+ae "water sport->sport" "water sport"  "sport"
+ce "water sport->sport"  "type":0
+ae "sport->diversion" "sport"  "diversion"
+ce "sport->diversion"  "type":0
+ae "diversion->activity" "diversion"  "activity"
+ce "diversion->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "creation->artifact" "creation"  "artifact"
+ce "creation->artifact"  "type":0
+ae "artifact->whole" "artifact"  "whole"
+ce "artifact->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Water sport->sport" "Water sport"  "sport"
+ce "Water sport->sport"  "type":0
+ae "Water sport->swimming" "Water sport"  "swimming"
+ce "Water sport->swimming"  "type":1
+ae "swimming->water sport" "swimming"  "water sport"
+ce "swimming->water sport"  "type":0
+ae "abstraction->Bill of lading" "abstraction" > "Bill of lading"
+ce "abstraction->Bill of lading"  "type":8
+ae "Water sport->Synchronised_swimming_in_Israel" "Water sport" > "Synchronised_swimming_in_Israel"
+ce "Water sport->Synchronised_swimming_in_Israel"  "type":8
+ae "swimming->dip" "swimming"  "dip"
+ce "swimming->dip"  "type":1
+ae "dip->depression" "dip"  "depression"
+ce "dip->depression"  "type":0
+ae "depression->psychological state" "depression"  "psychological state"
+ce "depression->psychological state"  "type":0
+ae "psychological state->condition" "psychological state"  "condition"
+ce "psychological state->condition"  "type":0
+ae "condition->state" "condition"  "state"
+ce "condition->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "Swimming->dip" "Swimming" > "dip"
+ce "Swimming->dip"  "type":1
+ae "collection->set" "collection" > "set"
+ce "collection->set"  "type":1
+ae "Swimming->Swimming_in_Turkey" "Swimming" > "Swimming_in_Turkey"
+ce "Swimming->Swimming_in_Turkey"  "type":8
+ae "Swimming->Breaststroke" "Swimming" > "Breaststroke"
+ce "Swimming->Breaststroke"  "type":8
+ae "idea->Charles Sanders Peirce" "idea" > "Charles Sanders Peirce"
+ce "idea->Charles Sanders Peirce"  "type":8
+ae "Swimming->Swimming_in_Turkmenistan" "Swimming" > "Swimming_in_Turkmenistan"
+ce "Swimming->Swimming_in_Turkmenistan"  "type":8
+ae "object->Abstract and concrete" "object" > "Abstract and concrete"
+ce "object->Abstract and concrete"  "type":8
+ae "entity->thing" "entity" > "thing"
+ce "entity->thing"  "type":1
+ae "Water sport->Swimming_in_Croatia" "Water sport" > "Swimming_in_Croatia"
+ce "Water sport->Swimming_in_Croatia"  "type":8
+ae "document->communication" "document" > "communication"
+ce "document->communication"  "type":0
+ae "object->thing" "object" > "thing"
+ce "object->thing"  "type":1
+ae "document->Parchment" "document" > "Parchment"
+ce "document->Parchment"  "type":8
+ae "Water sport->Synchronised_swimming_in_Kazakhstan" "Water sport" > "Synchronised_swimming_in_Kazakhstan"
+ce "Water sport->Synchronised_swimming_in_Kazakhstan"  "type":8
+ae "idea->Immanuel Kant" "idea" > "Immanuel Kant"
+ce "idea->Immanuel Kant"  "type":8
+ae "activity->writing" "activity" > "writing"
+ce "activity->writing"  "type":1
+ae "Swimming->Marine biology" "Swimming" > "Marine biology"
+ce "Swimming->Marine biology"  "type":8
+ae "Swimming->United States Army Special Forces" "Swimming" > "United States Army Special Forces"
+ce "Swimming->United States Army Special Forces"  "type":8
+ae "Swimming->Panic" "Swimming" > "Panic"
+ce "Swimming->Panic"  "type":8
+ae "abstraction->set" "abstraction" > "set"
+ce "abstraction->set"  "type":1
+ae "object->part" "object" > "part"
+ce "object->part"  "type":1
+ae "Swimming->Swimming_in_New_Zealand" "Swimming" > "Swimming_in_New_Zealand"
+ce "Swimming->Swimming_in_New_Zealand"  "type":8
+ae "abstraction->communication" "abstraction" > "communication"
+ce "abstraction->communication"  "type":1
+ae "Water sport->Swimming_in_Lesotho" "Water sport" > "Swimming_in_Lesotho"
+ce "Water sport->Swimming_in_Lesotho"  "type":8
+ae "object->whole" "object" > "whole"
+ce "object->whole"  "type":1
+ae "object->content" "object" > "content"
+ce "object->content"  "type":0
+ae "Water sport->water-skiing" "Water sport" > "water-skiing"
+ce "Water sport->water-skiing"  "type":1
+ae "Swimming->Pool fence" "Swimming" > "Pool fence"
+ce "Swimming->Pool fence"  "type":8
+ae "Swimming->Aquatic locomotion" "Swimming" > "Aquatic locomotion"
+ce "Swimming->Aquatic locomotion"  "type":8
+ae "Swimming->List of swimmers" "Swimming" > "List of swimmers"
+ce "Swimming->List of swimmers"  "type":8
+ae "Swimming->Winter swimming" "Swimming" > "Winter swimming"
+ce "Swimming->Winter swimming"  "type":8
+ae "Swimming->University of Minnesota Press" "Swimming" > "University of Minnesota Press"
+ce "Swimming->University of Minnesota Press"  "type":8
+ae "act->scene" "act" > "scene"
+ce "act->scene"  "type":7
+ae "idea->Ancient Greece" "idea" > "Ancient Greece"
+ce "idea->Ancient Greece"  "type":8
+ae "idea->Abstract and concrete" "idea" > "Abstract and concrete"
+ce "idea->Abstract and concrete"  "type":8
+ae "legal document->law" "legal document" > "law"
+ce "legal document->law"  "type":1
+ae "Water sport->Swimming_in_Lithuania" "Water sport" > "Swimming_in_Lithuania"
+ce "Water sport->Swimming_in_Lithuania"  "type":8
+ae "writing->Language" "writing" > "Language"
+ce "writing->Language"  "type":8
+ae "abstraction->Category of being" "abstraction" > "Category of being"
+ce "abstraction->Category of being"  "type":8
+ae "Swimming->Synchronised_swimming_in_Kazakhstan" "Swimming" > "Synchronised_swimming_in_Kazakhstan"
+ce "Swimming->Synchronised_swimming_in_Kazakhstan"  "type":8
+ae "Water sport->Swimming_in_China" "Water sport" > "Swimming_in_China"
+ce "Water sport->Swimming_in_China"  "type":8
+ae "idea->Category of being" "idea" > "Category of being"
+ce "idea->Category of being"  "type":8
+ae "abstraction->State (polity)" "abstraction" > "State (polity)"
+ce "abstraction->State (polity)"  "type":8
+ae "location->set" "location" > "set"
+ce "location->set"  "type":1
+ae "Swimming->Swimming_in_Canada" "Swimming" > "Swimming_in_Canada"
+ce "Swimming->Swimming_in_Canada"  "type":8
+ae "Water sport->Swimming_in_Angola" "Water sport" > "Swimming_in_Angola"
+ce "Water sport->Swimming_in_Angola"  "type":8
+ae "swimming->Nude swimming" "swimming" > "Nude swimming"
+ce "swimming->Nude swimming"  "type":8
+ae "location->line" "location" > "line"
+ce "location->line"  "type":1
+ae "Swimming->Swimming_in_Croatia" "Swimming" > "Swimming_in_Croatia"
+ce "Swimming->Swimming_in_Croatia"  "type":8
+ae "swimming->Pool fence" "swimming" > "Pool fence"
+ce "swimming->Pool fence"  "type":8
+ae "swimming->Aquatic locomotion" "swimming" > "Aquatic locomotion"
+ce "swimming->Aquatic locomotion"  "type":8
+ae "swimming->List of swimmers" "swimming" > "List of swimmers"
+ce "swimming->List of swimmers"  "type":8
+ae "writing->Paper" "writing" > "Paper"
+ce "writing->Paper"  "type":8
+ae "writing->Parchment" "writing" > "Parchment"
+ce "writing->Parchment"  "type":8
+ae "swimming->List of water sports" "swimming" > "List of water sports"
+ce "swimming->List of water sports"  "type":8
+ae "Water sport->Swimming_in_Norway" "Water sport" > "Swimming_in_Norway"
+ce "Water sport->Swimming_in_Norway"  "type":8
+ae "swimming->Winter swimming" "swimming" > "Winter swimming"
+ce "swimming->Winter swimming"  "type":8
+ae "swimming->University of Minnesota Press" "swimming" > "University of Minnesota Press"
+ce "swimming->University of Minnesota Press"  "type":8
+ae "water sport->water-skiing" "water sport" > "water-skiing"
+ce "water sport->water-skiing"  "type":1
+ae "Water sport->Synchronised_swimming_in_the_United_Kingdom" "Water sport" > "Synchronised_swimming_in_the_United_Kingdom"
+ce "Water sport->Synchronised_swimming_in_the_United_Kingdom"  "type":8
+ae "Water sport->Swimming_in_Algeria" "Water sport" > "Swimming_in_Algeria"
+ce "Water sport->Swimming_in_Algeria"  "type":8
+ae "abstraction->concept" "abstraction" > "concept"
+ce "abstraction->concept"  "type":0
+ae "Water sport->Swimming_in_New_Zealand" "Water sport" > "Swimming_in_New_Zealand"
+ce "Water sport->Swimming_in_New_Zealand"  "type":8
+ae "concept->Hypostatic abstraction" "concept" > "Hypostatic abstraction"
+ce "concept->Hypostatic abstraction"  "type":8
+ae "Water sport->Swimming_in_Albania" "Water sport" > "Swimming_in_Albania"
+ce "Water sport->Swimming_in_Albania"  "type":8
+ae "dip->Nude swimming" "dip" > "Nude swimming"
+ce "dip->Nude swimming"  "type":8
+ae "Swimming->Swimming_in_Lesotho" "Swimming" > "Swimming_in_Lesotho"
+ce "Swimming->Swimming_in_Lesotho"  "type":8
+ae "Water sport->Swimming_in_Nepal" "Water sport" > "Swimming_in_Nepal"
+ce "Water sport->Swimming_in_Nepal"  "type":8
+ae "Swimming->Swimming_in_Bolivia" "Swimming" > "Swimming_in_Bolivia"
+ce "Swimming->Swimming_in_Bolivia"  "type":8
+ae "Swimming->Swimming_in_Lithuania" "Swimming" > "Swimming_in_Lithuania"
+ce "Swimming->Swimming_in_Lithuania"  "type":8
+ae "Water sport->Swimming_in_East_Timor" "Water sport" > "Swimming_in_East_Timor"
+ce "Water sport->Swimming_in_East_Timor"  "type":8
+ae "activity->source" "activity" > "source"
+ce "activity->source"  "type":1
+ae "Swimming->Swimming_in_East_Timor" "Swimming" > "Swimming_in_East_Timor"
+ce "Swimming->Swimming_in_East_Timor"  "type":8
+ae "collection->law" "collection" > "law"
+ce "collection->law"  "type":1
+ae "sport->List of water sports" "sport" > "List of water sports"
+ce "sport->List of water sports"  "type":8
+ae "district->Iran" "district" > "Iran"
+ce "district->Iran"  "type":8
+ae "Water sport->Swimming_in_the_United_States" "Water sport" > "Swimming_in_the_United_States"
+ce "Water sport->Swimming_in_the_United_States"  "type":8
+ae "Swimming->Swimming_in_Nepal" "Swimming" > "Swimming_in_Nepal"
+ce "Swimming->Swimming_in_Nepal"  "type":8
+ae "Swimming->Swimming_in_Luxembourg" "Swimming" > "Swimming_in_Luxembourg"
+ce "Swimming->Swimming_in_Luxembourg"  "type":8
+ae "writing->Morpheme" "writing" > "Morpheme"
+ce "writing->Morpheme"  "type":8
+ae "Water sport->Swimming_in_Luxembourg" "Water sport" > "Swimming_in_Luxembourg"
+ce "Water sport->Swimming_in_Luxembourg"  "type":8
+ae "sport->Iran" "sport" > "Iran"
+ce "sport->Iran"  "type":8
+ae "sport->Ancient Greece" "sport" > "Ancient Greece"
+ce "sport->Ancient Greece"  "type":8
+ae "concept->Immanuel Kant" "concept" > "Immanuel Kant"
+ce "concept->Immanuel Kant"  "type":8
+ae "document->source" "document" > "source"
+ce "document->source"  "type":1
+ae "Swimming->Swimming_in_Uzbekistan" "Swimming" > "Swimming_in_Uzbekistan"
+ce "Swimming->Swimming_in_Uzbekistan"  "type":8
+ae "Water sport->Swimming_in_Syria" "Water sport" > "Swimming_in_Syria"
+ce "Water sport->Swimming_in_Syria"  "type":8
+ae "region->Sovereign state" "region" > "Sovereign state"
+ce "region->Sovereign state"  "type":8
+ae "concept->Mathematics" "concept" > "Mathematics"
+ce "concept->Mathematics"  "type":8
+ae "concept->Abstract and concrete" "concept" > "Abstract and concrete"
+ce "concept->Abstract and concrete"  "type":8
+ae "Swimming->Swimming_in_the_United_States" "Swimming" > "Swimming_in_the_United_States"
+ce "Swimming->Swimming_in_the_United_States"  "type":8
+ae "swimming->Panic" "swimming" > "Panic"
+ce "swimming->Panic"  "type":8
+ae "Water sport->Swimming_in_Tanzania" "Water sport" > "Swimming_in_Tanzania"
+ce "Water sport->Swimming_in_Tanzania"  "type":8
+ae "abstraction->Hypostatic abstraction" "abstraction" > "Hypostatic abstraction"
+ce "abstraction->Hypostatic abstraction"  "type":8
+ae "concept->law" "concept" > "law"
+ce "concept->law"  "type":1
+ae "concept->abstraction" "concept" > "abstraction"
+ce "concept->abstraction"  "type":1
+ae "Swimming->Swimming_in_Togo" "Swimming" > "Swimming_in_Togo"
+ce "Swimming->Swimming_in_Togo"  "type":8
+ae "idea->Non-disclosure agreement" "idea" > "Non-disclosure agreement"
+ce "idea->Non-disclosure agreement"  "type":8
+ae "Swimming->Synchronised_swimming_in_the_United_Kingdom" "Swimming" > "Synchronised_swimming_in_the_United_Kingdom"
+ce "Swimming->Synchronised_swimming_in_the_United_Kingdom"  "type":8
+ae "Water sport->Swimming_in_Togo" "Water sport" > "Swimming_in_Togo"
+ce "Water sport->Swimming_in_Togo"  "type":8
+ae "abstraction->Charles Sanders Peirce" "abstraction" > "Charles Sanders Peirce"
+ce "abstraction->Charles Sanders Peirce"  "type":8
+ae "Swimming->Swimming_in_Tanzania" "Swimming" > "Swimming_in_Tanzania"
+ce "Swimming->Swimming_in_Tanzania"  "type":8
+ae "state->domain" "state" > "domain"
+ce "state->domain"  "type":7
+ae "whole->part" "whole" > "part"
+ce "whole->part"  "type":7
+ae "Swimming->Swimming_in_Norway" "Swimming" > "Swimming_in_Norway"
+ce "Swimming->Swimming_in_Norway"  "type":8
+ae "swimming->United States Army Special Forces" "swimming" > "United States Army Special Forces"
+ce "swimming->United States Army Special Forces"  "type":8
+ae "Swimming->Swimming_in_Syria" "Swimming" > "Swimming_in_Syria"
+ce "Swimming->Swimming_in_Syria"  "type":8
+ae "Swimming->Swimming_in_China" "Swimming" > "Swimming_in_China"
+ce "Swimming->Swimming_in_China"  "type":8
+ae "state->State (polity)" "state" > "State (polity)"
+ce "state->State (polity)"  "type":8
+ae "Water sport->Swimming_in_Turkey" "Water sport" > "Swimming_in_Turkey"
+ce "Water sport->Swimming_in_Turkey"  "type":8
+ae "Water sport->Swimming_in_Turkmenistan" "Water sport" > "Swimming_in_Turkmenistan"
+ce "Water sport->Swimming_in_Turkmenistan"  "type":8
+ae "swimming->Marine biology" "swimming" > "Marine biology"
+ce "swimming->Marine biology"  "type":8
+ae "Swimming->Swimming_in_Eswatini" "Swimming" > "Swimming_in_Eswatini"
+ce "Swimming->Swimming_in_Eswatini"  "type":8
+ae "abstraction->Language" "abstraction" > "Language"
+ce "abstraction->Language"  "type":8
+ae "abstraction->Mathematics" "abstraction" > "Mathematics"
+ce "abstraction->Mathematics"  "type":8
+ae "Water sport->Swimming_in_Uzbekistan" "Water sport" > "Swimming_in_Uzbekistan"
+ce "Water sport->Swimming_in_Uzbekistan"  "type":8
+ae "Water sport->Synchronised_swimming_in_Germany" "Water sport" > "Synchronised_swimming_in_Germany"
+ce "Water sport->Synchronised_swimming_in_Germany"  "type":8
+ae "document->Bill of lading" "document" > "Bill of lading"
+ce "document->Bill of lading"  "type":8
+ae "state->Sovereign state" "state" > "Sovereign state"
+ce "state->Sovereign state"  "type":8
+ae "content->scene" "content" > "scene"
+ce "content->scene"  "type":6
+ae "artifact->line" "artifact" > "line"
+ce "artifact->line"  "type":1
+ae "Swimming->Synchronised_swimming_in_Israel" "Swimming" > "Synchronised_swimming_in_Israel"
+ce "Swimming->Synchronised_swimming_in_Israel"  "type":8
+ae "document->Non-disclosure agreement" "document" > "Non-disclosure agreement"
+ce "document->Non-disclosure agreement"  "type":8
+ae "Swimming->Swimming_in_Albania" "Swimming" > "Swimming_in_Albania"
+ce "Swimming->Swimming_in_Albania"  "type":8
+ae "Swimming->Swimming_in_Algeria" "Swimming" > "Swimming_in_Algeria"
+ce "Swimming->Swimming_in_Algeria"  "type":8
+ae "Swimming->Swimming_in_Angola" "Swimming" > "Swimming_in_Angola"
+ce "Swimming->Swimming_in_Angola"  "type":8
+ae "Swimming->Synchronised_swimming_in_Germany" "Swimming" > "Synchronised_swimming_in_Germany"
+ce "Swimming->Synchronised_swimming_in_Germany"  "type":8
+ae "abstraction->Morpheme" "abstraction" > "Morpheme"
+ce "abstraction->Morpheme"  "type":8
+ae "Water sport->Swimming_in_Canada" "Water sport" > "Swimming_in_Canada"
+ce "Water sport->Swimming_in_Canada"  "type":8
+ae "Water sport->Swimming_in_Bolivia" "Water sport" > "Swimming_in_Bolivia"
+ce "Water sport->Swimming_in_Bolivia"  "type":8
+ae "region->domain" "region" > "domain"
+ce "region->domain"  "type":1
+ae "Water sport->Swimming_in_Eswatini" "Water sport" > "Swimming_in_Eswatini"
+ce "Water sport->Swimming_in_Eswatini"  "type":8
+ae "swimming->Breaststroke" "swimming" > "Breaststroke"
+ce "swimming->Breaststroke"  "type":8
+ae "document->Paper" "document" > "Paper"
+ce "document->Paper"  "type":8

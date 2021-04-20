@@ -1,0 +1,35 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "coast"
+cn "coast"  "ui.label":"coast"
+cn "coast"  "ui.style":"size-mode:fit;"
+an "shore"
+cn "shore"  "ui.label":"shore"
+cn "shore"  "ui.style":"size:6px; fill-color:white; "
+an "geological formation"
+cn "geological formation"  "ui.label":"geological formation"
+cn "geological formation"  "ui.style":"size:6px; fill-color:white; "
+an "hill"
+cn "hill"  "ui.label":"hill"
+cn "hill"  "ui.style":"size-mode:fit;"
+an "natural elevation"
+cn "natural elevation"  "ui.label":"natural elevation"
+cn "natural elevation"  "ui.style":"size:6px; fill-color:white; "
+an "slope"
+cn "slope"  "ui.label":"slope"
+cn "slope"  "ui.style":"size:6px; fill-color:white; "
+ae "coast->shore" "coast"  "shore"
+ce "coast->shore"  "type":0
+ae "shore->geological formation" "shore"  "geological formation"
+ce "shore->geological formation"  "type":0
+ae "coast->slope" "coast" > "slope"
+ce "coast->slope"  "type":0
+ae "geological formation->slope" "geological formation" > "slope"
+ce "geological formation->slope"  "type":1
+ae "natural elevation->slope" "natural elevation" > "slope"
+ce "natural elevation->slope"  "type":7
+ae "hill->natural elevation" "hill"  "natural elevation"
+ce "hill->natural elevation"  "type":0
+ae "natural elevation->geological formation" "natural elevation"  "geological formation"
+ce "natural elevation->geological formation"  "type":0

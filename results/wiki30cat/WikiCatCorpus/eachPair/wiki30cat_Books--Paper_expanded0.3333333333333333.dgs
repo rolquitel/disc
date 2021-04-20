@@ -1,0 +1,217 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Books"
+cn "Books"  "ui.label":"Books"
+cn "Books"  "ui.style":"size-mode:fit;"
+an "Arts"
+cn "Arts"  "ui.label":"Arts"
+cn "Arts"  "ui.style":"size:6px; fill-color:white; "
+an "Creativity"
+cn "Creativity"  "ui.label":"Creativity"
+cn "Creativity"  "ui.style":"size:6px; fill-color:white; "
+an "Cognition"
+cn "Cognition"  "ui.label":"Cognition"
+cn "Cognition"  "ui.style":"size:6px; fill-color:white; "
+an "Consciousness"
+cn "Consciousness"  "ui.label":"Consciousness"
+cn "Consciousness"  "ui.style":"size:6px; fill-color:white; "
+an "Mind"
+cn "Mind"  "ui.label":"Mind"
+cn "Mind"  "ui.style":"size:6px; fill-color:white; "
+an "Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.label":"Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.style":"size:6px; fill-color:white; "
+an "Paper"
+cn "Paper"  "ui.label":"Paper"
+cn "Paper"  "ui.style":"size-mode:fit;"
+an "2nd-century_works"
+cn "2nd-century_works"  "ui.label":"2nd-century_works"
+cn "2nd-century_works"  "ui.style":"size:6px; fill-color:white; "
+an "1st-millennium_works"
+cn "1st-millennium_works"  "ui.label":"1st-millennium_works"
+cn "1st-millennium_works"  "ui.style":"size:6px; fill-color:white; "
+an "1st_millennium"
+cn "1st_millennium"  "ui.label":"1st_millennium"
+cn "1st_millennium"  "ui.style":"size:6px; fill-color:white; "
+an "Holocene"
+cn "Holocene"  "ui.label":"Holocene"
+cn "Holocene"  "ui.style":"size:6px; fill-color:white; "
+an "Geological_epochs"
+cn "Geological_epochs"  "ui.label":"Geological_epochs"
+cn "Geological_epochs"  "ui.style":"size:6px; fill-color:white; "
+an "Geological_history_of_Earth"
+cn "Geological_history_of_Earth"  "ui.label":"Geological_history_of_Earth"
+cn "Geological_history_of_Earth"  "ui.style":"size:6px; fill-color:white; "
+an "Earth"
+cn "Earth"  "ui.label":"Earth"
+cn "Earth"  "ui.style":"size:6px; fill-color:white; "
+an "Astronomical_objects_known_since_antiquity"
+cn "Astronomical_objects_known_since_antiquity"  "ui.label":"Astronomical_objects_known_since_antiquity"
+cn "Astronomical_objects_known_since_antiquity"  "ui.style":"size:6px; fill-color:white; "
+an "Ancient_astronomy"
+cn "Ancient_astronomy"  "ui.label":"Ancient_astronomy"
+cn "Ancient_astronomy"  "ui.style":"size:6px; fill-color:white; "
+an "Ancient_science"
+cn "Ancient_science"  "ui.label":"Ancient_science"
+cn "Ancient_science"  "ui.style":"size:6px; fill-color:white; "
+an "Ancient_history"
+cn "Ancient_history"  "ui.label":"Ancient_history"
+cn "Ancient_history"  "ui.style":"size:6px; fill-color:white; "
+an "Categories_requiring_diffusion"
+cn "Categories_requiring_diffusion"  "ui.label":"Categories_requiring_diffusion"
+cn "Categories_requiring_diffusion"  "ui.style":"size:6px; fill-color:white; "
+an "Container_categories"
+cn "Container_categories"  "ui.label":"Container_categories"
+cn "Container_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Hidden_categories"
+cn "Hidden_categories"  "ui.label":"Hidden_categories"
+cn "Hidden_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Publications_by_format"
+cn "Publications_by_format"  "ui.label":"Publications_by_format"
+cn "Publications_by_format"  "ui.style":"size:6px; fill-color:white; "
+an "Educational_psychology"
+cn "Educational_psychology"  "ui.label":"Educational_psychology"
+cn "Educational_psychology"  "ui.style":"size:6px; fill-color:white; "
+an "Intelligence"
+cn "Intelligence"  "ui.label":"Intelligence"
+cn "Intelligence"  "ui.style":"size:6px; fill-color:white; "
+an "Neuropsychology"
+cn "Neuropsychology"  "ui.label":"Neuropsychology"
+cn "Neuropsychology"  "ui.style":"size:6px; fill-color:white; "
+an "Psychological_concepts"
+cn "Psychological_concepts"  "ui.label":"Psychological_concepts"
+cn "Psychological_concepts"  "ui.style":"size:6px; fill-color:white; "
+an "Thought"
+cn "Thought"  "ui.label":"Thought"
+cn "Thought"  "ui.style":"size:6px; fill-color:white; "
+an "Art_materials"
+cn "Art_materials"  "ui.label":"Art_materials"
+cn "Art_materials"  "ui.style":"size:6px; fill-color:white; "
+an "Printing_materials"
+cn "Printing_materials"  "ui.label":"Printing_materials"
+cn "Printing_materials"  "ui.style":"size:6px; fill-color:white; "
+an "Wood_products"
+cn "Wood_products"  "ui.label":"Wood_products"
+cn "Wood_products"  "ui.style":"size:6px; fill-color:white; "
+an "Millennia"
+cn "Millennia"  "ui.label":"Millennia"
+cn "Millennia"  "ui.style":"size:6px; fill-color:white; "
+an "Quaternary_geochronology"
+cn "Quaternary_geochronology"  "ui.label":"Quaternary_geochronology"
+cn "Quaternary_geochronology"  "ui.style":"size:6px; fill-color:white; "
+an "Units_of_geologic_time_by_rank"
+cn "Units_of_geologic_time_by_rank"  "ui.label":"Units_of_geologic_time_by_rank"
+cn "Units_of_geologic_time_by_rank"  "ui.style":"size:6px; fill-color:white; "
+an "Habitable_zone_planets"
+cn "Habitable_zone_planets"  "ui.label":"Habitable_zone_planets"
+cn "Habitable_zone_planets"  "ui.style":"size:6px; fill-color:white; "
+an "Terrestrial_planets"
+cn "Terrestrial_planets"  "ui.label":"Terrestrial_planets"
+cn "Terrestrial_planets"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_categories_named_after_planets"
+cn "Wikipedia_categories_named_after_planets"  "ui.label":"Wikipedia_categories_named_after_planets"
+cn "Wikipedia_categories_named_after_planets"  "ui.style":"size:6px; fill-color:white; "
+an "Astronomical_objects_by_year_of_discovery"
+cn "Astronomical_objects_by_year_of_discovery"  "ui.label":"Astronomical_objects_by_year_of_discovery"
+cn "Astronomical_objects_by_year_of_discovery"  "ui.style":"size:6px; fill-color:white; "
+an "Historical_eras"
+cn "Historical_eras"  "ui.label":"Historical_eras"
+cn "Historical_eras"  "ui.style":"size:6px; fill-color:white; "
+an "Tracking_categories"
+cn "Tracking_categories"  "ui.label":"Tracking_categories"
+cn "Tracking_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_category_maintenance"
+cn "Wikipedia_category_maintenance"  "ui.label":"Wikipedia_category_maintenance"
+cn "Wikipedia_category_maintenance"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_categories"
+cn "Wikipedia_categories"  "ui.label":"Wikipedia_categories"
+cn "Wikipedia_categories"  "ui.style":"size:6px; fill-color:white; "
+ae "Books->Arts" "Books"  "Arts"
+ce "Books->Arts"  "type":0
+ae "Arts->Creativity" "Arts"  "Creativity"
+ce "Arts->Creativity"  "type":0
+ae "Creativity->Cognition" "Creativity"  "Cognition"
+ce "Creativity->Cognition"  "type":0
+ae "Cognition->Consciousness" "Cognition"  "Consciousness"
+ce "Cognition->Consciousness"  "type":0
+ae "Consciousness->Mind" "Consciousness"  "Mind"
+ce "Consciousness->Mind"  "type":0
+ae "Mind->Main_topic_classifications" "Mind"  "Main_topic_classifications"
+ce "Mind->Main_topic_classifications"  "type":0
+ae "Paper->2nd-century_works" "Paper"  "2nd-century_works"
+ce "Paper->2nd-century_works"  "type":0
+ae "2nd-century_works->1st-millennium_works" "2nd-century_works"  "1st-millennium_works"
+ce "2nd-century_works->1st-millennium_works"  "type":0
+ae "1st-millennium_works->1st_millennium" "1st-millennium_works"  "1st_millennium"
+ce "1st-millennium_works->1st_millennium"  "type":0
+ae "1st_millennium->Holocene" "1st_millennium"  "Holocene"
+ce "1st_millennium->Holocene"  "type":0
+ae "Holocene->Geological_epochs" "Holocene"  "Geological_epochs"
+ce "Holocene->Geological_epochs"  "type":0
+ae "Geological_epochs->Geological_history_of_Earth" "Geological_epochs"  "Geological_history_of_Earth"
+ce "Geological_epochs->Geological_history_of_Earth"  "type":0
+ae "Geological_history_of_Earth->Earth" "Geological_history_of_Earth"  "Earth"
+ce "Geological_history_of_Earth->Earth"  "type":0
+ae "Earth->Astronomical_objects_known_since_antiquity" "Earth"  "Astronomical_objects_known_since_antiquity"
+ce "Earth->Astronomical_objects_known_since_antiquity"  "type":0
+ae "Astronomical_objects_known_since_antiquity->Ancient_astronomy" "Astronomical_objects_known_since_antiquity"  "Ancient_astronomy"
+ce "Astronomical_objects_known_since_antiquity->Ancient_astronomy"  "type":0
+ae "Ancient_astronomy->Ancient_science" "Ancient_astronomy"  "Ancient_science"
+ce "Ancient_astronomy->Ancient_science"  "type":0
+ae "Ancient_science->Ancient_history" "Ancient_science"  "Ancient_history"
+ce "Ancient_science->Ancient_history"  "type":0
+ae "Ancient_history->Categories_requiring_diffusion" "Ancient_history"  "Categories_requiring_diffusion"
+ce "Ancient_history->Categories_requiring_diffusion"  "type":0
+ae "Categories_requiring_diffusion->Container_categories" "Categories_requiring_diffusion"  "Container_categories"
+ce "Categories_requiring_diffusion->Container_categories"  "type":0
+ae "Container_categories->Hidden_categories" "Container_categories"  "Hidden_categories"
+ce "Container_categories->Hidden_categories"  "type":0
+ae "Hidden_categories->Hidden_categories" "Hidden_categories"  "Hidden_categories"
+ce "Hidden_categories->Hidden_categories"  "type":0
+ae "Books->Publications_by_format" "Books" > "Publications_by_format"
+ce "Books->Publications_by_format"  "type":0
+ae "Creativity->Educational_psychology" "Creativity" > "Educational_psychology"
+ce "Creativity->Educational_psychology"  "type":0
+ae "Creativity->Intelligence" "Creativity" > "Intelligence"
+ce "Creativity->Intelligence"  "type":0
+ae "Cognition->Neuropsychology" "Cognition" > "Neuropsychology"
+ce "Cognition->Neuropsychology"  "type":0
+ae "Cognition->Psychological_concepts" "Cognition" > "Psychological_concepts"
+ce "Cognition->Psychological_concepts"  "type":0
+ae "Cognition->Thought" "Cognition" > "Thought"
+ce "Cognition->Thought"  "type":0
+ae "Main_topic_classifications->Container_categories" "Main_topic_classifications" > "Container_categories"
+ce "Main_topic_classifications->Container_categories"  "type":0
+ae "Paper->Art_materials" "Paper" > "Art_materials"
+ce "Paper->Art_materials"  "type":0
+ae "Paper->Printing_materials" "Paper" > "Printing_materials"
+ce "Paper->Printing_materials"  "type":0
+ae "Paper->Wood_products" "Paper" > "Wood_products"
+ce "Paper->Wood_products"  "type":0
+ae "1st_millennium->Millennia" "1st_millennium" > "Millennia"
+ce "1st_millennium->Millennia"  "type":0
+ae "Holocene->Quaternary_geochronology" "Holocene" > "Quaternary_geochronology"
+ce "Holocene->Quaternary_geochronology"  "type":0
+ae "Geological_epochs->Units_of_geologic_time_by_rank" "Geological_epochs" > "Units_of_geologic_time_by_rank"
+ce "Geological_epochs->Units_of_geologic_time_by_rank"  "type":0
+ae "Earth->Categories_requiring_diffusion" "Earth" > "Categories_requiring_diffusion"
+ce "Earth->Categories_requiring_diffusion"  "type":0
+ae "Earth->Habitable_zone_planets" "Earth" > "Habitable_zone_planets"
+ce "Earth->Habitable_zone_planets"  "type":0
+ae "Earth->Terrestrial_planets" "Earth" > "Terrestrial_planets"
+ce "Earth->Terrestrial_planets"  "type":0
+ae "Earth->Wikipedia_categories_named_after_planets" "Earth" > "Wikipedia_categories_named_after_planets"
+ce "Earth->Wikipedia_categories_named_after_planets"  "type":0
+ae "Astronomical_objects_known_since_antiquity->Astronomical_objects_by_year_of_discovery" "Astronomical_objects_known_since_antiquity" > "Astronomical_objects_by_year_of_discovery"
+ce "Astronomical_objects_known_since_antiquity->Astronomical_objects_by_year_of_discovery"  "type":0
+ae "Ancient_history->Historical_eras" "Ancient_history" > "Historical_eras"
+ce "Ancient_history->Historical_eras"  "type":0
+ae "Categories_requiring_diffusion->Tracking_categories" "Categories_requiring_diffusion" > "Tracking_categories"
+ce "Categories_requiring_diffusion->Tracking_categories"  "type":0
+ae "Categories_requiring_diffusion->Wikipedia_category_maintenance" "Categories_requiring_diffusion" > "Wikipedia_category_maintenance"
+ce "Categories_requiring_diffusion->Wikipedia_category_maintenance"  "type":0
+ae "Container_categories->Wikipedia_categories" "Container_categories" > "Wikipedia_categories"
+ce "Container_categories->Wikipedia_categories"  "type":0
+ae "Hidden_categories->Tracking_categories" "Hidden_categories" > "Tracking_categories"
+ce "Hidden_categories->Tracking_categories"  "type":0

@@ -1,0 +1,93 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "National Basketball Association"
+cn "National Basketball Association"  "ui.label":"National Basketball Association"
+cn "National Basketball Association"  "ui.style":"size-mode:fit;"
+an "Basketball_leagues_in_Canada"
+cn "Basketball_leagues_in_Canada"  "ui.label":"Basketball_leagues_in_Canada"
+cn "Basketball_leagues_in_Canada"  "ui.style":"size:6px; fill-color:white; "
+an "Basketball_competitions_in_Canada"
+cn "Basketball_competitions_in_Canada"  "ui.label":"Basketball_competitions_in_Canada"
+cn "Basketball_competitions_in_Canada"  "ui.style":"size:6px; fill-color:white; "
+an "Basketball_competitions_in_North_America_by_country"
+cn "Basketball_competitions_in_North_America_by_country"  "ui.label":"Basketball_competitions_in_North_America_by_country"
+cn "Basketball_competitions_in_North_America_by_country"  "ui.style":"size:6px; fill-color:white; "
+an "Basketball_competitions_by_country"
+cn "Basketball_competitions_by_country"  "ui.label":"Basketball_competitions_by_country"
+cn "Basketball_competitions_by_country"  "ui.style":"size:6px; fill-color:white; "
+an "Basketball_by_country"
+cn "Basketball_by_country"  "ui.label":"Basketball_by_country"
+cn "Basketball_by_country"  "ui.style":"size:6px; fill-color:white; "
+an "Basketball"
+cn "Basketball"  "ui.label":"Basketball"
+cn "Basketball"  "ui.style":"size:6px; fill-color:white; "
+an "Athletic_sports"
+cn "Athletic_sports"  "ui.label":"Athletic_sports"
+cn "Athletic_sports"  "ui.style":"size:6px; fill-color:white; "
+an "Competitive_games"
+cn "Competitive_games"  "ui.label":"Competitive_games"
+cn "Competitive_games"  "ui.style":"size:6px; fill-color:white; "
+an "Competition"
+cn "Competition"  "ui.label":"Competition"
+cn "Competition"  "ui.style":"size:6px; fill-color:white; "
+an "Difference"
+cn "Difference"  "ui.label":"Difference"
+cn "Difference"  "ui.style":"size:6px; fill-color:white; "
+an "Binary_operations"
+cn "Binary_operations"  "ui.label":"Binary_operations"
+cn "Binary_operations"  "ui.style":"size:6px; fill-color:white; "
+an "2_(number)"
+cn "2_(number)"  "ui.label":"2_(number)"
+cn "2_(number)"  "ui.style":"size:6px; fill-color:white; "
+an "Integers"
+cn "Integers"  "ui.label":"Integers"
+cn "Integers"  "ui.style":"size:6px; fill-color:white; "
+an "Abelian_group_theory"
+cn "Abelian_group_theory"  "ui.label":"Abelian_group_theory"
+cn "Abelian_group_theory"  "ui.style":"size:6px; fill-color:white; "
+an "Group_theory"
+cn "Group_theory"  "ui.label":"Group_theory"
+cn "Group_theory"  "ui.style":"size:6px; fill-color:white; "
+an "Abstract_algebra"
+cn "Abstract_algebra"  "ui.label":"Abstract_algebra"
+cn "Abstract_algebra"  "ui.style":"size:6px; fill-color:white; "
+an "Athletic sports"
+cn "Athletic sports"  "ui.label":"Athletic sports"
+cn "Athletic sports"  "ui.style":"size-mode:fit;"
+ae "National Basketball Association->Basketball_leagues_in_Canada" "National Basketball Association"  "Basketball_leagues_in_Canada"
+ce "National Basketball Association->Basketball_leagues_in_Canada"  "type":0
+ae "Basketball_leagues_in_Canada->Basketball_competitions_in_Canada" "Basketball_leagues_in_Canada"  "Basketball_competitions_in_Canada"
+ce "Basketball_leagues_in_Canada->Basketball_competitions_in_Canada"  "type":0
+ae "Basketball_competitions_in_Canada->Basketball_competitions_in_North_America_by_country" "Basketball_competitions_in_Canada"  "Basketball_competitions_in_North_America_by_country"
+ce "Basketball_competitions_in_Canada->Basketball_competitions_in_North_America_by_country"  "type":0
+ae "Basketball_competitions_in_North_America_by_country->Basketball_competitions_by_country" "Basketball_competitions_in_North_America_by_country"  "Basketball_competitions_by_country"
+ce "Basketball_competitions_in_North_America_by_country->Basketball_competitions_by_country"  "type":0
+ae "Basketball_competitions_by_country->Basketball_by_country" "Basketball_competitions_by_country"  "Basketball_by_country"
+ce "Basketball_competitions_by_country->Basketball_by_country"  "type":0
+ae "Basketball_by_country->Basketball" "Basketball_by_country"  "Basketball"
+ce "Basketball_by_country->Basketball"  "type":0
+ae "Basketball->Athletic_sports" "Basketball"  "Athletic_sports"
+ce "Basketball->Athletic_sports"  "type":0
+ae "Athletic_sports->Competitive_games" "Athletic_sports"  "Competitive_games"
+ce "Athletic_sports->Competitive_games"  "type":0
+ae "Competitive_games->Competition" "Competitive_games"  "Competition"
+ce "Competitive_games->Competition"  "type":0
+ae "Competition->Difference" "Competition"  "Difference"
+ce "Competition->Difference"  "type":0
+ae "Difference->Binary_operations" "Difference"  "Binary_operations"
+ce "Difference->Binary_operations"  "type":0
+ae "Binary_operations->2_(number)" "Binary_operations"  "2_(number)"
+ce "Binary_operations->2_(number)"  "type":0
+ae "2_(number)->Integers" "2_(number)"  "Integers"
+ce "2_(number)->Integers"  "type":0
+ae "Integers->Abelian_group_theory" "Integers"  "Abelian_group_theory"
+ce "Integers->Abelian_group_theory"  "type":0
+ae "Abelian_group_theory->Group_theory" "Abelian_group_theory"  "Group_theory"
+ce "Abelian_group_theory->Group_theory"  "type":0
+ae "Group_theory->Abstract_algebra" "Group_theory"  "Abstract_algebra"
+ce "Group_theory->Abstract_algebra"  "type":0
+ae "Binary_operations->Abstract_algebra" "Binary_operations" > "Abstract_algebra"
+ce "Binary_operations->Abstract_algebra"  "type":0
+ae "Athletic sports->Competitive_games" "Athletic sports"  "Competitive_games"
+ce "Athletic sports->Competitive_games"  "type":0

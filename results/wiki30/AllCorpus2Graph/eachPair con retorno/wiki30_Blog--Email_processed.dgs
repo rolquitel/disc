@@ -1,0 +1,112 @@
+DGS004
+null 0 0
+an "Blog"
+cn "Blog"  "ui.label":"Blog"
+cn "Blog"  "ui.style":"size-mode:fit;"
+an "diary"
+cn "diary"  "ui.label":"diary"
+cn "diary"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "Email"
+cn "Email"  "ui.label":"Email"
+cn "Email"  "ui.style":"size-mode:fit;"
+an "electronic communication"
+cn "electronic communication"  "ui.label":"electronic communication"
+cn "electronic communication"  "ui.style":"size:6px; fill-color:white; "
+an "transmission"
+cn "transmission"  "ui.label":"transmission"
+cn "transmission"  "ui.style":"size:6px; fill-color:white; "
+an "sending"
+cn "sending"  "ui.label":"sending"
+cn "sending"  "ui.style":"size:6px; fill-color:white; "
+an "causing"
+cn "causing"  "ui.label":"causing"
+cn "causing"  "ui.style":"size:6px; fill-color:white; "
+an "MIT Media Lab"
+cn "MIT Media Lab"  "ui.label":"MIT Media Lab"
+cn "MIT Media Lab"  "ui.style":"size:6px; fill-color:white; "
+an "Electronic mailing list"
+cn "Electronic mailing list"  "ui.label":"Electronic mailing list"
+cn "Electronic mailing list"  "ui.style":"size:6px; fill-color:white; "
+an "waste"
+cn "waste"  "ui.label":"waste"
+cn "waste"  "ui.style":"size:6px; fill-color:white; "
+an "dramatic composition"
+cn "dramatic composition"  "ui.label":"dramatic composition"
+cn "dramatic composition"  "ui.style":"size:6px; fill-color:white; "
+an "Potentiality and actuality"
+cn "Potentiality and actuality"  "ui.label":"Potentiality and actuality"
+cn "Potentiality and actuality"  "ui.style":"size:6px; fill-color:white; "
+ae "Blog->diary" "Blog"  "diary"
+ce "Blog->diary"  "type":0
+ae "diary->writing" "diary"  "writing"
+ce "diary->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "Email->electronic communication" "Email"  "electronic communication"
+ce "Email->electronic communication"  "type":0
+ae "electronic communication->transmission" "electronic communication"  "transmission"
+ce "electronic communication->transmission"  "type":0
+ae "transmission->sending" "transmission"  "sending"
+ce "transmission->sending"  "type":0
+ae "sending->causing" "sending"  "causing"
+ce "sending->causing"  "type":0
+ae "causing->act" "causing"  "act"
+ce "causing->act"  "type":0
+ae "Email->Electronic mailing list" "Email" > "Electronic mailing list"
+ce "Email->Electronic mailing list"  "type":8
+ae "activity->Potentiality and actuality" "activity" > "Potentiality and actuality"
+ce "activity->Potentiality and actuality"  "type":8
+ae "activity->waste" "activity" > "waste"
+ce "activity->waste"  "type":1
+ae "diary->MIT Media Lab" "diary" > "MIT Media Lab"
+ce "diary->MIT Media Lab"  "type":8
+ae "act->waste" "act" > "waste"
+ce "act->waste"  "type":1
+ae "act->dramatic composition" "act" > "dramatic composition"
+ce "act->dramatic composition"  "type":0
+ae "act->Potentiality and actuality" "act" > "Potentiality and actuality"
+ce "act->Potentiality and actuality"  "type":8
+ae "writing->dramatic composition" "writing" > "dramatic composition"
+ce "writing->dramatic composition"  "type":1
+ae "Blog->Electronic mailing list" "Blog" > "Electronic mailing list"
+ce "Blog->Electronic mailing list"  "type":8
+ae "Blog->MIT Media Lab" "Blog" > "MIT Media Lab"
+ce "Blog->MIT Media Lab"  "type":8

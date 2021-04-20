@@ -1,0 +1,86 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "monk"
+cn "monk"  "ui.label":"monk"
+cn "monk"  "ui.style":"size-mode:fit;"
+an "religious"
+cn "religious"  "ui.label":"religious"
+cn "religious"  "ui.style":"size:6px; fill-color:white; "
+an "religious person"
+cn "religious person"  "ui.label":"religious person"
+cn "religious person"  "ui.style":"size:6px; fill-color:white; "
+an "person"
+cn "person"  "ui.label":"person"
+cn "person"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "oracle"
+cn "oracle"  "ui.label":"oracle"
+cn "oracle"  "ui.style":"size-mode:fit;"
+an "diviner"
+cn "diviner"  "ui.label":"diviner"
+cn "diviner"  "ui.style":"size:6px; fill-color:white; "
+an "visionary"
+cn "visionary"  "ui.label":"visionary"
+cn "visionary"  "ui.style":"size:6px; fill-color:white; "
+ae "monk->religious" "monk"  "religious"
+ce "monk->religious"  "type":0
+ae "religious->religious person" "religious"  "religious person"
+ce "religious->religious person"  "type":0
+ae "religious person->person" "religious person"  "person"
+ce "religious person->person"  "type":0
+ae "person->organism" "person"  "organism"
+ce "person->organism"  "type":0
+ae "organism->living thing" "organism"  "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing"  "whole"
+ce "living thing->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "oracle->diviner" "oracle"  "diviner"
+ce "oracle->diviner"  "type":0
+ae "diviner->visionary" "diviner"  "visionary"
+ce "diviner->visionary"  "type":0
+ae "visionary->person" "visionary"  "person"
+ce "visionary->person"  "type":0

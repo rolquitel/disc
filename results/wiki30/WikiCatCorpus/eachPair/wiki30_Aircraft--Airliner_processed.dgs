@@ -1,0 +1,9 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Aircraft"
+cn "Aircraft"  "ui.label":"Aircraft"
+cn "Aircraft"  "ui.style":"size-mode:fit;"
+an "Airliner"
+cn "Airliner"  "ui.label":"Airliner"
+cn "Airliner"  "ui.style":"size-mode:fit;"

@@ -1,0 +1,167 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Public transport"
+cn "Public transport"  "ui.label":"Public transport"
+cn "Public transport"  "ui.style":"size-mode:fit;"
+an "Public_services"
+cn "Public_services"  "ui.label":"Public_services"
+cn "Public_services"  "ui.style":"size:6px; fill-color:white; "
+an "Political_economy"
+cn "Political_economy"  "ui.label":"Political_economy"
+cn "Political_economy"  "ui.style":"size:6px; fill-color:white; "
+an "Categories_which_are_included_in_the_JEL_classification_codes"
+cn "Categories_which_are_included_in_the_JEL_classification_codes"  "ui.label":"Categories_which_are_included_in_the_JEL_classification_codes"
+cn "Categories_which_are_included_in_the_JEL_classification_codes"  "ui.style":"size:6px; fill-color:white; "
+an "Hidden_categories"
+cn "Hidden_categories"  "ui.label":"Hidden_categories"
+cn "Hidden_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Tracking_categories"
+cn "Tracking_categories"  "ui.label":"Tracking_categories"
+cn "Tracking_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_categories"
+cn "Wikipedia_categories"  "ui.label":"Wikipedia_categories"
+cn "Wikipedia_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_categorization"
+cn "Wikipedia_categorization"  "ui.label":"Wikipedia_categorization"
+cn "Wikipedia_categorization"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_administration"
+cn "Wikipedia_administration"  "ui.label":"Wikipedia_administration"
+cn "Wikipedia_administration"  "ui.style":"size:6px; fill-color:white; "
+an "Contents"
+cn "Contents"  "ui.label":"Contents"
+cn "Contents"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_navigation"
+cn "Wikipedia_navigation"  "ui.label":"Wikipedia_navigation"
+cn "Wikipedia_navigation"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_namespaces"
+cn "Wikipedia_namespaces"  "ui.label":"Wikipedia_namespaces"
+cn "Wikipedia_namespaces"  "ui.style":"size:6px; fill-color:white; "
+an "Namespace"
+cn "Namespace"  "ui.label":"Namespace"
+cn "Namespace"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_maintenance"
+cn "Wikipedia_maintenance"  "ui.label":"Wikipedia_maintenance"
+cn "Wikipedia_maintenance"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_pages_under_30-500_editing_restriction"
+cn "Wikipedia_pages_under_30-500_editing_restriction"  "ui.label":"Wikipedia_pages_under_30-500_editing_restriction"
+cn "Wikipedia_pages_under_30-500_editing_restriction"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_page_protection"
+cn "Wikipedia_page_protection"  "ui.label":"Wikipedia_page_protection"
+cn "Wikipedia_page_protection"  "ui.style":"size:6px; fill-color:white; "
+an "Interdisciplinary_subfields_of_economics"
+cn "Interdisciplinary_subfields_of_economics"  "ui.label":"Interdisciplinary_subfields_of_economics"
+cn "Interdisciplinary_subfields_of_economics"  "ui.style":"size:6px; fill-color:white; "
+an "Interdisciplinary_subfields"
+cn "Interdisciplinary_subfields"  "ui.label":"Interdisciplinary_subfields"
+cn "Interdisciplinary_subfields"  "ui.style":"size:6px; fill-color:white; "
+an "Academic_discipline_interactions"
+cn "Academic_discipline_interactions"  "ui.label":"Academic_discipline_interactions"
+cn "Academic_discipline_interactions"  "ui.style":"size:6px; fill-color:white; "
+an "Academic_disciplines"
+cn "Academic_disciplines"  "ui.label":"Academic_disciplines"
+cn "Academic_disciplines"  "ui.style":"size:6px; fill-color:white; "
+an "Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.label":"Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.style":"size:6px; fill-color:white; "
+an "Trains"
+cn "Trains"  "ui.label":"Trains"
+cn "Trains"  "ui.style":"size-mode:fit;"
+an "Rail_transport"
+cn "Rail_transport"  "ui.label":"Rail_transport"
+cn "Rail_transport"  "ui.style":"size:6px; fill-color:white; "
+an "Land_transport"
+cn "Land_transport"  "ui.label":"Land_transport"
+cn "Land_transport"  "ui.style":"size:6px; fill-color:white; "
+an "Transport_by_mode"
+cn "Transport_by_mode"  "ui.label":"Transport_by_mode"
+cn "Transport_by_mode"  "ui.style":"size:6px; fill-color:white; "
+an "Categories_by_type"
+cn "Categories_by_type"  "ui.label":"Categories_by_type"
+cn "Categories_by_type"  "ui.style":"size:6px; fill-color:white; "
+an "Categories_by_parameter"
+cn "Categories_by_parameter"  "ui.label":"Categories_by_parameter"
+cn "Categories_by_parameter"  "ui.style":"size:6px; fill-color:white; "
+an "Commons_category_link_is_on_Wikidata_using_P373"
+cn "Commons_category_link_is_on_Wikidata_using_P373"  "ui.label":"Commons_category_link_is_on_Wikidata_using_P373"
+cn "Commons_category_link_is_on_Wikidata_using_P373"  "ui.style":"size:6px; fill-color:white; "
+an "Commons_category_Wikidata_tracking_categories"
+cn "Commons_category_Wikidata_tracking_categories"  "ui.label":"Commons_category_Wikidata_tracking_categories"
+cn "Commons_category_Wikidata_tracking_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Wikidata_tracking_categories"
+cn "Wikidata_tracking_categories"  "ui.label":"Wikidata_tracking_categories"
+cn "Wikidata_tracking_categories"  "ui.style":"size:6px; fill-color:white; "
+ae "Public transport->Public_services" "Public transport"  "Public_services"
+ce "Public transport->Public_services"  "type":0
+ae "Public_services->Political_economy" "Public_services"  "Political_economy"
+ce "Public_services->Political_economy"  "type":0
+ae "Political_economy->Categories_which_are_included_in_the_JEL_classification_codes" "Political_economy"  "Categories_which_are_included_in_the_JEL_classification_codes"
+ce "Political_economy->Categories_which_are_included_in_the_JEL_classification_codes"  "type":0
+ae "Categories_which_are_included_in_the_JEL_classification_codes->Hidden_categories" "Categories_which_are_included_in_the_JEL_classification_codes"  "Hidden_categories"
+ce "Categories_which_are_included_in_the_JEL_classification_codes->Hidden_categories"  "type":0
+ae "Hidden_categories->Hidden_categories" "Hidden_categories"  "Hidden_categories"
+ce "Hidden_categories->Hidden_categories"  "type":0
+ae "Hidden_categories->Tracking_categories" "Hidden_categories"  "Tracking_categories"
+ce "Hidden_categories->Tracking_categories"  "type":0
+ae "Tracking_categories->Wikipedia_categories" "Tracking_categories"  "Wikipedia_categories"
+ce "Tracking_categories->Wikipedia_categories"  "type":0
+ae "Wikipedia_categories->Wikipedia_categorization" "Wikipedia_categories"  "Wikipedia_categorization"
+ce "Wikipedia_categories->Wikipedia_categorization"  "type":0
+ae "Wikipedia_categorization->Wikipedia_administration" "Wikipedia_categorization"  "Wikipedia_administration"
+ce "Wikipedia_categorization->Wikipedia_administration"  "type":0
+ae "Wikipedia_administration->Contents" "Wikipedia_administration"  "Contents"
+ce "Wikipedia_administration->Contents"  "type":0
+ae "Wikipedia_categorization->Wikipedia_navigation" "Wikipedia_categorization"  "Wikipedia_navigation"
+ce "Wikipedia_categorization->Wikipedia_navigation"  "type":0
+ae "Wikipedia_navigation->Contents" "Wikipedia_navigation"  "Contents"
+ce "Wikipedia_navigation->Contents"  "type":0
+ae "Wikipedia_categories->Wikipedia_namespaces" "Wikipedia_categories"  "Wikipedia_namespaces"
+ce "Wikipedia_categories->Wikipedia_namespaces"  "type":0
+ae "Wikipedia_namespaces->Namespace" "Wikipedia_namespaces"  "Namespace"
+ce "Wikipedia_namespaces->Namespace"  "type":0
+ae "Namespace->Wikipedia_administration" "Namespace"  "Wikipedia_administration"
+ce "Namespace->Wikipedia_administration"  "type":0
+ae "Tracking_categories->Wikipedia_maintenance" "Tracking_categories"  "Wikipedia_maintenance"
+ce "Tracking_categories->Wikipedia_maintenance"  "type":0
+ae "Wikipedia_maintenance->Wikipedia_administration" "Wikipedia_maintenance"  "Wikipedia_administration"
+ce "Wikipedia_maintenance->Wikipedia_administration"  "type":0
+ae "Hidden_categories->Wikipedia_categories" "Hidden_categories"  "Wikipedia_categories"
+ce "Hidden_categories->Wikipedia_categories"  "type":0
+ae "Hidden_categories->Wikipedia_pages_under_30-500_editing_restriction" "Hidden_categories"  "Wikipedia_pages_under_30-500_editing_restriction"
+ce "Hidden_categories->Wikipedia_pages_under_30-500_editing_restriction"  "type":0
+ae "Wikipedia_pages_under_30-500_editing_restriction->Wikipedia_page_protection" "Wikipedia_pages_under_30-500_editing_restriction"  "Wikipedia_page_protection"
+ce "Wikipedia_pages_under_30-500_editing_restriction->Wikipedia_page_protection"  "type":0
+ae "Wikipedia_page_protection->Wikipedia_administration" "Wikipedia_page_protection"  "Wikipedia_administration"
+ce "Wikipedia_page_protection->Wikipedia_administration"  "type":0
+ae "Categories_which_are_included_in_the_JEL_classification_codes->Tracking_categories" "Categories_which_are_included_in_the_JEL_classification_codes"  "Tracking_categories"
+ce "Categories_which_are_included_in_the_JEL_classification_codes->Tracking_categories"  "type":0
+ae "Political_economy->Interdisciplinary_subfields_of_economics" "Political_economy"  "Interdisciplinary_subfields_of_economics"
+ce "Political_economy->Interdisciplinary_subfields_of_economics"  "type":0
+ae "Interdisciplinary_subfields_of_economics->Categories_which_are_included_in_the_JEL_classification_codes" "Interdisciplinary_subfields_of_economics"  "Categories_which_are_included_in_the_JEL_classification_codes"
+ce "Interdisciplinary_subfields_of_economics->Categories_which_are_included_in_the_JEL_classification_codes"  "type":0
+ae "Interdisciplinary_subfields_of_economics->Interdisciplinary_subfields" "Interdisciplinary_subfields_of_economics"  "Interdisciplinary_subfields"
+ce "Interdisciplinary_subfields_of_economics->Interdisciplinary_subfields"  "type":0
+ae "Interdisciplinary_subfields->Academic_discipline_interactions" "Interdisciplinary_subfields"  "Academic_discipline_interactions"
+ce "Interdisciplinary_subfields->Academic_discipline_interactions"  "type":0
+ae "Academic_discipline_interactions->Academic_disciplines" "Academic_discipline_interactions"  "Academic_disciplines"
+ce "Academic_discipline_interactions->Academic_disciplines"  "type":0
+ae "Academic_disciplines->Main_topic_classifications" "Academic_disciplines"  "Main_topic_classifications"
+ce "Academic_disciplines->Main_topic_classifications"  "type":0
+ae "Trains->Rail_transport" "Trains"  "Rail_transport"
+ce "Trains->Rail_transport"  "type":0
+ae "Rail_transport->Land_transport" "Rail_transport"  "Land_transport"
+ce "Rail_transport->Land_transport"  "type":0
+ae "Land_transport->Transport_by_mode" "Land_transport"  "Transport_by_mode"
+ce "Land_transport->Transport_by_mode"  "type":0
+ae "Transport_by_mode->Categories_by_type" "Transport_by_mode"  "Categories_by_type"
+ce "Transport_by_mode->Categories_by_type"  "type":0
+ae "Categories_by_type->Categories_by_parameter" "Categories_by_type"  "Categories_by_parameter"
+ce "Categories_by_type->Categories_by_parameter"  "type":0
+ae "Categories_by_parameter->Commons_category_link_is_on_Wikidata_using_P373" "Categories_by_parameter"  "Commons_category_link_is_on_Wikidata_using_P373"
+ce "Categories_by_parameter->Commons_category_link_is_on_Wikidata_using_P373"  "type":0
+ae "Commons_category_link_is_on_Wikidata_using_P373->Commons_category_Wikidata_tracking_categories" "Commons_category_link_is_on_Wikidata_using_P373"  "Commons_category_Wikidata_tracking_categories"
+ce "Commons_category_link_is_on_Wikidata_using_P373->Commons_category_Wikidata_tracking_categories"  "type":0
+ae "Commons_category_Wikidata_tracking_categories->Wikidata_tracking_categories" "Commons_category_Wikidata_tracking_categories"  "Wikidata_tracking_categories"
+ce "Commons_category_Wikidata_tracking_categories->Wikidata_tracking_categories"  "type":0
+ae "Wikidata_tracking_categories->Tracking_categories" "Wikidata_tracking_categories"  "Tracking_categories"
+ce "Wikidata_tracking_categories->Tracking_categories"  "type":0

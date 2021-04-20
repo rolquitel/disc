@@ -1,0 +1,450 @@
+DGS004
+null 0 0
+an "Blog"
+cn "Blog"  "ui.label":"Blog"
+cn "Blog"  "ui.style":"size-mode:fit;"
+an "diary"
+cn "diary"  "ui.label":"diary"
+cn "diary"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Email"
+cn "Email"  "ui.label":"Email"
+cn "Email"  "ui.style":"size-mode:fit;"
+an "electronic communication"
+cn "electronic communication"  "ui.label":"electronic communication"
+cn "electronic communication"  "ui.style":"size:6px; fill-color:white; "
+an "transmission"
+cn "transmission"  "ui.label":"transmission"
+cn "transmission"  "ui.style":"size:6px; fill-color:white; "
+an "sending"
+cn "sending"  "ui.label":"sending"
+cn "sending"  "ui.style":"size:6px; fill-color:white; "
+an "causing"
+cn "causing"  "ui.label":"causing"
+cn "causing"  "ui.style":"size:6px; fill-color:white; "
+an "trigger"
+cn "trigger"  "ui.label":"trigger"
+cn "trigger"  "ui.style":"size:6px; fill-color:white; "
+an "lever"
+cn "lever"  "ui.label":"lever"
+cn "lever"  "ui.style":"size:6px; fill-color:white; "
+an "bar"
+cn "bar"  "ui.label":"bar"
+cn "bar"  "ui.style":"size:6px; fill-color:white; "
+an "room"
+cn "room"  "ui.label":"room"
+cn "room"  "ui.style":"size:6px; fill-color:white; "
+an "area"
+cn "area"  "ui.label":"area"
+cn "area"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "PDF"
+cn "PDF"  "ui.label":"PDF"
+cn "PDF"  "ui.style":"size:6px; fill-color:white; "
+an "Diary"
+cn "Diary"  "ui.label":"Diary"
+cn "Diary"  "ui.style":"size:6px; fill-color:white; "
+an "patent"
+cn "patent"  "ui.label":"patent"
+cn "patent"  "ui.style":"size:6px; fill-color:white; "
+an "opinion"
+cn "opinion"  "ui.label":"opinion"
+cn "opinion"  "ui.style":"size:6px; fill-color:white; "
+an "Social media"
+cn "Social media"  "ui.label":"Social media"
+cn "Social media"  "ui.style":"size:6px; fill-color:white; "
+an "Twitter"
+cn "Twitter"  "ui.label":"Twitter"
+cn "Twitter"  "ui.style":"size:6px; fill-color:white; "
+an "matter"
+cn "matter"  "ui.label":"matter"
+cn "matter"  "ui.style":"size:6px; fill-color:white; "
+an "scene"
+cn "scene"  "ui.label":"scene"
+cn "scene"  "ui.style":"size:6px; fill-color:white; "
+an "library"
+cn "library"  "ui.label":"library"
+cn "library"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "Latin"
+cn "Latin"  "ui.label":"Latin"
+cn "Latin"  "ui.style":"size:6px; fill-color:white; "
+an "epigastrium"
+cn "epigastrium"  "ui.label":"epigastrium"
+cn "epigastrium"  "ui.style":"size:6px; fill-color:white; "
+an "fovea"
+cn "fovea"  "ui.label":"fovea"
+cn "fovea"  "ui.style":"size:6px; fill-color:white; "
+an "formation"
+cn "formation"  "ui.label":"formation"
+cn "formation"  "ui.style":"size:6px; fill-color:white; "
+an "side"
+cn "side"  "ui.label":"side"
+cn "side"  "ui.style":"size:6px; fill-color:white; "
+an "cleavage"
+cn "cleavage"  "ui.label":"cleavage"
+cn "cleavage"  "ui.style":"size:6px; fill-color:white; "
+an "areola"
+cn "areola"  "ui.label":"areola"
+cn "areola"  "ui.style":"size:6px; fill-color:white; "
+an "body part"
+cn "body part"  "ui.label":"body part"
+cn "body part"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "set"
+cn "set"  "ui.label":"set"
+cn "set"  "ui.style":"size:6px; fill-color:white; "
+an "Clay tablet"
+cn "Clay tablet"  "ui.label":"Clay tablet"
+cn "Clay tablet"  "ui.style":"size:6px; fill-color:white; "
+an "Usenet"
+cn "Usenet"  "ui.label":"Usenet"
+cn "Usenet"  "ui.style":"size:6px; fill-color:white; "
+an "Mesopotamia"
+cn "Mesopotamia"  "ui.label":"Mesopotamia"
+cn "Mesopotamia"  "ui.style":"size:6px; fill-color:white; "
+an "Earth"
+cn "Earth"  "ui.label":"Earth"
+cn "Earth"  "ui.style":"size:6px; fill-color:white; "
+an "waist"
+cn "waist"  "ui.label":"waist"
+cn "waist"  "ui.style":"size:6px; fill-color:white; "
+an "block"
+cn "block"  "ui.label":"block"
+cn "block"  "ui.style":"size:6px; fill-color:white; "
+an "Semantics"
+cn "Semantics"  "ui.label":"Semantics"
+cn "Semantics"  "ui.style":"size:6px; fill-color:white; "
+an "palm"
+cn "palm"  "ui.label":"palm"
+cn "palm"  "ui.style":"size:6px; fill-color:white; "
+an "space"
+cn "space"  "ui.label":"space"
+cn "space"  "ui.style":"size:6px; fill-color:white; "
+an "sole"
+cn "sole"  "ui.label":"sole"
+cn "sole"  "ui.style":"size:6px; fill-color:white; "
+an "support"
+cn "support"  "ui.label":"support"
+cn "support"  "ui.style":"size:6px; fill-color:white; "
+an "Android (operating system)"
+cn "Android (operating system)"  "ui.label":"Android (operating system)"
+cn "Android (operating system)"  "ui.style":"size:6px; fill-color:white; "
+an "Linguistics"
+cn "Linguistics"  "ui.label":"Linguistics"
+cn "Linguistics"  "ui.style":"size:6px; fill-color:white; "
+an "Bill of lading"
+cn "Bill of lading"  "ui.label":"Bill of lading"
+cn "Bill of lading"  "ui.style":"size:6px; fill-color:white; "
+an "Corporation"
+cn "Corporation"  "ui.label":"Corporation"
+cn "Corporation"  "ui.style":"size:6px; fill-color:white; "
+an "waste"
+cn "waste"  "ui.label":"waste"
+cn "waste"  "ui.style":"size:6px; fill-color:white; "
+an "Mobile app"
+cn "Mobile app"  "ui.label":"Mobile app"
+cn "Mobile app"  "ui.style":"size:6px; fill-color:white; "
+an "point"
+cn "point"  "ui.label":"point"
+cn "point"  "ui.style":"size:6px; fill-color:white; "
+an "goal"
+cn "goal"  "ui.label":"goal"
+cn "goal"  "ui.style":"size:6px; fill-color:white; "
+ae "Blog->diary" "Blog"  "diary"
+ce "Blog->diary"  "type":0
+ae "diary->writing" "diary"  "writing"
+ce "diary->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "document->representation" "document"  "representation"
+ce "document->representation"  "type":0
+ae "representation->content" "representation"  "content"
+ce "representation->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Email->electronic communication" "Email"  "electronic communication"
+ce "Email->electronic communication"  "type":0
+ae "electronic communication->transmission" "electronic communication"  "transmission"
+ce "electronic communication->transmission"  "type":0
+ae "transmission->sending" "transmission"  "sending"
+ce "transmission->sending"  "type":0
+ae "sending->causing" "sending"  "causing"
+ce "sending->causing"  "type":0
+ae "causing->act" "causing"  "act"
+ce "causing->act"  "type":0
+ae "causing->trigger" "causing"  "trigger"
+ce "causing->trigger"  "type":1
+ae "trigger->lever" "trigger"  "lever"
+ce "trigger->lever"  "type":0
+ae "lever->bar" "lever"  "bar"
+ce "lever->bar"  "type":0
+ae "bar->room" "bar"  "room"
+ce "bar->room"  "type":0
+ae "room->area" "room"  "area"
+ce "room->area"  "type":0
+ae "area->region" "area"  "region"
+ce "area->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "writing->Mesopotamia" "writing" > "Mesopotamia"
+ce "writing->Mesopotamia"  "type":8
+ae "Blog->Diary" "Blog" > "Diary"
+ce "Blog->Diary"  "type":8
+ae "physical entity->matter" "physical entity" > "matter"
+ce "physical entity->matter"  "type":1
+ae "physical entity->thing" "physical entity" > "thing"
+ce "physical entity->thing"  "type":1
+ae "lever->Latin" "lever" > "Latin"
+ce "lever->Latin"  "type":8
+ae "Blog->Twitter" "Blog" > "Twitter"
+ce "Blog->Twitter"  "type":8
+ae "content->communication" "content" > "communication"
+ce "content->communication"  "type":0
+ae "bar->support" "bar" > "support"
+ce "bar->support"  "type":0
+ae "writing->Diary" "writing" > "Diary"
+ce "writing->Diary"  "type":8
+ae "activity->state" "activity" > "state"
+ce "activity->state"  "type":0
+ae "diary->Usenet" "diary" > "Usenet"
+ce "diary->Usenet"  "type":8
+ae "region->side" "region" > "side"
+ce "region->side"  "type":1
+ae "Email->Social media" "Email" > "Social media"
+ce "Email->Social media"  "type":8
+ae "activity->support" "activity" > "support"
+ce "activity->support"  "type":1
+ae "region->epigastrium" "region" > "epigastrium"
+ce "region->epigastrium"  "type":1
+ae "region->sole" "region" > "sole"
+ce "region->sole"  "type":1
+ae "abstraction->Semantics" "abstraction" > "Semantics"
+ce "abstraction->Semantics"  "type":8
+ae "group->set" "group" > "set"
+ce "group->set"  "type":0
+ae "document->patent" "document" > "patent"
+ce "document->patent"  "type":1
+ae "collection->block" "collection" > "block"
+ce "collection->block"  "type":1
+ae "writing->Email" "writing" > "Email"
+ce "writing->Email"  "type":8
+ae "writing->Social media" "writing" > "Social media"
+ce "writing->Social media"  "type":8
+ae "Blog->Usenet" "Blog" > "Usenet"
+ce "Blog->Usenet"  "type":8
+ae "region->palm" "region" > "palm"
+ce "region->palm"  "type":1
+ae "object->thing" "object" > "thing"
+ce "object->thing"  "type":1
+ae "object->point" "object" > "point"
+ce "object->point"  "type":1
+ae "region->waist" "region" > "waist"
+ce "region->waist"  "type":1
+ae "activity->writing" "activity" > "writing"
+ce "activity->writing"  "type":1
+ae "activity->waste" "activity" > "waste"
+ce "activity->waste"  "type":1
+ae "area->scene" "area" > "scene"
+ce "area->scene"  "type":1
+ae "region->areola" "region" > "areola"
+ce "region->areola"  "type":1
+ae "Email->PDF" "Email" > "PDF"
+ce "Email->PDF"  "type":8
+ae "activity->representation" "activity" > "representation"
+ce "activity->representation"  "type":1
+ae "Email->Mobile app" "Email" > "Mobile app"
+ce "Email->Mobile app"  "type":8
+ae "Email->Android (operating system)" "Email" > "Android (operating system)"
+ce "Email->Android (operating system)"  "type":8
+ae "region->cleavage" "region" > "cleavage"
+ce "region->cleavage"  "type":1
+ae "Blog->Blog" "Blog" > "Blog"
+ce "Blog->Blog"  "type":8
+ae "diary->Twitter" "diary" > "Twitter"
+ce "diary->Twitter"  "type":8
+ae "diary->Android (operating system)" "diary" > "Android (operating system)"
+ce "diary->Android (operating system)"  "type":8
+ae "diary->Mobile app" "diary" > "Mobile app"
+ce "diary->Mobile app"  "type":8
+ae "document->communication" "document" > "communication"
+ce "document->communication"  "type":0
+ae "room->library" "room" > "library"
+ce "room->library"  "type":1
+ae "abstraction->Bill of lading" "abstraction" > "Bill of lading"
+ce "abstraction->Bill of lading"  "type":8
+ae "area->body part" "area" > "body part"
+ce "area->body part"  "type":0
+ae "representation->state" "representation" > "state"
+ce "representation->state"  "type":0
+ae "object->goal" "object" > "goal"
+ce "object->goal"  "type":0
+ae "bar->block" "bar" > "block"
+ce "bar->block"  "type":0
+ae "legal document->opinion" "legal document" > "opinion"
+ce "legal document->opinion"  "type":1
+ae "legal document->patent" "legal document" > "patent"
+ce "legal document->patent"  "type":1
+ae "region->fovea" "region" > "fovea"
+ce "region->fovea"  "type":1
+ae "document->Bill of lading" "document" > "Bill of lading"
+ce "document->Bill of lading"  "type":8
+ae "activity->formation" "activity" > "formation"
+ce "activity->formation"  "type":1
+ae "act->waste" "act" > "waste"
+ce "act->waste"  "type":1
+ae "writing->Clay tablet" "writing" > "Clay tablet"
+ce "writing->Clay tablet"  "type":8
+ae "writing->Semantics" "writing" > "Semantics"
+ce "writing->Semantics"  "type":8
+ae "content->opinion" "content" > "opinion"
+ce "content->opinion"  "type":1
+ae "abstraction->Linguistics" "abstraction" > "Linguistics"
+ce "abstraction->Linguistics"  "type":8
+ae "area->epigastrium" "area" > "epigastrium"
+ce "area->epigastrium"  "type":1
+ae "Email->Corporation" "Email" > "Corporation"
+ce "Email->Corporation"  "type":8
+ae "area->fovea" "area" > "fovea"
+ce "area->fovea"  "type":1
+ae "writing->matter" "writing" > "matter"
+ce "writing->matter"  "type":1
+ae "area->side" "area" > "side"
+ce "area->side"  "type":1
+ae "bar->goal" "bar" > "goal"
+ce "bar->goal"  "type":6
+ae "Blog->Corporation" "Blog" > "Corporation"
+ce "Blog->Corporation"  "type":8
+ae "area->cleavage" "area" > "cleavage"
+ce "area->cleavage"  "type":1
+ae "area->areola" "area" > "areola"
+ce "area->areola"  "type":1
+ae "location->space" "location" > "space"
+ce "location->space"  "type":6
+ae "creating by mental acts->formation" "creating by mental acts" > "formation"
+ce "creating by mental acts->formation"  "type":1
+ae "location->point" "location" > "point"
+ce "location->point"  "type":1
+ae "document->PDF" "document" > "PDF"
+ce "document->PDF"  "type":8
+ae "location->Earth" "location" > "Earth"
+ce "location->Earth"  "type":1
+ae "area->waist" "area" > "waist"
+ce "area->waist"  "type":1
+ae "abstraction->set" "abstraction" > "set"
+ce "abstraction->set"  "type":1
+ae "region->body part" "region" > "body part"
+ce "region->body part"  "type":0
+ae "area->palm" "area" > "palm"
+ce "area->palm"  "type":1
+ae "writing->Linguistics" "writing" > "Linguistics"
+ce "writing->Linguistics"  "type":8
+ae "area->sole" "area" > "sole"
+ce "area->sole"  "type":1
+ae "diary->Latin" "diary" > "Latin"
+ce "diary->Latin"  "type":8
+ae "abstraction->communication" "abstraction" > "communication"
+ce "abstraction->communication"  "type":1
+ae "document->Clay tablet" "document" > "Clay tablet"
+ce "document->Clay tablet"  "type":8
+ae "area->space" "area" > "space"
+ce "area->space"  "type":1
+ae "document->Mesopotamia" "document" > "Mesopotamia"
+ce "document->Mesopotamia"  "type":8
+ae "location->activity" "location" > "activity"
+ce "location->activity"  "type":0
+ae "collection->library" "collection" > "library"
+ce "collection->library"  "type":1
+ae "content->scene" "content" > "scene"
+ce "content->scene"  "type":6
+ae "region->Latin" "region" > "Latin"
+ce "region->Latin"  "type":8
+ae "region->Earth" "region" > "Earth"
+ce "region->Earth"  "type":8
+ae "abstraction->thing" "abstraction" > "thing"
+ce "abstraction->thing"  "type":1

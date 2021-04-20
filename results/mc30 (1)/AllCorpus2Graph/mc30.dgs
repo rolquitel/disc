@@ -1,0 +1,654 @@
+DGS004
+null 0 0
+an "asylum"
+cn "asylum"  "__SUBGRAPH__":0
+an "shelter"
+cn "shelter"  "__SUBGRAPH__":0
+an "structure"
+cn "structure"  "__SUBGRAPH__":0
+an "artifact"
+cn "artifact"  "__SUBGRAPH__":0
+an "whole"
+cn "whole"  "__SUBGRAPH__":0
+an "concept"
+cn "concept"  "__SUBGRAPH__":0
+an "idea"
+cn "idea"  "__SUBGRAPH__":0
+an "content"
+cn "content"  "__SUBGRAPH__":0
+an "collection"
+cn "collection"  "__SUBGRAPH__":0
+an "group"
+cn "group"  "__SUBGRAPH__":0
+an "abstraction"
+cn "abstraction"  "__SUBGRAPH__":0
+an "madhouse"
+cn "madhouse"  "__SUBGRAPH__":0
+an "mental hospital"
+cn "mental hospital"  "__SUBGRAPH__":0
+an "hospital"
+cn "hospital"  "__SUBGRAPH__":0
+an "medical building"
+cn "medical building"  "__SUBGRAPH__":0
+an "building"
+cn "building"  "__SUBGRAPH__":0
+an "bird"
+cn "bird"  "__SUBGRAPH__":0
+an "vertebrate"
+cn "vertebrate"  "__SUBGRAPH__":0
+an "chordate"
+cn "chordate"  "__SUBGRAPH__":0
+an "animal"
+cn "animal"  "__SUBGRAPH__":0
+an "organism"
+cn "organism"  "__SUBGRAPH__":0
+an "living thing"
+cn "living thing"  "__SUBGRAPH__":0
+an "cock"
+cn "cock"  "__SUBGRAPH__":0
+an "penis"
+cn "penis"  "__SUBGRAPH__":0
+an "erectile organ"
+cn "erectile organ"  "__SUBGRAPH__":0
+an "organ"
+cn "organ"  "__SUBGRAPH__":0
+an "body part"
+cn "body part"  "__SUBGRAPH__":0
+an "part"
+cn "part"  "__SUBGRAPH__":0
+an "relation"
+cn "relation"  "__SUBGRAPH__":0
+an "crane"
+cn "crane"  "__SUBGRAPH__":0
+an "lifting device"
+cn "lifting device"  "__SUBGRAPH__":0
+an "device"
+cn "device"  "__SUBGRAPH__":0
+an "instrumentality"
+cn "instrumentality"  "__SUBGRAPH__":0
+an "unit"
+cn "unit"  "__SUBGRAPH__":0
+an "definite quantity"
+cn "definite quantity"  "__SUBGRAPH__":0
+an "measure"
+cn "measure"  "__SUBGRAPH__":0
+an "maneuver"
+cn "maneuver"  "__SUBGRAPH__":0
+an "operation"
+cn "operation"  "__SUBGRAPH__":0
+an "action"
+cn "action"  "__SUBGRAPH__":0
+an "act"
+cn "act"  "__SUBGRAPH__":0
+an "legal document"
+cn "legal document"  "__SUBGRAPH__":0
+an "document"
+cn "document"  "__SUBGRAPH__":0
+an "writing"
+cn "writing"  "__SUBGRAPH__":0
+an "verbal creation"
+cn "verbal creation"  "__SUBGRAPH__":0
+an "creating by mental acts"
+cn "creating by mental acts"  "__SUBGRAPH__":0
+an "creation"
+cn "creation"  "__SUBGRAPH__":0
+an "activity"
+cn "activity"  "__SUBGRAPH__":0
+an "state"
+cn "state"  "__SUBGRAPH__":0
+an "administrative district"
+cn "administrative district"  "__SUBGRAPH__":0
+an "district"
+cn "district"  "__SUBGRAPH__":0
+an "region"
+cn "region"  "__SUBGRAPH__":0
+an "location"
+cn "location"  "__SUBGRAPH__":0
+an "object"
+cn "object"  "__SUBGRAPH__":0
+an "physical entity"
+cn "physical entity"  "__SUBGRAPH__":0
+an "entity"
+cn "entity"  "__SUBGRAPH__":0
+an "boy"
+cn "boy"  "__SUBGRAPH__":0
+an "male"
+cn "male"  "__SUBGRAPH__":0
+an "lad"
+cn "lad"  "__SUBGRAPH__":0
+an "brother"
+cn "brother"  "__SUBGRAPH__":0
+an "male sibling"
+cn "male sibling"  "__SUBGRAPH__":0
+an "kinsman"
+cn "kinsman"  "__SUBGRAPH__":0
+an "relative"
+cn "relative"  "__SUBGRAPH__":0
+an "person"
+cn "person"  "__SUBGRAPH__":0
+an "monk"
+cn "monk"  "__SUBGRAPH__":0
+an "religious"
+cn "religious"  "__SUBGRAPH__":0
+an "religious person"
+cn "religious person"  "__SUBGRAPH__":0
+an "car"
+cn "car"  "__SUBGRAPH__":0
+an "motor vehicle"
+cn "motor vehicle"  "__SUBGRAPH__":0
+an "self-propelled vehicle"
+cn "self-propelled vehicle"  "__SUBGRAPH__":0
+an "wheeled vehicle"
+cn "wheeled vehicle"  "__SUBGRAPH__":0
+an "vehicle"
+cn "vehicle"  "__SUBGRAPH__":0
+an "conveyance"
+cn "conveyance"  "__SUBGRAPH__":0
+an "automobile"
+cn "automobile"  "__SUBGRAPH__":0
+an "cemetery"
+cn "cemetery"  "__SUBGRAPH__":0
+an "site"
+cn "site"  "__SUBGRAPH__":0
+an "tract"
+cn "tract"  "__SUBGRAPH__":0
+an "geographical area"
+cn "geographical area"  "__SUBGRAPH__":0
+an "woodland"
+cn "woodland"  "__SUBGRAPH__":0
+an "land"
+cn "land"  "__SUBGRAPH__":0
+an "real property"
+cn "real property"  "__SUBGRAPH__":0
+an "property"
+cn "property"  "__SUBGRAPH__":0
+an "possession"
+cn "possession"  "__SUBGRAPH__":0
+an "control"
+cn "control"  "__SUBGRAPH__":0
+an "power"
+cn "power"  "__SUBGRAPH__":0
+an "quality"
+cn "quality"  "__SUBGRAPH__":0
+an "attribute"
+cn "attribute"  "__SUBGRAPH__":0
+an "chord"
+cn "chord"  "__SUBGRAPH__":0
+an "straight line"
+cn "straight line"  "__SUBGRAPH__":0
+an "line"
+cn "line"  "__SUBGRAPH__":0
+an "formation"
+cn "formation"  "__SUBGRAPH__":0
+an "arrangement"
+cn "arrangement"  "__SUBGRAPH__":0
+an "planning"
+cn "planning"  "__SUBGRAPH__":0
+an "preparation"
+cn "preparation"  "__SUBGRAPH__":0
+an "smile"
+cn "smile"  "__SUBGRAPH__":0
+an "facial expression"
+cn "facial expression"  "__SUBGRAPH__":0
+an "gesture"
+cn "gesture"  "__SUBGRAPH__":0
+an "motion"
+cn "motion"  "__SUBGRAPH__":0
+an "visual communication"
+cn "visual communication"  "__SUBGRAPH__":0
+an "communication"
+cn "communication"  "__SUBGRAPH__":0
+an "coast"
+cn "coast"  "__SUBGRAPH__":0
+an "shore"
+cn "shore"  "__SUBGRAPH__":0
+an "geological formation"
+cn "geological formation"  "__SUBGRAPH__":0
+an "forest"
+cn "forest"  "__SUBGRAPH__":0
+an "vegetation"
+cn "vegetation"  "__SUBGRAPH__":0
+an "hill"
+cn "hill"  "__SUBGRAPH__":0
+an "natural elevation"
+cn "natural elevation"  "__SUBGRAPH__":0
+an "implement"
+cn "implement"  "__SUBGRAPH__":0
+an "food"
+cn "food"  "__SUBGRAPH__":0
+an "substance"
+cn "substance"  "__SUBGRAPH__":0
+an "matter"
+cn "matter"  "__SUBGRAPH__":0
+an "concern"
+cn "concern"  "__SUBGRAPH__":0
+an "interest"
+cn "interest"  "__SUBGRAPH__":0
+an "curiosity"
+cn "curiosity"  "__SUBGRAPH__":0
+an "cognitive state"
+cn "cognitive state"  "__SUBGRAPH__":0
+an "psychological state"
+cn "psychological state"  "__SUBGRAPH__":0
+an "condition"
+cn "condition"  "__SUBGRAPH__":0
+an "fruit"
+cn "fruit"  "__SUBGRAPH__":0
+an "reproductive structure"
+cn "reproductive structure"  "__SUBGRAPH__":0
+an "plant organ"
+cn "plant organ"  "__SUBGRAPH__":0
+an "plant part"
+cn "plant part"  "__SUBGRAPH__":0
+an "natural object"
+cn "natural object"  "__SUBGRAPH__":0
+an "rooster"
+cn "rooster"  "__SUBGRAPH__":0
+an "chicken"
+cn "chicken"  "__SUBGRAPH__":0
+an "poultry"
+cn "poultry"  "__SUBGRAPH__":0
+an "gallinaceous bird"
+cn "gallinaceous bird"  "__SUBGRAPH__":0
+an "graveyard"
+cn "graveyard"  "__SUBGRAPH__":0
+an "furnace"
+cn "furnace"  "__SUBGRAPH__":0
+an "chamber"
+cn "chamber"  "__SUBGRAPH__":0
+an "enclosure"
+cn "enclosure"  "__SUBGRAPH__":0
+an "area"
+cn "area"  "__SUBGRAPH__":0
+an "stove"
+cn "stove"  "__SUBGRAPH__":0
+an "kitchen appliance"
+cn "kitchen appliance"  "__SUBGRAPH__":0
+an "home appliance"
+cn "home appliance"  "__SUBGRAPH__":0
+an "appliance"
+cn "appliance"  "__SUBGRAPH__":0
+an "gem"
+cn "gem"  "__SUBGRAPH__":0
+an "art"
+cn "art"  "__SUBGRAPH__":0
+an "jewel"
+cn "jewel"  "__SUBGRAPH__":0
+an "jewelry"
+cn "jewelry"  "__SUBGRAPH__":0
+an "adornment"
+cn "adornment"  "__SUBGRAPH__":0
+an "decoration"
+cn "decoration"  "__SUBGRAPH__":0
+an "glass"
+cn "glass"  "__SUBGRAPH__":0
+an "solid"
+cn "solid"  "__SUBGRAPH__":0
+an "magician"
+cn "magician"  "__SUBGRAPH__":0
+an "performer"
+cn "performer"  "__SUBGRAPH__":0
+an "entertainer"
+cn "entertainer"  "__SUBGRAPH__":0
+an "journey"
+cn "journey"  "__SUBGRAPH__":0
+an "travel"
+cn "travel"  "__SUBGRAPH__":0
+an "voyage"
+cn "voyage"  "__SUBGRAPH__":0
+an "water travel"
+cn "water travel"  "__SUBGRAPH__":0
+an "wizard"
+cn "wizard"  "__SUBGRAPH__":0
+an "expert"
+cn "expert"  "__SUBGRAPH__":0
+an "midday"
+cn "midday"  "__SUBGRAPH__":0
+an "hour"
+cn "hour"  "__SUBGRAPH__":0
+an "time unit"
+cn "time unit"  "__SUBGRAPH__":0
+an "noon"
+cn "noon"  "__SUBGRAPH__":0
+an "oracle"
+cn "oracle"  "__SUBGRAPH__":0
+an "diviner"
+cn "diviner"  "__SUBGRAPH__":0
+an "visionary"
+cn "visionary"  "__SUBGRAPH__":0
+an "slave"
+cn "slave"  "__SUBGRAPH__":0
+an "string"
+cn "string"  "__SUBGRAPH__":0
+an "cord"
+cn "cord"  "__SUBGRAPH__":0
+an "tool"
+cn "tool"  "__SUBGRAPH__":0
+ae "asylum->shelter" "asylum" > "shelter"
+ce "asylum->shelter"  "type":0
+ae "shelter->structure" "shelter" > "structure"
+ce "shelter->structure"  "type":0
+ae "structure->artifact" "structure" > "artifact"
+ce "structure->artifact"  "type":0
+ae "artifact->whole" "artifact" > "whole"
+ce "artifact->whole"  "type":0
+ae "whole->concept" "whole" > "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept" > "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea" > "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content" > "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection" > "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group" > "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->concept" "abstraction" > "concept"
+ce "abstraction->concept"  "type":0
+ae "madhouse->mental hospital" "madhouse" > "mental hospital"
+ce "madhouse->mental hospital"  "type":0
+ae "mental hospital->hospital" "mental hospital" > "hospital"
+ce "mental hospital->hospital"  "type":0
+ae "hospital->medical building" "hospital" > "medical building"
+ce "hospital->medical building"  "type":0
+ae "medical building->building" "medical building" > "building"
+ce "medical building->building"  "type":0
+ae "building->structure" "building" > "structure"
+ce "building->structure"  "type":0
+ae "bird->vertebrate" "bird" > "vertebrate"
+ce "bird->vertebrate"  "type":0
+ae "vertebrate->chordate" "vertebrate" > "chordate"
+ce "vertebrate->chordate"  "type":0
+ae "chordate->animal" "chordate" > "animal"
+ce "chordate->animal"  "type":0
+ae "animal->organism" "animal" > "organism"
+ce "animal->organism"  "type":0
+ae "organism->living thing" "organism" > "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing" > "whole"
+ce "living thing->whole"  "type":0
+ae "cock->penis" "cock" > "penis"
+ce "cock->penis"  "type":0
+ae "penis->erectile organ" "penis" > "erectile organ"
+ce "penis->erectile organ"  "type":0
+ae "erectile organ->organ" "erectile organ" > "organ"
+ce "erectile organ->organ"  "type":0
+ae "organ->body part" "organ" > "body part"
+ce "organ->body part"  "type":0
+ae "body part->part" "body part" > "part"
+ce "body part->part"  "type":0
+ae "part->relation" "part" > "relation"
+ce "part->relation"  "type":0
+ae "relation->abstraction" "relation" > "abstraction"
+ce "relation->abstraction"  "type":0
+ae "crane->lifting device" "crane" > "lifting device"
+ce "crane->lifting device"  "type":0
+ae "lifting device->device" "lifting device" > "device"
+ce "lifting device->device"  "type":0
+ae "device->instrumentality" "device" > "instrumentality"
+ce "device->instrumentality"  "type":0
+ae "instrumentality->unit" "instrumentality" > "unit"
+ce "instrumentality->unit"  "type":0
+ae "unit->definite quantity" "unit" > "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity" > "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure" > "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver" > "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation" > "action"
+ce "operation->action"  "type":0
+ae "action->act" "action" > "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act" > "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document" > "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document" > "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing" > "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation" > "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts" > "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation" > "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity" > "act"
+ce "activity->act"  "type":0
+ae "activity->state" "activity" > "state"
+ce "activity->state"  "type":0
+ae "state->administrative district" "state" > "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district" > "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district" > "region"
+ce "district->region"  "type":0
+ae "region->location" "region" > "location"
+ce "region->location"  "type":0
+ae "location->object" "location" > "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object" > "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity" > "entity"
+ce "physical entity->entity"  "type":0
+ae "entity->physical entity" "entity" > "physical entity"
+ce "entity->physical entity"  "type":1
+ae "entity->abstraction" "entity" > "abstraction"
+ce "entity->abstraction"  "type":1
+ae "boy->male" "boy" > "male"
+ce "boy->male"  "type":0
+ae "male->animal" "male" > "animal"
+ce "male->animal"  "type":0
+ae "lad->male" "lad" > "male"
+ce "lad->male"  "type":0
+ae "brother->male sibling" "brother" > "male sibling"
+ce "brother->male sibling"  "type":0
+ae "male sibling->kinsman" "male sibling" > "kinsman"
+ce "male sibling->kinsman"  "type":0
+ae "kinsman->relative" "kinsman" > "relative"
+ce "kinsman->relative"  "type":0
+ae "relative->person" "relative" > "person"
+ce "relative->person"  "type":0
+ae "person->organism" "person" > "organism"
+ce "person->organism"  "type":0
+ae "monk->religious" "monk" > "religious"
+ce "monk->religious"  "type":0
+ae "religious->religious person" "religious" > "religious person"
+ce "religious->religious person"  "type":0
+ae "religious person->person" "religious person" > "person"
+ce "religious person->person"  "type":0
+ae "car->motor vehicle" "car" > "motor vehicle"
+ce "car->motor vehicle"  "type":0
+ae "motor vehicle->self-propelled vehicle" "motor vehicle" > "self-propelled vehicle"
+ce "motor vehicle->self-propelled vehicle"  "type":0
+ae "self-propelled vehicle->wheeled vehicle" "self-propelled vehicle" > "wheeled vehicle"
+ce "self-propelled vehicle->wheeled vehicle"  "type":0
+ae "wheeled vehicle->vehicle" "wheeled vehicle" > "vehicle"
+ce "wheeled vehicle->vehicle"  "type":0
+ae "vehicle->conveyance" "vehicle" > "conveyance"
+ce "vehicle->conveyance"  "type":0
+ae "conveyance->legal document" "conveyance" > "legal document"
+ce "conveyance->legal document"  "type":0
+ae "automobile->motor vehicle" "automobile" > "motor vehicle"
+ce "automobile->motor vehicle"  "type":0
+ae "cemetery->site" "cemetery" > "site"
+ce "cemetery->site"  "type":0
+ae "site->tract" "site" > "tract"
+ce "site->tract"  "type":0
+ae "tract->geographical area" "tract" > "geographical area"
+ce "tract->geographical area"  "type":0
+ae "geographical area->region" "geographical area" > "region"
+ce "geographical area->region"  "type":0
+ae "woodland->land" "woodland" > "land"
+ce "woodland->land"  "type":0
+ae "land->real property" "land" > "real property"
+ce "land->real property"  "type":0
+ae "real property->property" "real property" > "property"
+ce "real property->property"  "type":0
+ae "property->possession" "property" > "possession"
+ce "property->possession"  "type":0
+ae "possession->control" "possession" > "control"
+ce "possession->control"  "type":0
+ae "control->power" "control" > "power"
+ce "control->power"  "type":0
+ae "power->quality" "power" > "quality"
+ce "power->quality"  "type":0
+ae "quality->attribute" "quality" > "attribute"
+ce "quality->attribute"  "type":0
+ae "attribute->concept" "attribute" > "concept"
+ce "attribute->concept"  "type":0
+ae "chord->straight line" "chord" > "straight line"
+ce "chord->straight line"  "type":0
+ae "straight line->line" "straight line" > "line"
+ce "straight line->line"  "type":0
+ae "line->formation" "line" > "formation"
+ce "line->formation"  "type":0
+ae "formation->arrangement" "formation" > "arrangement"
+ce "formation->arrangement"  "type":0
+ae "arrangement->planning" "arrangement" > "planning"
+ce "arrangement->planning"  "type":0
+ae "planning->preparation" "planning" > "preparation"
+ce "planning->preparation"  "type":0
+ae "preparation->activity" "preparation" > "activity"
+ce "preparation->activity"  "type":0
+ae "smile->facial expression" "smile" > "facial expression"
+ce "smile->facial expression"  "type":0
+ae "facial expression->gesture" "facial expression" > "gesture"
+ce "facial expression->gesture"  "type":0
+ae "gesture->motion" "gesture" > "motion"
+ce "gesture->motion"  "type":0
+ae "motion->visual communication" "motion" > "visual communication"
+ce "motion->visual communication"  "type":0
+ae "visual communication->communication" "visual communication" > "communication"
+ce "visual communication->communication"  "type":0
+ae "communication->act" "communication" > "act"
+ce "communication->act"  "type":0
+ae "coast->shore" "coast" > "shore"
+ce "coast->shore"  "type":0
+ae "shore->geological formation" "shore" > "geological formation"
+ce "shore->geological formation"  "type":0
+ae "geological formation->object" "geological formation" > "object"
+ce "geological formation->object"  "type":0
+ae "forest->vegetation" "forest" > "vegetation"
+ce "forest->vegetation"  "type":0
+ae "vegetation->collection" "vegetation" > "collection"
+ce "vegetation->collection"  "type":0
+ae "hill->natural elevation" "hill" > "natural elevation"
+ce "hill->natural elevation"  "type":0
+ae "natural elevation->geological formation" "natural elevation" > "geological formation"
+ce "natural elevation->geological formation"  "type":0
+ae "implement->instrumentality" "implement" > "instrumentality"
+ce "implement->instrumentality"  "type":0
+ae "food->substance" "food" > "substance"
+ce "food->substance"  "type":0
+ae "substance->matter" "substance" > "matter"
+ce "substance->matter"  "type":0
+ae "matter->concern" "matter" > "concern"
+ce "matter->concern"  "type":0
+ae "concern->interest" "concern" > "interest"
+ce "concern->interest"  "type":0
+ae "interest->curiosity" "interest" > "curiosity"
+ce "interest->curiosity"  "type":0
+ae "curiosity->cognitive state" "curiosity" > "cognitive state"
+ce "curiosity->cognitive state"  "type":0
+ae "cognitive state->psychological state" "cognitive state" > "psychological state"
+ce "cognitive state->psychological state"  "type":0
+ae "psychological state->condition" "psychological state" > "condition"
+ce "psychological state->condition"  "type":0
+ae "condition->state" "condition" > "state"
+ce "condition->state"  "type":0
+ae "fruit->reproductive structure" "fruit" > "reproductive structure"
+ce "fruit->reproductive structure"  "type":0
+ae "reproductive structure->plant organ" "reproductive structure" > "plant organ"
+ce "reproductive structure->plant organ"  "type":0
+ae "plant organ->plant part" "plant organ" > "plant part"
+ce "plant organ->plant part"  "type":0
+ae "plant part->natural object" "plant part" > "natural object"
+ce "plant part->natural object"  "type":0
+ae "natural object->whole" "natural object" > "whole"
+ce "natural object->whole"  "type":0
+ae "rooster->chicken" "rooster" > "chicken"
+ce "rooster->chicken"  "type":0
+ae "chicken->poultry" "chicken" > "poultry"
+ce "chicken->poultry"  "type":0
+ae "poultry->gallinaceous bird" "poultry" > "gallinaceous bird"
+ce "poultry->gallinaceous bird"  "type":0
+ae "gallinaceous bird->bird" "gallinaceous bird" > "bird"
+ce "gallinaceous bird->bird"  "type":0
+ae "graveyard->site" "graveyard" > "site"
+ce "graveyard->site"  "type":0
+ae "furnace->chamber" "furnace" > "chamber"
+ce "furnace->chamber"  "type":0
+ae "chamber->enclosure" "chamber" > "enclosure"
+ce "chamber->enclosure"  "type":0
+ae "enclosure->area" "enclosure" > "area"
+ce "enclosure->area"  "type":0
+ae "area->region" "area" > "region"
+ce "area->region"  "type":0
+ae "stove->kitchen appliance" "stove" > "kitchen appliance"
+ce "stove->kitchen appliance"  "type":0
+ae "kitchen appliance->home appliance" "kitchen appliance" > "home appliance"
+ce "kitchen appliance->home appliance"  "type":0
+ae "home appliance->appliance" "home appliance" > "appliance"
+ce "home appliance->appliance"  "type":0
+ae "appliance->device" "appliance" > "device"
+ce "appliance->device"  "type":0
+ae "gem->art" "gem" > "art"
+ce "gem->art"  "type":0
+ae "art->creation" "art" > "creation"
+ce "art->creation"  "type":0
+ae "jewel->jewelry" "jewel" > "jewelry"
+ce "jewel->jewelry"  "type":0
+ae "jewelry->adornment" "jewelry" > "adornment"
+ce "jewelry->adornment"  "type":0
+ae "adornment->decoration" "adornment" > "decoration"
+ce "adornment->decoration"  "type":0
+ae "decoration->artifact" "decoration" > "artifact"
+ce "decoration->artifact"  "type":0
+ae "glass->solid" "glass" > "solid"
+ce "glass->solid"  "type":0
+ae "solid->matter" "solid" > "matter"
+ce "solid->matter"  "type":0
+ae "magician->performer" "magician" > "performer"
+ce "magician->performer"  "type":0
+ae "performer->entertainer" "performer" > "entertainer"
+ce "performer->entertainer"  "type":0
+ae "entertainer->person" "entertainer" > "person"
+ce "entertainer->person"  "type":0
+ae "journey->travel" "journey" > "travel"
+ce "journey->travel"  "type":0
+ae "travel->motion" "travel" > "motion"
+ce "travel->motion"  "type":0
+ae "voyage->water travel" "voyage" > "water travel"
+ce "voyage->water travel"  "type":0
+ae "water travel->travel" "water travel" > "travel"
+ce "water travel->travel"  "type":0
+ae "wizard->expert" "wizard" > "expert"
+ce "wizard->expert"  "type":0
+ae "expert->person" "expert" > "person"
+ce "expert->person"  "type":0
+ae "midday->hour" "midday" > "hour"
+ce "midday->hour"  "type":0
+ae "hour->time unit" "hour" > "time unit"
+ce "hour->time unit"  "type":0
+ae "time unit->measure" "time unit" > "measure"
+ce "time unit->measure"  "type":0
+ae "noon->hour" "noon" > "hour"
+ce "noon->hour"  "type":0
+ae "oracle->diviner" "oracle" > "diviner"
+ce "oracle->diviner"  "type":0
+ae "diviner->visionary" "diviner" > "visionary"
+ce "diviner->visionary"  "type":0
+ae "visionary->person" "visionary" > "person"
+ce "visionary->person"  "type":0
+ae "slave->person" "slave" > "person"
+ce "slave->person"  "type":0
+ae "string->cord" "string" > "cord"
+ce "string->cord"  "type":0
+ae "cord->line" "cord" > "line"
+ce "cord->line"  "type":0
+ae "tool->implement" "tool" > "implement"
+ce "tool->implement"  "type":0

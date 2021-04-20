@@ -1,0 +1,207 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Financial crises"
+cn "Financial crises"  "ui.label":"Financial crises"
+cn "Financial crises"  "ui.style":"size-mode:fit;"
+an "Categories_which_are_included_in_the_JEL_classification_codes"
+cn "Categories_which_are_included_in_the_JEL_classification_codes"  "ui.label":"Categories_which_are_included_in_the_JEL_classification_codes"
+cn "Categories_which_are_included_in_the_JEL_classification_codes"  "ui.style":"size:6px; fill-color:white; "
+an "Hidden_categories"
+cn "Hidden_categories"  "ui.label":"Hidden_categories"
+cn "Hidden_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Container_categories"
+cn "Container_categories"  "ui.label":"Container_categories"
+cn "Container_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Tracking_categories"
+cn "Tracking_categories"  "ui.label":"Tracking_categories"
+cn "Tracking_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_categories"
+cn "Wikipedia_categories"  "ui.label":"Wikipedia_categories"
+cn "Wikipedia_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_categorization"
+cn "Wikipedia_categorization"  "ui.label":"Wikipedia_categorization"
+cn "Wikipedia_categorization"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_administration"
+cn "Wikipedia_administration"  "ui.label":"Wikipedia_administration"
+cn "Wikipedia_administration"  "ui.style":"size:6px; fill-color:white; "
+an "Categories_requiring_diffusion"
+cn "Categories_requiring_diffusion"  "ui.label":"Categories_requiring_diffusion"
+cn "Categories_requiring_diffusion"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_category_maintenance"
+cn "Wikipedia_category_maintenance"  "ui.label":"Wikipedia_category_maintenance"
+cn "Wikipedia_category_maintenance"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_maintenance"
+cn "Wikipedia_maintenance"  "ui.label":"Wikipedia_maintenance"
+cn "Wikipedia_maintenance"  "ui.style":"size:6px; fill-color:white; "
+an "Contents"
+cn "Contents"  "ui.label":"Contents"
+cn "Contents"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_navigation"
+cn "Wikipedia_navigation"  "ui.label":"Wikipedia_navigation"
+cn "Wikipedia_navigation"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_namespaces"
+cn "Wikipedia_namespaces"  "ui.label":"Wikipedia_namespaces"
+cn "Wikipedia_namespaces"  "ui.style":"size:6px; fill-color:white; "
+an "Namespace"
+cn "Namespace"  "ui.label":"Namespace"
+cn "Namespace"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_categories_that_should_not_contain_articles"
+cn "Wikipedia_categories_that_should_not_contain_articles"  "ui.label":"Wikipedia_categories_that_should_not_contain_articles"
+cn "Wikipedia_categories_that_should_not_contain_articles"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_pages_under_30-500_editing_restriction"
+cn "Wikipedia_pages_under_30-500_editing_restriction"  "ui.label":"Wikipedia_pages_under_30-500_editing_restriction"
+cn "Wikipedia_pages_under_30-500_editing_restriction"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_page_protection"
+cn "Wikipedia_page_protection"  "ui.label":"Wikipedia_page_protection"
+cn "Wikipedia_page_protection"  "ui.style":"size:6px; fill-color:white; "
+an "Economic_crises"
+cn "Economic_crises"  "ui.label":"Economic_crises"
+cn "Economic_crises"  "ui.style":"size:6px; fill-color:white; "
+an "Business_cycle"
+cn "Business_cycle"  "ui.label":"Business_cycle"
+cn "Business_cycle"  "ui.style":"size:6px; fill-color:white; "
+an "Macroeconomics"
+cn "Macroeconomics"  "ui.label":"Macroeconomics"
+cn "Macroeconomics"  "ui.style":"size:6px; fill-color:white; "
+an "Crowds"
+cn "Crowds"  "ui.label":"Crowds"
+cn "Crowds"  "ui.style":"size:6px; fill-color:white; "
+an "Social_groups"
+cn "Social_groups"  "ui.label":"Social_groups"
+cn "Social_groups"  "ui.style":"size:6px; fill-color:white; "
+an "Grouping"
+cn "Grouping"  "ui.label":"Grouping"
+cn "Grouping"  "ui.style":"size:6px; fill-color:white; "
+an "Classification_systems"
+cn "Classification_systems"  "ui.label":"Classification_systems"
+cn "Classification_systems"  "ui.style":"size:6px; fill-color:white; "
+an "Classification"
+cn "Classification"  "ui.label":"Classification"
+cn "Classification"  "ui.style":"size:6px; fill-color:white; "
+an "Abstraction"
+cn "Abstraction"  "ui.label":"Abstraction"
+cn "Abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "Creativity"
+cn "Creativity"  "ui.label":"Creativity"
+cn "Creativity"  "ui.style":"size:6px; fill-color:white; "
+an "Cognition"
+cn "Cognition"  "ui.label":"Cognition"
+cn "Cognition"  "ui.style":"size:6px; fill-color:white; "
+an "Banks"
+cn "Banks"  "ui.label":"Banks"
+cn "Banks"  "ui.style":"size-mode:fit;"
+an "Banking"
+cn "Banking"  "ui.label":"Banking"
+cn "Banking"  "ui.style":"size:6px; fill-color:white; "
+an "Thought"
+cn "Thought"  "ui.label":"Thought"
+cn "Thought"  "ui.style":"size:6px; fill-color:white; "
+ae "Financial crises->Categories_which_are_included_in_the_JEL_classification_codes" "Financial crises"  "Categories_which_are_included_in_the_JEL_classification_codes"
+ce "Financial crises->Categories_which_are_included_in_the_JEL_classification_codes"  "type":0
+ae "Categories_which_are_included_in_the_JEL_classification_codes->Hidden_categories" "Categories_which_are_included_in_the_JEL_classification_codes"  "Hidden_categories"
+ce "Categories_which_are_included_in_the_JEL_classification_codes->Hidden_categories"  "type":0
+ae "Hidden_categories->Container_categories" "Hidden_categories"  "Container_categories"
+ce "Hidden_categories->Container_categories"  "type":0
+ae "Container_categories->Tracking_categories" "Container_categories"  "Tracking_categories"
+ce "Container_categories->Tracking_categories"  "type":0
+ae "Tracking_categories->Wikipedia_categories" "Tracking_categories"  "Wikipedia_categories"
+ce "Tracking_categories->Wikipedia_categories"  "type":0
+ae "Wikipedia_categories->Container_categories" "Wikipedia_categories"  "Container_categories"
+ce "Wikipedia_categories->Container_categories"  "type":0
+ae "Wikipedia_categories->Wikipedia_categorization" "Wikipedia_categories"  "Wikipedia_categorization"
+ce "Wikipedia_categories->Wikipedia_categorization"  "type":0
+ae "Wikipedia_categorization->Wikipedia_administration" "Wikipedia_categorization"  "Wikipedia_administration"
+ce "Wikipedia_categorization->Wikipedia_administration"  "type":0
+ae "Wikipedia_administration->Categories_requiring_diffusion" "Wikipedia_administration"  "Categories_requiring_diffusion"
+ce "Wikipedia_administration->Categories_requiring_diffusion"  "type":0
+ae "Categories_requiring_diffusion->Container_categories" "Categories_requiring_diffusion"  "Container_categories"
+ce "Categories_requiring_diffusion->Container_categories"  "type":0
+ae "Categories_requiring_diffusion->Hidden_categories" "Categories_requiring_diffusion"  "Hidden_categories"
+ce "Categories_requiring_diffusion->Hidden_categories"  "type":0
+ae "Categories_requiring_diffusion->Tracking_categories" "Categories_requiring_diffusion"  "Tracking_categories"
+ce "Categories_requiring_diffusion->Tracking_categories"  "type":0
+ae "Categories_requiring_diffusion->Wikipedia_category_maintenance" "Categories_requiring_diffusion"  "Wikipedia_category_maintenance"
+ce "Categories_requiring_diffusion->Wikipedia_category_maintenance"  "type":0
+ae "Wikipedia_category_maintenance->Container_categories" "Wikipedia_category_maintenance"  "Container_categories"
+ce "Wikipedia_category_maintenance->Container_categories"  "type":0
+ae "Wikipedia_category_maintenance->Wikipedia_categorization" "Wikipedia_category_maintenance"  "Wikipedia_categorization"
+ce "Wikipedia_category_maintenance->Wikipedia_categorization"  "type":0
+ae "Wikipedia_category_maintenance->Wikipedia_maintenance" "Wikipedia_category_maintenance"  "Wikipedia_maintenance"
+ce "Wikipedia_category_maintenance->Wikipedia_maintenance"  "type":0
+ae "Wikipedia_maintenance->Tracking_categories" "Wikipedia_maintenance"  "Tracking_categories"
+ce "Wikipedia_maintenance->Tracking_categories"  "type":0
+ae "Wikipedia_maintenance->Wikipedia_administration" "Wikipedia_maintenance"  "Wikipedia_administration"
+ce "Wikipedia_maintenance->Wikipedia_administration"  "type":0
+ae "Wikipedia_administration->Contents" "Wikipedia_administration"  "Contents"
+ce "Wikipedia_administration->Contents"  "type":0
+ae "Wikipedia_categorization->Wikipedia_navigation" "Wikipedia_categorization"  "Wikipedia_navigation"
+ce "Wikipedia_categorization->Wikipedia_navigation"  "type":0
+ae "Wikipedia_navigation->Contents" "Wikipedia_navigation"  "Contents"
+ce "Wikipedia_navigation->Contents"  "type":0
+ae "Wikipedia_categories->Wikipedia_namespaces" "Wikipedia_categories"  "Wikipedia_namespaces"
+ce "Wikipedia_categories->Wikipedia_namespaces"  "type":0
+ae "Wikipedia_namespaces->Namespace" "Wikipedia_namespaces"  "Namespace"
+ce "Wikipedia_namespaces->Namespace"  "type":0
+ae "Namespace->Wikipedia_administration" "Namespace"  "Wikipedia_administration"
+ce "Namespace->Wikipedia_administration"  "type":0
+ae "Container_categories->Wikipedia_categories_that_should_not_contain_articles" "Container_categories"  "Wikipedia_categories_that_should_not_contain_articles"
+ce "Container_categories->Wikipedia_categories_that_should_not_contain_articles"  "type":0
+ae "Wikipedia_categories_that_should_not_contain_articles->Hidden_categories" "Wikipedia_categories_that_should_not_contain_articles"  "Hidden_categories"
+ce "Wikipedia_categories_that_should_not_contain_articles->Hidden_categories"  "type":0
+ae "Wikipedia_categories_that_should_not_contain_articles->Tracking_categories" "Wikipedia_categories_that_should_not_contain_articles"  "Tracking_categories"
+ce "Wikipedia_categories_that_should_not_contain_articles->Tracking_categories"  "type":0
+ae "Wikipedia_categories_that_should_not_contain_articles->Wikipedia_categories" "Wikipedia_categories_that_should_not_contain_articles"  "Wikipedia_categories"
+ce "Wikipedia_categories_that_should_not_contain_articles->Wikipedia_categories"  "type":0
+ae "Hidden_categories->Hidden_categories" "Hidden_categories"  "Hidden_categories"
+ce "Hidden_categories->Hidden_categories"  "type":0
+ae "Hidden_categories->Tracking_categories" "Hidden_categories"  "Tracking_categories"
+ce "Hidden_categories->Tracking_categories"  "type":0
+ae "Hidden_categories->Wikipedia_categories" "Hidden_categories"  "Wikipedia_categories"
+ce "Hidden_categories->Wikipedia_categories"  "type":0
+ae "Hidden_categories->Wikipedia_pages_under_30-500_editing_restriction" "Hidden_categories"  "Wikipedia_pages_under_30-500_editing_restriction"
+ce "Hidden_categories->Wikipedia_pages_under_30-500_editing_restriction"  "type":0
+ae "Wikipedia_pages_under_30-500_editing_restriction->Wikipedia_page_protection" "Wikipedia_pages_under_30-500_editing_restriction"  "Wikipedia_page_protection"
+ce "Wikipedia_pages_under_30-500_editing_restriction->Wikipedia_page_protection"  "type":0
+ae "Wikipedia_page_protection->Wikipedia_administration" "Wikipedia_page_protection"  "Wikipedia_administration"
+ce "Wikipedia_page_protection->Wikipedia_administration"  "type":0
+ae "Categories_which_are_included_in_the_JEL_classification_codes->Tracking_categories" "Categories_which_are_included_in_the_JEL_classification_codes"  "Tracking_categories"
+ce "Categories_which_are_included_in_the_JEL_classification_codes->Tracking_categories"  "type":0
+ae "Financial crises->Economic_crises" "Financial crises"  "Economic_crises"
+ce "Financial crises->Economic_crises"  "type":0
+ae "Economic_crises->Business_cycle" "Economic_crises"  "Business_cycle"
+ce "Economic_crises->Business_cycle"  "type":0
+ae "Business_cycle->Categories_which_are_included_in_the_JEL_classification_codes" "Business_cycle"  "Categories_which_are_included_in_the_JEL_classification_codes"
+ce "Business_cycle->Categories_which_are_included_in_the_JEL_classification_codes"  "type":0
+ae "Business_cycle->Macroeconomics" "Business_cycle"  "Macroeconomics"
+ce "Business_cycle->Macroeconomics"  "type":0
+ae "Macroeconomics->Categories_requiring_diffusion" "Macroeconomics"  "Categories_requiring_diffusion"
+ce "Macroeconomics->Categories_requiring_diffusion"  "type":0
+ae "Macroeconomics->Categories_which_are_included_in_the_JEL_classification_codes" "Macroeconomics"  "Categories_which_are_included_in_the_JEL_classification_codes"
+ce "Macroeconomics->Categories_which_are_included_in_the_JEL_classification_codes"  "type":0
+ae "Macroeconomics->Crowds" "Macroeconomics"  "Crowds"
+ce "Macroeconomics->Crowds"  "type":0
+ae "Crowds->Social_groups" "Crowds"  "Social_groups"
+ce "Crowds->Social_groups"  "type":0
+ae "Social_groups->Categories_requiring_diffusion" "Social_groups"  "Categories_requiring_diffusion"
+ce "Social_groups->Categories_requiring_diffusion"  "type":0
+ae "Social_groups->Grouping" "Social_groups"  "Grouping"
+ce "Social_groups->Grouping"  "type":0
+ae "Grouping->Classification_systems" "Grouping"  "Classification_systems"
+ce "Grouping->Classification_systems"  "type":0
+ae "Classification_systems->Classification" "Classification_systems"  "Classification"
+ce "Classification_systems->Classification"  "type":0
+ae "Classification->Abstraction" "Classification"  "Abstraction"
+ce "Classification->Abstraction"  "type":0
+ae "Abstraction->Creativity" "Abstraction"  "Creativity"
+ce "Abstraction->Creativity"  "type":0
+ae "Creativity->Cognition" "Creativity"  "Cognition"
+ce "Creativity->Cognition"  "type":0
+ae "Banking->Categories_which_are_included_in_the_JEL_classification_codes" "Banking"  "Categories_which_are_included_in_the_JEL_classification_codes"
+ce "Banking->Categories_which_are_included_in_the_JEL_classification_codes"  "type":0
+ae "Cognition->Thought" "Cognition" > "Thought"
+ce "Cognition->Thought"  "type":0
+ae "Abstraction->Thought" "Abstraction" > "Thought"
+ce "Abstraction->Thought"  "type":0
+ae "Banks->Banking" "Banks"  "Banking"
+ce "Banks->Banking"  "type":0

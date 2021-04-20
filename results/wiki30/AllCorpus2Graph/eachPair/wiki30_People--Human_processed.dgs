@@ -1,0 +1,971 @@
+DGS004
+null 0 0
+an "People"
+cn "People"  "ui.label":"People"
+cn "People"  "ui.style":"size-mode:fit;"
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Human"
+cn "Human"  "ui.label":"Human"
+cn "Human"  "ui.style":"size-mode:fit;"
+an "hominid"
+cn "hominid"  "ui.label":"hominid"
+cn "hominid"  "ui.style":"size:6px; fill-color:white; "
+an "primate"
+cn "primate"  "ui.label":"primate"
+cn "primate"  "ui.style":"size:6px; fill-color:white; "
+an "priest"
+cn "priest"  "ui.label":"priest"
+cn "priest"  "ui.style":"size:6px; fill-color:white; "
+an "clergyman"
+cn "clergyman"  "ui.label":"clergyman"
+cn "clergyman"  "ui.style":"size:6px; fill-color:white; "
+an "spiritual leader"
+cn "spiritual leader"  "ui.label":"spiritual leader"
+cn "spiritual leader"  "ui.style":"size:6px; fill-color:white; "
+an "leader"
+cn "leader"  "ui.label":"leader"
+cn "leader"  "ui.style":"size:6px; fill-color:white; "
+an "person"
+cn "person"  "ui.label":"person"
+cn "person"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "publication"
+cn "publication"  "ui.label":"publication"
+cn "publication"  "ui.style":"size:6px; fill-color:white; "
+an "work"
+cn "work"  "ui.label":"work"
+cn "work"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "artifact"
+cn "artifact"  "ui.label":"artifact"
+cn "artifact"  "ui.style":"size:6px; fill-color:white; "
+an "article"
+cn "article"  "ui.label":"article"
+cn "article"  "ui.style":"size:6px; fill-color:white; "
+an "nonfiction"
+cn "nonfiction"  "ui.label":"nonfiction"
+cn "nonfiction"  "ui.style":"size:6px; fill-color:white; "
+an "prose"
+cn "prose"  "ui.label":"prose"
+cn "prose"  "ui.style":"size:6px; fill-color:white; "
+an "writing style"
+cn "writing style"  "ui.label":"writing style"
+cn "writing style"  "ui.style":"size:6px; fill-color:white; "
+an "expressive style"
+cn "expressive style"  "ui.label":"expressive style"
+cn "expressive style"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "connection"
+cn "connection"  "ui.label":"connection"
+cn "connection"  "ui.style":"size:6px; fill-color:white; "
+an "relation"
+cn "relation"  "ui.label":"relation"
+cn "relation"  "ui.style":"size:6px; fill-color:white; "
+an "sexual activity"
+cn "sexual activity"  "ui.label":"sexual activity"
+cn "sexual activity"  "ui.style":"size:6px; fill-color:white; "
+an "bodily process"
+cn "bodily process"  "ui.label":"bodily process"
+cn "bodily process"  "ui.style":"size:6px; fill-color:white; "
+an "organic process"
+cn "organic process"  "ui.label":"organic process"
+cn "organic process"  "ui.style":"size:6px; fill-color:white; "
+an "process"
+cn "process"  "ui.label":"process"
+cn "process"  "ui.style":"size:6px; fill-color:white; "
+an "cognition"
+cn "cognition"  "ui.label":"cognition"
+cn "cognition"  "ui.style":"size:6px; fill-color:white; "
+an "psychological feature"
+cn "psychological feature"  "ui.label":"psychological feature"
+cn "psychological feature"  "ui.style":"size:6px; fill-color:white; "
+an "motivation"
+cn "motivation"  "ui.label":"motivation"
+cn "motivation"  "ui.style":"size:6px; fill-color:white; "
+an "condition"
+cn "condition"  "ui.label":"condition"
+cn "condition"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "service"
+cn "service"  "ui.label":"service"
+cn "service"  "ui.style":"size:6px; fill-color:white; "
+an "mail"
+cn "mail"  "ui.label":"mail"
+cn "mail"  "ui.style":"size:6px; fill-color:white; "
+an "expression"
+cn "expression"  "ui.label":"expression"
+cn "expression"  "ui.style":"size:6px; fill-color:white; "
+an "Continent"
+cn "Continent"  "ui.label":"Continent"
+cn "Continent"  "ui.style":"size:6px; fill-color:white; "
+an "contact"
+cn "contact"  "ui.label":"contact"
+cn "contact"  "ui.style":"size:6px; fill-color:white; "
+an "Cambridge University Press"
+cn "Cambridge University Press"  "ui.label":"Cambridge University Press"
+cn "Cambridge University Press"  "ui.style":"size:6px; fill-color:white; "
+an "cell"
+cn "cell"  "ui.label":"cell"
+cn "cell"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "Mothers_of_the_Plaza_de_Mayo"
+cn "Mothers_of_the_Plaza_de_Mayo"  "ui.label":"Mothers_of_the_Plaza_de_Mayo"
+cn "Mothers_of_the_Plaza_de_Mayo"  "ui.style":"size:6px; fill-color:white; "
+an "class"
+cn "class"  "ui.label":"class"
+cn "class"  "ui.style":"size:6px; fill-color:white; "
+an "Publishing"
+cn "Publishing"  "ui.label":"Publishing"
+cn "Publishing"  "ui.style":"size:6px; fill-color:white; "
+an "Fungus"
+cn "Fungus"  "ui.label":"Fungus"
+cn "Fungus"  "ui.style":"size:6px; fill-color:white; "
+an "Unicellular organism"
+cn "Unicellular organism"  "ui.label":"Unicellular organism"
+cn "Unicellular organism"  "ui.style":"size:6px; fill-color:white; "
+an "Writing"
+cn "Writing"  "ui.label":"Writing"
+cn "Writing"  "ui.style":"size:6px; fill-color:white; "
+an "Nature (journal)"
+cn "Nature (journal)"  "ui.label":"Nature (journal)"
+cn "Nature (journal)"  "ui.style":"size:6px; fill-color:white; "
+an "Science (journal)"
+cn "Science (journal)"  "ui.label":"Science (journal)"
+cn "Science (journal)"  "ui.style":"size:6px; fill-color:white; "
+an "Ethnic group"
+cn "Ethnic group"  "ui.label":"Ethnic group"
+cn "Ethnic group"  "ui.style":"size:6px; fill-color:white; "
+an "Parchment"
+cn "Parchment"  "ui.label":"Parchment"
+cn "Parchment"  "ui.style":"size:6px; fill-color:white; "
+an "Phenomenology (philosophy)"
+cn "Phenomenology (philosophy)"  "ui.label":"Phenomenology (philosophy)"
+cn "Phenomenology (philosophy)"  "ui.style":"size:6px; fill-color:white; "
+an "series"
+cn "series"  "ui.label":"series"
+cn "series"  "ui.style":"size:6px; fill-color:white; "
+an "Physics"
+cn "Physics"  "ui.label":"Physics"
+cn "Physics"  "ui.style":"size:6px; fill-color:white; "
+an "Cell (biology)"
+cn "Cell (biology)"  "ui.label":"Cell (biology)"
+cn "Cell (biology)"  "ui.style":"size:6px; fill-color:white; "
+an "Human settlement"
+cn "Human settlement"  "ui.label":"Human settlement"
+cn "Human settlement"  "ui.style":"size:6px; fill-color:white; "
+an "Intelligence quotient"
+cn "Intelligence quotient"  "ui.label":"Intelligence quotient"
+cn "Intelligence quotient"  "ui.style":"size:6px; fill-color:white; "
+an "Semantics"
+cn "Semantics"  "ui.label":"Semantics"
+cn "Semantics"  "ui.style":"size:6px; fill-color:white; "
+an "Cognitive neuroscience"
+cn "Cognitive neuroscience"  "ui.label":"Cognitive neuroscience"
+cn "Cognitive neuroscience"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "Clan"
+cn "Clan"  "ui.label":"Clan"
+cn "Clan"  "ui.style":"size:6px; fill-color:white; "
+an "Kinship"
+cn "Kinship"  "ui.label":"Kinship"
+cn "Kinship"  "ui.style":"size:6px; fill-color:white; "
+an "Tribe"
+cn "Tribe"  "ui.label":"Tribe"
+cn "Tribe"  "ui.style":"size:6px; fill-color:white; "
+an "Category:People"
+cn "Category:People"  "ui.label":"Category:People"
+cn "Category:People"  "ui.style":"size:6px; fill-color:white; "
+an "Category:Humans"
+cn "Category:Humans"  "ui.label":"Category:Humans"
+cn "Category:Humans"  "ui.style":"size:6px; fill-color:white; "
+an "Space_program_fatalities"
+cn "Space_program_fatalities"  "ui.label":"Space_program_fatalities"
+cn "Space_program_fatalities"  "ui.style":"size:6px; fill-color:white; "
+an "Oxford English Dictionary"
+cn "Oxford English Dictionary"  "ui.label":"Oxford English Dictionary"
+cn "Oxford English Dictionary"  "ui.style":"size:6px; fill-color:white; "
+an "Artificial intelligence"
+cn "Artificial intelligence"  "ui.label":"Artificial intelligence"
+cn "Artificial intelligence"  "ui.style":"size:6px; fill-color:white; "
+an "Perception"
+cn "Perception"  "ui.label":"Perception"
+cn "Perception"  "ui.style":"size:6px; fill-color:white; "
+an "development"
+cn "development"  "ui.label":"development"
+cn "development"  "ui.style":"size:6px; fill-color:white; "
+an "Idea"
+cn "Idea"  "ui.label":"Idea"
+cn "Idea"  "ui.style":"size:6px; fill-color:white; "
+an "Astronauts"
+cn "Astronauts"  "ui.label":"Astronauts"
+cn "Astronauts"  "ui.style":"size:6px; fill-color:white; "
+an "Magazine"
+cn "Magazine"  "ui.label":"Magazine"
+cn "Magazine"  "ui.style":"size:6px; fill-color:white; "
+an "Ancient Greek"
+cn "Ancient Greek"  "ui.label":"Ancient Greek"
+cn "Ancient Greek"  "ui.style":"size:6px; fill-color:white; "
+an "Government"
+cn "Government"  "ui.label":"Government"
+cn "Government"  "ui.style":"size:6px; fill-color:white; "
+an "Reason"
+cn "Reason"  "ui.label":"Reason"
+cn "Reason"  "ui.style":"size:6px; fill-color:white; "
+an "War_in_Afghanistan_(2001���present)_detainees_by_facility"
+cn "War_in_Afghanistan_(2001���present)_detainees_by_facility"  "ui.label":"War_in_Afghanistan_(2001���present)_detainees_by_facility"
+cn "War_in_Afghanistan_(2001���present)_detainees_by_facility"  "ui.style":"size:6px; fill-color:white; "
+an "book"
+cn "book"  "ui.label":"book"
+cn "book"  "ui.style":"size:6px; fill-color:white; "
+an "condensation"
+cn "condensation"  "ui.label":"condensation"
+cn "condensation"  "ui.style":"size:6px; fill-color:white; "
+an "Sign"
+cn "Sign"  "ui.label":"Sign"
+cn "Sign"  "ui.style":"size:6px; fill-color:white; "
+an "Medical state"
+cn "Medical state"  "ui.label":"Medical state"
+cn "Medical state"  "ui.style":"size:6px; fill-color:white; "
+an "invagination"
+cn "invagination"  "ui.label":"invagination"
+cn "invagination"  "ui.style":"size:6px; fill-color:white; "
+an "preoccupation"
+cn "preoccupation"  "ui.label":"preoccupation"
+cn "preoccupation"  "ui.style":"size:6px; fill-color:white; "
+an "Clade"
+cn "Clade"  "ui.label":"Clade"
+cn "Clade"  "ui.style":"size:6px; fill-color:white; "
+an "Behavior"
+cn "Behavior"  "ui.label":"Behavior"
+cn "Behavior"  "ui.style":"size:6px; fill-color:white; "
+an "Nucleotide"
+cn "Nucleotide"  "ui.label":"Nucleotide"
+cn "Nucleotide"  "ui.style":"size:6px; fill-color:white; "
+an "Thailand"
+cn "Thailand"  "ui.label":"Thailand"
+cn "Thailand"  "ui.style":"size:6px; fill-color:white; "
+an "Carbohydrate"
+cn "Carbohydrate"  "ui.label":"Carbohydrate"
+cn "Carbohydrate"  "ui.style":"size:6px; fill-color:white; "
+an "ablactation"
+cn "ablactation"  "ui.label":"ablactation"
+cn "ablactation"  "ui.style":"size:6px; fill-color:white; "
+an "respiration"
+cn "respiration"  "ui.label":"respiration"
+cn "respiration"  "ui.style":"size:6px; fill-color:white; "
+an "control"
+cn "control"  "ui.label":"control"
+cn "control"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "mystification"
+cn "mystification"  "ui.label":"mystification"
+cn "mystification"  "ui.style":"size:6px; fill-color:white; "
+an "Old French"
+cn "Old French"  "ui.label":"Old French"
+cn "Old French"  "ui.style":"size:6px; fill-color:white; "
+an "Linguistics"
+cn "Linguistics"  "ui.label":"Linguistics"
+cn "Linguistics"  "ui.style":"size:6px; fill-color:white; "
+an "Abstract and concrete"
+cn "Abstract and concrete"  "ui.label":"Abstract and concrete"
+cn "Abstract and concrete"  "ui.style":"size:6px; fill-color:white; "
+an "provision"
+cn "provision"  "ui.label":"provision"
+cn "provision"  "ui.style":"size:6px; fill-color:white; "
+an "Latin"
+cn "Latin"  "ui.label":"Latin"
+cn "Latin"  "ui.style":"size:6px; fill-color:white; "
+an "patent"
+cn "patent"  "ui.label":"patent"
+cn "patent"  "ui.style":"size:6px; fill-color:white; "
+an "Species"
+cn "Species"  "ui.label":"Species"
+cn "Species"  "ui.style":"size:6px; fill-color:white; "
+an "Hominini"
+cn "Hominini"  "ui.label":"Hominini"
+cn "Hominini"  "ui.style":"size:6px; fill-color:white; "
+an "Category of being"
+cn "Category of being"  "ui.label":"Category of being"
+cn "Category of being"  "ui.style":"size:6px; fill-color:white; "
+an "Philosophy"
+cn "Philosophy"  "ui.label":"Philosophy"
+cn "Philosophy"  "ui.style":"size:6px; fill-color:white; "
+an "United States dollar"
+cn "United States dollar"  "ui.label":"United States dollar"
+cn "United States dollar"  "ui.style":"size:6px; fill-color:white; "
+an "Symbol"
+cn "Symbol"  "ui.label":"Symbol"
+cn "Symbol"  "ui.style":"size:6px; fill-color:white; "
+an "Children's_rights_activists"
+cn "Children's_rights_activists"  "ui.label":"Children's_rights_activists"
+cn "Children's_rights_activists"  "ui.style":"size:6px; fill-color:white; "
+an "part"
+cn "part"  "ui.label":"part"
+cn "part"  "ui.style":"size:6px; fill-color:white; "
+an "section"
+cn "section"  "ui.label":"section"
+cn "section"  "ui.style":"size:6px; fill-color:white; "
+an "Jesus"
+cn "Jesus"  "ui.label":"Jesus"
+cn "Jesus"  "ui.style":"size:6px; fill-color:white; "
+an "waste"
+cn "waste"  "ui.label":"waste"
+cn "waste"  "ui.style":"size:6px; fill-color:white; "
+an "State (polity)"
+cn "State (polity)"  "ui.label":"State (polity)"
+cn "State (polity)"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "Orangutan"
+cn "Orangutan"  "ui.label":"Orangutan"
+cn "Orangutan"  "ui.style":"size:6px; fill-color:white; "
+an "Technology"
+cn "Technology"  "ui.label":"Technology"
+cn "Technology"  "ui.style":"size:6px; fill-color:white; "
+an "Bonobo"
+cn "Bonobo"  "ui.label":"Bonobo"
+cn "Bonobo"  "ui.style":"size:6px; fill-color:white; "
+an "law"
+cn "law"  "ui.label":"law"
+cn "law"  "ui.style":"size:6px; fill-color:white; "
+an "Language"
+cn "Language"  "ui.label":"Language"
+cn "Language"  "ui.style":"size:6px; fill-color:white; "
+an "Cognition"
+cn "Cognition"  "ui.label":"Cognition"
+cn "Cognition"  "ui.style":"size:6px; fill-color:white; "
+an "Korean language"
+cn "Korean language"  "ui.label":"Korean language"
+cn "Korean language"  "ui.style":"size:6px; fill-color:white; "
+an "Non-disclosure agreement"
+cn "Non-disclosure agreement"  "ui.label":"Non-disclosure agreement"
+cn "Non-disclosure agreement"  "ui.style":"size:6px; fill-color:white; "
+an "Ape"
+cn "Ape"  "ui.label":"Ape"
+cn "Ape"  "ui.style":"size:6px; fill-color:white; "
+an "Ontology"
+cn "Ontology"  "ui.label":"Ontology"
+cn "Ontology"  "ui.style":"size:6px; fill-color:white; "
+an "native"
+cn "native"  "ui.label":"native"
+cn "native"  "ui.style":"size:6px; fill-color:white; "
+an "Aristotle"
+cn "Aristotle"  "ui.label":"Aristotle"
+cn "Aristotle"  "ui.style":"size:6px; fill-color:white; "
+an "Human_Rights_Watch_people"
+cn "Human_Rights_Watch_people"  "ui.label":"Human_Rights_Watch_people"
+cn "Human_Rights_Watch_people"  "ui.style":"size:6px; fill-color:white; "
+ae "People->group" "People"  "group"
+ce "People->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Human->hominid" "Human"  "hominid"
+ce "Human->hominid"  "type":0
+ae "hominid->primate" "hominid"  "primate"
+ce "hominid->primate"  "type":0
+ae "primate->priest" "primate"  "priest"
+ce "primate->priest"  "type":0
+ae "priest->clergyman" "priest"  "clergyman"
+ce "priest->clergyman"  "type":0
+ae "clergyman->spiritual leader" "clergyman"  "spiritual leader"
+ce "clergyman->spiritual leader"  "type":0
+ae "spiritual leader->leader" "spiritual leader"  "leader"
+ce "spiritual leader->leader"  "type":0
+ae "leader->person" "leader"  "person"
+ce "leader->person"  "type":0
+ae "person->organism" "person"  "organism"
+ce "person->organism"  "type":0
+ae "organism->living thing" "organism"  "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing"  "whole"
+ce "living thing->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "collection->publication" "collection"  "publication"
+ce "collection->publication"  "type":0
+ae "publication->work" "publication"  "work"
+ce "publication->work"  "type":0
+ae "work->activity" "work"  "activity"
+ce "work->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "creation->artifact" "creation"  "artifact"
+ce "creation->artifact"  "type":0
+ae "artifact->whole" "artifact"  "whole"
+ce "artifact->whole"  "type":0
+ae "artifact->article" "artifact"  "article"
+ce "artifact->article"  "type":1
+ae "article->nonfiction" "article"  "nonfiction"
+ce "article->nonfiction"  "type":0
+ae "nonfiction->prose" "nonfiction"  "prose"
+ce "nonfiction->prose"  "type":0
+ae "prose->writing style" "prose"  "writing style"
+ce "prose->writing style"  "type":0
+ae "writing style->expressive style" "writing style"  "expressive style"
+ce "writing style->expressive style"  "type":0
+ae "expressive style->communication" "expressive style"  "communication"
+ce "expressive style->communication"  "type":0
+ae "communication->act" "communication"  "act"
+ce "communication->act"  "type":0
+ae "communication->abstraction" "communication"  "abstraction"
+ce "communication->abstraction"  "type":0
+ae "communication->connection" "communication"  "connection"
+ce "communication->connection"  "type":0
+ae "connection->relation" "connection"  "relation"
+ce "connection->relation"  "type":0
+ae "relation->abstraction" "relation"  "abstraction"
+ce "relation->abstraction"  "type":0
+ae "relation->sexual activity" "relation"  "sexual activity"
+ce "relation->sexual activity"  "type":0
+ae "sexual activity->bodily process" "sexual activity"  "bodily process"
+ce "sexual activity->bodily process"  "type":0
+ae "bodily process->organic process" "bodily process"  "organic process"
+ce "bodily process->organic process"  "type":0
+ae "organic process->process" "organic process"  "process"
+ce "organic process->process"  "type":0
+ae "process->activity" "process"  "activity"
+ce "process->activity"  "type":0
+ae "process->cognition" "process"  "cognition"
+ce "process->cognition"  "type":0
+ae "cognition->psychological feature" "cognition"  "psychological feature"
+ce "cognition->psychological feature"  "type":0
+ae "psychological feature->abstraction" "psychological feature"  "abstraction"
+ce "psychological feature->abstraction"  "type":0
+ae "psychological feature->motivation" "psychological feature"  "motivation"
+ce "psychological feature->motivation"  "type":1
+ae "motivation->condition" "motivation"  "condition"
+ce "motivation->condition"  "type":0
+ae "condition->state" "condition"  "state"
+ce "condition->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "physical entity->process" "physical entity" > "process"
+ce "physical entity->process"  "type":1
+ae "concept->Cognition" "concept" > "Cognition"
+ce "concept->Cognition"  "type":8
+ae "communication->Technology" "communication" > "Technology"
+ce "communication->Technology"  "type":8
+ae "concept->law" "concept" > "law"
+ce "concept->law"  "type":1
+ae "concept->part" "concept" > "part"
+ce "concept->part"  "type":1
+ae "communication->Reason" "communication" > "Reason"
+ce "communication->Reason"  "type":8
+ae "communication->Symbol" "communication" > "Symbol"
+ce "communication->Symbol"  "type":8
+ae "communication->Sign" "communication" > "Sign"
+ce "communication->Sign"  "type":8
+ae "person->Latin" "person" > "Latin"
+ce "person->Latin"  "type":1
+ae "People->class" "People" > "class"
+ce "People->class"  "type":1
+ae "work->action" "work" > "action"
+ce "work->action"  "type":1
+ae "activity->mystification" "activity" > "mystification"
+ce "activity->mystification"  "type":1
+ae "whole->section" "whole" > "section"
+ce "whole->section"  "type":7
+ae "whole->part" "whole" > "part"
+ce "whole->part"  "type":7
+ae "primate->Bonobo" "primate" > "Bonobo"
+ce "primate->Bonobo"  "type":8
+ae "activity->control" "activity" > "control"
+ce "activity->control"  "type":1
+ae "People->Ethnic group" "People" > "Ethnic group"
+ce "People->Ethnic group"  "type":8
+ae "whole->object" "whole" > "object"
+ce "whole->object"  "type":0
+ae "communication->contact" "communication" > "contact"
+ce "communication->contact"  "type":1
+ae "activity->respiration" "activity" > "respiration"
+ce "activity->respiration"  "type":1
+ae "communication->expression" "communication" > "expression"
+ce "communication->expression"  "type":1
+ae "activity->ablactation" "activity" > "ablactation"
+ce "activity->ablactation"  "type":1
+ae "communication->mail" "communication" > "mail"
+ce "communication->mail"  "type":1
+ae "collection->book" "collection" > "book"
+ce "collection->book"  "type":1
+ae "writing->section" "writing" > "section"
+ce "writing->section"  "type":1
+ae "primate->Ape" "primate" > "Ape"
+ce "primate->Ape"  "type":8
+ae "abstraction->Symbol" "abstraction" > "Symbol"
+ce "abstraction->Symbol"  "type":8
+ae "People->Clan" "People" > "Clan"
+ce "People->Clan"  "type":8
+ae "People->Kinship" "People" > "Kinship"
+ce "People->Kinship"  "type":8
+ae "People->Tribe" "People" > "Tribe"
+ce "People->Tribe"  "type":8
+ae "People->Category:People" "People" > "Category:People"
+ce "People->Category:People"  "type":8
+ae "People->Category:Humans" "People" > "Category:Humans"
+ce "People->Category:Humans"  "type":8
+ae "living thing->cell" "living thing" > "cell"
+ce "living thing->cell"  "type":1
+ae "Human->Linguistics" "Human" > "Linguistics"
+ce "Human->Linguistics"  "type":8
+ae "priest->Jesus" "priest" > "Jesus"
+ce "priest->Jesus"  "type":8
+ae "activity->condensation" "activity" > "condensation"
+ce "activity->condensation"  "type":1
+ae "expressive style->prose" "expressive style" > "prose"
+ce "expressive style->prose"  "type":1
+ae "abstraction->Linguistics" "abstraction" > "Linguistics"
+ce "abstraction->Linguistics"  "type":8
+ae "Human->Phenomenology (philosophy)" "Human" > "Phenomenology (philosophy)"
+ce "Human->Phenomenology (philosophy)"  "type":8
+ae "work->operation" "work" > "operation"
+ce "work->operation"  "type":1
+ae "Human->Intelligence quotient" "Human" > "Intelligence quotient"
+ce "Human->Intelligence quotient"  "type":8
+ae "People->Children's_rights_activists" "People" > "Children's_rights_activists"
+ce "People->Children's_rights_activists"  "type":8
+ae "location->Human settlement" "location" > "Human settlement"
+ce "location->Human settlement"  "type":8
+ae "artifact->mystification" "artifact" > "mystification"
+ce "artifact->mystification"  "type":1
+ae "Human->Cognitive neuroscience" "Human" > "Cognitive neuroscience"
+ce "Human->Cognitive neuroscience"  "type":8
+ae "organism->Clade" "organism" > "Clade"
+ce "organism->Clade"  "type":8
+ae "primate->Orangutan" "primate" > "Orangutan"
+ce "primate->Orangutan"  "type":8
+ae "primate->Clade" "primate" > "Clade"
+ce "primate->Clade"  "type":8
+ae "cognition->Linguistics" "cognition" > "Linguistics"
+ce "cognition->Linguistics"  "type":8
+ae "Human->Perception" "Human" > "Perception"
+ce "Human->Perception"  "type":8
+ae "document->Government" "document" > "Government"
+ce "document->Government"  "type":8
+ae "Human->Clan" "Human" > "Clan"
+ce "Human->Clan"  "type":8
+ae "cognition->Ancient Greek" "cognition" > "Ancient Greek"
+ce "cognition->Ancient Greek"  "type":8
+ae "cognition->Aristotle" "cognition" > "Aristotle"
+ce "cognition->Aristotle"  "type":8
+ae "priest->spiritual leader" "priest" > "spiritual leader"
+ce "priest->spiritual leader"  "type":0
+ae "entity->thing" "entity" > "thing"
+ce "entity->thing"  "type":1
+ae "Human->War_in_Afghanistan_(2001���present)_detainees_by_facility" "Human" > "War_in_Afghanistan_(2001���present)_detainees_by_facility"
+ce "Human->War_in_Afghanistan_(2001���present)_detainees_by_facility"  "type":8
+ae "organism->Nature (journal)" "organism" > "Nature (journal)"
+ce "organism->Nature (journal)"  "type":8
+ae "Human->Tribe" "Human" > "Tribe"
+ce "Human->Tribe"  "type":8
+ae "location->activity" "location" > "activity"
+ce "location->activity"  "type":0
+ae "bodily process->control" "bodily process" > "control"
+ce "bodily process->control"  "type":1
+ae "bodily process->respiration" "bodily process" > "respiration"
+ce "bodily process->respiration"  "type":1
+ae "state->State (polity)" "state" > "State (polity)"
+ce "state->State (polity)"  "type":8
+ae "cognition->Cognitive neuroscience" "cognition" > "Cognitive neuroscience"
+ce "cognition->Cognitive neuroscience"  "type":8
+ae "cognition->Artificial intelligence" "cognition" > "Artificial intelligence"
+ce "cognition->Artificial intelligence"  "type":8
+ae "document->Non-disclosure agreement" "document" > "Non-disclosure agreement"
+ce "document->Non-disclosure agreement"  "type":8
+ae "organism->Nucleotide" "organism" > "Nucleotide"
+ce "organism->Nucleotide"  "type":8
+ae "bodily process->ablactation" "bodily process" > "ablactation"
+ce "bodily process->ablactation"  "type":1
+ae "organism->Carbohydrate" "organism" > "Carbohydrate"
+ce "organism->Carbohydrate"  "type":8
+ae "People->Space_program_fatalities" "People" > "Space_program_fatalities"
+ce "People->Space_program_fatalities"  "type":8
+ae "content->communication" "content" > "communication"
+ce "content->communication"  "type":0
+ae "organism->Cell (biology)" "organism" > "Cell (biology)"
+ce "organism->Cell (biology)"  "type":8
+ae "act->waste" "act" > "waste"
+ce "act->waste"  "type":1
+ae "condition->provision" "condition" > "provision"
+ce "condition->provision"  "type":1
+ae "writing->Parchment" "writing" > "Parchment"
+ce "writing->Parchment"  "type":8
+ae "prose->Latin" "prose" > "Latin"
+ce "prose->Latin"  "type":8
+ae "prose->Old French" "prose" > "Old French"
+ce "prose->Old French"  "type":8
+ae "organism->Oxford English Dictionary" "organism" > "Oxford English Dictionary"
+ce "organism->Oxford English Dictionary"  "type":8
+ae "prose->Philosophy" "prose" > "Philosophy"
+ce "prose->Philosophy"  "type":8
+ae "Human->Nucleotide" "Human" > "Nucleotide"
+ce "Human->Nucleotide"  "type":8
+ae "Human->Thailand" "Human" > "Thailand"
+ce "Human->Thailand"  "type":8
+ae "organism->Species" "organism" > "Species"
+ce "organism->Species"  "type":8
+ae "prose->Magazine" "prose" > "Magazine"
+ce "prose->Magazine"  "type":8
+ae "condition->invagination" "condition" > "invagination"
+ce "condition->invagination"  "type":1
+ae "person->Reason" "person" > "Reason"
+ce "person->Reason"  "type":8
+ae "organism->Unicellular organism" "organism" > "Unicellular organism"
+ce "organism->Unicellular organism"  "type":8
+ae "organism->Fungus" "organism" > "Fungus"
+ce "organism->Fungus"  "type":8
+ae "motivation->Behavior" "motivation" > "Behavior"
+ce "motivation->Behavior"  "type":8
+ae "Human->Bonobo" "Human" > "Bonobo"
+ce "Human->Bonobo"  "type":8
+ae "organic process->invagination" "organic process" > "invagination"
+ce "organic process->invagination"  "type":1
+ae "organism->cell" "organism" > "cell"
+ce "organism->cell"  "type":7
+ae "publication->book" "publication" > "book"
+ce "publication->book"  "type":1
+ae "Human->Orangutan" "Human" > "Orangutan"
+ce "Human->Orangutan"  "type":8
+ae "primate->Science (journal)" "primate" > "Science (journal)"
+ce "primate->Science (journal)"  "type":8
+ae "primate->Nature (journal)" "primate" > "Nature (journal)"
+ce "primate->Nature (journal)"  "type":8
+ae "person->Artificial intelligence" "person" > "Artificial intelligence"
+ce "person->Artificial intelligence"  "type":8
+ae "region->Latin" "region" > "Latin"
+ce "region->Latin"  "type":8
+ae "Human->Korean language" "Human" > "Korean language"
+ce "Human->Korean language"  "type":8
+ae "motivation->Cognition" "motivation" > "Cognition"
+ce "motivation->Cognition"  "type":8
+ae "state->Medical state" "state" > "Medical state"
+ce "state->Medical state"  "type":8
+ae "primate->Old French" "primate" > "Old French"
+ce "primate->Old French"  "type":8
+ae "Human->Species" "Human" > "Species"
+ce "Human->Species"  "type":8
+ae "Human->Hominini" "Human" > "Hominini"
+ce "Human->Hominini"  "type":8
+ae "work->service" "work" > "service"
+ce "work->service"  "type":1
+ae "Human->Philosophy" "Human" > "Philosophy"
+ce "Human->Philosophy"  "type":8
+ae "organism->native" "organism" > "native"
+ce "organism->native"  "type":1
+ae "process->physical entity" "process" > "physical entity"
+ce "process->physical entity"  "type":0
+ae "abstraction->Physics" "abstraction" > "Physics"
+ce "abstraction->Physics"  "type":8
+ae "Human->State (polity)" "Human" > "State (polity)"
+ce "Human->State (polity)"  "type":8
+ae "person->Category:People" "person" > "Category:People"
+ce "person->Category:People"  "type":8
+ae "person->Category:Humans" "person" > "Category:Humans"
+ce "person->Category:Humans"  "type":8
+ae "Human->Kinship" "Human" > "Kinship"
+ce "Human->Kinship"  "type":8
+ae "primate->Hominini" "primate" > "Hominini"
+ce "primate->Hominini"  "type":8
+ae "person->Phenomenology (philosophy)" "person" > "Phenomenology (philosophy)"
+ce "person->Phenomenology (philosophy)"  "type":8
+ae "group->Ethnic group" "group" > "Ethnic group"
+ce "group->Ethnic group"  "type":8
+ae "Human->Technology" "Human" > "Technology"
+ce "Human->Technology"  "type":8
+ae "content->object" "content" > "object"
+ce "content->object"  "type":1
+ae "Human->Ape" "Human" > "Ape"
+ce "Human->Ape"  "type":8
+ae "Human->Astronauts" "Human" > "Astronauts"
+ce "Human->Astronauts"  "type":8
+ae "motivation->Intelligence quotient" "motivation" > "Intelligence quotient"
+ce "motivation->Intelligence quotient"  "type":8
+ae "state->action" "state" > "action"
+ce "state->action"  "type":1
+ae "condition->Medical state" "condition" > "Medical state"
+ce "condition->Medical state"  "type":8
+ae "Human->Space_program_fatalities" "Human" > "Space_program_fatalities"
+ce "Human->Space_program_fatalities"  "type":8
+ae "priest->Cambridge University Press" "priest" > "Cambridge University Press"
+ce "priest->Cambridge University Press"  "type":8
+ae "People->Astronauts" "People" > "Astronauts"
+ce "People->Astronauts"  "type":8
+ae "communication->Writing" "communication" > "Writing"
+ce "communication->Writing"  "type":8
+ae "abstraction->Category of being" "abstraction" > "Category of being"
+ce "abstraction->Category of being"  "type":8
+ae "concept->Idea" "concept" > "Idea"
+ce "concept->Idea"  "type":8
+ae "concept->Philosophy" "concept" > "Philosophy"
+ce "concept->Philosophy"  "type":8
+ae "motivation->Cambridge University Press" "motivation" > "Cambridge University Press"
+ce "motivation->Cambridge University Press"  "type":8
+ae "concept->Ontology" "concept" > "Ontology"
+ce "concept->Ontology"  "type":8
+ae "region->Continent" "region" > "Continent"
+ce "region->Continent"  "type":8
+ae "Human->Writing" "Human" > "Writing"
+ce "Human->Writing"  "type":8
+ae "activity->provision" "activity" > "provision"
+ce "activity->provision"  "type":1
+ae "Human->United States dollar" "Human" > "United States dollar"
+ce "Human->United States dollar"  "type":8
+ae "Human->Human settlement" "Human" > "Human settlement"
+ce "Human->Human settlement"  "type":8
+ae "idea->Aristotle" "idea" > "Aristotle"
+ce "idea->Aristotle"  "type":8
+ae "district->development" "district" > "development"
+ce "district->development"  "type":1
+ae "creation->representation" "creation" > "representation"
+ce "creation->representation"  "type":1
+ae "Human->Children's_rights_activists" "Human" > "Children's_rights_activists"
+ce "Human->Children's_rights_activists"  "type":8
+ae "motivation->Clan" "motivation" > "Clan"
+ce "motivation->Clan"  "type":8
+ae "Human->Human_Rights_Watch_people" "Human" > "Human_Rights_Watch_people"
+ce "Human->Human_Rights_Watch_people"  "type":8
+ae "group->series" "group" > "series"
+ce "group->series"  "type":1
+ae "People->Mothers_of_the_Plaza_de_Mayo" "People" > "Mothers_of_the_Plaza_de_Mayo"
+ce "People->Mothers_of_the_Plaza_de_Mayo"  "type":8
+ae "primate->Kinship" "primate" > "Kinship"
+ce "primate->Kinship"  "type":8
+ae "idea->Language" "idea" > "Language"
+ce "idea->Language"  "type":8
+ae "writing->Korean language" "writing" > "Korean language"
+ce "writing->Korean language"  "type":8
+ae "activity->waste" "activity" > "waste"
+ce "activity->waste"  "type":1
+ae "activity->writing" "activity" > "writing"
+ce "activity->writing"  "type":1
+ae "activity->service" "activity" > "service"
+ce "activity->service"  "type":1
+ae "People->War_in_Afghanistan_(2001���present)_detainees_by_facility" "People" > "War_in_Afghanistan_(2001���present)_detainees_by_facility"
+ce "People->War_in_Afghanistan_(2001���present)_detainees_by_facility"  "type":8
+ae "abstraction->Aristotle" "abstraction" > "Aristotle"
+ce "abstraction->Aristotle"  "type":8
+ae "activity->operation" "activity" > "operation"
+ce "activity->operation"  "type":1
+ae "legal document->patent" "legal document" > "patent"
+ce "legal document->patent"  "type":1
+ae "abstraction->Language" "abstraction" > "Language"
+ce "abstraction->Language"  "type":8
+ae "activity->organic process" "activity" > "organic process"
+ce "activity->organic process"  "type":0
+ae "Human->Continent" "Human" > "Continent"
+ce "Human->Continent"  "type":8
+ae "writing->Publishing" "writing" > "Publishing"
+ce "writing->Publishing"  "type":8
+ae "collection->mail" "collection" > "mail"
+ce "collection->mail"  "type":1
+ae "connection->contact" "connection" > "contact"
+ce "connection->contact"  "type":1
+ae "organic process->expression" "organic process" > "expression"
+ce "organic process->expression"  "type":1
+ae "Human->Mothers_of_the_Plaza_de_Mayo" "Human" > "Mothers_of_the_Plaza_de_Mayo"
+ce "Human->Mothers_of_the_Plaza_de_Mayo"  "type":8
+ae "idea->preoccupation" "idea" > "preoccupation"
+ce "idea->preoccupation"  "type":1
+ae "communication->Fungus" "communication" > "Fungus"
+ce "communication->Fungus"  "type":8
+ae "communication->Behavior" "communication" > "Behavior"
+ce "communication->Behavior"  "type":8
+ae "writing->Linguistics" "writing" > "Linguistics"
+ce "writing->Linguistics"  "type":8
+ae "primate->Carbohydrate" "primate" > "Carbohydrate"
+ce "primate->Carbohydrate"  "type":8
+ae "document->representation" "document" > "representation"
+ce "document->representation"  "type":0
+ae "collection->law" "collection" > "law"
+ce "collection->law"  "type":1
+ae "process->development" "process" > "development"
+ce "process->development"  "type":1
+ae "abstraction->Abstract and concrete" "abstraction" > "Abstract and concrete"
+ce "abstraction->Abstract and concrete"  "type":8
+ae "publication->Magazine" "publication" > "Magazine"
+ce "publication->Magazine"  "type":8
+ae "idea->Philosophy" "idea" > "Philosophy"
+ce "idea->Philosophy"  "type":8
+ae "abstraction->thing" "abstraction" > "thing"
+ce "abstraction->thing"  "type":1
+ae "priest->Oxford English Dictionary" "priest" > "Oxford English Dictionary"
+ce "priest->Oxford English Dictionary"  "type":8
+ae "district->Thailand" "district" > "Thailand"
+ce "district->Thailand"  "type":8
+ae "idea->Ontology" "idea" > "Ontology"
+ce "idea->Ontology"  "type":8
+ae "idea->Category of being" "idea" > "Category of being"
+ce "idea->Category of being"  "type":8
+ae "communication->Unicellular organism" "communication" > "Unicellular organism"
+ce "communication->Unicellular organism"  "type":8
+ae "idea->Human" "idea" > "Human"
+ce "idea->Human"  "type":8
+ae "Human->Cell (biology)" "Human" > "Cell (biology)"
+ce "Human->Cell (biology)"  "type":8
+ae "idea->Perception" "idea" > "Perception"
+ce "idea->Perception"  "type":8
+ae "idea->Abstract and concrete" "idea" > "Abstract and concrete"
+ce "idea->Abstract and concrete"  "type":8
+ae "abstraction->preoccupation" "abstraction" > "preoccupation"
+ce "abstraction->preoccupation"  "type":0
+ae "publication->Publishing" "publication" > "Publishing"
+ce "publication->Publishing"  "type":8
+ae "abstraction->concept" "abstraction" > "concept"
+ce "abstraction->concept"  "type":0
+ae "writing->Semantics" "writing" > "Semantics"
+ce "writing->Semantics"  "type":8
+ae "Human->Category:Humans" "Human" > "Category:Humans"
+ce "Human->Category:Humans"  "type":8
+ae "document->patent" "document" > "patent"
+ce "document->patent"  "type":1
+ae "communication->Semantics" "communication" > "Semantics"
+ce "communication->Semantics"  "type":8
+ae "writing->Science (journal)" "writing" > "Science (journal)"
+ce "writing->Science (journal)"  "type":8
+ae "Human->Physics" "Human" > "Physics"
+ce "Human->Physics"  "type":8
+ae "People->Human_Rights_Watch_people" "People" > "Human_Rights_Watch_people"
+ce "People->Human_Rights_Watch_people"  "type":8
+ae "document->Parchment" "document" > "Parchment"
+ce "document->Parchment"  "type":8
+ae "person->native" "person" > "native"
+ce "person->native"  "type":1
+ae "document->Sign" "document" > "Sign"
+ce "document->Sign"  "type":8
+ae "priest->Ancient Greek" "priest" > "Ancient Greek"
+ce "priest->Ancient Greek"  "type":8
+ae "Human->Idea" "Human" > "Idea"
+ce "Human->Idea"  "type":8
+ae "priest->Government" "priest" > "Government"
+ce "priest->Government"  "type":8
+ae "primate->United States dollar" "primate" > "United States dollar"
+ce "primate->United States dollar"  "type":8
+ae "People->Jesus" "People" > "Jesus"
+ce "People->Jesus"  "type":8
+ae "document->article" "document" > "article"
+ce "document->article"  "type":7
+ae "process->condensation" "process" > "condensation"
+ce "process->condensation"  "type":1
+ae "idea->Non-disclosure agreement" "idea" > "Non-disclosure agreement"
+ce "idea->Non-disclosure agreement"  "type":8
+ae "connection->series" "connection" > "series"
+ce "connection->series"  "type":1
+ae "collection->class" "collection" > "class"
+ce "collection->class"  "type":1
+ae "work->location" "work" > "location"
+ce "work->location"  "type":1

@@ -1,0 +1,190 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Action film"
+cn "Action film"  "ui.label":"Action film"
+cn "Action film"  "ui.style":"size-mode:fit;"
+an "Film genre"
+cn "Film genre"  "ui.label":"Film genre"
+cn "Film genre"  "ui.style":"size:6px; fill-color:white; "
+an "Western United States"
+cn "Western United States"  "ui.label":"Western United States"
+cn "Western United States"  "ui.style":"size:6px; fill-color:white; "
+an "United States"
+cn "United States"  "ui.label":"United States"
+cn "United States"  "ui.style":"size:6px; fill-color:white; "
+an "federal government"
+cn "federal government"  "ui.label":"federal government"
+cn "federal government"  "ui.style":"size:6px; fill-color:white; "
+an "government"
+cn "government"  "ui.label":"government"
+cn "government"  "ui.style":"size:6px; fill-color:white; "
+an "polity"
+cn "polity"  "ui.label":"polity"
+cn "polity"  "ui.style":"size:6px; fill-color:white; "
+an "order"
+cn "order"  "ui.label":"order"
+cn "order"  "ui.style":"size:6px; fill-color:white; "
+an "command"
+cn "command"  "ui.label":"command"
+cn "command"  "ui.style":"size:6px; fill-color:white; "
+an "speech act"
+cn "speech act"  "ui.label":"speech act"
+cn "speech act"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Science fiction film"
+cn "Science fiction film"  "ui.label":"Science fiction film"
+cn "Science fiction film"  "ui.style":"size-mode:fit;"
+an "Speculative fiction"
+cn "Speculative fiction"  "ui.label":"Speculative fiction"
+cn "Speculative fiction"  "ui.style":"size:6px; fill-color:white; "
+an "Hyponymy and hypernymy"
+cn "Hyponymy and hypernymy"  "ui.label":"Hyponymy and hypernymy"
+cn "Hyponymy and hypernymy"  "ui.style":"size:6px; fill-color:white; "
+an "Linguistics"
+cn "Linguistics"  "ui.label":"Linguistics"
+cn "Linguistics"  "ui.style":"size:6px; fill-color:white; "
+an "science"
+cn "science"  "ui.label":"science"
+cn "science"  "ui.style":"size:6px; fill-color:white; "
+an "discipline"
+cn "discipline"  "ui.label":"discipline"
+cn "discipline"  "ui.style":"size:6px; fill-color:white; "
+an "knowledge domain"
+cn "knowledge domain"  "ui.label":"knowledge domain"
+cn "knowledge domain"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+ae "Action film->Film genre" "Action film"  "Film genre"
+ce "Action film->Film genre"  "type":8
+ae "Film genre->Western United States" "Film genre"  "Western United States"
+ce "Film genre->Western United States"  "type":8
+ae "Western United States->United States" "Western United States"  "United States"
+ce "Western United States->United States"  "type":6
+ae "United States->federal government" "United States"  "federal government"
+ce "United States->federal government"  "type":0
+ae "federal government->government" "federal government"  "government"
+ce "federal government->government"  "type":0
+ae "government->polity" "government"  "polity"
+ce "government->polity"  "type":0
+ae "polity->order" "polity"  "order"
+ce "polity->order"  "type":0
+ae "order->command" "order"  "command"
+ce "order->command"  "type":0
+ae "command->speech act" "command"  "speech act"
+ce "command->speech act"  "type":0
+ae "speech act->act" "speech act"  "act"
+ce "speech act->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "activity->state" "activity"  "state"
+ce "activity->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "Science fiction film->Film genre" "Science fiction film"  "Film genre"
+ce "Science fiction film->Film genre"  "type":8
+ae "Science fiction film->Speculative fiction" "Science fiction film"  "Speculative fiction"
+ce "Science fiction film->Speculative fiction"  "type":8
+ae "Speculative fiction->Hyponymy and hypernymy" "Speculative fiction"  "Hyponymy and hypernymy"
+ce "Speculative fiction->Hyponymy and hypernymy"  "type":8
+ae "Hyponymy and hypernymy->Linguistics" "Hyponymy and hypernymy"  "Linguistics"
+ce "Hyponymy and hypernymy->Linguistics"  "type":8
+ae "Linguistics->science" "Linguistics"  "science"
+ce "Linguistics->science"  "type":0
+ae "science->discipline" "science"  "discipline"
+ce "science->discipline"  "type":0
+ae "discipline->knowledge domain" "discipline"  "knowledge domain"
+ce "discipline->knowledge domain"  "type":0
+ae "knowledge domain->content" "knowledge domain"  "content"
+ce "knowledge domain->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0

@@ -1,0 +1,245 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "tool"
+cn "tool"  "ui.label":"tool"
+cn "tool"  "ui.style":"size-mode:fit;"
+an "implement"
+cn "implement"  "ui.label":"implement"
+cn "implement"  "ui.style":"size-mode:fit;"
+an "instrumentality"
+cn "instrumentality"  "ui.label":"instrumentality"
+cn "instrumentality"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "definite quantity"
+cn "definite quantity"  "ui.label":"definite quantity"
+cn "definite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "means"
+cn "means"  "ui.label":"means"
+cn "means"  "ui.style":"size:6px; fill-color:white; "
+an "extraction"
+cn "extraction"  "ui.label":"extraction"
+cn "extraction"  "ui.style":"size:6px; fill-color:white; "
+an "drift"
+cn "drift"  "ui.label":"drift"
+cn "drift"  "ui.style":"size:6px; fill-color:white; "
+an "feedback"
+cn "feedback"  "ui.label":"feedback"
+cn "feedback"  "ui.style":"size:6px; fill-color:white; "
+an "search"
+cn "search"  "ui.label":"search"
+cn "search"  "ui.style":"size:6px; fill-color:white; "
+an "flow"
+cn "flow"  "ui.label":"flow"
+cn "flow"  "ui.style":"size:6px; fill-color:white; "
+an "concretion"
+cn "concretion"  "ui.label":"concretion"
+cn "concretion"  "ui.style":"size:6px; fill-color:white; "
+an "chromatography"
+cn "chromatography"  "ui.label":"chromatography"
+cn "chromatography"  "ui.style":"size:6px; fill-color:white; "
+an "process"
+cn "process"  "ui.label":"process"
+cn "process"  "ui.style":"size:6px; fill-color:white; "
+an "device"
+cn "device"  "ui.label":"device"
+cn "device"  "ui.style":"size:6px; fill-color:white; "
+an "nuclear reaction"
+cn "nuclear reaction"  "ui.label":"nuclear reaction"
+cn "nuclear reaction"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "busyness"
+cn "busyness"  "ui.label":"busyness"
+cn "busyness"  "ui.style":"size:6px; fill-color:white; "
+an "precession of the equinoxes"
+cn "precession of the equinoxes"  "ui.label":"precession of the equinoxes"
+cn "precession of the equinoxes"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "soak"
+cn "soak"  "ui.label":"soak"
+cn "soak"  "ui.style":"size:6px; fill-color:white; "
+an "succession"
+cn "succession"  "ui.label":"succession"
+cn "succession"  "ui.style":"size:6px; fill-color:white; "
+an "synergy"
+cn "synergy"  "ui.label":"synergy"
+cn "synergy"  "ui.style":"size:6px; fill-color:white; "
+an "performance"
+cn "performance"  "ui.label":"performance"
+cn "performance"  "ui.style":"size:6px; fill-color:white; "
+an "formation"
+cn "formation"  "ui.label":"formation"
+cn "formation"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+ae "tool->implement" "tool"  "implement"
+ce "tool->implement"  "type":0
+ae "implement->instrumentality" "implement"  "instrumentality"
+ce "implement->instrumentality"  "type":0
+ae "instrumentality->unit" "instrumentality"  "unit"
+ce "instrumentality->unit"  "type":0
+ae "unit->definite quantity" "unit"  "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity"  "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "tool->means" "tool" > "means"
+ce "tool->means"  "type":0
+ae "activity->writing" "activity" > "writing"
+ce "activity->writing"  "type":1
+ae "activity->synergy" "activity" > "synergy"
+ce "activity->synergy"  "type":1
+ae "activity->succession" "activity" > "succession"
+ce "activity->succession"  "type":1
+ae "act->performance" "act" > "performance"
+ce "act->performance"  "type":0
+ae "action->process" "action" > "process"
+ce "action->process"  "type":0
+ae "activity->soak" "activity" > "soak"
+ce "activity->soak"  "type":1
+ae "activity->precession of the equinoxes" "activity" > "precession of the equinoxes"
+ce "activity->precession of the equinoxes"  "type":1
+ae "activity->process" "activity" > "process"
+ce "activity->process"  "type":0
+ae "creating by mental acts->formation" "creating by mental acts" > "formation"
+ce "creating by mental acts->formation"  "type":1
+ae "activity->nuclear reaction" "activity" > "nuclear reaction"
+ce "activity->nuclear reaction"  "type":1
+ae "operation->search" "operation" > "search"
+ce "operation->search"  "type":1
+ae "activity->formation" "activity" > "formation"
+ce "activity->formation"  "type":1
+ae "activity->flow" "activity" > "flow"
+ce "activity->flow"  "type":1
+ae "activity->feedback" "activity" > "feedback"
+ce "activity->feedback"  "type":1
+ae "activity->extraction" "activity" > "extraction"
+ce "activity->extraction"  "type":1
+ae "action->state" "action" > "state"
+ce "action->state"  "type":0
+ae "activity->drift" "activity" > "drift"
+ce "activity->drift"  "type":1
+ae "action->busyness" "action" > "busyness"
+ce "action->busyness"  "type":1
+ae "action->synergy" "action" > "synergy"
+ce "action->synergy"  "type":1
+ae "activity->concretion" "activity" > "concretion"
+ce "activity->concretion"  "type":1
+ae "activity->chromatography" "activity" > "chromatography"
+ce "activity->chromatography"  "type":1
+ae "action->succession" "action" > "succession"
+ce "action->succession"  "type":1
+ae "instrumentality->device" "instrumentality" > "device"
+ce "instrumentality->device"  "type":1
+ae "action->soak" "action" > "soak"
+ce "action->soak"  "type":1
+ae "instrumentality->means" "instrumentality" > "means"
+ce "instrumentality->means"  "type":1
+ae "unit->thing" "unit" > "thing"
+ce "unit->thing"  "type":0
+ae "maneuver->device" "maneuver" > "device"
+ce "maneuver->device"  "type":1
+ae "action->precession of the equinoxes" "action" > "precession of the equinoxes"
+ce "action->precession of the equinoxes"  "type":1
+ae "action->performance" "action" > "performance"
+ce "action->performance"  "type":1
+ae "action->nuclear reaction" "action" > "nuclear reaction"
+ce "action->nuclear reaction"  "type":1
+ae "activity->search" "activity" > "search"
+ce "activity->search"  "type":1
+ae "document->communication" "document" > "communication"
+ce "document->communication"  "type":0
+ae "action->flow" "action" > "flow"
+ce "action->flow"  "type":1
+ae "activity->operation" "activity" > "operation"
+ce "activity->operation"  "type":1
+ae "action->feedback" "action" > "feedback"
+ce "action->feedback"  "type":1
+ae "action->extraction" "action" > "extraction"
+ce "action->extraction"  "type":1
+ae "action->drift" "action" > "drift"
+ce "action->drift"  "type":1
+ae "act->communication" "act" > "communication"
+ce "act->communication"  "type":1
+ae "activity->busyness" "activity" > "busyness"
+ce "activity->busyness"  "type":1
+ae "operation->process" "operation" > "process"
+ce "operation->process"  "type":0
+ae "action->thing" "action" > "thing"
+ce "action->thing"  "type":1
+ae "action->concretion" "action" > "concretion"
+ce "action->concretion"  "type":1
+ae "action->chromatography" "action" > "chromatography"
+ce "action->chromatography"  "type":1
+ae "operation->activity" "operation" > "activity"
+ce "operation->activity"  "type":0
+ae "measure->legal document" "measure" > "legal document"
+ce "measure->legal document"  "type":0
+ae "activity->state" "activity" > "state"
+ce "activity->state"  "type":0

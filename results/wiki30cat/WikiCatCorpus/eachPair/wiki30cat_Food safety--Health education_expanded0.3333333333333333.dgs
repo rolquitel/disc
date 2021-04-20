@@ -1,0 +1,58 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Food safety"
+cn "Food safety"  "ui.label":"Food safety"
+cn "Food safety"  "ui.style":"size-mode:fit;"
+an "Food_and_drink"
+cn "Food_and_drink"  "ui.label":"Food_and_drink"
+cn "Food_and_drink"  "ui.style":"size:6px; fill-color:white; "
+an "Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.label":"Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.style":"size:6px; fill-color:white; "
+an "Health education"
+cn "Health education"  "ui.label":"Health education"
+cn "Health education"  "ui.style":"size-mode:fit;"
+an "Education_by_subject"
+cn "Education_by_subject"  "ui.label":"Education_by_subject"
+cn "Education_by_subject"  "ui.style":"size:6px; fill-color:white; "
+an "Academic_disciplines"
+cn "Academic_disciplines"  "ui.label":"Academic_disciplines"
+cn "Academic_disciplines"  "ui.style":"size:6px; fill-color:white; "
+an "Food_politics"
+cn "Food_politics"  "ui.label":"Food_politics"
+cn "Food_politics"  "ui.style":"size:6px; fill-color:white; "
+an "Public_health"
+cn "Public_health"  "ui.label":"Public_health"
+cn "Public_health"  "ui.style":"size:6px; fill-color:white; "
+an "Personal_life"
+cn "Personal_life"  "ui.label":"Personal_life"
+cn "Personal_life"  "ui.style":"size:6px; fill-color:white; "
+an "Categories_by_topic"
+cn "Categories_by_topic"  "ui.label":"Categories_by_topic"
+cn "Categories_by_topic"  "ui.style":"size:6px; fill-color:white; "
+an "Academia"
+cn "Academia"  "ui.label":"Academia"
+cn "Academia"  "ui.style":"size:6px; fill-color:white; "
+ae "Food safety->Food_and_drink" "Food safety"  "Food_and_drink"
+ce "Food safety->Food_and_drink"  "type":0
+ae "Food_and_drink->Main_topic_classifications" "Food_and_drink"  "Main_topic_classifications"
+ce "Food_and_drink->Main_topic_classifications"  "type":0
+ae "Health education->Education_by_subject" "Health education"  "Education_by_subject"
+ce "Health education->Education_by_subject"  "type":0
+ae "Education_by_subject->Academic_disciplines" "Education_by_subject"  "Academic_disciplines"
+ce "Education_by_subject->Academic_disciplines"  "type":0
+ae "Academic_disciplines->Main_topic_classifications" "Academic_disciplines"  "Main_topic_classifications"
+ce "Academic_disciplines->Main_topic_classifications"  "type":0
+ae "Food safety->Food_politics" "Food safety" > "Food_politics"
+ce "Food safety->Food_politics"  "type":0
+ae "Food safety->Public_health" "Food safety" > "Public_health"
+ce "Food safety->Public_health"  "type":0
+ae "Food_and_drink->Personal_life" "Food_and_drink" > "Personal_life"
+ce "Food_and_drink->Personal_life"  "type":0
+ae "Health education->Public_health" "Health education" > "Public_health"
+ce "Health education->Public_health"  "type":0
+ae "Education_by_subject->Categories_by_topic" "Education_by_subject" > "Categories_by_topic"
+ce "Education_by_subject->Categories_by_topic"  "type":0
+ae "Academic_disciplines->Academia" "Academic_disciplines" > "Academia"
+ce "Academic_disciplines->Academia"  "type":0

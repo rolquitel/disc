@@ -1,0 +1,31 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Action film"
+cn "Action film"  "ui.label":"Action film"
+cn "Action film"  "ui.style":"size-mode:fit;"
+an "Action_(genre)"
+cn "Action_(genre)"  "ui.label":"Action_(genre)"
+cn "Action_(genre)"  "ui.style":"size:6px; fill-color:white; "
+an "Categories_requiring_diffusion"
+cn "Categories_requiring_diffusion"  "ui.label":"Categories_requiring_diffusion"
+cn "Categories_requiring_diffusion"  "ui.style":"size:6px; fill-color:white; "
+an "Commons_category_link_is_on_Wikidata"
+cn "Commons_category_link_is_on_Wikidata"  "ui.label":"Commons_category_link_is_on_Wikidata"
+cn "Commons_category_link_is_on_Wikidata"  "ui.style":"size:6px; fill-color:white; "
+an "Films_by_genre"
+cn "Films_by_genre"  "ui.label":"Films_by_genre"
+cn "Films_by_genre"  "ui.style":"size:6px; fill-color:white; "
+an "Science fiction film"
+cn "Science fiction film"  "ui.label":"Science fiction film"
+cn "Science fiction film"  "ui.style":"size-mode:fit;"
+ae "Action film->Action_(genre)" "Action film"  "Action_(genre)"
+ce "Action film->Action_(genre)"  "type":0
+ae "Action film->Categories_requiring_diffusion" "Action film"  "Categories_requiring_diffusion"
+ce "Action film->Categories_requiring_diffusion"  "type":0
+ae "Action film->Commons_category_link_is_on_Wikidata" "Action film"  "Commons_category_link_is_on_Wikidata"
+ce "Action film->Commons_category_link_is_on_Wikidata"  "type":0
+ae "Action film->Films_by_genre" "Action film"  "Films_by_genre"
+ce "Action film->Films_by_genre"  "type":0
+ae "Science fiction film->Categories_requiring_diffusion" "Science fiction film"  "Categories_requiring_diffusion"
+ce "Science fiction film->Categories_requiring_diffusion"  "type":0

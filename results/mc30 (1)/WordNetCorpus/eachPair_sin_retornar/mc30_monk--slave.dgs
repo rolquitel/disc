@@ -1,0 +1,206 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "monk"
+cn "monk"  "ui.label":"monk"
+cn "monk"  "ui.style":"size-mode:fit;"
+an "religious"
+cn "religious"  "ui.label":"religious"
+cn "religious"  "ui.style":"size:6px; fill-color:white; "
+an "religious person"
+cn "religious person"  "ui.label":"religious person"
+cn "religious person"  "ui.style":"size:6px; fill-color:white; "
+an "person"
+cn "person"  "ui.label":"person"
+cn "person"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "slave"
+cn "slave"  "ui.label":"slave"
+cn "slave"  "ui.style":"size-mode:fit;"
+an "worker"
+cn "worker"  "ui.label":"worker"
+cn "worker"  "ui.style":"size:6px; fill-color:white; "
+an "commoner"
+cn "commoner"  "ui.label":"commoner"
+cn "commoner"  "ui.style":"size:6px; fill-color:white; "
+an "bourgeois"
+cn "bourgeois"  "ui.label":"bourgeois"
+cn "bourgeois"  "ui.style":"size:6px; fill-color:white; "
+an "capitalist"
+cn "capitalist"  "ui.label":"capitalist"
+cn "capitalist"  "ui.style":"size:6px; fill-color:white; "
+an "conservative"
+cn "conservative"  "ui.label":"conservative"
+cn "conservative"  "ui.style":"size:6px; fill-color:white; "
+an "adult"
+cn "adult"  "ui.label":"adult"
+cn "adult"  "ui.style":"size:6px; fill-color:white; "
+an "animal"
+cn "animal"  "ui.label":"animal"
+cn "animal"  "ui.style":"size:6px; fill-color:white; "
+an "pest"
+cn "pest"  "ui.label":"pest"
+cn "pest"  "ui.style":"size:6px; fill-color:white; "
+an "epidemic disease"
+cn "epidemic disease"  "ui.label":"epidemic disease"
+cn "epidemic disease"  "ui.style":"size:6px; fill-color:white; "
+an "infectious disease"
+cn "infectious disease"  "ui.label":"infectious disease"
+cn "infectious disease"  "ui.style":"size:6px; fill-color:white; "
+an "communicable disease"
+cn "communicable disease"  "ui.label":"communicable disease"
+cn "communicable disease"  "ui.style":"size:6px; fill-color:white; "
+an "disease"
+cn "disease"  "ui.label":"disease"
+cn "disease"  "ui.style":"size:6px; fill-color:white; "
+an "illness"
+cn "illness"  "ui.label":"illness"
+cn "illness"  "ui.style":"size:6px; fill-color:white; "
+an "ill health"
+cn "ill health"  "ui.label":"ill health"
+cn "ill health"  "ui.style":"size:6px; fill-color:white; "
+an "pathological state"
+cn "pathological state"  "ui.label":"pathological state"
+cn "pathological state"  "ui.style":"size:6px; fill-color:white; "
+an "physical condition"
+cn "physical condition"  "ui.label":"physical condition"
+cn "physical condition"  "ui.style":"size:6px; fill-color:white; "
+an "condition"
+cn "condition"  "ui.label":"condition"
+cn "condition"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+ae "monk->religious" "monk"  "religious"
+ce "monk->religious"  "type":0
+ae "religious->religious person" "religious"  "religious person"
+ce "religious->religious person"  "type":0
+ae "religious person->person" "religious person"  "person"
+ce "religious person->person"  "type":0
+ae "person->organism" "person"  "organism"
+ce "person->organism"  "type":0
+ae "organism->living thing" "organism"  "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing"  "whole"
+ce "living thing->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "slave->person" "slave"  "person"
+ce "slave->person"  "type":0
+ae "slave->worker" "slave"  "worker"
+ce "slave->worker"  "type":0
+ae "worker->person" "worker"  "person"
+ce "worker->person"  "type":0
+ae "worker->commoner" "worker"  "commoner"
+ce "worker->commoner"  "type":0
+ae "commoner->person" "commoner"  "person"
+ce "commoner->person"  "type":0
+ae "commoner->bourgeois" "commoner"  "bourgeois"
+ce "commoner->bourgeois"  "type":1
+ae "bourgeois->capitalist" "bourgeois"  "capitalist"
+ce "bourgeois->capitalist"  "type":0
+ae "capitalist->conservative" "capitalist"  "conservative"
+ce "capitalist->conservative"  "type":0
+ae "conservative->adult" "conservative"  "adult"
+ce "conservative->adult"  "type":0
+ae "adult->person" "adult"  "person"
+ce "adult->person"  "type":0
+ae "adult->animal" "adult"  "animal"
+ce "adult->animal"  "type":0
+ae "animal->organism" "animal"  "organism"
+ce "animal->organism"  "type":0
+ae "animal->pest" "animal"  "pest"
+ce "animal->pest"  "type":1
+ae "pest->epidemic disease" "pest"  "epidemic disease"
+ce "pest->epidemic disease"  "type":0
+ae "epidemic disease->infectious disease" "epidemic disease"  "infectious disease"
+ce "epidemic disease->infectious disease"  "type":0
+ae "infectious disease->communicable disease" "infectious disease"  "communicable disease"
+ce "infectious disease->communicable disease"  "type":0
+ae "communicable disease->disease" "communicable disease"  "disease"
+ce "communicable disease->disease"  "type":0
+ae "disease->illness" "disease"  "illness"
+ce "disease->illness"  "type":0
+ae "illness->ill health" "illness"  "ill health"
+ce "illness->ill health"  "type":0
+ae "ill health->pathological state" "ill health"  "pathological state"
+ce "ill health->pathological state"  "type":0
+ae "pathological state->physical condition" "pathological state"  "physical condition"
+ce "pathological state->physical condition"  "type":0
+ae "physical condition->condition" "physical condition"  "condition"
+ce "physical condition->condition"  "type":0
+ae "condition->state" "condition"  "state"
+ce "condition->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0

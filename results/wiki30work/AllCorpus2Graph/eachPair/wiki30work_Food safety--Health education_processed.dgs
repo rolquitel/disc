@@ -1,0 +1,754 @@
+DGS004
+null 0 0
+an "Food safety"
+cn "Food safety"  "ui.label":"Food safety"
+cn "Food safety"  "ui.style":"size-mode:fit;"
+an "Food processing"
+cn "Food processing"  "ui.label":"Food processing"
+cn "Food processing"  "ui.style":"size:6px; fill-color:white; "
+an "Food"
+cn "Food"  "ui.label":"Food"
+cn "Food"  "ui.style":"size:6px; fill-color:white; "
+an "substance"
+cn "substance"  "ui.label":"substance"
+cn "substance"  "ui.style":"size:6px; fill-color:white; "
+an "matter"
+cn "matter"  "ui.label":"matter"
+cn "matter"  "ui.style":"size:6px; fill-color:white; "
+an "concern"
+cn "concern"  "ui.label":"concern"
+cn "concern"  "ui.style":"size:6px; fill-color:white; "
+an "interest"
+cn "interest"  "ui.label":"interest"
+cn "interest"  "ui.style":"size:6px; fill-color:white; "
+an "curiosity"
+cn "curiosity"  "ui.label":"curiosity"
+cn "curiosity"  "ui.style":"size:6px; fill-color:white; "
+an "cognitive state"
+cn "cognitive state"  "ui.label":"cognitive state"
+cn "cognitive state"  "ui.style":"size:6px; fill-color:white; "
+an "psychological state"
+cn "psychological state"  "ui.label":"psychological state"
+cn "psychological state"  "ui.style":"size:6px; fill-color:white; "
+an "condition"
+cn "condition"  "ui.label":"condition"
+cn "condition"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Health education"
+cn "Health education"  "ui.label":"Health education"
+cn "Health education"  "ui.style":"size-mode:fit;"
+an "Reproductive health"
+cn "Reproductive health"  "ui.label":"Reproductive health"
+cn "Reproductive health"  "ui.style":"size:6px; fill-color:white; "
+an "HIV/AIDS"
+cn "HIV/AIDS"  "ui.label":"HIV/AIDS"
+cn "HIV/AIDS"  "ui.style":"size:6px; fill-color:white; "
+an "Solidarity"
+cn "Solidarity"  "ui.label":"Solidarity"
+cn "Solidarity"  "ui.style":"size:6px; fill-color:white; "
+an "commonality"
+cn "commonality"  "ui.label":"commonality"
+cn "commonality"  "ui.style":"size:6px; fill-color:white; "
+an "class"
+cn "class"  "ui.label":"class"
+cn "class"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "Foodborne illness"
+cn "Foodborne illness"  "ui.label":"Foodborne illness"
+cn "Foodborne illness"  "ui.style":"size:6px; fill-color:white; "
+an "Public health"
+cn "Public health"  "ui.label":"Public health"
+cn "Public health"  "ui.style":"size:6px; fill-color:white; "
+an "Cardiovascular disease"
+cn "Cardiovascular disease"  "ui.label":"Cardiovascular disease"
+cn "Cardiovascular disease"  "ui.style":"size:6px; fill-color:white; "
+an "Biotechnology"
+cn "Biotechnology"  "ui.label":"Biotechnology"
+cn "Biotechnology"  "ui.style":"size:6px; fill-color:white; "
+an "Quebec"
+cn "Quebec"  "ui.label":"Quebec"
+cn "Quebec"  "ui.style":"size:6px; fill-color:white; "
+an "Milk"
+cn "Milk"  "ui.label":"Milk"
+cn "Milk"  "ui.style":"size:6px; fill-color:white; "
+an "Bacteria"
+cn "Bacteria"  "ui.label":"Bacteria"
+cn "Bacteria"  "ui.style":"size:6px; fill-color:white; "
+an "Cancer"
+cn "Cancer"  "ui.label":"Cancer"
+cn "Cancer"  "ui.style":"size:6px; fill-color:white; "
+an "New York City"
+cn "New York City"  "ui.label":"New York City"
+cn "New York City"  "ui.style":"size:6px; fill-color:white; "
+an "Fungus"
+cn "Fungus"  "ui.label":"Fungus"
+cn "Fungus"  "ui.style":"size:6px; fill-color:white; "
+an "Immune system"
+cn "Immune system"  "ui.label":"Immune system"
+cn "Immune system"  "ui.style":"size:6px; fill-color:white; "
+an "Sexually transmitted infection"
+cn "Sexually transmitted infection"  "ui.label":"Sexually transmitted infection"
+cn "Sexually transmitted infection"  "ui.style":"size:6px; fill-color:white; "
+an "United Nations"
+cn "United Nations"  "ui.label":"United Nations"
+cn "United Nations"  "ui.style":"size:6px; fill-color:white; "
+an "Muslim world"
+cn "Muslim world"  "ui.label":"Muslim world"
+cn "Muslim world"  "ui.style":"size:6px; fill-color:white; "
+an "List of regional districts of British Columbia"
+cn "List of regional districts of British Columbia"  "ui.label":"List of regional districts of British Columbia"
+cn "List of regional districts of British Columbia"  "ui.style":"size:6px; fill-color:white; "
+an "Substance abuse"
+cn "Substance abuse"  "ui.label":"Substance abuse"
+cn "Substance abuse"  "ui.style":"size:6px; fill-color:white; "
+an "Apple"
+cn "Apple"  "ui.label":"Apple"
+cn "Apple"  "ui.style":"size:6px; fill-color:white; "
+an "Genetically modified food"
+cn "Genetically modified food"  "ui.label":"Genetically modified food"
+cn "Genetically modified food"  "ui.style":"size:6px; fill-color:white; "
+an "Health"
+cn "Health"  "ui.label":"Health"
+cn "Health"  "ui.style":"size:6px; fill-color:white; "
+an "World War II"
+cn "World War II"  "ui.label":"World War II"
+cn "World War II"  "ui.style":"size:6px; fill-color:white; "
+an "National_Union_of_Distributive_and_Allied_Workers"
+cn "National_Union_of_Distributive_and_Allied_Workers"  "ui.label":"National_Union_of_Distributive_and_Allied_Workers"
+cn "National_Union_of_Distributive_and_Allied_Workers"  "ui.style":"size:6px; fill-color:white; "
+an "Cooking"
+cn "Cooking"  "ui.label":"Cooking"
+cn "Cooking"  "ui.style":"size:6px; fill-color:white; "
+an "Starch"
+cn "Starch"  "ui.label":"Starch"
+cn "Starch"  "ui.style":"size:6px; fill-color:white; "
+an "Salt_industry_in_Pakistan"
+cn "Salt_industry_in_Pakistan"  "ui.label":"Salt_industry_in_Pakistan"
+cn "Salt_industry_in_Pakistan"  "ui.style":"size:6px; fill-color:white; "
+an "Poultry_industry_in_India"
+cn "Poultry_industry_in_India"  "ui.label":"Poultry_industry_in_India"
+cn "Poultry_industry_in_India"  "ui.style":"size:6px; fill-color:white; "
+an "Bakeries_of_India"
+cn "Bakeries_of_India"  "ui.label":"Bakeries_of_India"
+cn "Bakeries_of_India"  "ui.style":"size:6px; fill-color:white; "
+an "Abattoirs_in_India"
+cn "Abattoirs_in_India"  "ui.label":"Abattoirs_in_India"
+cn "Abattoirs_in_India"  "ui.style":"size:6px; fill-color:white; "
+an "Hazard analysis and critical control points"
+cn "Hazard analysis and critical control points"  "ui.label":"Hazard analysis and critical control points"
+cn "Hazard analysis and critical control points"  "ui.style":"size:6px; fill-color:white; "
+an "Flour"
+cn "Flour"  "ui.label":"Flour"
+cn "Flour"  "ui.style":"size:6px; fill-color:white; "
+an "Food_manufacturers"
+cn "Food_manufacturers"  "ui.label":"Food_manufacturers"
+cn "Food_manufacturers"  "ui.style":"size:6px; fill-color:white; "
+an "Food_processing_industry_in_Pakistan"
+cn "Food_processing_industry_in_Pakistan"  "ui.label":"Food_processing_industry_in_Pakistan"
+cn "Food_processing_industry_in_Pakistan"  "ui.style":"size:6px; fill-color:white; "
+an "Food packaging"
+cn "Food packaging"  "ui.label":"Food packaging"
+cn "Food packaging"  "ui.style":"size:6px; fill-color:white; "
+an "Food_processing_in_London"
+cn "Food_processing_in_London"  "ui.label":"Food_processing_in_London"
+cn "Food_processing_in_London"  "ui.style":"size:6px; fill-color:white; "
+an "U.S. state"
+cn "U.S. state"  "ui.label":"U.S. state"
+cn "U.S. state"  "ui.style":"size:6px; fill-color:white; "
+an "Methanol_poisoning_incidents"
+cn "Methanol_poisoning_incidents"  "ui.label":"Methanol_poisoning_incidents"
+cn "Methanol_poisoning_incidents"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "State (polity)"
+cn "State (polity)"  "ui.label":"State (polity)"
+cn "State (polity)"  "ui.style":"size:6px; fill-color:white; "
+an "Food_and_Drug_Administration"
+cn "Food_and_Drug_Administration"  "ui.label":"Food_and_Drug_Administration"
+cn "Food_and_Drug_Administration"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "2008_Chinese_milk_scandal"
+cn "2008_Chinese_milk_scandal"  "ui.label":"2008_Chinese_milk_scandal"
+cn "2008_Chinese_milk_scandal"  "ui.style":"size:6px; fill-color:white; "
+an "Food_safety_in_the_United_Kingdom"
+cn "Food_safety_in_the_United_Kingdom"  "ui.label":"Food_safety_in_the_United_Kingdom"
+cn "Food_safety_in_the_United_Kingdom"  "ui.style":"size:6px; fill-color:white; "
+an "Third World"
+cn "Third World"  "ui.label":"Third World"
+cn "Third World"  "ui.style":"size:6px; fill-color:white; "
+an "Human"
+cn "Human"  "ui.label":"Human"
+cn "Human"  "ui.style":"size:6px; fill-color:white; "
+an "Food_safety_in_China"
+cn "Food_safety_in_China"  "ui.label":"Food_safety_in_China"
+cn "Food_safety_in_China"  "ui.style":"size:6px; fill-color:white; "
+an "Food_safety_in_Australia"
+cn "Food_safety_in_Australia"  "ui.label":"Food_safety_in_Australia"
+cn "Food_safety_in_Australia"  "ui.style":"size:6px; fill-color:white; "
+an "Kenya"
+cn "Kenya"  "ui.label":"Kenya"
+cn "Kenya"  "ui.style":"size:6px; fill-color:white; "
+an "Food and Drug Administration"
+cn "Food and Drug Administration"  "ui.label":"Food and Drug Administration"
+cn "Food and Drug Administration"  "ui.style":"size:6px; fill-color:white; "
+an "point"
+cn "point"  "ui.label":"point"
+cn "point"  "ui.style":"size:6px; fill-color:white; "
+an "Territories of the United States"
+cn "Territories of the United States"  "ui.label":"Territories of the United States"
+cn "Territories of the United States"  "ui.style":"size:6px; fill-color:white; "
+an "National Institutes of Health"
+cn "National Institutes of Health"  "ui.label":"National Institutes of Health"
+cn "National Institutes of Health"  "ui.style":"size:6px; fill-color:white; "
+an "Aristotle"
+cn "Aristotle"  "ui.label":"Aristotle"
+cn "Aristotle"  "ui.style":"size:6px; fill-color:white; "
+an "Food_safety_in_North_America"
+cn "Food_safety_in_North_America"  "ui.label":"Food_safety_in_North_America"
+cn "Food_safety_in_North_America"  "ui.style":"size:6px; fill-color:white; "
+an "Rendering (animal products)"
+cn "Rendering (animal products)"  "ui.label":"Rendering (animal products)"
+cn "Rendering (animal products)"  "ui.style":"size:6px; fill-color:white; "
+an "Earth"
+cn "Earth"  "ui.label":"Earth"
+cn "Earth"  "ui.style":"size:6px; fill-color:white; "
+an "Meat packing industry"
+cn "Meat packing industry"  "ui.label":"Meat packing industry"
+cn "Meat packing industry"  "ui.style":"size:6px; fill-color:white; "
+an "Abstract and concrete"
+cn "Abstract and concrete"  "ui.label":"Abstract and concrete"
+cn "Abstract and concrete"  "ui.style":"size:6px; fill-color:white; "
+an "Ecosystem"
+cn "Ecosystem"  "ui.label":"Ecosystem"
+cn "Ecosystem"  "ui.style":"size:6px; fill-color:white; "
+an "set"
+cn "set"  "ui.label":"set"
+cn "set"  "ui.style":"size:6px; fill-color:white; "
+an "Food_safety_in_Asia"
+cn "Food_safety_in_Asia"  "ui.label":"Food_safety_in_Asia"
+cn "Food_safety_in_Asia"  "ui.style":"size:6px; fill-color:white; "
+an "County"
+cn "County"  "ui.label":"County"
+cn "County"  "ui.style":"size:6px; fill-color:white; "
+an "Water"
+cn "Water"  "ui.label":"Water"
+cn "Water"  "ui.style":"size:6px; fill-color:white; "
+an "Japanese language"
+cn "Japanese language"  "ui.label":"Japanese language"
+cn "Japanese language"  "ui.style":"size:6px; fill-color:white; "
+an "European Union"
+cn "European Union"  "ui.label":"European Union"
+cn "European Union"  "ui.style":"size:6px; fill-color:white; "
+an "United States Department of Agriculture"
+cn "United States Department of Agriculture"  "ui.label":"United States Department of Agriculture"
+cn "United States Department of Agriculture"  "ui.style":"size:6px; fill-color:white; "
+an "Vitamin"
+cn "Vitamin"  "ui.label":"Vitamin"
+cn "Vitamin"  "ui.style":"size:6px; fill-color:white; "
+an "Gonorrhea"
+cn "Gonorrhea"  "ui.label":"Gonorrhea"
+cn "Gonorrhea"  "ui.style":"size:6px; fill-color:white; "
+an "atmosphere"
+cn "atmosphere"  "ui.label":"atmosphere"
+cn "atmosphere"  "ui.style":"size:6px; fill-color:white; "
+an "Botulism"
+cn "Botulism"  "ui.label":"Botulism"
+cn "Botulism"  "ui.style":"size:6px; fill-color:white; "
+an "information"
+cn "information"  "ui.label":"information"
+cn "information"  "ui.style":"size:6px; fill-color:white; "
+an "solid"
+cn "solid"  "ui.label":"solid"
+cn "solid"  "ui.style":"size:6px; fill-color:white; "
+an "Food_safety_organizations"
+cn "Food_safety_organizations"  "ui.label":"Food_safety_organizations"
+cn "Food_safety_organizations"  "ui.style":"size:6px; fill-color:white; "
+an "Shelf life"
+cn "Shelf life"  "ui.label":"Shelf life"
+cn "Shelf life"  "ui.style":"size:6px; fill-color:white; "
+an "Supermarket"
+cn "Supermarket"  "ui.label":"Supermarket"
+cn "Supermarket"  "ui.style":"size:6px; fill-color:white; "
+an "Commodity"
+cn "Commodity"  "ui.label":"Commodity"
+cn "Commodity"  "ui.style":"size:6px; fill-color:white; "
+an "Foodborne_illnesses"
+cn "Foodborne_illnesses"  "ui.label":"Foodborne_illnesses"
+cn "Foodborne_illnesses"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "population"
+cn "population"  "ui.label":"population"
+cn "population"  "ui.style":"size:6px; fill-color:white; "
+an "Syphilis"
+cn "Syphilis"  "ui.label":"Syphilis"
+cn "Syphilis"  "ui.style":"size:6px; fill-color:white; "
+an "Portugal"
+cn "Portugal"  "ui.label":"Portugal"
+cn "Portugal"  "ui.style":"size:6px; fill-color:white; "
+an "Food spoilage"
+cn "Food spoilage"  "ui.label":"Food spoilage"
+cn "Food spoilage"  "ui.style":"size:6px; fill-color:white; "
+an "social group"
+cn "social group"  "ui.label":"social group"
+cn "social group"  "ui.style":"size:6px; fill-color:white; "
+an "Microwave oven"
+cn "Microwave oven"  "ui.label":"Microwave oven"
+cn "Microwave oven"  "ui.style":"size:6px; fill-color:white; "
+an "Contaminated_farmland"
+cn "Contaminated_farmland"  "ui.label":"Contaminated_farmland"
+cn "Contaminated_farmland"  "ui.style":"size:6px; fill-color:white; "
+an "Unemployment"
+cn "Unemployment"  "ui.label":"Unemployment"
+cn "Unemployment"  "ui.style":"size:6px; fill-color:white; "
+ae "Food safety->Food processing" "Food safety"  "Food processing"
+ce "Food safety->Food processing"  "type":8
+ae "Food processing->Food" "Food processing"  "Food"
+ce "Food processing->Food"  "type":8
+ae "Food->substance" "Food"  "substance"
+ce "Food->substance"  "type":0
+ae "substance->matter" "substance"  "matter"
+ce "substance->matter"  "type":0
+ae "matter->concern" "matter"  "concern"
+ce "matter->concern"  "type":0
+ae "concern->interest" "concern"  "interest"
+ce "concern->interest"  "type":0
+ae "interest->curiosity" "interest"  "curiosity"
+ce "interest->curiosity"  "type":0
+ae "curiosity->cognitive state" "curiosity"  "cognitive state"
+ce "curiosity->cognitive state"  "type":0
+ae "cognitive state->psychological state" "cognitive state"  "psychological state"
+ce "cognitive state->psychological state"  "type":0
+ae "psychological state->condition" "psychological state"  "condition"
+ce "psychological state->condition"  "type":0
+ae "condition->state" "condition"  "state"
+ce "condition->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "Health education->Reproductive health" "Health education"  "Reproductive health"
+ce "Health education->Reproductive health"  "type":8
+ae "Reproductive health->HIV/AIDS" "Reproductive health"  "HIV/AIDS"
+ce "Reproductive health->HIV/AIDS"  "type":8
+ae "HIV/AIDS->Solidarity" "HIV/AIDS"  "Solidarity"
+ce "HIV/AIDS->Solidarity"  "type":8
+ae "Solidarity->commonality" "Solidarity"  "commonality"
+ce "Solidarity->commonality"  "type":0
+ae "commonality->class" "commonality"  "class"
+ce "commonality->class"  "type":0
+ae "class->collection" "class"  "collection"
+ce "class->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Food safety->Foodborne illness" "Food safety" > "Foodborne illness"
+ce "Food safety->Foodborne illness"  "type":8
+ae "Food->Food_safety_in_the_United_Kingdom" "Food" > "Food_safety_in_the_United_Kingdom"
+ce "Food->Food_safety_in_the_United_Kingdom"  "type":8
+ae "Food->2008_Chinese_milk_scandal" "Food" > "2008_Chinese_milk_scandal"
+ce "Food->2008_Chinese_milk_scandal"  "type":8
+ae "Food safety->Biotechnology" "Food safety" > "Biotechnology"
+ce "Food safety->Biotechnology"  "type":8
+ae "Food->Apple" "Food" > "Apple"
+ce "Food->Apple"  "type":8
+ae "Reproductive health->Sexually transmitted infection" "Reproductive health" > "Sexually transmitted infection"
+ce "Reproductive health->Sexually transmitted infection"  "type":8
+ae "Food safety->Bacteria" "Food safety" > "Bacteria"
+ce "Food safety->Bacteria"  "type":8
+ae "district->Kenya" "district" > "Kenya"
+ce "district->Kenya"  "type":8
+ae "HIV/AIDS->Unemployment" "HIV/AIDS" > "Unemployment"
+ce "HIV/AIDS->Unemployment"  "type":8
+ae "Food safety->Fungus" "Food safety" > "Fungus"
+ce "Food safety->Fungus"  "type":8
+ae "Food->Food_and_Drug_Administration" "Food" > "Food_and_Drug_Administration"
+ce "Food->Food_and_Drug_Administration"  "type":8
+ae "Food->United States Department of Agriculture" "Food" > "United States Department of Agriculture"
+ce "Food->United States Department of Agriculture"  "type":8
+ae "Food->Ecosystem" "Food" > "Ecosystem"
+ce "Food->Ecosystem"  "type":8
+ae "Food->Methanol_poisoning_incidents" "Food" > "Methanol_poisoning_incidents"
+ce "Food->Methanol_poisoning_incidents"  "type":8
+ae "condition->atmosphere" "condition" > "atmosphere"
+ce "condition->atmosphere"  "type":1
+ae "HIV/AIDS->Gonorrhea" "HIV/AIDS" > "Gonorrhea"
+ce "HIV/AIDS->Gonorrhea"  "type":8
+ae "Food->National_Union_of_Distributive_and_Allied_Workers" "Food" > "National_Union_of_Distributive_and_Allied_Workers"
+ce "Food->National_Union_of_Distributive_and_Allied_Workers"  "type":8
+ae "Food safety->Genetically modified food" "Food safety" > "Genetically modified food"
+ce "Food safety->Genetically modified food"  "type":8
+ae "HIV/AIDS->Sexually transmitted infection" "HIV/AIDS" > "Sexually transmitted infection"
+ce "HIV/AIDS->Sexually transmitted infection"  "type":8
+ae "Health education->Sexually transmitted infection" "Health education" > "Sexually transmitted infection"
+ce "Health education->Sexually transmitted infection"  "type":8
+ae "Reproductive health->Gonorrhea" "Reproductive health" > "Gonorrhea"
+ce "Reproductive health->Gonorrhea"  "type":8
+ae "HIV/AIDS->Portugal" "HIV/AIDS" > "Portugal"
+ce "HIV/AIDS->Portugal"  "type":8
+ae "Food safety->Starch" "Food safety" > "Starch"
+ce "Food safety->Starch"  "type":8
+ae "region->Water" "region" > "Water"
+ce "region->Water"  "type":8
+ae "Food->Supermarket" "Food" > "Supermarket"
+ce "Food->Supermarket"  "type":8
+ae "district->County" "district" > "County"
+ce "district->County"  "type":8
+ae "location->Earth" "location" > "Earth"
+ce "location->Earth"  "type":8
+ae "Food safety->Hazard analysis and critical control points" "Food safety" > "Hazard analysis and critical control points"
+ce "Food safety->Hazard analysis and critical control points"  "type":8
+ae "Reproductive health->Syphilis" "Reproductive health" > "Syphilis"
+ce "Reproductive health->Syphilis"  "type":8
+ae "matter->Aristotle" "matter" > "Aristotle"
+ce "matter->Aristotle"  "type":8
+ae "Health education->Substance abuse" "Health education" > "Substance abuse"
+ce "Health education->Substance abuse"  "type":8
+ae "Food safety->Food packaging" "Food safety" > "Food packaging"
+ce "Food safety->Food packaging"  "type":8
+ae "HIV/AIDS->Syphilis" "HIV/AIDS" > "Syphilis"
+ce "HIV/AIDS->Syphilis"  "type":8
+ae "Food->Shelf life" "Food" > "Shelf life"
+ce "Food->Shelf life"  "type":8
+ae "HIV/AIDS->Fungus" "HIV/AIDS" > "Fungus"
+ce "HIV/AIDS->Fungus"  "type":8
+ae "HIV/AIDS->Bacteria" "HIV/AIDS" > "Bacteria"
+ce "HIV/AIDS->Bacteria"  "type":8
+ae "region->Ecosystem" "region" > "Ecosystem"
+ce "region->Ecosystem"  "type":8
+ae "Food->Biotechnology" "Food" > "Biotechnology"
+ce "Food->Biotechnology"  "type":8
+ae "Food->Food_safety_in_Asia" "Food" > "Food_safety_in_Asia"
+ce "Food->Food_safety_in_Asia"  "type":8
+ae "Food->Vitamin" "Food" > "Vitamin"
+ce "Food->Vitamin"  "type":8
+ae "Food->Food_manufacturers" "Food" > "Food_manufacturers"
+ce "Food->Food_manufacturers"  "type":8
+ae "object->point" "object" > "point"
+ce "object->point"  "type":1
+ae "Health education->Health" "Health education" > "Health"
+ce "Health education->Health"  "type":8
+ae "Food->Human" "Food" > "Human"
+ce "Food->Human"  "type":8
+ae "region->Earth" "region" > "Earth"
+ce "region->Earth"  "type":8
+ae "abstraction->State (polity)" "abstraction" > "State (polity)"
+ce "abstraction->State (polity)"  "type":8
+ae "Food safety->Food and Drug Administration" "Food safety" > "Food and Drug Administration"
+ce "Food safety->Food and Drug Administration"  "type":8
+ae "abstraction->Commodity" "abstraction" > "Commodity"
+ce "abstraction->Commodity"  "type":8
+ae "Food safety->Territories of the United States" "Food safety" > "Territories of the United States"
+ce "Food safety->Territories of the United States"  "type":8
+ae "Food->Commodity" "Food" > "Commodity"
+ce "Food->Commodity"  "type":8
+ae "abstraction->Apple" "abstraction" > "Apple"
+ce "abstraction->Apple"  "type":8
+ae "Food->Food_processing_in_London" "Food" > "Food_processing_in_London"
+ce "Food->Food_processing_in_London"  "type":8
+ae "substance->communication" "substance" > "communication"
+ce "substance->communication"  "type":0
+ae "district->Quebec" "district" > "Quebec"
+ce "district->Quebec"  "type":8
+ae "Food safety->Meat packing industry" "Food safety" > "Meat packing industry"
+ce "Food safety->Meat packing industry"  "type":8
+ae "Food->Cooking" "Food" > "Cooking"
+ce "Food->Cooking"  "type":8
+ae "Food->Japanese language" "Food" > "Japanese language"
+ce "Food->Japanese language"  "type":8
+ae "region->List of regional districts of British Columbia" "region" > "List of regional districts of British Columbia"
+ce "region->List of regional districts of British Columbia"  "type":8
+ae "Food->Microwave oven" "Food" > "Microwave oven"
+ce "Food->Microwave oven"  "type":8
+ae "Food->Bakeries_of_India" "Food" > "Bakeries_of_India"
+ce "Food->Bakeries_of_India"  "type":8
+ae "object->Abstract and concrete" "object" > "Abstract and concrete"
+ce "object->Abstract and concrete"  "type":8
+ae "HIV/AIDS->Cancer" "HIV/AIDS" > "Cancer"
+ce "HIV/AIDS->Cancer"  "type":8
+ae "Food->Foodborne illness" "Food" > "Foodborne illness"
+ce "Food->Foodborne illness"  "type":8
+ae "Reproductive health->Kenya" "Reproductive health" > "Kenya"
+ce "Reproductive health->Kenya"  "type":8
+ae "substance->information" "substance" > "information"
+ce "substance->information"  "type":1
+ae "region->atmosphere" "region" > "atmosphere"
+ce "region->atmosphere"  "type":1
+ae "curiosity->object" "curiosity" > "object"
+ce "curiosity->object"  "type":0
+ae "Food safety->Botulism" "Food safety" > "Botulism"
+ce "Food safety->Botulism"  "type":8
+ae "district->List of regional districts of British Columbia" "district" > "List of regional districts of British Columbia"
+ce "district->List of regional districts of British Columbia"  "type":8
+ae "Food->National Institutes of Health" "Food" > "National Institutes of Health"
+ce "Food->National Institutes of Health"  "type":8
+ae "abstraction->Abstract and concrete" "abstraction" > "Abstract and concrete"
+ce "abstraction->Abstract and concrete"  "type":8
+ae "Food safety->Shelf life" "Food safety" > "Shelf life"
+ce "Food safety->Shelf life"  "type":8
+ae "abstraction->set" "abstraction" > "set"
+ce "abstraction->set"  "type":1
+ae "Food->Milk" "Food" > "Milk"
+ce "Food->Milk"  "type":8
+ae "abstraction->communication" "abstraction" > "communication"
+ce "abstraction->communication"  "type":1
+ae "object->content" "object" > "content"
+ce "object->content"  "type":0
+ae "Food->Food spoilage" "Food" > "Food spoilage"
+ce "Food->Food spoilage"  "type":8
+ae "collection->population" "collection" > "population"
+ce "collection->population"  "type":1
+ae "Food->Hazard analysis and critical control points" "Food" > "Hazard analysis and critical control points"
+ce "Food->Hazard analysis and critical control points"  "type":8
+ae "Food safety->Food spoilage" "Food safety" > "Food spoilage"
+ce "Food safety->Food spoilage"  "type":8
+ae "Health education->New York City" "Health education" > "New York City"
+ce "Health education->New York City"  "type":8
+ae "Food->Abattoirs_in_India" "Food" > "Abattoirs_in_India"
+ce "Food->Abattoirs_in_India"  "type":8
+ae "Food->Food_safety_in_Australia" "Food" > "Food_safety_in_Australia"
+ce "Food->Food_safety_in_Australia"  "type":8
+ae "Food->Food_processing_industry_in_Pakistan" "Food" > "Food_processing_industry_in_Pakistan"
+ce "Food->Food_processing_industry_in_Pakistan"  "type":8
+ae "region->World War II" "region" > "World War II"
+ce "region->World War II"  "type":8
+ae "collection->content" "collection" > "content"
+ce "collection->content"  "type":1
+ae "Food->Immune system" "Food" > "Immune system"
+ce "Food->Immune system"  "type":8
+ae "HIV/AIDS->Immune system" "HIV/AIDS" > "Immune system"
+ce "HIV/AIDS->Immune system"  "type":8
+ae "Reproductive health->New York City" "Reproductive health" > "New York City"
+ce "Reproductive health->New York City"  "type":8
+ae "collection->Third World" "collection" > "Third World"
+ce "collection->Third World"  "type":1
+ae "Food safety->Contaminated_farmland" "Food safety" > "Contaminated_farmland"
+ce "Food safety->Contaminated_farmland"  "type":8
+ae "Food->Food_safety_in_China" "Food" > "Food_safety_in_China"
+ce "Food->Food_safety_in_China"  "type":8
+ae "Food safety->Foodborne_illnesses" "Food safety" > "Foodborne_illnesses"
+ce "Food safety->Foodborne_illnesses"  "type":8
+ae "Food safety->Food_safety_organizations" "Food safety" > "Food_safety_organizations"
+ce "Food safety->Food_safety_organizations"  "type":8
+ae "Reproductive health->United Nations" "Reproductive health" > "United Nations"
+ce "Reproductive health->United Nations"  "type":8
+ae "Food safety->Food_safety_in_Asia" "Food safety" > "Food_safety_in_Asia"
+ce "Food safety->Food_safety_in_Asia"  "type":8
+ae "Food->Flour" "Food" > "Flour"
+ce "Food->Flour"  "type":8
+ae "Food safety->Food_safety_in_North_America" "Food safety" > "Food_safety_in_North_America"
+ce "Food safety->Food_safety_in_North_America"  "type":8
+ae "Food->World War II" "Food" > "World War II"
+ce "Food->World War II"  "type":8
+ae "Food safety->Food_safety_in_Australia" "Food safety" > "Food_safety_in_Australia"
+ce "Food safety->Food_safety_in_Australia"  "type":8
+ae "Food safety->Food_safety_in_China" "Food safety" > "Food_safety_in_China"
+ce "Food safety->Food_safety_in_China"  "type":8
+ae "Food safety->Food_safety_in_the_United_Kingdom" "Food safety" > "Food_safety_in_the_United_Kingdom"
+ce "Food safety->Food_safety_in_the_United_Kingdom"  "type":8
+ae "Food safety->2008_Chinese_milk_scandal" "Food safety" > "2008_Chinese_milk_scandal"
+ce "Food safety->2008_Chinese_milk_scandal"  "type":8
+ae "Food safety->Food_and_Drug_Administration" "Food safety" > "Food_and_Drug_Administration"
+ce "Food safety->Food_and_Drug_Administration"  "type":8
+ae "Food->Poultry_industry_in_India" "Food" > "Poultry_industry_in_India"
+ce "Food->Poultry_industry_in_India"  "type":8
+ae "Food safety->Methanol_poisoning_incidents" "Food safety" > "Methanol_poisoning_incidents"
+ce "Food safety->Methanol_poisoning_incidents"  "type":8
+ae "HIV/AIDS->National Institutes of Health" "HIV/AIDS" > "National Institutes of Health"
+ce "HIV/AIDS->National Institutes of Health"  "type":8
+ae "Food processing->Flour" "Food processing" > "Flour"
+ce "Food processing->Flour"  "type":8
+ae "Food processing->Cooking" "Food processing" > "Cooking"
+ce "Food processing->Cooking"  "type":8
+ae "Food->Starch" "Food" > "Starch"
+ce "Food->Starch"  "type":8
+ae "interest->Muslim world" "interest" > "Muslim world"
+ce "interest->Muslim world"  "type":8
+ae "Food->Foodborne_illnesses" "Food" > "Foodborne_illnesses"
+ce "Food->Foodborne_illnesses"  "type":8
+ae "Food->Contaminated_farmland" "Food" > "Contaminated_farmland"
+ce "Food->Contaminated_farmland"  "type":8
+ae "Food processing->Milk" "Food processing" > "Milk"
+ce "Food processing->Milk"  "type":8
+ae "Food processing->Food spoilage" "Food processing" > "Food spoilage"
+ce "Food processing->Food spoilage"  "type":8
+ae "Food processing->Public health" "Food processing" > "Public health"
+ce "Food processing->Public health"  "type":8
+ae "Food processing->Hazard analysis and critical control points" "Food processing" > "Hazard analysis and critical control points"
+ce "Food processing->Hazard analysis and critical control points"  "type":8
+ae "Food->Botulism" "Food" > "Botulism"
+ce "Food->Botulism"  "type":8
+ae "Food->Food and Drug Administration" "Food" > "Food and Drug Administration"
+ce "Food->Food and Drug Administration"  "type":8
+ae "region->Third World" "region" > "Third World"
+ce "region->Third World"  "type":8
+ae "state->U.S. state" "state" > "U.S. state"
+ce "state->U.S. state"  "type":8
+ae "Reproductive health->Health" "Reproductive health" > "Health"
+ce "Reproductive health->Health"  "type":8
+ae "Food->Salt_industry_in_Pakistan" "Food" > "Salt_industry_in_Pakistan"
+ce "Food->Salt_industry_in_Pakistan"  "type":8
+ae "matter->Water" "matter" > "Water"
+ce "matter->Water"  "type":8
+ae "region->Human" "region" > "Human"
+ce "region->Human"  "type":8
+ae "region->European Union" "region" > "European Union"
+ce "region->European Union"  "type":8
+ae "Food processing->World War II" "Food processing" > "World War II"
+ce "Food processing->World War II"  "type":8
+ae "physical entity->thing" "physical entity" > "thing"
+ce "physical entity->thing"  "type":1
+ae "Solidarity->Aristotle" "Solidarity" > "Aristotle"
+ce "Solidarity->Aristotle"  "type":8
+ae "Food processing->Microwave oven" "Food processing" > "Microwave oven"
+ce "Food processing->Microwave oven"  "type":8
+ae "state->State (polity)" "state" > "State (polity)"
+ce "state->State (polity)"  "type":8
+ae "region->County" "region" > "County"
+ce "region->County"  "type":8
+ae "district->Portugal" "district" > "Portugal"
+ce "district->Portugal"  "type":8
+ae "region->U.S. state" "region" > "U.S. state"
+ce "region->U.S. state"  "type":8
+ae "Food processing->Supermarket" "Food processing" > "Supermarket"
+ce "Food processing->Supermarket"  "type":8
+ae "HIV/AIDS->New York City" "HIV/AIDS" > "New York City"
+ce "HIV/AIDS->New York City"  "type":8
+ae "matter->solid" "matter" > "solid"
+ce "matter->solid"  "type":1
+ae "group->population" "group" > "population"
+ce "group->population"  "type":1
+ae "Food processing->Vitamin" "Food processing" > "Vitamin"
+ce "Food processing->Vitamin"  "type":8
+ae "Food processing->United States Department of Agriculture" "Food processing" > "United States Department of Agriculture"
+ce "Food processing->United States Department of Agriculture"  "type":8
+ae "Food processing->European Union" "Food processing" > "European Union"
+ce "Food processing->European Union"  "type":8
+ae "HIV/AIDS->Quebec" "HIV/AIDS" > "Quebec"
+ce "HIV/AIDS->Quebec"  "type":8
+ae "district->Territories of the United States" "district" > "Territories of the United States"
+ce "district->Territories of the United States"  "type":8
+ae "HIV/AIDS->United Nations" "HIV/AIDS" > "United Nations"
+ce "HIV/AIDS->United Nations"  "type":8
+ae "group->social group" "group" > "social group"
+ce "group->social group"  "type":1
+ae "Food processing->Food packaging" "Food processing" > "Food packaging"
+ce "Food processing->Food packaging"  "type":8
+ae "Food processing->Rendering (animal products)" "Food processing" > "Rendering (animal products)"
+ce "Food processing->Rendering (animal products)"  "type":8
+ae "Food processing->Meat packing industry" "Food processing" > "Meat packing industry"
+ce "Food processing->Meat packing industry"  "type":8
+ae "condition->information" "condition" > "information"
+ce "condition->information"  "type":0
+ae "interest->Unemployment" "interest" > "Unemployment"
+ce "interest->Unemployment"  "type":8
+ae "group->set" "group" > "set"
+ce "group->set"  "type":0
+ae "Food->Rendering (animal products)" "Food" > "Rendering (animal products)"
+ce "Food->Rendering (animal products)"  "type":8
+ae "Food->Food_safety_organizations" "Food" > "Food_safety_organizations"
+ce "Food->Food_safety_organizations"  "type":8
+ae "region->Muslim world" "region" > "Muslim world"
+ce "region->Muslim world"  "type":8
+ae "matter->physical entity" "matter" > "physical entity"
+ce "matter->physical entity"  "type":0
+ae "Food processing->Genetically modified food" "Food processing" > "Genetically modified food"
+ce "Food processing->Genetically modified food"  "type":8
+ae "collection->set" "collection" > "set"
+ce "collection->set"  "type":1
+ae "Health education->Public health" "Health education" > "Public health"
+ce "Health education->Public health"  "type":8
+ae "location->point" "location" > "point"
+ce "location->point"  "type":1
+ae "state->solid" "state" > "solid"
+ce "state->solid"  "type":1
+ae "physical entity->substance" "physical entity" > "substance"
+ce "physical entity->substance"  "type":1
+ae "entity->thing" "entity" > "thing"
+ce "entity->thing"  "type":1
+ae "Food processing->Food_processing_in_London" "Food processing" > "Food_processing_in_London"
+ce "Food processing->Food_processing_in_London"  "type":8
+ae "Food processing->Food_processing_industry_in_Pakistan" "Food processing" > "Food_processing_industry_in_Pakistan"
+ce "Food processing->Food_processing_industry_in_Pakistan"  "type":8
+ae "Food processing->Food_manufacturers" "Food processing" > "Food_manufacturers"
+ce "Food processing->Food_manufacturers"  "type":8
+ae "Food->Bacteria" "Food" > "Bacteria"
+ce "Food->Bacteria"  "type":8
+ae "Food processing->Abattoirs_in_India" "Food processing" > "Abattoirs_in_India"
+ce "Food processing->Abattoirs_in_India"  "type":8
+ae "Food processing->Bakeries_of_India" "Food processing" > "Bakeries_of_India"
+ce "Food processing->Bakeries_of_India"  "type":8
+ae "Food processing->Poultry_industry_in_India" "Food processing" > "Poultry_industry_in_India"
+ce "Food processing->Poultry_industry_in_India"  "type":8
+ae "Food processing->Salt_industry_in_Pakistan" "Food processing" > "Salt_industry_in_Pakistan"
+ce "Food processing->Salt_industry_in_Pakistan"  "type":8
+ae "interest->social group" "interest" > "social group"
+ce "interest->social group"  "type":0
+ae "Food processing->National_Union_of_Distributive_and_Allied_Workers" "Food processing" > "National_Union_of_Distributive_and_Allied_Workers"
+ce "Food processing->National_Union_of_Distributive_and_Allied_Workers"  "type":8
+ae "Food->Fungus" "Food" > "Fungus"
+ce "Food->Fungus"  "type":8
+ae "Food->Cancer" "Food" > "Cancer"
+ce "Food->Cancer"  "type":8
+ae "interest->Aristotle" "interest" > "Aristotle"
+ce "interest->Aristotle"  "type":8
+ae "HIV/AIDS->Substance abuse" "HIV/AIDS" > "Substance abuse"
+ce "HIV/AIDS->Substance abuse"  "type":8
+ae "Food->Cardiovascular disease" "Food" > "Cardiovascular disease"
+ce "Food->Cardiovascular disease"  "type":8
+ae "location->set" "location" > "set"
+ce "location->set"  "type":1
+ae "HIV/AIDS->Cardiovascular disease" "HIV/AIDS" > "Cardiovascular disease"
+ce "HIV/AIDS->Cardiovascular disease"  "type":8
+ae "Health education->Japanese language" "Health education" > "Japanese language"
+ce "Health education->Japanese language"  "type":8
+ae "Food->Food_safety_in_North_America" "Food" > "Food_safety_in_North_America"
+ce "Food->Food_safety_in_North_America"  "type":8

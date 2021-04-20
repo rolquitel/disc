@@ -1,0 +1,397 @@
+DGS004
+null 0 0
+an "Literature"
+cn "Literature"  "ui.label":"Literature"
+cn "Literature"  "ui.style":"size-mode:fit;"
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "Medicine"
+cn "Medicine"  "ui.label":"Medicine"
+cn "Medicine"  "ui.style":"size-mode:fit;"
+an "medical science"
+cn "medical science"  "ui.label":"medical science"
+cn "medical science"  "ui.style":"size:6px; fill-color:white; "
+an "life science"
+cn "life science"  "ui.label":"life science"
+cn "life science"  "ui.style":"size:6px; fill-color:white; "
+an "natural science"
+cn "natural science"  "ui.label":"natural science"
+cn "natural science"  "ui.style":"size:6px; fill-color:white; "
+an "science"
+cn "science"  "ui.label":"science"
+cn "science"  "ui.style":"size:6px; fill-color:white; "
+an "discipline"
+cn "discipline"  "ui.label":"discipline"
+cn "discipline"  "ui.style":"size:6px; fill-color:white; "
+an "knowledge domain"
+cn "knowledge domain"  "ui.label":"knowledge domain"
+cn "knowledge domain"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "Government"
+cn "Government"  "ui.label":"Government"
+cn "Government"  "ui.style":"size:6px; fill-color:white; "
+an "Phenomenon"
+cn "Phenomenon"  "ui.label":"Phenomenon"
+cn "Phenomenon"  "ui.style":"size:6px; fill-color:white; "
+an "Paper"
+cn "Paper"  "ui.label":"Paper"
+cn "Paper"  "ui.style":"size:6px; fill-color:white; "
+an "Observation"
+cn "Observation"  "ui.label":"Observation"
+cn "Observation"  "ui.style":"size:6px; fill-color:white; "
+an "source"
+cn "source"  "ui.label":"source"
+cn "source"  "ui.style":"size:6px; fill-color:white; "
+an "Perception"
+cn "Perception"  "ui.label":"Perception"
+cn "Perception"  "ui.style":"size:6px; fill-color:white; "
+an "Divination"
+cn "Divination"  "ui.label":"Divination"
+cn "Divination"  "ui.style":"size:6px; fill-color:white; "
+an "Theoretical physics"
+cn "Theoretical physics"  "ui.label":"Theoretical physics"
+cn "Theoretical physics"  "ui.style":"size:6px; fill-color:white; "
+an "waste"
+cn "waste"  "ui.label":"waste"
+cn "waste"  "ui.style":"size:6px; fill-color:white; "
+an "Journalism"
+cn "Journalism"  "ui.label":"Journalism"
+cn "Journalism"  "ui.style":"size:6px; fill-color:white; "
+an "set"
+cn "set"  "ui.label":"set"
+cn "set"  "ui.style":"size:6px; fill-color:white; "
+an "Latin"
+cn "Latin"  "ui.label":"Latin"
+cn "Latin"  "ui.style":"size:6px; fill-color:white; "
+an "Technology"
+cn "Technology"  "ui.label":"Technology"
+cn "Technology"  "ui.style":"size:6px; fill-color:white; "
+an "Presupposition"
+cn "Presupposition"  "ui.label":"Presupposition"
+cn "Presupposition"  "ui.style":"size:6px; fill-color:white; "
+an "system"
+cn "system"  "ui.label":"system"
+cn "system"  "ui.style":"size:6px; fill-color:white; "
+an "Health care"
+cn "Health care"  "ui.label":"Health care"
+cn "Health care"  "ui.style":"size:6px; fill-color:white; "
+an "Middle Ages"
+cn "Middle Ages"  "ui.label":"Middle Ages"
+cn "Middle Ages"  "ui.style":"size:6px; fill-color:white; "
+an "Homer"
+cn "Homer"  "ui.label":"Homer"
+cn "Homer"  "ui.style":"size:6px; fill-color:white; "
+an "Organism"
+cn "Organism"  "ui.label":"Organism"
+cn "Organism"  "ui.style":"size:6px; fill-color:white; "
+an "Postmodernism"
+cn "Postmodernism"  "ui.label":"Postmodernism"
+cn "Postmodernism"  "ui.style":"size:6px; fill-color:white; "
+an "Empiricism"
+cn "Empiricism"  "ui.label":"Empiricism"
+cn "Empiricism"  "ui.style":"size:6px; fill-color:white; "
+an "Nobel Prize"
+cn "Nobel Prize"  "ui.label":"Nobel Prize"
+cn "Nobel Prize"  "ui.style":"size:6px; fill-color:white; "
+an "Classical antiquity"
+cn "Classical antiquity"  "ui.label":"Classical antiquity"
+cn "Classical antiquity"  "ui.style":"size:6px; fill-color:white; "
+an "Ancient Egypt"
+cn "Ancient Egypt"  "ui.label":"Ancient Egypt"
+cn "Ancient Egypt"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "Quantum mechanics"
+cn "Quantum mechanics"  "ui.label":"Quantum mechanics"
+cn "Quantum mechanics"  "ui.style":"size:6px; fill-color:white; "
+an "Novum Organum"
+cn "Novum Organum"  "ui.label":"Novum Organum"
+cn "Novum Organum"  "ui.style":"size:6px; fill-color:white; "
+an "Deductive reasoning"
+cn "Deductive reasoning"  "ui.label":"Deductive reasoning"
+cn "Deductive reasoning"  "ui.style":"size:6px; fill-color:white; "
+an "Developed country"
+cn "Developed country"  "ui.label":"Developed country"
+cn "Developed country"  "ui.style":"size:6px; fill-color:white; "
+an "Biochemistry"
+cn "Biochemistry"  "ui.label":"Biochemistry"
+cn "Biochemistry"  "ui.style":"size:6px; fill-color:white; "
+an "Sima Qian"
+cn "Sima Qian"  "ui.label":"Sima Qian"
+cn "Sima Qian"  "ui.style":"size:6px; fill-color:white; "
+an "production"
+cn "production"  "ui.label":"production"
+cn "production"  "ui.style":"size:6px; fill-color:white; "
+an "Johannes Kepler"
+cn "Johannes Kepler"  "ui.label":"Johannes Kepler"
+cn "Johannes Kepler"  "ui.style":"size:6px; fill-color:white; "
+an "Concept"
+cn "Concept"  "ui.label":"Concept"
+cn "Concept"  "ui.style":"size:6px; fill-color:white; "
+an "Mesopotamia"
+cn "Mesopotamia"  "ui.label":"Mesopotamia"
+cn "Mesopotamia"  "ui.style":"size:6px; fill-color:white; "
+an "Mathematics"
+cn "Mathematics"  "ui.label":"Mathematics"
+cn "Mathematics"  "ui.style":"size:6px; fill-color:white; "
+an "Nicolaus Copernicus"
+cn "Nicolaus Copernicus"  "ui.label":"Nicolaus Copernicus"
+cn "Nicolaus Copernicus"  "ui.style":"size:6px; fill-color:white; "
+an "Arabic"
+cn "Arabic"  "ui.label":"Arabic"
+cn "Arabic"  "ui.style":"size:6px; fill-color:white; "
+an "Plato"
+cn "Plato"  "ui.label":"Plato"
+cn "Plato"  "ui.style":"size:6px; fill-color:white; "
+an "Physiology"
+cn "Physiology"  "ui.label":"Physiology"
+cn "Physiology"  "ui.style":"size:6px; fill-color:white; "
+an "Communication"
+cn "Communication"  "ui.label":"Communication"
+cn "Communication"  "ui.style":"size:6px; fill-color:white; "
+ae "Literature->writing" "Literature"  "writing"
+ce "Literature->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "Medicine->medical science" "Medicine"  "medical science"
+ce "Medicine->medical science"  "type":0
+ae "medical science->life science" "medical science"  "life science"
+ce "medical science->life science"  "type":0
+ae "life science->natural science" "life science"  "natural science"
+ce "life science->natural science"  "type":0
+ae "natural science->science" "natural science"  "science"
+ce "natural science->science"  "type":0
+ae "science->discipline" "science"  "discipline"
+ce "science->discipline"  "type":0
+ae "discipline->knowledge domain" "discipline"  "knowledge domain"
+ce "discipline->knowledge domain"  "type":0
+ae "knowledge domain->content" "knowledge domain"  "content"
+ce "knowledge domain->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "group->system" "group" > "system"
+ce "group->system"  "type":1
+ae "science->Sima Qian" "science" > "Sima Qian"
+ce "science->Sima Qian"  "type":8
+ae "writing->Journalism" "writing" > "Journalism"
+ce "writing->Journalism"  "type":8
+ae "discipline->system" "discipline" > "system"
+ce "discipline->system"  "type":0
+ae "Medicine->Divination" "Medicine" > "Divination"
+ce "Medicine->Divination"  "type":8
+ae "science->Health care" "science" > "Health care"
+ce "science->Health care"  "type":8
+ae "science->Presupposition" "science" > "Presupposition"
+ce "science->Presupposition"  "type":8
+ae "natural science->Nicolaus Copernicus" "natural science" > "Nicolaus Copernicus"
+ce "natural science->Nicolaus Copernicus"  "type":8
+ae "science->Observation" "science" > "Observation"
+ce "science->Observation"  "type":8
+ae "Literature->Journalism" "Literature" > "Journalism"
+ce "Literature->Journalism"  "type":8
+ae "science->Developed country" "science" > "Developed country"
+ce "science->Developed country"  "type":8
+ae "Literature->Latin" "Literature" > "Latin"
+ce "Literature->Latin"  "type":8
+ae "science->Phenomenon" "science" > "Phenomenon"
+ce "science->Phenomenon"  "type":8
+ae "document->Paper" "document" > "Paper"
+ce "document->Paper"  "type":8
+ae "act->production" "act" > "production"
+ce "act->production"  "type":1
+ae "creation->representation" "creation" > "representation"
+ce "creation->representation"  "type":1
+ae "natural science->Ancient Egypt" "natural science" > "Ancient Egypt"
+ce "natural science->Ancient Egypt"  "type":8
+ae "Literature->Homer" "Literature" > "Homer"
+ce "Literature->Homer"  "type":8
+ae "science->Middle Ages" "science" > "Middle Ages"
+ce "science->Middle Ages"  "type":8
+ae "Literature->Postmodernism" "Literature" > "Postmodernism"
+ce "Literature->Postmodernism"  "type":8
+ae "natural science->Johannes Kepler" "natural science" > "Johannes Kepler"
+ce "natural science->Johannes Kepler"  "type":8
+ae "natural science->Observation" "natural science" > "Observation"
+ce "natural science->Observation"  "type":8
+ae "Literature->Classical antiquity" "Literature" > "Classical antiquity"
+ce "Literature->Classical antiquity"  "type":8
+ae "Medicine->Developed country" "Medicine" > "Developed country"
+ce "Medicine->Developed country"  "type":8
+ae "science->Classical antiquity" "science" > "Classical antiquity"
+ce "science->Classical antiquity"  "type":8
+ae "document->Mesopotamia" "document" > "Mesopotamia"
+ce "document->Mesopotamia"  "type":8
+ae "abstraction->Empiricism" "abstraction" > "Empiricism"
+ce "abstraction->Empiricism"  "type":8
+ae "science->Medicine" "science" > "Medicine"
+ce "science->Medicine"  "type":8
+ae "science->Mesopotamia" "science" > "Mesopotamia"
+ce "science->Mesopotamia"  "type":8
+ae "science->Ancient Egypt" "science" > "Ancient Egypt"
+ce "science->Ancient Egypt"  "type":8
+ae "Literature->Sima Qian" "Literature" > "Sima Qian"
+ce "Literature->Sima Qian"  "type":8
+ae "science->Mathematics" "science" > "Mathematics"
+ce "science->Mathematics"  "type":8
+ae "natural science->Empiricism" "natural science" > "Empiricism"
+ce "natural science->Empiricism"  "type":8
+ae "writing->Technology" "writing" > "Technology"
+ce "writing->Technology"  "type":8
+ae "document->Government" "document" > "Government"
+ce "document->Government"  "type":8
+ae "Medicine->Health care" "Medicine" > "Health care"
+ce "Medicine->Health care"  "type":8
+ae "natural science->Quantum mechanics" "natural science" > "Quantum mechanics"
+ce "natural science->Quantum mechanics"  "type":8
+ae "creation->production" "creation" > "production"
+ce "creation->production"  "type":1
+ae "Literature->Plato" "Literature" > "Plato"
+ce "Literature->Plato"  "type":8
+ae "science->Literature" "science" > "Literature"
+ce "science->Literature"  "type":8
+ae "writing->Paper" "writing" > "Paper"
+ce "writing->Paper"  "type":8
+ae "science->Theoretical physics" "science" > "Theoretical physics"
+ce "science->Theoretical physics"  "type":8
+ae "Literature->Middle Ages" "Literature" > "Middle Ages"
+ce "Literature->Middle Ages"  "type":8
+ae "document->source" "document" > "source"
+ce "document->source"  "type":1
+ae "natural science->Organism" "natural science" > "Organism"
+ce "natural science->Organism"  "type":8
+ae "group->set" "group" > "set"
+ce "group->set"  "type":0
+ae "abstraction->Communication" "abstraction" > "Communication"
+ce "abstraction->Communication"  "type":8
+ae "natural science->Presupposition" "natural science" > "Presupposition"
+ce "natural science->Presupposition"  "type":8
+ae "science->Nobel Prize" "science" > "Nobel Prize"
+ce "science->Nobel Prize"  "type":8
+ae "Medicine->Physiology" "Medicine" > "Physiology"
+ce "Medicine->Physiology"  "type":8
+ae "document->representation" "document" > "representation"
+ce "document->representation"  "type":0
+ae "science->Quantum mechanics" "science" > "Quantum mechanics"
+ce "science->Quantum mechanics"  "type":8
+ae "science->Deductive reasoning" "science" > "Deductive reasoning"
+ce "science->Deductive reasoning"  "type":8
+ae "science->Organism" "science" > "Organism"
+ce "science->Organism"  "type":8
+ae "science->Physiology" "science" > "Physiology"
+ce "science->Physiology"  "type":8
+ae "science->Divination" "science" > "Divination"
+ce "science->Divination"  "type":8
+ae "Literature->Nicolaus Copernicus" "Literature" > "Nicolaus Copernicus"
+ce "Literature->Nicolaus Copernicus"  "type":8
+ae "Literature->Mathematics" "Literature" > "Mathematics"
+ce "Literature->Mathematics"  "type":8
+ae "abstraction->Perception" "abstraction" > "Perception"
+ce "abstraction->Perception"  "type":8
+ae "abstraction->Johannes Kepler" "abstraction" > "Johannes Kepler"
+ce "abstraction->Johannes Kepler"  "type":8
+ae "abstraction->Nicolaus Copernicus" "abstraction" > "Nicolaus Copernicus"
+ce "abstraction->Nicolaus Copernicus"  "type":8
+ae "natural science->Medicine" "natural science" > "Medicine"
+ce "natural science->Medicine"  "type":8
+ae "Medicine->Perception" "Medicine" > "Perception"
+ce "Medicine->Perception"  "type":8
+ae "abstraction->Deductive reasoning" "abstraction" > "Deductive reasoning"
+ce "abstraction->Deductive reasoning"  "type":8
+ae "abstraction->Novum Organum" "abstraction" > "Novum Organum"
+ce "abstraction->Novum Organum"  "type":8
+ae "natural science->Latin" "natural science" > "Latin"
+ce "natural science->Latin"  "type":8
+ae "science->Concept" "science" > "Concept"
+ce "science->Concept"  "type":8
+ae "science->Homer" "science" > "Homer"
+ce "science->Homer"  "type":8
+ae "abstraction->Phenomenon" "abstraction" > "Phenomenon"
+ce "abstraction->Phenomenon"  "type":8
+ae "natural science->Arabic" "natural science" > "Arabic"
+ce "natural science->Arabic"  "type":8
+ae "abstraction->Concept" "abstraction" > "Concept"
+ce "abstraction->Concept"  "type":8
+ae "abstraction->set" "abstraction" > "set"
+ce "abstraction->set"  "type":1
+ae "science->Technology" "science" > "Technology"
+ce "science->Technology"  "type":8
+ae "science->Novum Organum" "science" > "Novum Organum"
+ce "science->Novum Organum"  "type":8
+ae "science->Government" "science" > "Government"
+ce "science->Government"  "type":8
+ae "activity->waste" "activity" > "waste"
+ce "activity->waste"  "type":1
+ae "act->waste" "act" > "waste"
+ce "act->waste"  "type":1
+ae "science->Postmodernism" "science" > "Postmodernism"
+ce "science->Postmodernism"  "type":8
+ae "Literature->Nobel Prize" "Literature" > "Nobel Prize"
+ce "Literature->Nobel Prize"  "type":8
+ae "writing->Communication" "writing" > "Communication"
+ce "writing->Communication"  "type":8
+ae "natural science->Biochemistry" "natural science" > "Biochemistry"
+ce "natural science->Biochemistry"  "type":8
+ae "science->Plato" "science" > "Plato"
+ce "science->Plato"  "type":8
+ae "natural science->Theoretical physics" "natural science" > "Theoretical physics"
+ce "natural science->Theoretical physics"  "type":8
+ae "natural science->Plato" "natural science" > "Plato"
+ce "natural science->Plato"  "type":8
+ae "Medicine->Arabic" "Medicine" > "Arabic"
+ce "Medicine->Arabic"  "type":8
+ae "Medicine->Biochemistry" "Medicine" > "Biochemistry"
+ce "Medicine->Biochemistry"  "type":8
+ae "activity->source" "activity" > "source"
+ce "activity->source"  "type":1

@@ -1,0 +1,731 @@
+DGS004
+null 0 0
+an "PC game"
+cn "PC game"  "ui.label":"PC game"
+cn "PC game"  "ui.style":"size-mode:fit;"
+an "Video game"
+cn "Video game"  "ui.label":"Video game"
+cn "Video game"  "ui.style":"size:6px; fill-color:white; "
+an "game"
+cn "game"  "ui.label":"game"
+cn "game"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "artifact"
+cn "artifact"  "ui.label":"artifact"
+cn "artifact"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Online game"
+cn "Online game"  "ui.label":"Online game"
+cn "Online game"  "ui.style":"size-mode:fit;"
+an "Internet"
+cn "Internet"  "ui.label":"Internet"
+cn "Internet"  "ui.style":"size:6px; fill-color:white; "
+an "computer network"
+cn "computer network"  "ui.label":"computer network"
+cn "computer network"  "ui.style":"size:6px; fill-color:white; "
+an "network"
+cn "network"  "ui.label":"network"
+cn "network"  "ui.style":"size:6px; fill-color:white; "
+an "system"
+cn "system"  "ui.label":"system"
+cn "system"  "ui.style":"size:6px; fill-color:white; "
+an "instrumentality"
+cn "instrumentality"  "ui.label":"instrumentality"
+cn "instrumentality"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "definite quantity"
+cn "definite quantity"  "ui.label":"definite quantity"
+cn "definite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "Recreation"
+cn "Recreation"  "ui.label":"Recreation"
+cn "Recreation"  "ui.style":"size:6px; fill-color:white; "
+an "capture"
+cn "capture"  "ui.label":"capture"
+cn "capture"  "ui.style":"size:6px; fill-color:white; "
+an "Smartphone"
+cn "Smartphone"  "ui.label":"Smartphone"
+cn "Smartphone"  "ui.style":"size:6px; fill-color:white; "
+an "calculation"
+cn "calculation"  "ui.label":"calculation"
+cn "calculation"  "ui.style":"size:6px; fill-color:white; "
+an "Denial-of-service attack"
+cn "Denial-of-service attack"  "ui.label":"Denial-of-service attack"
+cn "Denial-of-service attack"  "ui.style":"size:6px; fill-color:white; "
+an "IOS"
+cn "IOS"  "ui.label":"IOS"
+cn "IOS"  "ui.style":"size:6px; fill-color:white; "
+an "Computer worm"
+cn "Computer worm"  "ui.label":"Computer worm"
+cn "Computer worm"  "ui.style":"size:6px; fill-color:white; "
+an "aeration"
+cn "aeration"  "ui.label":"aeration"
+cn "aeration"  "ui.style":"size:6px; fill-color:white; "
+an "Microprocessor"
+cn "Microprocessor"  "ui.label":"Microprocessor"
+cn "Microprocessor"  "ui.style":"size:6px; fill-color:white; "
+an "volume"
+cn "volume"  "ui.label":"volume"
+cn "volume"  "ui.style":"size:6px; fill-color:white; "
+an "Tic-tac-toe"
+cn "Tic-tac-toe"  "ui.label":"Tic-tac-toe"
+cn "Tic-tac-toe"  "ui.style":"size:6px; fill-color:white; "
+an "preoccupation"
+cn "preoccupation"  "ui.label":"preoccupation"
+cn "preoccupation"  "ui.style":"size:6px; fill-color:white; "
+an "device"
+cn "device"  "ui.label":"device"
+cn "device"  "ui.style":"size:6px; fill-color:white; "
+an "PopCap_games"
+cn "PopCap_games"  "ui.label":"PopCap_games"
+cn "PopCap_games"  "ui.style":"size:6px; fill-color:white; "
+an "Nintendo 3DS"
+cn "Nintendo 3DS"  "ui.label":"Nintendo 3DS"
+cn "Nintendo 3DS"  "ui.style":"size:6px; fill-color:white; "
+an "Linguistics"
+cn "Linguistics"  "ui.label":"Linguistics"
+cn "Linguistics"  "ui.style":"size:6px; fill-color:white; "
+an "Telecommunication"
+cn "Telecommunication"  "ui.label":"Telecommunication"
+cn "Telecommunication"  "ui.style":"size:6px; fill-color:white; "
+an "opinion"
+cn "opinion"  "ui.label":"opinion"
+cn "opinion"  "ui.style":"size:6px; fill-color:white; "
+an "concretion"
+cn "concretion"  "ui.label":"concretion"
+cn "concretion"  "ui.style":"size:6px; fill-color:white; "
+an "Leonard Kleinrock"
+cn "Leonard Kleinrock"  "ui.label":"Leonard Kleinrock"
+cn "Leonard Kleinrock"  "ui.style":"size:6px; fill-color:white; "
+an "domain"
+cn "domain"  "ui.label":"domain"
+cn "domain"  "ui.style":"size:6px; fill-color:white; "
+an "notion"
+cn "notion"  "ui.label":"notion"
+cn "notion"  "ui.style":"size:6px; fill-color:white; "
+an "Multiplayer video game"
+cn "Multiplayer video game"  "ui.label":"Multiplayer video game"
+cn "Multiplayer video game"  "ui.style":"size:6px; fill-color:white; "
+an "convection"
+cn "convection"  "ui.label":"convection"
+cn "convection"  "ui.style":"size:6px; fill-color:white; "
+an "sum"
+cn "sum"  "ui.label":"sum"
+cn "sum"  "ui.style":"size:6px; fill-color:white; "
+an "Video_game_fandom"
+cn "Video_game_fandom"  "ui.label":"Video_game_fandom"
+cn "Video_game_fandom"  "ui.style":"size:6px; fill-color:white; "
+an "DOS_games"
+cn "DOS_games"  "ui.label":"DOS_games"
+cn "DOS_games"  "ui.style":"size:6px; fill-color:white; "
+an "Geometry"
+cn "Geometry"  "ui.label":"Geometry"
+cn "Geometry"  "ui.style":"size:6px; fill-color:white; "
+an "Oscilloscope"
+cn "Oscilloscope"  "ui.label":"Oscilloscope"
+cn "Oscilloscope"  "ui.style":"size:6px; fill-color:white; "
+an "IP address"
+cn "IP address"  "ui.label":"IP address"
+cn "IP address"  "ui.style":"size:6px; fill-color:white; "
+an "curdling"
+cn "curdling"  "ui.label":"curdling"
+cn "curdling"  "ui.style":"size:6px; fill-color:white; "
+an "Abstraction"
+cn "Abstraction"  "ui.label":"Abstraction"
+cn "Abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "natural object"
+cn "natural object"  "ui.label":"natural object"
+cn "natural object"  "ui.style":"size:6px; fill-color:white; "
+an "source"
+cn "source"  "ui.label":"source"
+cn "source"  "ui.style":"size:6px; fill-color:white; "
+an "Computer mouse"
+cn "Computer mouse"  "ui.label":"Computer mouse"
+cn "Computer mouse"  "ui.style":"size:6px; fill-color:white; "
+an "Table tennis"
+cn "Table tennis"  "ui.label":"Table tennis"
+cn "Table tennis"  "ui.style":"size:6px; fill-color:white; "
+an "Water"
+cn "Water"  "ui.label":"Water"
+cn "Water"  "ui.style":"size:6px; fill-color:white; "
+an "Graphic design"
+cn "Graphic design"  "ui.label":"Graphic design"
+cn "Graphic design"  "ui.style":"size:6px; fill-color:white; "
+an "First-person shooter"
+cn "First-person shooter"  "ui.label":"First-person shooter"
+cn "First-person shooter"  "ui.style":"size:6px; fill-color:white; "
+an "Pong"
+cn "Pong"  "ui.label":"Pong"
+cn "Pong"  "ui.style":"size:6px; fill-color:white; "
+an "Gamasutra"
+cn "Gamasutra"  "ui.label":"Gamasutra"
+cn "Gamasutra"  "ui.style":"size:6px; fill-color:white; "
+an "property"
+cn "property"  "ui.label":"property"
+cn "property"  "ui.style":"size:6px; fill-color:white; "
+an "article"
+cn "article"  "ui.label":"article"
+cn "article"  "ui.style":"size:6px; fill-color:white; "
+an "Language"
+cn "Language"  "ui.label":"Language"
+cn "Language"  "ui.style":"size:6px; fill-color:white; "
+an "Chris Crawford (game designer)"
+cn "Chris Crawford (game designer)"  "ui.label":"Chris Crawford (game designer)"
+cn "Chris Crawford (game designer)"  "ui.style":"size:6px; fill-color:white; "
+an "extinction"
+cn "extinction"  "ui.label":"extinction"
+cn "extinction"  "ui.style":"size:6px; fill-color:white; "
+an "Leased line"
+cn "Leased line"  "ui.label":"Leased line"
+cn "Leased line"  "ui.style":"size:6px; fill-color:white; "
+an "Video_game_review_aggregators"
+cn "Video_game_review_aggregators"  "ui.label":"Video_game_review_aggregators"
+cn "Video_game_review_aggregators"  "ui.style":"size:6px; fill-color:white; "
+an "Thought"
+cn "Thought"  "ui.label":"Thought"
+cn "Thought"  "ui.style":"size:6px; fill-color:white; "
+an "Computing platform"
+cn "Computing platform"  "ui.label":"Computing platform"
+cn "Computing platform"  "ui.style":"size:6px; fill-color:white; "
+an "Port (computer networking)"
+cn "Port (computer networking)"  "ui.label":"Port (computer networking)"
+cn "Port (computer networking)"  "ui.style":"size:6px; fill-color:white; "
+an "Mobile game"
+cn "Mobile game"  "ui.label":"Mobile game"
+cn "Mobile game"  "ui.style":"size:6px; fill-color:white; "
+an "release"
+cn "release"  "ui.label":"release"
+cn "release"  "ui.style":"size:6px; fill-color:white; "
+an "flocculation"
+cn "flocculation"  "ui.label":"flocculation"
+cn "flocculation"  "ui.style":"size:6px; fill-color:white; "
+an "process"
+cn "process"  "ui.label":"process"
+cn "process"  "ui.style":"size:6px; fill-color:white; "
+an "Gameplay"
+cn "Gameplay"  "ui.label":"Gameplay"
+cn "Gameplay"  "ui.style":"size:6px; fill-color:white; "
+an "fossilization"
+cn "fossilization"  "ui.label":"fossilization"
+cn "fossilization"  "ui.style":"size:6px; fill-color:white; "
+an "Ontology"
+cn "Ontology"  "ui.label":"Ontology"
+cn "Ontology"  "ui.style":"size:6px; fill-color:white; "
+an "geological process"
+cn "geological process"  "ui.label":"geological process"
+cn "geological process"  "ui.style":"size:6px; fill-color:white; "
+an "Packet switching"
+cn "Packet switching"  "ui.label":"Packet switching"
+cn "Packet switching"  "ui.style":"size:6px; fill-color:white; "
+an "behavior"
+cn "behavior"  "ui.label":"behavior"
+cn "behavior"  "ui.style":"size:6px; fill-color:white; "
+an "Web browser"
+cn "Web browser"  "ui.label":"Web browser"
+cn "Web browser"  "ui.style":"size:6px; fill-color:white; "
+an "Input device"
+cn "Input device"  "ui.label":"Input device"
+cn "Input device"  "ui.style":"size:6px; fill-color:white; "
+an "Real-time strategy"
+cn "Real-time strategy"  "ui.label":"Real-time strategy"
+cn "Real-time strategy"  "ui.style":"size:6px; fill-color:white; "
+an "File server"
+cn "File server"  "ui.label":"File server"
+cn "File server"  "ui.style":"size:6px; fill-color:white; "
+an "magnetization"
+cn "magnetization"  "ui.label":"magnetization"
+cn "magnetization"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "Gottlob Frege"
+cn "Gottlob Frege"  "ui.label":"Gottlob Frege"
+cn "Gottlob Frege"  "ui.style":"size:6px; fill-color:white; "
+an "softening"
+cn "softening"  "ui.label":"softening"
+cn "softening"  "ui.style":"size:6px; fill-color:white; "
+an "Personal digital assistant"
+cn "Personal digital assistant"  "ui.label":"Personal digital assistant"
+cn "Personal digital assistant"  "ui.style":"size:6px; fill-color:white; "
+ae "PC game->Video game" "PC game"  "Video game"
+ce "PC game->Video game"  "type":8
+ae "Video game->game" "Video game"  "game"
+ce "Video game->game"  "type":0
+ae "game->activity" "game"  "activity"
+ce "game->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "creation->artifact" "creation"  "artifact"
+ce "creation->artifact"  "type":0
+ae "artifact->whole" "artifact"  "whole"
+ce "artifact->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Online game->Video game" "Online game"  "Video game"
+ce "Online game->Video game"  "type":8
+ae "Online game->Internet" "Online game"  "Internet"
+ce "Online game->Internet"  "type":8
+ae "Internet->computer network" "Internet"  "computer network"
+ce "Internet->computer network"  "type":0
+ae "computer network->network" "computer network"  "network"
+ce "computer network->network"  "type":0
+ae "network->system" "network"  "system"
+ce "network->system"  "type":0
+ae "system->instrumentality" "system"  "instrumentality"
+ce "system->instrumentality"  "type":0
+ae "instrumentality->unit" "instrumentality"  "unit"
+ce "instrumentality->unit"  "type":0
+ae "unit->definite quantity" "unit"  "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity"  "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "action->state" "action"  "state"
+ce "action->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "writing->activity" "writing" > "activity"
+ce "writing->activity"  "type":0
+ae "activity->release" "activity" > "release"
+ce "activity->release"  "type":1
+ae "PC game->Smartphone" "PC game" > "Smartphone"
+ce "PC game->Smartphone"  "type":8
+ae "unit->object" "unit" > "object"
+ce "unit->object"  "type":0
+ae "writing->Linguistics" "writing" > "Linguistics"
+ce "writing->Linguistics"  "type":8
+ae "PC game->IOS" "PC game" > "IOS"
+ce "PC game->IOS"  "type":8
+ae "unit->whole" "unit" > "whole"
+ce "unit->whole"  "type":0
+ae "action->curdling" "action" > "curdling"
+ce "action->curdling"  "type":1
+ae "PC game->Microprocessor" "PC game" > "Microprocessor"
+ce "PC game->Microprocessor"  "type":8
+ae "activity->behavior" "activity" > "behavior"
+ce "activity->behavior"  "type":1
+ae "PC game->Tic-tac-toe" "PC game" > "Tic-tac-toe"
+ce "PC game->Tic-tac-toe"  "type":8
+ae "Online game->Real-time strategy" "Online game" > "Real-time strategy"
+ce "Online game->Real-time strategy"  "type":8
+ae "Online game->Video_game_review_aggregators" "Online game" > "Video_game_review_aggregators"
+ce "Online game->Video_game_review_aggregators"  "type":8
+ae "instrumentality->device" "instrumentality" > "device"
+ce "instrumentality->device"  "type":1
+ae "instrumentality->artifact" "instrumentality" > "artifact"
+ce "instrumentality->artifact"  "type":0
+ae "Video game->Multiplayer video game" "Video game" > "Multiplayer video game"
+ce "Video game->Multiplayer video game"  "type":8
+ae "idea->Language" "idea" > "Language"
+ce "idea->Language"  "type":8
+ae "action->behavior" "action" > "behavior"
+ce "action->behavior"  "type":1
+ae "Internet->Telecommunication" "Internet" > "Telecommunication"
+ce "Internet->Telecommunication"  "type":8
+ae "state->representation" "state" > "representation"
+ce "state->representation"  "type":1
+ae "activity->representation" "activity" > "representation"
+ce "activity->representation"  "type":1
+ae "document->Personal digital assistant" "document" > "Personal digital assistant"
+ce "document->Personal digital assistant"  "type":8
+ae "system->Ontology" "system" > "Ontology"
+ce "system->Ontology"  "type":8
+ae "Video game->DOS_games" "Video game" > "DOS_games"
+ce "Video game->DOS_games"  "type":8
+ae "computer network->Leonard Kleinrock" "computer network" > "Leonard Kleinrock"
+ce "computer network->Leonard Kleinrock"  "type":8
+ae "concept->notion" "concept" > "notion"
+ce "concept->notion"  "type":1
+ae "idea->opinion" "idea" > "opinion"
+ce "idea->opinion"  "type":0
+ae "activity->operation" "activity" > "operation"
+ce "activity->operation"  "type":1
+ae "idea->calculation" "idea" > "calculation"
+ce "idea->calculation"  "type":0
+ae "concept->property" "concept" > "property"
+ce "concept->property"  "type":1
+ae "creation->natural object" "creation" > "natural object"
+ce "creation->natural object"  "type":0
+ae "activity->process" "activity" > "process"
+ce "activity->process"  "type":0
+ae "object->property" "object" > "property"
+ce "object->property"  "type":1
+ae "system->Computing platform" "system" > "Computing platform"
+ce "system->Computing platform"  "type":8
+ae "PC game->Computer mouse" "PC game" > "Computer mouse"
+ce "PC game->Computer mouse"  "type":8
+ae "Internet->First-person shooter" "Internet" > "First-person shooter"
+ce "Internet->First-person shooter"  "type":8
+ae "object->whole" "object" > "whole"
+ce "object->whole"  "type":1
+ae "game->Mobile game" "game" > "Mobile game"
+ce "game->Mobile game"  "type":8
+ae "PC game->First-person shooter" "PC game" > "First-person shooter"
+ce "PC game->First-person shooter"  "type":8
+ae "abstraction->Language" "abstraction" > "Language"
+ce "abstraction->Language"  "type":8
+ae "system->group" "system" > "group"
+ce "system->group"  "type":0
+ae "Online game->Nintendo 3DS" "Online game" > "Nintendo 3DS"
+ce "Online game->Nintendo 3DS"  "type":8
+ae "idea->preoccupation" "idea" > "preoccupation"
+ce "idea->preoccupation"  "type":1
+ae "Online game->Multiplayer video game" "Online game" > "Multiplayer video game"
+ce "Online game->Multiplayer video game"  "type":8
+ae "PC game->Chris Crawford (game designer)" "PC game" > "Chris Crawford (game designer)"
+ce "PC game->Chris Crawford (game designer)"  "type":8
+ae "Online game->Gameplay" "Online game" > "Gameplay"
+ce "Online game->Gameplay"  "type":8
+ae "operation->calculation" "operation" > "calculation"
+ce "operation->calculation"  "type":0
+ae "operation->activity" "operation" > "activity"
+ce "operation->activity"  "type":0
+ae "location->Geometry" "location" > "Geometry"
+ce "location->Geometry"  "type":8
+ae "whole->sum" "whole" > "sum"
+ce "whole->sum"  "type":1
+ae "game->Web browser" "game" > "Web browser"
+ce "game->Web browser"  "type":8
+ae "idea->Abstraction" "idea" > "Abstraction"
+ce "idea->Abstraction"  "type":8
+ae "artifact->article" "artifact" > "article"
+ce "artifact->article"  "type":1
+ae "game->Oscilloscope" "game" > "Oscilloscope"
+ce "game->Oscilloscope"  "type":8
+ae "whole->natural object" "whole" > "natural object"
+ce "whole->natural object"  "type":1
+ae "computer network->Leased line" "computer network" > "Leased line"
+ce "computer network->Leased line"  "type":8
+ae "game->Table tennis" "game" > "Table tennis"
+ce "game->Table tennis"  "type":8
+ae "game->Pong" "game" > "Pong"
+ce "game->Pong"  "type":8
+ae "Internet->Leonard Kleinrock" "Internet" > "Leonard Kleinrock"
+ce "Internet->Leonard Kleinrock"  "type":8
+ae "maneuver->device" "maneuver" > "device"
+ce "maneuver->device"  "type":1
+ae "game->Computer mouse" "game" > "Computer mouse"
+ce "game->Computer mouse"  "type":8
+ae "location->activity" "location" > "activity"
+ce "location->activity"  "type":0
+ae "PC game->Input device" "PC game" > "Input device"
+ce "PC game->Input device"  "type":8
+ae "PC game->Real-time strategy" "PC game" > "Real-time strategy"
+ce "PC game->Real-time strategy"  "type":8
+ae "Internet->Port (computer networking)" "Internet" > "Port (computer networking)"
+ce "Internet->Port (computer networking)"  "type":8
+ae "game->Microprocessor" "game" > "Microprocessor"
+ce "game->Microprocessor"  "type":8
+ae "measure->activity" "measure" > "activity"
+ce "measure->activity"  "type":0
+ae "PC game->Internet" "PC game" > "Internet"
+ce "PC game->Internet"  "type":8
+ae "action->aeration" "action" > "aeration"
+ce "action->aeration"  "type":1
+ae "Internet->Packet switching" "Internet" > "Packet switching"
+ce "Internet->Packet switching"  "type":8
+ae "document->Thought" "document" > "Thought"
+ce "document->Thought"  "type":8
+ae "action->capture" "action" > "capture"
+ce "action->capture"  "type":1
+ae "Online game->Packet switching" "Online game" > "Packet switching"
+ce "Online game->Packet switching"  "type":8
+ae "PC game->Gamasutra" "PC game" > "Gamasutra"
+ce "PC game->Gamasutra"  "type":8
+ae "document->article" "document" > "article"
+ce "document->article"  "type":7
+ae "concept->Ontology" "concept" > "Ontology"
+ce "concept->Ontology"  "type":8
+ae "Internet->IP address" "Internet" > "IP address"
+ce "Internet->IP address"  "type":8
+ae "group->system" "group" > "system"
+ce "group->system"  "type":1
+ae "computer network->IP address" "computer network" > "IP address"
+ce "computer network->IP address"  "type":8
+ae "action->concretion" "action" > "concretion"
+ce "action->concretion"  "type":1
+ae "document->source" "document" > "source"
+ce "document->source"  "type":1
+ae "Internet->File server" "Internet" > "File server"
+ce "Internet->File server"  "type":8
+ae "PC game->Gameplay" "PC game" > "Gameplay"
+ce "PC game->Gameplay"  "type":8
+ae "group->unit" "group" > "unit"
+ce "group->unit"  "type":0
+ae "Internet->Leased line" "Internet" > "Leased line"
+ce "Internet->Leased line"  "type":8
+ae "system->Geometry" "system" > "Geometry"
+ce "system->Geometry"  "type":8
+ae "PC game->Computing platform" "PC game" > "Computing platform"
+ce "PC game->Computing platform"  "type":8
+ae "computer network->Denial-of-service attack" "computer network" > "Denial-of-service attack"
+ce "computer network->Denial-of-service attack"  "type":8
+ae "Internet->Video_game_fandom" "Internet" > "Video_game_fandom"
+ce "Internet->Video_game_fandom"  "type":8
+ae "abstraction->preoccupation" "abstraction" > "preoccupation"
+ce "abstraction->preoccupation"  "type":0
+ae "computer network->Computer worm" "computer network" > "Computer worm"
+ce "computer network->Computer worm"  "type":8
+ae "document->Graphic design" "document" > "Graphic design"
+ce "document->Graphic design"  "type":8
+ae "Online game->PopCap_games" "Online game" > "PopCap_games"
+ce "Online game->PopCap_games"  "type":8
+ae "idea->notion" "idea" > "notion"
+ce "idea->notion"  "type":1
+ae "measure->magnetization" "measure" > "magnetization"
+ce "measure->magnetization"  "type":1
+ae "PC game->DOS_games" "PC game" > "DOS_games"
+ce "PC game->DOS_games"  "type":8
+ae "computer network->Telecommunication" "computer network" > "Telecommunication"
+ce "computer network->Telecommunication"  "type":8
+ae "concept->Abstraction" "concept" > "Abstraction"
+ce "concept->Abstraction"  "type":8
+ae "game->Recreation" "game" > "Recreation"
+ce "game->Recreation"  "type":8
+ae "abstraction->Thought" "abstraction" > "Thought"
+ce "abstraction->Thought"  "type":8
+ae "content->volume" "content" > "volume"
+ce "content->volume"  "type":0
+ae "Video game->Video_game_review_aggregators" "Video game" > "Video_game_review_aggregators"
+ce "Video game->Video_game_review_aggregators"  "type":8
+ae "Video game->Input device" "Video game" > "Input device"
+ce "Video game->Input device"  "type":8
+ae "Video game->Nintendo 3DS" "Video game" > "Nintendo 3DS"
+ce "Video game->Nintendo 3DS"  "type":8
+ae "Internet->Computer worm" "Internet" > "Computer worm"
+ce "Internet->Computer worm"  "type":8
+ae "abstraction->Linguistics" "abstraction" > "Linguistics"
+ce "abstraction->Linguistics"  "type":8
+ae "Internet->Denial-of-service attack" "Internet" > "Denial-of-service attack"
+ce "Internet->Denial-of-service attack"  "type":8
+ae "computer network->File server" "computer network" > "File server"
+ce "computer network->File server"  "type":8
+ae "Video game->Smartphone" "Video game" > "Smartphone"
+ce "Video game->Smartphone"  "type":8
+ae "Video game->Oscilloscope" "Video game" > "Oscilloscope"
+ce "Video game->Oscilloscope"  "type":8
+ae "measure->volume" "measure" > "volume"
+ce "measure->volume"  "type":1
+ae "Video game->Tic-tac-toe" "Video game" > "Tic-tac-toe"
+ce "Video game->Tic-tac-toe"  "type":8
+ae "Video game->Table tennis" "Video game" > "Table tennis"
+ce "Video game->Table tennis"  "type":8
+ae "Video game->Pong" "Video game" > "Pong"
+ce "Video game->Pong"  "type":8
+ae "state->domain" "state" > "domain"
+ce "state->domain"  "type":7
+ae "action->process" "action" > "process"
+ce "action->process"  "type":0
+ae "collection->sum" "collection" > "sum"
+ce "collection->sum"  "type":1
+ae "action->convection" "action" > "convection"
+ce "action->convection"  "type":1
+ae "activity->aeration" "activity" > "aeration"
+ce "activity->aeration"  "type":1
+ae "game->PC game" "game" > "PC game"
+ce "game->PC game"  "type":8
+ae "activity->capture" "activity" > "capture"
+ce "activity->capture"  "type":1
+ae "district->Water" "district" > "Water"
+ce "district->Water"  "type":8
+ae "activity->concretion" "activity" > "concretion"
+ce "activity->concretion"  "type":1
+ae "district->Telecommunication" "district" > "Telecommunication"
+ce "district->Telecommunication"  "type":8
+ae "activity->convection" "activity" > "convection"
+ce "activity->convection"  "type":1
+ae "activity->curdling" "activity" > "curdling"
+ce "activity->curdling"  "type":1
+ae "concept->Linguistics" "concept" > "Linguistics"
+ce "concept->Linguistics"  "type":8
+ae "Video game->PopCap_games" "Video game" > "PopCap_games"
+ce "Video game->PopCap_games"  "type":8
+ae "Video game->Personal digital assistant" "Video game" > "Personal digital assistant"
+ce "Video game->Personal digital assistant"  "type":8
+ae "action->source" "action" > "source"
+ce "action->source"  "type":1
+ae "game->Chris Crawford (game designer)" "game" > "Chris Crawford (game designer)"
+ce "game->Chris Crawford (game designer)"  "type":8
+ae "activity->extinction" "activity" > "extinction"
+ce "activity->extinction"  "type":1
+ae "Video game->Video_game_fandom" "Video game" > "Video_game_fandom"
+ce "Video game->Video_game_fandom"  "type":8
+ae "Video game->Web browser" "Video game" > "Web browser"
+ce "Video game->Web browser"  "type":8
+ae "Video game->IOS" "Video game" > "IOS"
+ce "Video game->IOS"  "type":8
+ae "region->Water" "region" > "Water"
+ce "region->Water"  "type":8
+ae "activity->flocculation" "activity" > "flocculation"
+ce "activity->flocculation"  "type":1
+ae "activity->fossilization" "activity" > "fossilization"
+ce "activity->fossilization"  "type":1
+ae "activity->geological process" "activity" > "geological process"
+ce "activity->geological process"  "type":1
+ae "abstraction->Gottlob Frege" "abstraction" > "Gottlob Frege"
+ce "abstraction->Gottlob Frege"  "type":8
+ae "unit->artifact" "unit" > "artifact"
+ce "unit->artifact"  "type":1
+ae "Video game->Gamasutra" "Video game" > "Gamasutra"
+ce "Video game->Gamasutra"  "type":8
+ae "activity->magnetization" "activity" > "magnetization"
+ce "activity->magnetization"  "type":1
+ae "action->softening" "action" > "softening"
+ce "action->softening"  "type":1
+ae "computer network->Port (computer networking)" "computer network" > "Port (computer networking)"
+ce "computer network->Port (computer networking)"  "type":8
+ae "unit->sum" "unit" > "sum"
+ce "unit->sum"  "type":1
+ae "region->domain" "region" > "domain"
+ce "region->domain"  "type":1
+ae "activity->softening" "activity" > "softening"
+ce "activity->softening"  "type":1
+ae "action->release" "action" > "release"
+ce "action->release"  "type":1
+ae "concept->Gottlob Frege" "concept" > "Gottlob Frege"
+ce "concept->Gottlob Frege"  "type":8
+ae "action->geological process" "action" > "geological process"
+ce "action->geological process"  "type":1
+ae "activity->Recreation" "activity" > "Recreation"
+ce "activity->Recreation"  "type":8
+ae "action->fossilization" "action" > "fossilization"
+ce "action->fossilization"  "type":1
+ae "legal document->opinion" "legal document" > "opinion"
+ce "legal document->opinion"  "type":1
+ae "Video game->Graphic design" "Video game" > "Graphic design"
+ce "Video game->Graphic design"  "type":8
+ae "action->flocculation" "action" > "flocculation"
+ce "action->flocculation"  "type":1
+ae "Online game->PC game" "Online game" > "PC game"
+ce "Online game->PC game"  "type":8
+ae "Online game->Mobile game" "Online game" > "Mobile game"
+ce "Online game->Mobile game"  "type":8
+ae "action->extinction" "action" > "extinction"
+ce "action->extinction"  "type":1
+ae "Online game->First-person shooter" "Online game" > "First-person shooter"
+ce "Online game->First-person shooter"  "type":8

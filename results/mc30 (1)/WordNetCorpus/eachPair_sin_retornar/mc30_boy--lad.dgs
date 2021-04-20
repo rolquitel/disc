@@ -1,0 +1,122 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "boy"
+cn "boy"  "ui.label":"boy"
+cn "boy"  "ui.style":"size-mode:fit;"
+an "male"
+cn "male"  "ui.label":"male"
+cn "male"  "ui.style":"size:6px; fill-color:white; "
+an "animal"
+cn "animal"  "ui.label":"animal"
+cn "animal"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "lad"
+cn "lad"  "ui.label":"lad"
+cn "lad"  "ui.style":"size-mode:fit;"
+an "male child"
+cn "male child"  "ui.label":"male child"
+cn "male child"  "ui.style":"size:6px; fill-color:white; "
+an "altar boy"
+cn "altar boy"  "ui.label":"altar boy"
+cn "altar boy"  "ui.style":"size:6px; fill-color:white; "
+an "acolyte"
+cn "acolyte"  "ui.label":"acolyte"
+cn "acolyte"  "ui.style":"size:6px; fill-color:white; "
+an "clergyman"
+cn "clergyman"  "ui.label":"clergyman"
+cn "clergyman"  "ui.style":"size:6px; fill-color:white; "
+an "spiritual leader"
+cn "spiritual leader"  "ui.label":"spiritual leader"
+cn "spiritual leader"  "ui.style":"size:6px; fill-color:white; "
+an "leader"
+cn "leader"  "ui.label":"leader"
+cn "leader"  "ui.style":"size:6px; fill-color:white; "
+an "person"
+cn "person"  "ui.label":"person"
+cn "person"  "ui.style":"size:6px; fill-color:white; "
+an "causal agent"
+cn "causal agent"  "ui.label":"causal agent"
+cn "causal agent"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+ae "boy->male" "boy"  "male"
+ce "boy->male"  "type":0
+ae "male->animal" "male"  "animal"
+ce "male->animal"  "type":0
+ae "animal->organism" "animal"  "organism"
+ce "animal->organism"  "type":0
+ae "organism->living thing" "organism"  "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing"  "whole"
+ce "living thing->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "lad->male" "lad"  "male"
+ce "lad->male"  "type":0
+ae "lad->male child" "lad"  "male child"
+ce "lad->male child"  "type":0
+ae "male child->male" "male child"  "male"
+ce "male child->male"  "type":0
+ae "male child->altar boy" "male child"  "altar boy"
+ce "male child->altar boy"  "type":1
+ae "altar boy->acolyte" "altar boy"  "acolyte"
+ce "altar boy->acolyte"  "type":0
+ae "acolyte->clergyman" "acolyte"  "clergyman"
+ce "acolyte->clergyman"  "type":0
+ae "clergyman->spiritual leader" "clergyman"  "spiritual leader"
+ce "clergyman->spiritual leader"  "type":0
+ae "spiritual leader->leader" "spiritual leader"  "leader"
+ce "spiritual leader->leader"  "type":0
+ae "leader->person" "leader"  "person"
+ce "leader->person"  "type":0
+ae "person->organism" "person"  "organism"
+ce "person->organism"  "type":0
+ae "person->causal agent" "person"  "causal agent"
+ce "person->causal agent"  "type":0
+ae "causal agent->physical entity" "causal agent"  "physical entity"
+ce "causal agent->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0

@@ -1,0 +1,138 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "car"
+cn "car"  "ui.label":"car"
+cn "car"  "ui.style":"size-mode:fit;"
+an "motor vehicle"
+cn "motor vehicle"  "ui.label":"motor vehicle"
+cn "motor vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "self-propelled vehicle"
+cn "self-propelled vehicle"  "ui.label":"self-propelled vehicle"
+cn "self-propelled vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "wheeled vehicle"
+cn "wheeled vehicle"  "ui.label":"wheeled vehicle"
+cn "wheeled vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "vehicle"
+cn "vehicle"  "ui.label":"vehicle"
+cn "vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "conveyance"
+cn "conveyance"  "ui.label":"conveyance"
+cn "conveyance"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "automobile"
+cn "automobile"  "ui.label":"automobile"
+cn "automobile"  "ui.style":"size-mode:fit;"
+an "touring car"
+cn "touring car"  "ui.label":"touring car"
+cn "touring car"  "ui.style":"size:6px; fill-color:white; "
+an "floorboard"
+cn "floorboard"  "ui.label":"floorboard"
+cn "floorboard"  "ui.style":"size:6px; fill-color:white; "
+an "convertible"
+cn "convertible"  "ui.label":"convertible"
+cn "convertible"  "ui.style":"size:6px; fill-color:white; "
+an "electric"
+cn "electric"  "ui.label":"electric"
+cn "electric"  "ui.style":"size:6px; fill-color:white; "
+an "Stanley Steamer"
+cn "Stanley Steamer"  "ui.label":"Stanley Steamer"
+cn "Stanley Steamer"  "ui.style":"size:6px; fill-color:white; "
+an "delivery"
+cn "delivery"  "ui.label":"delivery"
+cn "delivery"  "ui.style":"size:6px; fill-color:white; "
+an "minicar"
+cn "minicar"  "ui.label":"minicar"
+cn "minicar"  "ui.style":"size:6px; fill-color:white; "
+an "loaner"
+cn "loaner"  "ui.label":"loaner"
+cn "loaner"  "ui.style":"size:6px; fill-color:white; "
+ae "car->motor vehicle" "car"  "motor vehicle"
+ce "car->motor vehicle"  "type":0
+ae "motor vehicle->self-propelled vehicle" "motor vehicle"  "self-propelled vehicle"
+ce "motor vehicle->self-propelled vehicle"  "type":0
+ae "self-propelled vehicle->wheeled vehicle" "self-propelled vehicle"  "wheeled vehicle"
+ce "self-propelled vehicle->wheeled vehicle"  "type":0
+ae "wheeled vehicle->vehicle" "wheeled vehicle"  "vehicle"
+ce "wheeled vehicle->vehicle"  "type":0
+ae "vehicle->conveyance" "vehicle"  "conveyance"
+ce "vehicle->conveyance"  "type":0
+ae "conveyance->legal document" "conveyance"  "legal document"
+ce "conveyance->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "automobile->motor vehicle" "automobile"  "motor vehicle"
+ce "automobile->motor vehicle"  "type":0
+ae "car->wheeled vehicle" "car" > "wheeled vehicle"
+ce "car->wheeled vehicle"  "type":0
+ae "automobile->convertible" "automobile" > "convertible"
+ce "automobile->convertible"  "type":1
+ae "wheeled vehicle->car" "wheeled vehicle" > "car"
+ce "wheeled vehicle->car"  "type":1
+ae "car->convertible" "car" > "convertible"
+ce "car->convertible"  "type":1
+ae "car->electric" "car" > "electric"
+ce "car->electric"  "type":1
+ae "automobile->electric" "automobile" > "electric"
+ce "automobile->electric"  "type":1
+ae "car->floorboard" "car" > "floorboard"
+ce "car->floorboard"  "type":7
+ae "automobile->floorboard" "automobile" > "floorboard"
+ce "automobile->floorboard"  "type":7
+ae "car->loaner" "car" > "loaner"
+ce "car->loaner"  "type":1
+ae "car->minicar" "car" > "minicar"
+ce "car->minicar"  "type":1
+ae "act->delivery" "act" > "delivery"
+ce "act->delivery"  "type":1
+ae "car->Stanley Steamer" "car" > "Stanley Steamer"
+ce "car->Stanley Steamer"  "type":1
+ae "conveyance->delivery" "conveyance" > "delivery"
+ce "conveyance->delivery"  "type":1
+ae "car->touring car" "car" > "touring car"
+ce "car->touring car"  "type":1
+ae "automobile->loaner" "automobile" > "loaner"
+ce "automobile->loaner"  "type":1
+ae "automobile->touring car" "automobile" > "touring car"
+ce "automobile->touring car"  "type":1
+ae "automobile->Stanley Steamer" "automobile" > "Stanley Steamer"
+ce "automobile->Stanley Steamer"  "type":1
+ae "automobile->minicar" "automobile" > "minicar"
+ce "automobile->minicar"  "type":1

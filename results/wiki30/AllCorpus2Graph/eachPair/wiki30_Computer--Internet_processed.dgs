@@ -1,0 +1,583 @@
+DGS004
+null 0 0
+an "Computer"
+cn "Computer"  "ui.label":"Computer"
+cn "Computer"  "ui.style":"size-mode:fit;"
+an "machine"
+cn "machine"  "ui.label":"machine"
+cn "machine"  "ui.style":"size:6px; fill-color:white; "
+an "device"
+cn "device"  "ui.label":"device"
+cn "device"  "ui.style":"size:6px; fill-color:white; "
+an "instrumentality"
+cn "instrumentality"  "ui.label":"instrumentality"
+cn "instrumentality"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "definite quantity"
+cn "definite quantity"  "ui.label":"definite quantity"
+cn "definite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Internet"
+cn "Internet"  "ui.label":"Internet"
+cn "Internet"  "ui.style":"size-mode:fit;"
+an "computer network"
+cn "computer network"  "ui.label":"computer network"
+cn "computer network"  "ui.style":"size:6px; fill-color:white; "
+an "network"
+cn "network"  "ui.label":"network"
+cn "network"  "ui.style":"size:6px; fill-color:white; "
+an "system"
+cn "system"  "ui.label":"system"
+cn "system"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "hardening"
+cn "hardening"  "ui.label":"hardening"
+cn "hardening"  "ui.style":"size:6px; fill-color:white; "
+an "motion"
+cn "motion"  "ui.label":"motion"
+cn "motion"  "ui.style":"size:6px; fill-color:white; "
+an "Virtual private network"
+cn "Virtual private network"  "ui.label":"Virtual private network"
+cn "Virtual private network"  "ui.style":"size:6px; fill-color:white; "
+an "nuclear reaction"
+cn "nuclear reaction"  "ui.label":"nuclear reaction"
+cn "nuclear reaction"  "ui.style":"size:6px; fill-color:white; "
+an "Asymmetric digital subscriber line"
+cn "Asymmetric digital subscriber line"  "ui.label":"Asymmetric digital subscriber line"
+cn "Asymmetric digital subscriber line"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2009"
+cn "Internet_properties_established_in_2009"  "ui.label":"Internet_properties_established_in_2009"
+cn "Internet_properties_established_in_2009"  "ui.style":"size:6px; fill-color:white; "
+an "phase change"
+cn "phase change"  "ui.label":"phase change"
+cn "phase change"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2013"
+cn "Internet_properties_established_in_2013"  "ui.label":"Internet_properties_established_in_2013"
+cn "Internet_properties_established_in_2013"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2010"
+cn "Internet_properties_established_in_2010"  "ui.label":"Internet_properties_established_in_2010"
+cn "Internet_properties_established_in_2010"  "ui.style":"size:6px; fill-color:white; "
+an "File format"
+cn "File format"  "ui.label":"File format"
+cn "File format"  "ui.style":"size:6px; fill-color:white; "
+an "ARPANET"
+cn "ARPANET"  "ui.label":"ARPANET"
+cn "ARPANET"  "ui.style":"size:6px; fill-color:white; "
+an "source"
+cn "source"  "ui.label":"source"
+cn "source"  "ui.style":"size:6px; fill-color:white; "
+an "stiffening"
+cn "stiffening"  "ui.label":"stiffening"
+cn "stiffening"  "ui.style":"size:6px; fill-color:white; "
+an "Network_analyzers"
+cn "Network_analyzers"  "ui.label":"Network_analyzers"
+cn "Network_analyzers"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2000"
+cn "Internet_properties_established_in_2000"  "ui.label":"Internet_properties_established_in_2000"
+cn "Internet_properties_established_in_2000"  "ui.style":"size:6px; fill-color:white; "
+an "Carl Jung"
+cn "Carl Jung"  "ui.label":"Carl Jung"
+cn "Carl Jung"  "ui.style":"size:6px; fill-color:white; "
+an "survival"
+cn "survival"  "ui.label":"survival"
+cn "survival"  "ui.style":"size:6px; fill-color:white; "
+an "Machine"
+cn "Machine"  "ui.label":"Machine"
+cn "Machine"  "ui.style":"size:6px; fill-color:white; "
+an "Information technology"
+cn "Information technology"  "ui.label":"Information technology"
+cn "Information technology"  "ui.style":"size:6px; fill-color:white; "
+an "Firewall_software"
+cn "Firewall_software"  "ui.label":"Firewall_software"
+cn "Firewall_software"  "ui.style":"size:6px; fill-color:white; "
+an "transduction"
+cn "transduction"  "ui.label":"transduction"
+cn "transduction"  "ui.style":"size:6px; fill-color:white; "
+an "Turing machine"
+cn "Turing machine"  "ui.label":"Turing machine"
+cn "Turing machine"  "ui.style":"size:6px; fill-color:white; "
+an "cleavage"
+cn "cleavage"  "ui.label":"cleavage"
+cn "cleavage"  "ui.style":"size:6px; fill-color:white; "
+an "vitrification"
+cn "vitrification"  "ui.label":"vitrification"
+cn "vitrification"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_1992"
+cn "Internet_properties_established_in_1992"  "ui.label":"Internet_properties_established_in_1992"
+cn "Internet_properties_established_in_1992"  "ui.style":"size:6px; fill-color:white; "
+an "Bill of lading"
+cn "Bill of lading"  "ui.label":"Bill of lading"
+cn "Bill of lading"  "ui.style":"size:6px; fill-color:white; "
+an "design"
+cn "design"  "ui.label":"design"
+cn "design"  "ui.style":"size:6px; fill-color:white; "
+an "performance"
+cn "performance"  "ui.label":"performance"
+cn "performance"  "ui.style":"size:6px; fill-color:white; "
+an "Economics"
+cn "Economics"  "ui.label":"Economics"
+cn "Economics"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_1990"
+cn "Internet_properties_established_in_1990"  "ui.label":"Internet_properties_established_in_1990"
+cn "Internet_properties_established_in_1990"  "ui.style":"size:6px; fill-color:white; "
+an "communication system"
+cn "communication system"  "ui.label":"communication system"
+cn "communication system"  "ui.style":"size:6px; fill-color:white; "
+an "Computer science"
+cn "Computer science"  "ui.label":"Computer science"
+cn "Computer science"  "ui.style":"size:6px; fill-color:white; "
+an "New_media_art"
+cn "New_media_art"  "ui.label":"New_media_art"
+cn "New_media_art"  "ui.style":"size:6px; fill-color:white; "
+an "dissolution"
+cn "dissolution"  "ui.label":"dissolution"
+cn "dissolution"  "ui.style":"size:6px; fill-color:white; "
+an "Privacy_software"
+cn "Privacy_software"  "ui.label":"Privacy_software"
+cn "Privacy_software"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2017"
+cn "Internet_properties_established_in_2017"  "ui.label":"Internet_properties_established_in_2017"
+cn "Internet_properties_established_in_2017"  "ui.style":"size:6px; fill-color:white; "
+an "Web browser"
+cn "Web browser"  "ui.label":"Web browser"
+cn "Web browser"  "ui.style":"size:6px; fill-color:white; "
+an "University of California, Santa Barbara"
+cn "University of California, Santa Barbara"  "ui.label":"University of California, Santa Barbara"
+cn "University of California, Santa Barbara"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2011"
+cn "Internet_properties_established_in_2011"  "ui.label":"Internet_properties_established_in_2011"
+cn "Internet_properties_established_in_2011"  "ui.style":"size:6px; fill-color:white; "
+an "University of California, Los Angeles"
+cn "University of California, Los Angeles"  "ui.label":"University of California, Los Angeles"
+cn "University of California, Los Angeles"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_1996"
+cn "Internet_properties_established_in_1996"  "ui.label":"Internet_properties_established_in_1996"
+cn "Internet_properties_established_in_1996"  "ui.style":"size:6px; fill-color:white; "
+an "Fiber Distributed Data Interface"
+cn "Fiber Distributed Data Interface"  "ui.label":"Fiber Distributed Data Interface"
+cn "Fiber Distributed Data Interface"  "ui.style":"size:6px; fill-color:white; "
+an "Difference engine"
+cn "Difference engine"  "ui.label":"Difference engine"
+cn "Difference engine"  "ui.style":"size:6px; fill-color:white; "
+an "Association for Computing Machinery"
+cn "Association for Computing Machinery"  "ui.label":"Association for Computing Machinery"
+cn "Association for Computing Machinery"  "ui.style":"size:6px; fill-color:white; "
+an "Digital audio"
+cn "Digital audio"  "ui.label":"Digital audio"
+cn "Digital audio"  "ui.style":"size:6px; fill-color:white; "
+an "organization"
+cn "organization"  "ui.label":"organization"
+cn "organization"  "ui.style":"size:6px; fill-color:white; "
+an "Handheld game console"
+cn "Handheld game console"  "ui.label":"Handheld game console"
+cn "Handheld game console"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2001"
+cn "Internet_properties_established_in_2001"  "ui.label":"Internet_properties_established_in_2001"
+cn "Internet_properties_established_in_2001"  "ui.style":"size:6px; fill-color:white; "
+an "centrifugation"
+cn "centrifugation"  "ui.label":"centrifugation"
+cn "centrifugation"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2004"
+cn "Internet_properties_established_in_2004"  "ui.label":"Internet_properties_established_in_2004"
+cn "Internet_properties_established_in_2004"  "ui.style":"size:6px; fill-color:white; "
+an "Massachusetts Institute of Technology"
+cn "Massachusetts Institute of Technology"  "ui.label":"Massachusetts Institute of Technology"
+cn "Massachusetts Institute of Technology"  "ui.style":"size:6px; fill-color:white; "
+an "Electronic engineering"
+cn "Electronic engineering"  "ui.label":"Electronic engineering"
+cn "Electronic engineering"  "ui.style":"size:6px; fill-color:white; "
+an "Digital video"
+cn "Digital video"  "ui.label":"Digital video"
+cn "Digital video"  "ui.style":"size:6px; fill-color:white; "
+an "keyboard"
+cn "keyboard"  "ui.label":"keyboard"
+cn "keyboard"  "ui.style":"size:6px; fill-color:white; "
+an "point"
+cn "point"  "ui.label":"point"
+cn "point"  "ui.style":"size:6px; fill-color:white; "
+an "Electronic circuit"
+cn "Electronic circuit"  "ui.label":"Electronic circuit"
+cn "Electronic circuit"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2019"
+cn "Internet_properties_established_in_2019"  "ui.label":"Internet_properties_established_in_2019"
+cn "Internet_properties_established_in_2019"  "ui.style":"size:6px; fill-color:white; "
+ae "Computer->machine" "Computer"  "machine"
+ce "Computer->machine"  "type":0
+ae "machine->device" "machine"  "device"
+ce "machine->device"  "type":0
+ae "device->instrumentality" "device"  "instrumentality"
+ce "device->instrumentality"  "type":0
+ae "instrumentality->unit" "instrumentality"  "unit"
+ce "instrumentality->unit"  "type":0
+ae "unit->definite quantity" "unit"  "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity"  "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "activity->state" "activity"  "state"
+ce "activity->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "Internet->computer network" "Internet"  "computer network"
+ce "Internet->computer network"  "type":0
+ae "computer network->network" "computer network"  "network"
+ce "computer network->network"  "type":0
+ae "network->system" "network"  "system"
+ce "network->system"  "type":0
+ae "system->instrumentality" "system"  "instrumentality"
+ce "system->instrumentality"  "type":0
+ae "system->group" "system"  "group"
+ce "system->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Computer->Network_analyzers" "Computer" > "Network_analyzers"
+ce "Computer->Network_analyzers"  "type":8
+ae "machine->Difference engine" "machine" > "Difference engine"
+ce "machine->Difference engine"  "type":8
+ae "Computer->Association for Computing Machinery" "Computer" > "Association for Computing Machinery"
+ce "Computer->Association for Computing Machinery"  "type":8
+ae "Internet->Network_analyzers" "Internet" > "Network_analyzers"
+ce "Internet->Network_analyzers"  "type":8
+ae "machine->Turing machine" "machine" > "Turing machine"
+ce "machine->Turing machine"  "type":8
+ae "abstraction->Carl Jung" "abstraction" > "Carl Jung"
+ce "abstraction->Carl Jung"  "type":8
+ae "location->point" "location" > "point"
+ce "location->point"  "type":1
+ae "action->source" "action" > "source"
+ce "action->source"  "type":1
+ae "action->stiffening" "action" > "stiffening"
+ce "action->stiffening"  "type":1
+ae "activity->hardening" "activity" > "hardening"
+ce "activity->hardening"  "type":1
+ae "Internet->Firewall_software" "Internet" > "Firewall_software"
+ce "Internet->Firewall_software"  "type":8
+ae "action->survival" "action" > "survival"
+ce "action->survival"  "type":1
+ae "network->Electronic circuit" "network" > "Electronic circuit"
+ce "network->Electronic circuit"  "type":8
+ae "Computer->Electronic engineering" "Computer" > "Electronic engineering"
+ce "Computer->Electronic engineering"  "type":8
+ae "action->transduction" "action" > "transduction"
+ce "action->transduction"  "type":1
+ae "action->vitrification" "action" > "vitrification"
+ce "action->vitrification"  "type":1
+ae "region->Economics" "region" > "Economics"
+ce "region->Economics"  "type":8
+ae "Computer->Internet" "Computer" > "Internet"
+ce "Computer->Internet"  "type":8
+ae "Computer->Machine" "Computer" > "Machine"
+ce "Computer->Machine"  "type":8
+ae "machine->Information technology" "machine" > "Information technology"
+ce "machine->Information technology"  "type":8
+ae "network->communication system" "network" > "communication system"
+ce "network->communication system"  "type":0
+ae "Internet->Privacy_software" "Internet" > "Privacy_software"
+ce "Internet->Privacy_software"  "type":8
+ae "Computer->Turing machine" "Computer" > "Turing machine"
+ce "Computer->Turing machine"  "type":8
+ae "system->communication system" "system" > "communication system"
+ce "system->communication system"  "type":1
+ae "Internet->University of California, Santa Barbara" "Internet" > "University of California, Santa Barbara"
+ce "Internet->University of California, Santa Barbara"  "type":8
+ae "Computer->File format" "Computer" > "File format"
+ce "Computer->File format"  "type":8
+ae "Computer->Bill of lading" "Computer" > "Bill of lading"
+ce "Computer->Bill of lading"  "type":8
+ae "Internet->University of California, Los Angeles" "Internet" > "University of California, Los Angeles"
+ce "Internet->University of California, Los Angeles"  "type":8
+ae "Computer->New_media_art" "Computer" > "New_media_art"
+ce "Computer->New_media_art"  "type":8
+ae "abstraction->Bill of lading" "abstraction" > "Bill of lading"
+ce "abstraction->Bill of lading"  "type":8
+ae "machine->organization" "machine" > "organization"
+ce "machine->organization"  "type":0
+ae "Computer->Internet_properties_established_in_2019" "Computer" > "Internet_properties_established_in_2019"
+ce "Computer->Internet_properties_established_in_2019"  "type":8
+ae "Computer->Handheld game console" "Computer" > "Handheld game console"
+ce "Computer->Handheld game console"  "type":8
+ae "Internet->Internet_properties_established_in_1990" "Internet" > "Internet_properties_established_in_1990"
+ce "Internet->Internet_properties_established_in_1990"  "type":8
+ae "activity->dissolution" "activity" > "dissolution"
+ce "activity->dissolution"  "type":1
+ae "measure->point" "measure" > "point"
+ce "measure->point"  "type":1
+ae "Internet->Internet_properties_established_in_1996" "Internet" > "Internet_properties_established_in_1996"
+ce "Internet->Internet_properties_established_in_1996"  "type":8
+ae "Computer->Internet_properties_established_in_2000" "Computer" > "Internet_properties_established_in_2000"
+ce "Computer->Internet_properties_established_in_2000"  "type":8
+ae "Internet->Internet_properties_established_in_2001" "Internet" > "Internet_properties_established_in_2001"
+ce "Internet->Internet_properties_established_in_2001"  "type":8
+ae "Internet->Internet_properties_established_in_2004" "Internet" > "Internet_properties_established_in_2004"
+ce "Internet->Internet_properties_established_in_2004"  "type":8
+ae "Internet->Web browser" "Internet" > "Web browser"
+ce "Internet->Web browser"  "type":8
+ae "Internet->Internet_properties_established_in_2010" "Internet" > "Internet_properties_established_in_2010"
+ce "Internet->Internet_properties_established_in_2010"  "type":8
+ae "Internet->Internet_properties_established_in_2011" "Internet" > "Internet_properties_established_in_2011"
+ce "Internet->Internet_properties_established_in_2011"  "type":8
+ae "Computer->Difference engine" "Computer" > "Difference engine"
+ce "Computer->Difference engine"  "type":8
+ae "computer network->Association for Computing Machinery" "computer network" > "Association for Computing Machinery"
+ce "computer network->Association for Computing Machinery"  "type":8
+ae "Internet->Internet_properties_established_in_2017" "Internet" > "Internet_properties_established_in_2017"
+ce "Internet->Internet_properties_established_in_2017"  "type":8
+ae "Internet->Internet_properties_established_in_2019" "Internet" > "Internet_properties_established_in_2019"
+ce "Internet->Internet_properties_established_in_2019"  "type":8
+ae "Computer->Internet_properties_established_in_2010" "Computer" > "Internet_properties_established_in_2010"
+ce "Computer->Internet_properties_established_in_2010"  "type":8
+ae "Computer->Internet_properties_established_in_2013" "Computer" > "Internet_properties_established_in_2013"
+ce "Computer->Internet_properties_established_in_2013"  "type":8
+ae "operation->activity" "operation" > "activity"
+ce "operation->activity"  "type":0
+ae "Computer->ARPANET" "Computer" > "ARPANET"
+ce "Computer->ARPANET"  "type":8
+ae "Computer->Massachusetts Institute of Technology" "Computer" > "Massachusetts Institute of Technology"
+ce "Computer->Massachusetts Institute of Technology"  "type":8
+ae "Computer->Asymmetric digital subscriber line" "Computer" > "Asymmetric digital subscriber line"
+ce "Computer->Asymmetric digital subscriber line"  "type":8
+ae "action->keyboard" "action" > "keyboard"
+ce "action->keyboard"  "type":6
+ae "device->design" "device" > "design"
+ce "device->design"  "type":0
+ae "device->keyboard" "device" > "keyboard"
+ce "device->keyboard"  "type":1
+ae "Computer->Electronic circuit" "Computer" > "Electronic circuit"
+ce "Computer->Electronic circuit"  "type":8
+ae "region->cleavage" "region" > "cleavage"
+ce "region->cleavage"  "type":1
+ae "Computer->Internet_properties_established_in_2004" "Computer" > "Internet_properties_established_in_2004"
+ce "Computer->Internet_properties_established_in_2004"  "type":8
+ae "Internet->Handheld game console" "Internet" > "Handheld game console"
+ce "Internet->Handheld game console"  "type":8
+ae "writing->activity" "writing" > "activity"
+ce "writing->activity"  "type":0
+ae "activity->nuclear reaction" "activity" > "nuclear reaction"
+ce "activity->nuclear reaction"  "type":1
+ae "action->dissolution" "action" > "dissolution"
+ce "action->dissolution"  "type":1
+ae "computer network->Fiber Distributed Data Interface" "computer network" > "Fiber Distributed Data Interface"
+ce "computer network->Fiber Distributed Data Interface"  "type":8
+ae "activity->phase change" "activity" > "phase change"
+ce "activity->phase change"  "type":1
+ae "Internet->Virtual private network" "Internet" > "Virtual private network"
+ce "Internet->Virtual private network"  "type":8
+ae "maneuver->motion" "maneuver" > "motion"
+ce "maneuver->motion"  "type":0
+ae "device->Machine" "device" > "Machine"
+ce "device->Machine"  "type":8
+ae "document->File format" "document" > "File format"
+ce "document->File format"  "type":8
+ae "Computer->Internet_properties_established_in_2017" "Computer" > "Internet_properties_established_in_2017"
+ce "Computer->Internet_properties_established_in_2017"  "type":8
+ae "Computer->Internet_properties_established_in_2009" "Computer" > "Internet_properties_established_in_2009"
+ce "Computer->Internet_properties_established_in_2009"  "type":8
+ae "activity->centrifugation" "activity" > "centrifugation"
+ce "activity->centrifugation"  "type":1
+ae "Computer->Web browser" "Computer" > "Web browser"
+ce "Computer->Web browser"  "type":8
+ae "measure->activity" "measure" > "activity"
+ce "measure->activity"  "type":0
+ae "Computer->Internet_properties_established_in_1992" "Computer" > "Internet_properties_established_in_1992"
+ce "Computer->Internet_properties_established_in_1992"  "type":8
+ae "computer network->Computer science" "computer network" > "Computer science"
+ce "computer network->Computer science"  "type":8
+ae "computer network->Electronic engineering" "computer network" > "Electronic engineering"
+ce "computer network->Electronic engineering"  "type":8
+ae "action->hardening" "action" > "hardening"
+ce "action->hardening"  "type":1
+ae "Internet->Internet_properties_established_in_1992" "Internet" > "Internet_properties_established_in_1992"
+ce "Internet->Internet_properties_established_in_1992"  "type":8
+ae "activity->organization" "activity" > "organization"
+ce "activity->organization"  "type":1
+ae "Computer->Internet_properties_established_in_1990" "Computer" > "Internet_properties_established_in_1990"
+ce "Computer->Internet_properties_established_in_1990"  "type":8
+ae "state->action" "state" > "action"
+ce "state->action"  "type":1
+ae "Internet->Internet_properties_established_in_2000" "Internet" > "Internet_properties_established_in_2000"
+ce "Internet->Internet_properties_established_in_2000"  "type":8
+ae "Internet->Internet_properties_established_in_2009" "Internet" > "Internet_properties_established_in_2009"
+ce "Internet->Internet_properties_established_in_2009"  "type":8
+ae "Internet->Internet_properties_established_in_2013" "Internet" > "Internet_properties_established_in_2013"
+ce "Internet->Internet_properties_established_in_2013"  "type":8
+ae "computer network->Virtual private network" "computer network" > "Virtual private network"
+ce "computer network->Virtual private network"  "type":8
+ae "Computer->Internet_properties_established_in_2011" "Computer" > "Internet_properties_established_in_2011"
+ce "Computer->Internet_properties_established_in_2011"  "type":8
+ae "document->Bill of lading" "document" > "Bill of lading"
+ce "document->Bill of lading"  "type":8
+ae "computer network->University of California, Santa Barbara" "computer network" > "University of California, Santa Barbara"
+ce "computer network->University of California, Santa Barbara"  "type":8
+ae "state->motion" "state" > "motion"
+ce "state->motion"  "type":1
+ae "Computer->Privacy_software" "Computer" > "Privacy_software"
+ce "Computer->Privacy_software"  "type":8
+ae "computer network->University of California, Los Angeles" "computer network" > "University of California, Los Angeles"
+ce "computer network->University of California, Los Angeles"  "type":8
+ae "computer network->ARPANET" "computer network" > "ARPANET"
+ce "computer network->ARPANET"  "type":8
+ae "unit->object" "unit" > "object"
+ce "unit->object"  "type":0
+ae "Computer->Internet_properties_established_in_1996" "Computer" > "Internet_properties_established_in_1996"
+ce "Computer->Internet_properties_established_in_1996"  "type":8
+ae "Internet->New_media_art" "Internet" > "New_media_art"
+ce "Internet->New_media_art"  "type":8
+ae "computer network->Massachusetts Institute of Technology" "computer network" > "Massachusetts Institute of Technology"
+ce "computer network->Massachusetts Institute of Technology"  "type":8
+ae "document->source" "document" > "source"
+ce "document->source"  "type":1
+ae "system->Carl Jung" "system" > "Carl Jung"
+ce "system->Carl Jung"  "type":8
+ae "Computer->Digital audio" "Computer" > "Digital audio"
+ce "Computer->Digital audio"  "type":8
+ae "Computer->Fiber Distributed Data Interface" "Computer" > "Fiber Distributed Data Interface"
+ce "Computer->Fiber Distributed Data Interface"  "type":8
+ae "state->cleavage" "state" > "cleavage"
+ce "state->cleavage"  "type":1
+ae "Computer->Digital video" "Computer" > "Digital video"
+ce "Computer->Digital video"  "type":8
+ae "action->nuclear reaction" "action" > "nuclear reaction"
+ce "action->nuclear reaction"  "type":1
+ae "Computer->Firewall_software" "Computer" > "Firewall_software"
+ce "Computer->Firewall_software"  "type":8
+ae "Computer->Internet_properties_established_in_2001" "Computer" > "Internet_properties_established_in_2001"
+ce "Computer->Internet_properties_established_in_2001"  "type":8
+ae "act->performance" "act" > "performance"
+ce "act->performance"  "type":0
+ae "Internet->Asymmetric digital subscriber line" "Internet" > "Asymmetric digital subscriber line"
+ce "Internet->Asymmetric digital subscriber line"  "type":8
+ae "action->performance" "action" > "performance"
+ce "action->performance"  "type":1
+ae "computer network->Digital audio" "computer network" > "Digital audio"
+ce "computer network->Digital audio"  "type":8
+ae "computer network->Digital video" "computer network" > "Digital video"
+ce "computer network->Digital video"  "type":8
+ae "action->phase change" "action" > "phase change"
+ce "action->phase change"  "type":1
+ae "computer network->Information technology" "computer network" > "Information technology"
+ce "computer network->Information technology"  "type":8
+ae "action->centrifugation" "action" > "centrifugation"
+ce "action->centrifugation"  "type":1
+ae "system->Computer science" "system" > "Computer science"
+ce "system->Computer science"  "type":8
+ae "activity->operation" "activity" > "operation"
+ce "activity->operation"  "type":1
+ae "activity->vitrification" "activity" > "vitrification"
+ce "activity->vitrification"  "type":1
+ae "system->Economics" "system" > "Economics"
+ce "system->Economics"  "type":8
+ae "activity->transduction" "activity" > "transduction"
+ce "activity->transduction"  "type":1
+ae "unit->group" "unit" > "group"
+ce "unit->group"  "type":1
+ae "creating by mental acts->design" "creating by mental acts" > "design"
+ce "creating by mental acts->design"  "type":1
+ae "activity->survival" "activity" > "survival"
+ce "activity->survival"  "type":1
+ae "computer network->Computer" "computer network" > "Computer"
+ce "computer network->Computer"  "type":8
+ae "activity->stiffening" "activity" > "stiffening"
+ce "activity->stiffening"  "type":1

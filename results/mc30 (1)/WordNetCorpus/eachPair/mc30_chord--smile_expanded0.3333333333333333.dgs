@@ -1,0 +1,1713 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "chord"
+cn "chord"  "ui.label":"chord"
+cn "chord"  "ui.style":"size-mode:fit;"
+an "straight line"
+cn "straight line"  "ui.label":"straight line"
+cn "straight line"  "ui.style":"size:6px; fill-color:white; "
+an "line"
+cn "line"  "ui.label":"line"
+cn "line"  "ui.style":"size:6px; fill-color:white; "
+an "formation"
+cn "formation"  "ui.label":"formation"
+cn "formation"  "ui.style":"size:6px; fill-color:white; "
+an "arrangement"
+cn "arrangement"  "ui.label":"arrangement"
+cn "arrangement"  "ui.style":"size:6px; fill-color:white; "
+an "planning"
+cn "planning"  "ui.label":"planning"
+cn "planning"  "ui.style":"size:6px; fill-color:white; "
+an "preparation"
+cn "preparation"  "ui.label":"preparation"
+cn "preparation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "smile"
+cn "smile"  "ui.label":"smile"
+cn "smile"  "ui.style":"size-mode:fit;"
+an "facial expression"
+cn "facial expression"  "ui.label":"facial expression"
+cn "facial expression"  "ui.style":"size:6px; fill-color:white; "
+an "gesture"
+cn "gesture"  "ui.label":"gesture"
+cn "gesture"  "ui.style":"size:6px; fill-color:white; "
+an "motion"
+cn "motion"  "ui.label":"motion"
+cn "motion"  "ui.style":"size:6px; fill-color:white; "
+an "visual communication"
+cn "visual communication"  "ui.label":"visual communication"
+cn "visual communication"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "note"
+cn "note"  "ui.label":"note"
+cn "note"  "ui.style":"size:6px; fill-color:white; "
+an "arpeggio"
+cn "arpeggio"  "ui.label":"arpeggio"
+cn "arpeggio"  "ui.style":"size:6px; fill-color:white; "
+an "perpendicular"
+cn "perpendicular"  "ui.label":"perpendicular"
+cn "perpendicular"  "ui.style":"size:6px; fill-color:white; "
+an "asymptote"
+cn "asymptote"  "ui.label":"asymptote"
+cn "asymptote"  "ui.style":"size:6px; fill-color:white; "
+an "tangent"
+cn "tangent"  "ui.label":"tangent"
+cn "tangent"  "ui.style":"size:6px; fill-color:white; "
+an "diagonal"
+cn "diagonal"  "ui.label":"diagonal"
+cn "diagonal"  "ui.style":"size:6px; fill-color:white; "
+an "shape"
+cn "shape"  "ui.label":"shape"
+cn "shape"  "ui.style":"size:6px; fill-color:white; "
+an "electromagnetic radiation"
+cn "electromagnetic radiation"  "ui.label":"electromagnetic radiation"
+cn "electromagnetic radiation"  "ui.style":"size:6px; fill-color:white; "
+an "depression"
+cn "depression"  "ui.label":"depression"
+cn "depression"  "ui.style":"size:6px; fill-color:white; "
+an "pipe"
+cn "pipe"  "ui.label":"pipe"
+cn "pipe"  "ui.style":"size:6px; fill-color:white; "
+an "genealogy"
+cn "genealogy"  "ui.label":"genealogy"
+cn "genealogy"  "ui.style":"size:6px; fill-color:white; "
+an "artifact"
+cn "artifact"  "ui.label":"artifact"
+cn "artifact"  "ui.style":"size:6px; fill-color:white; "
+an "credit"
+cn "credit"  "ui.label":"credit"
+cn "credit"  "ui.style":"size:6px; fill-color:white; "
+an "persuasion"
+cn "persuasion"  "ui.label":"persuasion"
+cn "persuasion"  "ui.style":"size:6px; fill-color:white; "
+an "rivet line"
+cn "rivet line"  "ui.label":"rivet line"
+cn "rivet line"  "ui.style":"size:6px; fill-color:white; "
+an "descender"
+cn "descender"  "ui.label":"descender"
+cn "descender"  "ui.style":"size:6px; fill-color:white; "
+an "graduation"
+cn "graduation"  "ui.label":"graduation"
+cn "graduation"  "ui.style":"size:6px; fill-color:white; "
+an "hairline"
+cn "hairline"  "ui.label":"hairline"
+cn "hairline"  "ui.style":"size:6px; fill-color:white; "
+an "line of succession"
+cn "line of succession"  "ui.label":"line of succession"
+cn "line of succession"  "ui.style":"size:6px; fill-color:white; "
+an "picket line"
+cn "picket line"  "ui.label":"picket line"
+cn "picket line"  "ui.style":"size:6px; fill-color:white; "
+an "queue"
+cn "queue"  "ui.label":"queue"
+cn "queue"  "ui.style":"size:6px; fill-color:white; "
+an "centerline"
+cn "centerline"  "ui.label":"centerline"
+cn "centerline"  "ui.style":"size:6px; fill-color:white; "
+an "line of poetry"
+cn "line of poetry"  "ui.label":"line of poetry"
+cn "line of poetry"  "ui.style":"size:6px; fill-color:white; "
+an "by-line"
+cn "by-line"  "ui.label":"by-line"
+cn "by-line"  "ui.style":"size:6px; fill-color:white; "
+an "dateline"
+cn "dateline"  "ui.label":"dateline"
+cn "dateline"  "ui.style":"size:6px; fill-color:white; "
+an "verse"
+cn "verse"  "ui.label":"verse"
+cn "verse"  "ui.style":"size:6px; fill-color:white; "
+an "punch line"
+cn "punch line"  "ui.label":"punch line"
+cn "punch line"  "ui.style":"size:6px; fill-color:white; "
+an "bottom line"
+cn "bottom line"  "ui.label":"bottom line"
+cn "bottom line"  "ui.style":"size:6px; fill-color:white; "
+an "battlefront"
+cn "battlefront"  "ui.label":"battlefront"
+cn "battlefront"  "ui.style":"size:6px; fill-color:white; "
+an "fiber optic cable"
+cn "fiber optic cable"  "ui.label":"fiber optic cable"
+cn "fiber optic cable"  "ui.style":"size:6px; fill-color:white; "
+an "aclinic line"
+cn "aclinic line"  "ui.label":"aclinic line"
+cn "aclinic line"  "ui.style":"size:6px; fill-color:white; "
+an "agonic line"
+cn "agonic line"  "ui.label":"agonic line"
+cn "agonic line"  "ui.style":"size:6px; fill-color:white; "
+an "horizon"
+cn "horizon"  "ui.label":"horizon"
+cn "horizon"  "ui.style":"size:6px; fill-color:white; "
+an "isogram"
+cn "isogram"  "ui.label":"isogram"
+cn "isogram"  "ui.style":"size:6px; fill-color:white; "
+an "line of sight"
+cn "line of sight"  "ui.label":"line of sight"
+cn "line of sight"  "ui.style":"size:6px; fill-color:white; "
+an "line of force"
+cn "line of force"  "ui.label":"line of force"
+cn "line of force"  "ui.style":"size:6px; fill-color:white; "
+an "crow's foot"
+cn "crow's foot"  "ui.label":"crow's foot"
+cn "crow's foot"  "ui.style":"size:6px; fill-color:white; "
+an "dermatoglyphic"
+cn "dermatoglyphic"  "ui.label":"dermatoglyphic"
+cn "dermatoglyphic"  "ui.style":"size:6px; fill-color:white; "
+an "frown line"
+cn "frown line"  "ui.label":"frown line"
+cn "frown line"  "ui.style":"size:6px; fill-color:white; "
+an "line of heart"
+cn "line of heart"  "ui.label":"line of heart"
+cn "line of heart"  "ui.style":"size:6px; fill-color:white; "
+an "trunk line"
+cn "trunk line"  "ui.label":"trunk line"
+cn "trunk line"  "ui.style":"size:6px; fill-color:white; "
+an "toll line"
+cn "toll line"  "ui.label":"toll line"
+cn "toll line"  "ui.style":"size:6px; fill-color:white; "
+an "lifeline"
+cn "lifeline"  "ui.label":"lifeline"
+cn "lifeline"  "ui.style":"size:6px; fill-color:white; "
+an "strand"
+cn "strand"  "ui.label":"strand"
+cn "strand"  "ui.style":"size:6px; fill-color:white; "
+an "trace"
+cn "trace"  "ui.label":"trace"
+cn "trace"  "ui.style":"size:6px; fill-color:white; "
+an "confectionery"
+cn "confectionery"  "ui.label":"confectionery"
+cn "confectionery"  "ui.style":"size:6px; fill-color:white; "
+an "sport"
+cn "sport"  "ui.label":"sport"
+cn "sport"  "ui.style":"size:6px; fill-color:white; "
+an "career"
+cn "career"  "ui.label":"career"
+cn "career"  "ui.style":"size:6px; fill-color:white; "
+an "employment"
+cn "employment"  "ui.label":"employment"
+cn "employment"  "ui.style":"size:6px; fill-color:white; "
+an "position"
+cn "position"  "ui.label":"position"
+cn "position"  "ui.style":"size:6px; fill-color:white; "
+an "photography"
+cn "photography"  "ui.label":"photography"
+cn "photography"  "ui.style":"size:6px; fill-color:white; "
+an "balkline"
+cn "balkline"  "ui.label":"balkline"
+cn "balkline"  "ui.style":"size:6px; fill-color:white; "
+an "foul line"
+cn "foul line"  "ui.label":"foul line"
+cn "foul line"  "ui.style":"size:6px; fill-color:white; "
+an "baseline"
+cn "baseline"  "ui.label":"baseline"
+cn "baseline"  "ui.style":"size:6px; fill-color:white; "
+an "scrimmage line"
+cn "scrimmage line"  "ui.label":"scrimmage line"
+cn "scrimmage line"  "ui.style":"size:6px; fill-color:white; "
+an "start"
+cn "start"  "ui.label":"start"
+cn "start"  "ui.style":"size:6px; fill-color:white; "
+an "spiel"
+cn "spiel"  "ui.label":"spiel"
+cn "spiel"  "ui.style":"size:6px; fill-color:white; "
+an "sideline"
+cn "sideline"  "ui.label":"sideline"
+cn "sideline"  "ui.style":"size:6px; fill-color:white; "
+an "consumer credit"
+cn "consumer credit"  "ui.label":"consumer credit"
+cn "consumer credit"  "ui.style":"size:6px; fill-color:white; "
+an "flourish"
+cn "flourish"  "ui.label":"flourish"
+cn "flourish"  "ui.style":"size:6px; fill-color:white; "
+an "roulade"
+cn "roulade"  "ui.label":"roulade"
+cn "roulade"  "ui.style":"size:6px; fill-color:white; "
+an "theme song"
+cn "theme song"  "ui.label":"theme song"
+cn "theme song"  "ui.style":"size:6px; fill-color:white; "
+an "part"
+cn "part"  "ui.label":"part"
+cn "part"  "ui.style":"size:6px; fill-color:white; "
+an "Rubicon"
+cn "Rubicon"  "ui.label":"Rubicon"
+cn "Rubicon"  "ui.style":"size:6px; fill-color:white; "
+an "factory"
+cn "factory"  "ui.label":"factory"
+cn "factory"  "ui.style":"size:6px; fill-color:white; "
+an "phrase"
+cn "phrase"  "ui.label":"phrase"
+cn "phrase"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "natural process"
+cn "natural process"  "ui.label":"natural process"
+cn "natural process"  "ui.style":"size:6px; fill-color:white; "
+an "filing"
+cn "filing"  "ui.label":"filing"
+cn "filing"  "ui.style":"size:6px; fill-color:white; "
+an "forging"
+cn "forging"  "ui.label":"forging"
+cn "forging"  "ui.style":"size:6px; fill-color:white; "
+an "turning"
+cn "turning"  "ui.label":"turning"
+cn "turning"  "ui.style":"size:6px; fill-color:white; "
+an "unionization"
+cn "unionization"  "ui.label":"unionization"
+cn "unionization"  "ui.style":"size:6px; fill-color:white; "
+an "collectivization"
+cn "collectivization"  "ui.label":"collectivization"
+cn "collectivization"  "ui.style":"size:6px; fill-color:white; "
+an "federation"
+cn "federation"  "ui.label":"federation"
+cn "federation"  "ui.style":"size:6px; fill-color:white; "
+an "cliff"
+cn "cliff"  "ui.label":"cliff"
+cn "cliff"  "ui.style":"size:6px; fill-color:white; "
+an "foreshore"
+cn "foreshore"  "ui.label":"foreshore"
+cn "foreshore"  "ui.style":"size:6px; fill-color:white; "
+an "ice mass"
+cn "ice mass"  "ui.label":"ice mass"
+cn "ice mass"  "ui.style":"size:6px; fill-color:white; "
+an "massif"
+cn "massif"  "ui.label":"massif"
+cn "massif"  "ui.style":"size:6px; fill-color:white; "
+an "natural depression"
+cn "natural depression"  "ui.label":"natural depression"
+cn "natural depression"  "ui.style":"size:6px; fill-color:white; "
+an "oceanfront"
+cn "oceanfront"  "ui.label":"oceanfront"
+cn "oceanfront"  "ui.style":"size:6px; fill-color:white; "
+an "range"
+cn "range"  "ui.label":"range"
+cn "range"  "ui.style":"size:6px; fill-color:white; "
+an "relict"
+cn "relict"  "ui.label":"relict"
+cn "relict"  "ui.style":"size:6px; fill-color:white; "
+an "ridge"
+cn "ridge"  "ui.label":"ridge"
+cn "ridge"  "ui.style":"size:6px; fill-color:white; "
+an "talus"
+cn "talus"  "ui.label":"talus"
+cn "talus"  "ui.style":"size:6px; fill-color:white; "
+an "affixation"
+cn "affixation"  "ui.label":"affixation"
+cn "affixation"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "flower arrangement"
+cn "flower arrangement"  "ui.label":"flower arrangement"
+cn "flower arrangement"  "ui.style":"size:6px; fill-color:white; "
+an "array"
+cn "array"  "ui.label":"array"
+cn "array"  "ui.style":"size:6px; fill-color:white; "
+an "tableau"
+cn "tableau"  "ui.label":"tableau"
+cn "tableau"  "ui.style":"size:6px; fill-color:white; "
+an "vernation"
+cn "vernation"  "ui.label":"vernation"
+cn "vernation"  "ui.style":"size:6px; fill-color:white; "
+an "ordering"
+cn "ordering"  "ui.label":"ordering"
+cn "ordering"  "ui.style":"size:6px; fill-color:white; "
+an "classification system"
+cn "classification system"  "ui.label":"classification system"
+cn "classification system"  "ui.style":"size:6px; fill-color:white; "
+an "coordinate system"
+cn "coordinate system"  "ui.label":"coordinate system"
+cn "coordinate system"  "ui.style":"size:6px; fill-color:white; "
+an "lattice"
+cn "lattice"  "ui.label":"lattice"
+cn "lattice"  "ui.style":"size:6px; fill-color:white; "
+an "living arrangement"
+cn "living arrangement"  "ui.label":"living arrangement"
+cn "living arrangement"  "ui.style":"size:6px; fill-color:white; "
+an "calendar"
+cn "calendar"  "ui.label":"calendar"
+cn "calendar"  "ui.style":"size:6px; fill-color:white; "
+an "fenestration"
+cn "fenestration"  "ui.label":"fenestration"
+cn "fenestration"  "ui.style":"size:6px; fill-color:white; "
+an "alignment"
+cn "alignment"  "ui.label":"alignment"
+cn "alignment"  "ui.style":"size:6px; fill-color:white; "
+an "ramification"
+cn "ramification"  "ui.label":"ramification"
+cn "ramification"  "ui.style":"size:6px; fill-color:white; "
+an "spacing"
+cn "spacing"  "ui.label":"spacing"
+cn "spacing"  "ui.style":"size:6px; fill-color:white; "
+an "tandem"
+cn "tandem"  "ui.label":"tandem"
+cn "tandem"  "ui.style":"size:6px; fill-color:white; "
+an "instrumentation"
+cn "instrumentation"  "ui.label":"instrumentation"
+cn "instrumentation"  "ui.style":"size:6px; fill-color:white; "
+an "orchestration"
+cn "orchestration"  "ui.label":"orchestration"
+cn "orchestration"  "ui.style":"size:6px; fill-color:white; "
+an "thinking"
+cn "thinking"  "ui.label":"thinking"
+cn "thinking"  "ui.style":"size:6px; fill-color:white; "
+an "applecart"
+cn "applecart"  "ui.label":"applecart"
+cn "applecart"  "ui.style":"size:6px; fill-color:white; "
+an "calculation"
+cn "calculation"  "ui.label":"calculation"
+cn "calculation"  "ui.style":"size:6px; fill-color:white; "
+an "compound"
+cn "compound"  "ui.label":"compound"
+cn "compound"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "fire control"
+cn "fire control"  "ui.label":"fire control"
+cn "fire control"  "ui.style":"size:6px; fill-color:white; "
+an "deployment"
+cn "deployment"  "ui.label":"deployment"
+cn "deployment"  "ui.style":"size:6px; fill-color:white; "
+an "makeready"
+cn "makeready"  "ui.label":"makeready"
+cn "makeready"  "ui.style":"size:6px; fill-color:white; "
+an "nebula"
+cn "nebula"  "ui.label":"nebula"
+cn "nebula"  "ui.style":"size:6px; fill-color:white; "
+an "polish"
+cn "polish"  "ui.label":"polish"
+cn "polish"  "ui.style":"size:6px; fill-color:white; "
+an "smelling salts"
+cn "smelling salts"  "ui.label":"smelling salts"
+cn "smelling salts"  "ui.style":"size:6px; fill-color:white; "
+an "alert"
+cn "alert"  "ui.label":"alert"
+cn "alert"  "ui.style":"size:6px; fill-color:white; "
+an "drill"
+cn "drill"  "ui.label":"drill"
+cn "drill"  "ui.style":"size:6px; fill-color:white; "
+an "retraining"
+cn "retraining"  "ui.label":"retraining"
+cn "retraining"  "ui.style":"size:6px; fill-color:white; "
+an "skull session"
+cn "skull session"  "ui.label":"skull session"
+cn "skull session"  "ui.style":"size:6px; fill-color:white; "
+an "toilet training"
+cn "toilet training"  "ui.label":"toilet training"
+cn "toilet training"  "ui.style":"size:6px; fill-color:white; "
+an "baking"
+cn "baking"  "ui.label":"baking"
+cn "baking"  "ui.style":"size:6px; fill-color:white; "
+an "broil"
+cn "broil"  "ui.label":"broil"
+cn "broil"  "ui.style":"size:6px; fill-color:white; "
+an "frying"
+cn "frying"  "ui.label":"frying"
+cn "frying"  "ui.style":"size:6px; fill-color:white; "
+an "braising"
+cn "braising"  "ui.label":"braising"
+cn "braising"  "ui.style":"size:6px; fill-color:white; "
+an "poaching"
+cn "poaching"  "ui.label":"poaching"
+cn "poaching"  "ui.style":"size:6px; fill-color:white; "
+an "roasting"
+cn "roasting"  "ui.label":"roasting"
+cn "roasting"  "ui.style":"size:6px; fill-color:white; "
+an "percolation"
+cn "percolation"  "ui.label":"percolation"
+cn "percolation"  "ui.style":"size:6px; fill-color:white; "
+an "education"
+cn "education"  "ui.label":"education"
+cn "education"  "ui.style":"size:6px; fill-color:white; "
+an "trait"
+cn "trait"  "ui.label":"trait"
+cn "trait"  "ui.style":"size:6px; fill-color:white; "
+an "variation"
+cn "variation"  "ui.label":"variation"
+cn "variation"  "ui.style":"size:6px; fill-color:white; "
+an "space walk"
+cn "space walk"  "ui.label":"space walk"
+cn "space walk"  "ui.style":"size:6px; fill-color:white; "
+an "domesticity"
+cn "domesticity"  "ui.label":"domesticity"
+cn "domesticity"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "cup of tea"
+cn "cup of tea"  "ui.label":"cup of tea"
+cn "cup of tea"  "ui.style":"size:6px; fill-color:white; "
+an "acting"
+cn "acting"  "ui.label":"acting"
+cn "acting"  "ui.style":"size:6px; fill-color:white; "
+an "occupation"
+cn "occupation"  "ui.label":"occupation"
+cn "occupation"  "ui.style":"size:6px; fill-color:white; "
+an "role"
+cn "role"  "ui.label":"role"
+cn "role"  "ui.style":"size:6px; fill-color:white; "
+an "wrongdoing"
+cn "wrongdoing"  "ui.label":"wrongdoing"
+cn "wrongdoing"  "ui.style":"size:6px; fill-color:white; "
+an "waste"
+cn "waste"  "ui.label":"waste"
+cn "waste"  "ui.style":"size:6px; fill-color:white; "
+an "attempt"
+cn "attempt"  "ui.label":"attempt"
+cn "attempt"  "ui.style":"size:6px; fill-color:white; "
+an "protection"
+cn "protection"  "ui.label":"protection"
+cn "protection"  "ui.style":"size:6px; fill-color:white; "
+an "training"
+cn "training"  "ui.label":"training"
+cn "training"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "measurement"
+cn "measurement"  "ui.label":"measurement"
+cn "measurement"  "ui.style":"size:6px; fill-color:white; "
+an "calibration"
+cn "calibration"  "ui.label":"calibration"
+cn "calibration"  "ui.style":"size:6px; fill-color:white; "
+an "support"
+cn "support"  "ui.label":"support"
+cn "support"  "ui.style":"size:6px; fill-color:white; "
+an "procedure"
+cn "procedure"  "ui.label":"procedure"
+cn "procedure"  "ui.style":"size:6px; fill-color:white; "
+an "concealment"
+cn "concealment"  "ui.label":"concealment"
+cn "concealment"  "ui.style":"size:6px; fill-color:white; "
+an "demand"
+cn "demand"  "ui.label":"demand"
+cn "demand"  "ui.style":"size:6px; fill-color:white; "
+an "pleasure"
+cn "pleasure"  "ui.label":"pleasure"
+cn "pleasure"  "ui.style":"size:6px; fill-color:white; "
+an "enjoyment"
+cn "enjoyment"  "ui.label":"enjoyment"
+cn "enjoyment"  "ui.style":"size:6px; fill-color:white; "
+an "market"
+cn "market"  "ui.label":"market"
+cn "market"  "ui.style":"size:6px; fill-color:white; "
+an "aid"
+cn "aid"  "ui.label":"aid"
+cn "aid"  "ui.style":"size:6px; fill-color:white; "
+an "leadership"
+cn "leadership"  "ui.label":"leadership"
+cn "leadership"  "ui.style":"size:6px; fill-color:white; "
+an "precession"
+cn "precession"  "ui.label":"precession"
+cn "precession"  "ui.style":"size:6px; fill-color:white; "
+an "solo"
+cn "solo"  "ui.label":"solo"
+cn "solo"  "ui.style":"size:6px; fill-color:white; "
+an "fun"
+cn "fun"  "ui.label":"fun"
+cn "fun"  "ui.style":"size:6px; fill-color:white; "
+an "mystification"
+cn "mystification"  "ui.label":"mystification"
+cn "mystification"  "ui.style":"size:6px; fill-color:white; "
+an "verbalization"
+cn "verbalization"  "ui.label":"verbalization"
+cn "verbalization"  "ui.style":"size:6px; fill-color:white; "
+an "play"
+cn "play"  "ui.label":"play"
+cn "play"  "ui.style":"size:6px; fill-color:white; "
+an "sexual activity"
+cn "sexual activity"  "ui.label":"sexual activity"
+cn "sexual activity"  "ui.style":"size:6px; fill-color:white; "
+an "sleeping"
+cn "sleeping"  "ui.label":"sleeping"
+cn "sleeping"  "ui.style":"size:6px; fill-color:white; "
+an "reaction"
+cn "reaction"  "ui.label":"reaction"
+cn "reaction"  "ui.style":"size:6px; fill-color:white; "
+an "hypostasis"
+cn "hypostasis"  "ui.label":"hypostasis"
+cn "hypostasis"  "ui.style":"size:6px; fill-color:white; "
+an "opsonization"
+cn "opsonization"  "ui.label":"opsonization"
+cn "opsonization"  "ui.style":"size:6px; fill-color:white; "
+an "overactivity"
+cn "overactivity"  "ui.label":"overactivity"
+cn "overactivity"  "ui.style":"size:6px; fill-color:white; "
+an "peristalsis"
+cn "peristalsis"  "ui.label":"peristalsis"
+cn "peristalsis"  "ui.style":"size:6px; fill-color:white; "
+an "perspiration"
+cn "perspiration"  "ui.label":"perspiration"
+cn "perspiration"  "ui.style":"size:6px; fill-color:white; "
+an "pinocytosis"
+cn "pinocytosis"  "ui.label":"pinocytosis"
+cn "pinocytosis"  "ui.style":"size:6px; fill-color:white; "
+an "placentation"
+cn "placentation"  "ui.label":"placentation"
+cn "placentation"  "ui.style":"size:6px; fill-color:white; "
+an "tanning"
+cn "tanning"  "ui.label":"tanning"
+cn "tanning"  "ui.style":"size:6px; fill-color:white; "
+an "capture"
+cn "capture"  "ui.label":"capture"
+cn "capture"  "ui.style":"size:6px; fill-color:white; "
+an "condensation"
+cn "condensation"  "ui.label":"condensation"
+cn "condensation"  "ui.style":"size:6px; fill-color:white; "
+an "convection"
+cn "convection"  "ui.label":"convection"
+cn "convection"  "ui.style":"size:6px; fill-color:white; "
+an "decay"
+cn "decay"  "ui.label":"decay"
+cn "decay"  "ui.style":"size:6px; fill-color:white; "
+an "desorption"
+cn "desorption"  "ui.label":"desorption"
+cn "desorption"  "ui.style":"size:6px; fill-color:white; "
+an "diffusion"
+cn "diffusion"  "ui.label":"diffusion"
+cn "diffusion"  "ui.style":"size:6px; fill-color:white; "
+an "drift"
+cn "drift"  "ui.label":"drift"
+cn "drift"  "ui.style":"size:6px; fill-color:white; "
+an "effervescence"
+cn "effervescence"  "ui.label":"effervescence"
+cn "effervescence"  "ui.style":"size:6px; fill-color:white; "
+an "electrophoresis"
+cn "electrophoresis"  "ui.label":"electrophoresis"
+cn "electrophoresis"  "ui.style":"size:6px; fill-color:white; "
+an "establishment"
+cn "establishment"  "ui.label":"establishment"
+cn "establishment"  "ui.style":"size:6px; fill-color:white; "
+an "feedback"
+cn "feedback"  "ui.label":"feedback"
+cn "feedback"  "ui.style":"size:6px; fill-color:white; "
+an "filtration"
+cn "filtration"  "ui.label":"filtration"
+cn "filtration"  "ui.style":"size:6px; fill-color:white; "
+an "ion exchange"
+cn "ion exchange"  "ui.label":"ion exchange"
+cn "ion exchange"  "ui.style":"size:6px; fill-color:white; "
+an "pair production"
+cn "pair production"  "ui.label":"pair production"
+cn "pair production"  "ui.style":"size:6px; fill-color:white; "
+an "precession of the equinoxes"
+cn "precession of the equinoxes"  "ui.label":"precession of the equinoxes"
+cn "precession of the equinoxes"  "ui.style":"size:6px; fill-color:white; "
+an "release"
+cn "release"  "ui.label":"release"
+cn "release"  "ui.style":"size:6px; fill-color:white; "
+an "saltation"
+cn "saltation"  "ui.label":"saltation"
+cn "saltation"  "ui.style":"size:6px; fill-color:white; "
+an "sink"
+cn "sink"  "ui.label":"sink"
+cn "sink"  "ui.style":"size:6px; fill-color:white; "
+an "softening"
+cn "softening"  "ui.label":"softening"
+cn "softening"  "ui.style":"size:6px; fill-color:white; "
+an "stimulation"
+cn "stimulation"  "ui.label":"stimulation"
+cn "stimulation"  "ui.style":"size:6px; fill-color:white; "
+an "synergy"
+cn "synergy"  "ui.label":"synergy"
+cn "synergy"  "ui.style":"size:6px; fill-color:white; "
+an "dynamism"
+cn "dynamism"  "ui.label":"dynamism"
+cn "dynamism"  "ui.style":"size:6px; fill-color:white; "
+an "expression"
+cn "expression"  "ui.label":"expression"
+cn "expression"  "ui.style":"size:6px; fill-color:white; "
+an "decree"
+cn "decree"  "ui.label":"decree"
+cn "decree"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "egress"
+cn "egress"  "ui.label":"egress"
+cn "egress"  "ui.style":"size:6px; fill-color:white; "
+an "exhumation"
+cn "exhumation"  "ui.label":"exhumation"
+cn "exhumation"  "ui.style":"size:6px; fill-color:white; "
+an "mitzvah"
+cn "mitzvah"  "ui.label":"mitzvah"
+cn "mitzvah"  "ui.style":"size:6px; fill-color:white; "
+an "touch"
+cn "touch"  "ui.label":"touch"
+cn "touch"  "ui.style":"size:6px; fill-color:white; "
+an "assumption"
+cn "assumption"  "ui.label":"assumption"
+cn "assumption"  "ui.style":"size:6px; fill-color:white; "
+an "residency"
+cn "residency"  "ui.label":"residency"
+cn "residency"  "ui.style":"size:6px; fill-color:white; "
+an "proclamation"
+cn "proclamation"  "ui.label":"proclamation"
+cn "proclamation"  "ui.style":"size:6px; fill-color:white; "
+an "ballet"
+cn "ballet"  "ui.label":"ballet"
+cn "ballet"  "ui.style":"size:6px; fill-color:white; "
+an "articles of incorporation"
+cn "articles of incorporation"  "ui.label":"articles of incorporation"
+cn "articles of incorporation"  "ui.style":"size:6px; fill-color:white; "
+an "ship's papers"
+cn "ship's papers"  "ui.label":"ship's papers"
+cn "ship's papers"  "ui.style":"size:6px; fill-color:white; "
+an "debenture"
+cn "debenture"  "ui.label":"debenture"
+cn "debenture"  "ui.style":"size:6px; fill-color:white; "
+an "letters of administration"
+cn "letters of administration"  "ui.label":"letters of administration"
+cn "letters of administration"  "ui.style":"size:6px; fill-color:white; "
+an "brief"
+cn "brief"  "ui.label":"brief"
+cn "brief"  "ui.style":"size:6px; fill-color:white; "
+an "living will"
+cn "living will"  "ui.label":"living will"
+cn "living will"  "ui.style":"size:6px; fill-color:white; "
+an "trust deed"
+cn "trust deed"  "ui.label":"trust deed"
+cn "trust deed"  "ui.style":"size:6px; fill-color:white; "
+an "conveyance"
+cn "conveyance"  "ui.label":"conveyance"
+cn "conveyance"  "ui.style":"size:6px; fill-color:white; "
+an "writ"
+cn "writ"  "ui.label":"writ"
+cn "writ"  "ui.style":"size:6px; fill-color:white; "
+an "arraignment"
+cn "arraignment"  "ui.label":"arraignment"
+cn "arraignment"  "ui.style":"size:6px; fill-color:white; "
+an "brevet"
+cn "brevet"  "ui.label":"brevet"
+cn "brevet"  "ui.style":"size:6px; fill-color:white; "
+an "commercial document"
+cn "commercial document"  "ui.label":"commercial document"
+cn "commercial document"  "ui.style":"size:6px; fill-color:white; "
+an "form"
+cn "form"  "ui.label":"form"
+cn "form"  "ui.style":"size:6px; fill-color:white; "
+an "platform"
+cn "platform"  "ui.label":"platform"
+cn "platform"  "ui.style":"size:6px; fill-color:white; "
+an "resignation"
+cn "resignation"  "ui.label":"resignation"
+cn "resignation"  "ui.style":"size:6px; fill-color:white; "
+an "resolution"
+cn "resolution"  "ui.label":"resolution"
+cn "resolution"  "ui.style":"size:6px; fill-color:white; "
+an "voucher"
+cn "voucher"  "ui.label":"voucher"
+cn "voucher"  "ui.style":"size:6px; fill-color:white; "
+an "letter"
+cn "letter"  "ui.label":"letter"
+cn "letter"  "ui.style":"size:6px; fill-color:white; "
+an "quittance"
+cn "quittance"  "ui.label":"quittance"
+cn "quittance"  "ui.style":"size:6px; fill-color:white; "
+an "web page"
+cn "web page"  "ui.label":"web page"
+cn "web page"  "ui.style":"size:6px; fill-color:white; "
+an "ASCII text file"
+cn "ASCII text file"  "ui.label":"ASCII text file"
+cn "ASCII text file"  "ui.style":"size:6px; fill-color:white; "
+an "written communication"
+cn "written communication"  "ui.label":"written communication"
+cn "written communication"  "ui.style":"size:6px; fill-color:white; "
+an "adoxography"
+cn "adoxography"  "ui.label":"adoxography"
+cn "adoxography"  "ui.style":"size:6px; fill-color:white; "
+an "novelization"
+cn "novelization"  "ui.label":"novelization"
+cn "novelization"  "ui.style":"size:6px; fill-color:white; "
+an "redaction"
+cn "redaction"  "ui.label":"redaction"
+cn "redaction"  "ui.style":"size:6px; fill-color:white; "
+an "lexicography"
+cn "lexicography"  "ui.label":"lexicography"
+cn "lexicography"  "ui.style":"size:6px; fill-color:white; "
+an "bowdlerization"
+cn "bowdlerization"  "ui.label":"bowdlerization"
+cn "bowdlerization"  "ui.style":"size:6px; fill-color:white; "
+an "matter"
+cn "matter"  "ui.label":"matter"
+cn "matter"  "ui.style":"size:6px; fill-color:white; "
+an "diary"
+cn "diary"  "ui.label":"diary"
+cn "diary"  "ui.style":"size:6px; fill-color:white; "
+an "manuscript"
+cn "manuscript"  "ui.label":"manuscript"
+cn "manuscript"  "ui.style":"size:6px; fill-color:white; "
+an "essay"
+cn "essay"  "ui.label":"essay"
+cn "essay"  "ui.style":"size:6px; fill-color:white; "
+an "sacred text"
+cn "sacred text"  "ui.label":"sacred text"
+cn "sacred text"  "ui.style":"size:6px; fill-color:white; "
+an "transcript"
+cn "transcript"  "ui.label":"transcript"
+cn "transcript"  "ui.style":"size:6px; fill-color:white; "
+an "patristics"
+cn "patristics"  "ui.label":"patristics"
+cn "patristics"  "ui.style":"size:6px; fill-color:white; "
+an "orthography"
+cn "orthography"  "ui.label":"orthography"
+cn "orthography"  "ui.style":"size:6px; fill-color:white; "
+an "printing"
+cn "printing"  "ui.label":"printing"
+cn "printing"  "ui.style":"size:6px; fill-color:white; "
+an "skywriting"
+cn "skywriting"  "ui.label":"skywriting"
+cn "skywriting"  "ui.style":"size:6px; fill-color:white; "
+an "notation"
+cn "notation"  "ui.label":"notation"
+cn "notation"  "ui.style":"size:6px; fill-color:white; "
+an "realization"
+cn "realization"  "ui.label":"realization"
+cn "realization"  "ui.style":"size:6px; fill-color:white; "
+an "composing"
+cn "composing"  "ui.label":"composing"
+cn "composing"  "ui.style":"size:6px; fill-color:white; "
+an "invention"
+cn "invention"  "ui.label":"invention"
+cn "invention"  "ui.style":"size:6px; fill-color:white; "
+an "beginning"
+cn "beginning"  "ui.label":"beginning"
+cn "beginning"  "ui.style":"size:6px; fill-color:white; "
+an "pornography"
+cn "pornography"  "ui.label":"pornography"
+cn "pornography"  "ui.style":"size:6px; fill-color:white; "
+an "art"
+cn "art"  "ui.label":"art"
+cn "art"  "ui.style":"size:6px; fill-color:white; "
+an "classic"
+cn "classic"  "ui.label":"classic"
+cn "classic"  "ui.style":"size:6px; fill-color:white; "
+an "master"
+cn "master"  "ui.label":"master"
+cn "master"  "ui.style":"size:6px; fill-color:white; "
+an "product"
+cn "product"  "ui.label":"product"
+cn "product"  "ui.style":"size:6px; fill-color:white; "
+an "piece"
+cn "piece"  "ui.label":"piece"
+cn "piece"  "ui.style":"size:6px; fill-color:white; "
+an "fertilization"
+cn "fertilization"  "ui.label":"fertilization"
+cn "fertilization"  "ui.style":"size:6px; fill-color:white; "
+an "authorship"
+cn "authorship"  "ui.label":"authorship"
+cn "authorship"  "ui.style":"size:6px; fill-color:white; "
+an "natural order"
+cn "natural order"  "ui.label":"natural order"
+cn "natural order"  "ui.style":"size:6px; fill-color:white; "
+an "extraterrestrial object"
+cn "extraterrestrial object"  "ui.label":"extraterrestrial object"
+cn "extraterrestrial object"  "ui.style":"size:6px; fill-color:white; "
+an "smirk"
+cn "smirk"  "ui.label":"smirk"
+cn "smirk"  "ui.style":"size:6px; fill-color:white; "
+an "countenance"
+cn "countenance"  "ui.label":"countenance"
+cn "countenance"  "ui.style":"size:6px; fill-color:white; "
+an "frown"
+cn "frown"  "ui.label":"frown"
+cn "frown"  "ui.style":"size:6px; fill-color:white; "
+an "straight face"
+cn "straight face"  "ui.label":"straight face"
+cn "straight face"  "ui.style":"size:6px; fill-color:white; "
+an "leer"
+cn "leer"  "ui.label":"leer"
+cn "leer"  "ui.style":"size:6px; fill-color:white; "
+an "sparkle"
+cn "sparkle"  "ui.label":"sparkle"
+cn "sparkle"  "ui.style":"size:6px; fill-color:white; "
+an "jab"
+cn "jab"  "ui.label":"jab"
+cn "jab"  "ui.style":"size:6px; fill-color:white; "
+an "sign"
+cn "sign"  "ui.label":"sign"
+cn "sign"  "ui.style":"size:6px; fill-color:white; "
+an "beck"
+cn "beck"  "ui.label":"beck"
+cn "beck"  "ui.style":"size:6px; fill-color:white; "
+an "high-five"
+cn "high-five"  "ui.label":"high-five"
+cn "high-five"  "ui.style":"size:6px; fill-color:white; "
+an "previous question"
+cn "previous question"  "ui.label":"previous question"
+cn "previous question"  "ui.style":"size:6px; fill-color:white; "
+an "V sign"
+cn "V sign"  "ui.label":"V sign"
+cn "V sign"  "ui.style":"size:6px; fill-color:white; "
+an "bow"
+cn "bow"  "ui.label":"bow"
+cn "bow"  "ui.style":"size:6px; fill-color:white; "
+an "nod"
+cn "nod"  "ui.label":"nod"
+cn "nod"  "ui.style":"size:6px; fill-color:white; "
+an "sign of the cross"
+cn "sign of the cross"  "ui.label":"sign of the cross"
+cn "sign of the cross"  "ui.style":"size:6px; fill-color:white; "
+an "crustal movement"
+cn "crustal movement"  "ui.label":"crustal movement"
+cn "crustal movement"  "ui.style":"size:6px; fill-color:white; "
+an "passing"
+cn "passing"  "ui.label":"passing"
+cn "passing"  "ui.style":"size:6px; fill-color:white; "
+an "deflection"
+cn "deflection"  "ui.label":"deflection"
+cn "deflection"  "ui.style":"size:6px; fill-color:white; "
+an "bending"
+cn "bending"  "ui.label":"bending"
+cn "bending"  "ui.style":"size:6px; fill-color:white; "
+an "change of location"
+cn "change of location"  "ui.label":"change of location"
+cn "change of location"  "ui.style":"size:6px; fill-color:white; "
+an "twist"
+cn "twist"  "ui.label":"twist"
+cn "twist"  "ui.style":"size:6px; fill-color:white; "
+an "undulation"
+cn "undulation"  "ui.label":"undulation"
+cn "undulation"  "ui.style":"size:6px; fill-color:white; "
+an "Brownian movement"
+cn "Brownian movement"  "ui.label":"Brownian movement"
+cn "Brownian movement"  "ui.style":"size:6px; fill-color:white; "
+an "disturbance"
+cn "disturbance"  "ui.label":"disturbance"
+cn "disturbance"  "ui.style":"size:6px; fill-color:white; "
+an "inclination"
+cn "inclination"  "ui.label":"inclination"
+cn "inclination"  "ui.style":"size:6px; fill-color:white; "
+an "kneel"
+cn "kneel"  "ui.label":"kneel"
+cn "kneel"  "ui.style":"size:6px; fill-color:white; "
+an "lurch"
+cn "lurch"  "ui.label":"lurch"
+cn "lurch"  "ui.style":"size:6px; fill-color:white; "
+an "reach"
+cn "reach"  "ui.label":"reach"
+cn "reach"  "ui.style":"size:6px; fill-color:white; "
+an "reciprocation"
+cn "reciprocation"  "ui.label":"reciprocation"
+cn "reciprocation"  "ui.style":"size:6px; fill-color:white; "
+an "reclining"
+cn "reclining"  "ui.label":"reclining"
+cn "reclining"  "ui.style":"size:6px; fill-color:white; "
+an "retraction"
+cn "retraction"  "ui.label":"retraction"
+cn "retraction"  "ui.style":"size:6px; fill-color:white; "
+an "retroflection"
+cn "retroflection"  "ui.label":"retroflection"
+cn "retroflection"  "ui.style":"size:6px; fill-color:white; "
+an "sitting"
+cn "sitting"  "ui.label":"sitting"
+cn "sitting"  "ui.style":"size:6px; fill-color:white; "
+an "snap"
+cn "snap"  "ui.label":"snap"
+cn "snap"  "ui.style":"size:6px; fill-color:white; "
+an "sweep"
+cn "sweep"  "ui.label":"sweep"
+cn "sweep"  "ui.style":"size:6px; fill-color:white; "
+an "wave"
+cn "wave"  "ui.label":"wave"
+cn "wave"  "ui.style":"size:6px; fill-color:white; "
+an "straddle"
+cn "straddle"  "ui.label":"straddle"
+cn "straddle"  "ui.style":"size:6px; fill-color:white; "
+an "stroke"
+cn "stroke"  "ui.label":"stroke"
+cn "stroke"  "ui.style":"size:6px; fill-color:white; "
+an "eurythmy"
+cn "eurythmy"  "ui.label":"eurythmy"
+cn "eurythmy"  "ui.style":"size:6px; fill-color:white; "
+an "stream"
+cn "stream"  "ui.label":"stream"
+cn "stream"  "ui.style":"size:6px; fill-color:white; "
+an "pursuit"
+cn "pursuit"  "ui.label":"pursuit"
+cn "pursuit"  "ui.style":"size:6px; fill-color:white; "
+an "descent"
+cn "descent"  "ui.label":"descent"
+cn "descent"  "ui.style":"size:6px; fill-color:white; "
+an "slippage"
+cn "slippage"  "ui.label":"slippage"
+cn "slippage"  "ui.style":"size:6px; fill-color:white; "
+an "video"
+cn "video"  "ui.label":"video"
+cn "video"  "ui.style":"size:6px; fill-color:white; "
+an "demonstration"
+cn "demonstration"  "ui.label":"demonstration"
+cn "demonstration"  "ui.style":"size:6px; fill-color:white; "
+an "eye contact"
+cn "eye contact"  "ui.label":"eye contact"
+cn "eye contact"  "ui.style":"size:6px; fill-color:white; "
+an "projection"
+cn "projection"  "ui.label":"projection"
+cn "projection"  "ui.style":"size:6px; fill-color:white; "
+an "graph"
+cn "graph"  "ui.label":"graph"
+cn "graph"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "transmission"
+cn "transmission"  "ui.label":"transmission"
+cn "transmission"  "ui.style":"size:6px; fill-color:white; "
+an "intercommunication"
+cn "intercommunication"  "ui.label":"intercommunication"
+cn "intercommunication"  "ui.style":"size:6px; fill-color:white; "
+an "discussion"
+cn "discussion"  "ui.label":"discussion"
+cn "discussion"  "ui.style":"size:6px; fill-color:white; "
+an "dissuasion"
+cn "dissuasion"  "ui.label":"dissuasion"
+cn "dissuasion"  "ui.style":"size:6px; fill-color:white; "
+an "expostulation"
+cn "expostulation"  "ui.label":"expostulation"
+cn "expostulation"  "ui.style":"size:6px; fill-color:white; "
+an "publication"
+cn "publication"  "ui.label":"publication"
+cn "publication"  "ui.style":"size:6px; fill-color:white; "
+an "message"
+cn "message"  "ui.label":"message"
+cn "message"  "ui.style":"size:6px; fill-color:white; "
+an "display"
+cn "display"  "ui.label":"display"
+cn "display"  "ui.style":"size:6px; fill-color:white; "
+an "paralanguage"
+cn "paralanguage"  "ui.label":"paralanguage"
+cn "paralanguage"  "ui.style":"size:6px; fill-color:white; "
+an "voice"
+cn "voice"  "ui.label":"voice"
+cn "voice"  "ui.style":"size:6px; fill-color:white; "
+an "psychic communication"
+cn "psychic communication"  "ui.label":"psychic communication"
+cn "psychic communication"  "ui.style":"size:6px; fill-color:white; "
+ae "chord->straight line" "chord"  "straight line"
+ce "chord->straight line"  "type":0
+ae "straight line->line" "straight line"  "line"
+ce "straight line->line"  "type":0
+ae "line->formation" "line"  "formation"
+ce "line->formation"  "type":0
+ae "formation->arrangement" "formation"  "arrangement"
+ce "formation->arrangement"  "type":0
+ae "arrangement->planning" "arrangement"  "planning"
+ce "arrangement->planning"  "type":0
+ae "planning->preparation" "planning"  "preparation"
+ce "planning->preparation"  "type":0
+ae "preparation->activity" "preparation"  "activity"
+ce "preparation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "smile->facial expression" "smile"  "facial expression"
+ce "smile->facial expression"  "type":0
+ae "facial expression->gesture" "facial expression"  "gesture"
+ce "facial expression->gesture"  "type":0
+ae "gesture->motion" "gesture"  "motion"
+ce "gesture->motion"  "type":0
+ae "motion->visual communication" "motion"  "visual communication"
+ce "motion->visual communication"  "type":0
+ae "visual communication->communication" "visual communication"  "communication"
+ce "visual communication->communication"  "type":0
+ae "communication->act" "communication"  "act"
+ce "communication->act"  "type":0
+ae "chord->note" "chord" > "note"
+ce "chord->note"  "type":0
+ae "chord->arpeggio" "chord" > "arpeggio"
+ce "chord->arpeggio"  "type":1
+ae "straight line->perpendicular" "straight line" > "perpendicular"
+ce "straight line->perpendicular"  "type":1
+ae "straight line->asymptote" "straight line" > "asymptote"
+ce "straight line->asymptote"  "type":1
+ae "straight line->tangent" "straight line" > "tangent"
+ce "straight line->tangent"  "type":1
+ae "straight line->diagonal" "straight line" > "diagonal"
+ce "straight line->diagonal"  "type":1
+ae "line->shape" "line" > "shape"
+ce "line->shape"  "type":0
+ae "line->electromagnetic radiation" "line" > "electromagnetic radiation"
+ce "line->electromagnetic radiation"  "type":0
+ae "line->depression" "line" > "depression"
+ce "line->depression"  "type":0
+ae "line->pipe" "line" > "pipe"
+ce "line->pipe"  "type":0
+ae "line->genealogy" "line" > "genealogy"
+ce "line->genealogy"  "type":0
+ae "line->artifact" "line" > "artifact"
+ce "line->artifact"  "type":0
+ae "line->communication" "line" > "communication"
+ce "line->communication"  "type":0
+ae "line->credit" "line" > "credit"
+ce "line->credit"  "type":0
+ae "line->persuasion" "line" > "persuasion"
+ce "line->persuasion"  "type":0
+ae "line->rivet line" "line" > "rivet line"
+ce "line->rivet line"  "type":1
+ae "line->descender" "line" > "descender"
+ce "line->descender"  "type":1
+ae "line->graduation" "line" > "graduation"
+ce "line->graduation"  "type":1
+ae "line->hairline" "line" > "hairline"
+ce "line->hairline"  "type":1
+ae "line->diagonal" "line" > "diagonal"
+ce "line->diagonal"  "type":1
+ae "line->line of succession" "line" > "line of succession"
+ce "line->line of succession"  "type":1
+ae "line->picket line" "line" > "picket line"
+ce "line->picket line"  "type":1
+ae "line->queue" "line" > "queue"
+ce "line->queue"  "type":1
+ae "line->centerline" "line" > "centerline"
+ce "line->centerline"  "type":1
+ae "line->line of poetry" "line" > "line of poetry"
+ce "line->line of poetry"  "type":1
+ae "line->by-line" "line" > "by-line"
+ce "line->by-line"  "type":1
+ae "line->dateline" "line" > "dateline"
+ce "line->dateline"  "type":1
+ae "line->verse" "line" > "verse"
+ce "line->verse"  "type":1
+ae "line->punch line" "line" > "punch line"
+ce "line->punch line"  "type":1
+ae "line->bottom line" "line" > "bottom line"
+ce "line->bottom line"  "type":1
+ae "line->battlefront" "line" > "battlefront"
+ce "line->battlefront"  "type":1
+ae "line->fiber optic cable" "line" > "fiber optic cable"
+ce "line->fiber optic cable"  "type":1
+ae "line->aclinic line" "line" > "aclinic line"
+ce "line->aclinic line"  "type":1
+ae "line->agonic line" "line" > "agonic line"
+ce "line->agonic line"  "type":1
+ae "line->horizon" "line" > "horizon"
+ce "line->horizon"  "type":1
+ae "line->isogram" "line" > "isogram"
+ce "line->isogram"  "type":1
+ae "line->line of sight" "line" > "line of sight"
+ce "line->line of sight"  "type":1
+ae "line->line of force" "line" > "line of force"
+ce "line->line of force"  "type":1
+ae "line->crow's foot" "line" > "crow's foot"
+ce "line->crow's foot"  "type":1
+ae "line->dermatoglyphic" "line" > "dermatoglyphic"
+ce "line->dermatoglyphic"  "type":1
+ae "line->frown line" "line" > "frown line"
+ce "line->frown line"  "type":1
+ae "line->line of heart" "line" > "line of heart"
+ce "line->line of heart"  "type":1
+ae "line->trunk line" "line" > "trunk line"
+ce "line->trunk line"  "type":1
+ae "line->toll line" "line" > "toll line"
+ce "line->toll line"  "type":1
+ae "line->lifeline" "line" > "lifeline"
+ce "line->lifeline"  "type":1
+ae "line->strand" "line" > "strand"
+ce "line->strand"  "type":1
+ae "line->trace" "line" > "trace"
+ce "line->trace"  "type":1
+ae "line->confectionery" "line" > "confectionery"
+ce "line->confectionery"  "type":1
+ae "line->sport" "line" > "sport"
+ce "line->sport"  "type":1
+ae "line->career" "line" > "career"
+ce "line->career"  "type":1
+ae "line->employment" "line" > "employment"
+ce "line->employment"  "type":1
+ae "line->position" "line" > "position"
+ce "line->position"  "type":1
+ae "line->photography" "line" > "photography"
+ce "line->photography"  "type":1
+ae "line->balkline" "line" > "balkline"
+ce "line->balkline"  "type":1
+ae "line->foul line" "line" > "foul line"
+ce "line->foul line"  "type":1
+ae "line->baseline" "line" > "baseline"
+ce "line->baseline"  "type":1
+ae "line->scrimmage line" "line" > "scrimmage line"
+ce "line->scrimmage line"  "type":1
+ae "line->start" "line" > "start"
+ce "line->start"  "type":1
+ae "line->spiel" "line" > "spiel"
+ce "line->spiel"  "type":1
+ae "line->sideline" "line" > "sideline"
+ce "line->sideline"  "type":1
+ae "line->consumer credit" "line" > "consumer credit"
+ce "line->consumer credit"  "type":1
+ae "line->flourish" "line" > "flourish"
+ce "line->flourish"  "type":1
+ae "line->roulade" "line" > "roulade"
+ce "line->roulade"  "type":1
+ae "line->theme song" "line" > "theme song"
+ce "line->theme song"  "type":1
+ae "line->part" "line" > "part"
+ce "line->part"  "type":1
+ae "line->Rubicon" "line" > "Rubicon"
+ce "line->Rubicon"  "type":1
+ae "line->factory" "line" > "factory"
+ce "line->factory"  "type":6
+ae "line->phrase" "line" > "phrase"
+ce "line->phrase"  "type":7
+ae "formation->object" "formation" > "object"
+ce "formation->object"  "type":0
+ae "formation->natural process" "formation" > "natural process"
+ce "formation->natural process"  "type":0
+ae "formation->creating by mental acts" "formation" > "creating by mental acts"
+ce "formation->creating by mental acts"  "type":0
+ae "formation->filing" "formation" > "filing"
+ce "formation->filing"  "type":1
+ae "formation->forging" "formation" > "forging"
+ce "formation->forging"  "type":1
+ae "formation->turning" "formation" > "turning"
+ce "formation->turning"  "type":1
+ae "formation->unionization" "formation" > "unionization"
+ce "formation->unionization"  "type":1
+ae "formation->collectivization" "formation" > "collectivization"
+ce "formation->collectivization"  "type":1
+ae "formation->federation" "formation" > "federation"
+ce "formation->federation"  "type":1
+ae "formation->cliff" "formation" > "cliff"
+ce "formation->cliff"  "type":1
+ae "formation->foreshore" "formation" > "foreshore"
+ce "formation->foreshore"  "type":1
+ae "formation->ice mass" "formation" > "ice mass"
+ce "formation->ice mass"  "type":1
+ae "formation->massif" "formation" > "massif"
+ce "formation->massif"  "type":1
+ae "formation->natural depression" "formation" > "natural depression"
+ce "formation->natural depression"  "type":1
+ae "formation->oceanfront" "formation" > "oceanfront"
+ce "formation->oceanfront"  "type":1
+ae "formation->range" "formation" > "range"
+ce "formation->range"  "type":1
+ae "formation->relict" "formation" > "relict"
+ce "formation->relict"  "type":1
+ae "formation->ridge" "formation" > "ridge"
+ce "formation->ridge"  "type":1
+ae "formation->talus" "formation" > "talus"
+ce "formation->talus"  "type":1
+ae "formation->affixation" "formation" > "affixation"
+ce "formation->affixation"  "type":1
+ae "arrangement->group" "arrangement" > "group"
+ce "arrangement->group"  "type":0
+ae "arrangement->position" "arrangement" > "position"
+ce "arrangement->position"  "type":0
+ae "arrangement->flower arrangement" "arrangement" > "flower arrangement"
+ce "arrangement->flower arrangement"  "type":1
+ae "arrangement->array" "arrangement" > "array"
+ce "arrangement->array"  "type":1
+ae "arrangement->tableau" "arrangement" > "tableau"
+ce "arrangement->tableau"  "type":1
+ae "arrangement->vernation" "arrangement" > "vernation"
+ce "arrangement->vernation"  "type":1
+ae "arrangement->ordering" "arrangement" > "ordering"
+ce "arrangement->ordering"  "type":1
+ae "arrangement->classification system" "arrangement" > "classification system"
+ce "arrangement->classification system"  "type":1
+ae "arrangement->coordinate system" "arrangement" > "coordinate system"
+ce "arrangement->coordinate system"  "type":1
+ae "arrangement->lattice" "arrangement" > "lattice"
+ce "arrangement->lattice"  "type":1
+ae "arrangement->living arrangement" "arrangement" > "living arrangement"
+ce "arrangement->living arrangement"  "type":1
+ae "arrangement->calendar" "arrangement" > "calendar"
+ce "arrangement->calendar"  "type":1
+ae "arrangement->fenestration" "arrangement" > "fenestration"
+ce "arrangement->fenestration"  "type":1
+ae "arrangement->alignment" "arrangement" > "alignment"
+ce "arrangement->alignment"  "type":1
+ae "arrangement->ramification" "arrangement" > "ramification"
+ce "arrangement->ramification"  "type":1
+ae "arrangement->spacing" "arrangement" > "spacing"
+ce "arrangement->spacing"  "type":1
+ae "arrangement->tandem" "arrangement" > "tandem"
+ce "arrangement->tandem"  "type":1
+ae "arrangement->instrumentation" "arrangement" > "instrumentation"
+ce "arrangement->instrumentation"  "type":1
+ae "arrangement->orchestration" "arrangement" > "orchestration"
+ce "arrangement->orchestration"  "type":1
+ae "planning->thinking" "planning" > "thinking"
+ce "planning->thinking"  "type":0
+ae "planning->applecart" "planning" > "applecart"
+ce "planning->applecart"  "type":1
+ae "planning->calculation" "planning" > "calculation"
+ce "planning->calculation"  "type":1
+ae "preparation->compound" "preparation" > "compound"
+ce "preparation->compound"  "type":0
+ae "preparation->state" "preparation" > "state"
+ce "preparation->state"  "type":0
+ae "preparation->fire control" "preparation" > "fire control"
+ce "preparation->fire control"  "type":1
+ae "preparation->deployment" "preparation" > "deployment"
+ce "preparation->deployment"  "type":1
+ae "preparation->makeready" "preparation" > "makeready"
+ce "preparation->makeready"  "type":1
+ae "preparation->nebula" "preparation" > "nebula"
+ce "preparation->nebula"  "type":1
+ae "preparation->polish" "preparation" > "polish"
+ce "preparation->polish"  "type":1
+ae "preparation->smelling salts" "preparation" > "smelling salts"
+ce "preparation->smelling salts"  "type":1
+ae "preparation->alert" "preparation" > "alert"
+ce "preparation->alert"  "type":1
+ae "preparation->drill" "preparation" > "drill"
+ce "preparation->drill"  "type":1
+ae "preparation->retraining" "preparation" > "retraining"
+ce "preparation->retraining"  "type":1
+ae "preparation->skull session" "preparation" > "skull session"
+ce "preparation->skull session"  "type":1
+ae "preparation->toilet training" "preparation" > "toilet training"
+ce "preparation->toilet training"  "type":1
+ae "preparation->baking" "preparation" > "baking"
+ce "preparation->baking"  "type":1
+ae "preparation->broil" "preparation" > "broil"
+ce "preparation->broil"  "type":1
+ae "preparation->frying" "preparation" > "frying"
+ce "preparation->frying"  "type":1
+ae "preparation->braising" "preparation" > "braising"
+ce "preparation->braising"  "type":1
+ae "preparation->poaching" "preparation" > "poaching"
+ce "preparation->poaching"  "type":1
+ae "preparation->roasting" "preparation" > "roasting"
+ce "preparation->roasting"  "type":1
+ae "preparation->percolation" "preparation" > "percolation"
+ce "preparation->percolation"  "type":1
+ae "preparation->education" "preparation" > "education"
+ce "preparation->education"  "type":6
+ae "activity->trait" "activity" > "trait"
+ce "activity->trait"  "type":0
+ae "activity->variation" "activity" > "variation"
+ce "activity->variation"  "type":1
+ae "activity->space walk" "activity" > "space walk"
+ce "activity->space walk"  "type":1
+ae "activity->domesticity" "activity" > "domesticity"
+ce "activity->domesticity"  "type":1
+ae "activity->operation" "activity" > "operation"
+ce "activity->operation"  "type":1
+ae "activity->cup of tea" "activity" > "cup of tea"
+ce "activity->cup of tea"  "type":1
+ae "activity->acting" "activity" > "acting"
+ce "activity->acting"  "type":1
+ae "activity->occupation" "activity" > "occupation"
+ce "activity->occupation"  "type":1
+ae "activity->role" "activity" > "role"
+ce "activity->role"  "type":1
+ae "activity->wrongdoing" "activity" > "wrongdoing"
+ce "activity->wrongdoing"  "type":1
+ae "activity->waste" "activity" > "waste"
+ce "activity->waste"  "type":1
+ae "activity->attempt" "activity" > "attempt"
+ce "activity->attempt"  "type":1
+ae "activity->protection" "activity" > "protection"
+ce "activity->protection"  "type":1
+ae "activity->training" "activity" > "training"
+ce "activity->training"  "type":1
+ae "activity->representation" "activity" > "representation"
+ce "activity->representation"  "type":1
+ae "activity->measurement" "activity" > "measurement"
+ce "activity->measurement"  "type":1
+ae "activity->calibration" "activity" > "calibration"
+ce "activity->calibration"  "type":1
+ae "activity->support" "activity" > "support"
+ce "activity->support"  "type":1
+ae "activity->procedure" "activity" > "procedure"
+ce "activity->procedure"  "type":1
+ae "activity->concealment" "activity" > "concealment"
+ce "activity->concealment"  "type":1
+ae "activity->demand" "activity" > "demand"
+ce "activity->demand"  "type":1
+ae "activity->pleasure" "activity" > "pleasure"
+ce "activity->pleasure"  "type":1
+ae "activity->enjoyment" "activity" > "enjoyment"
+ce "activity->enjoyment"  "type":1
+ae "activity->market" "activity" > "market"
+ce "activity->market"  "type":1
+ae "activity->aid" "activity" > "aid"
+ce "activity->aid"  "type":1
+ae "activity->leadership" "activity" > "leadership"
+ce "activity->leadership"  "type":1
+ae "activity->precession" "activity" > "precession"
+ce "activity->precession"  "type":1
+ae "activity->solo" "activity" > "solo"
+ce "activity->solo"  "type":1
+ae "activity->fun" "activity" > "fun"
+ce "activity->fun"  "type":1
+ae "activity->mystification" "activity" > "mystification"
+ce "activity->mystification"  "type":1
+ae "activity->verbalization" "activity" > "verbalization"
+ce "activity->verbalization"  "type":1
+ae "activity->play" "activity" > "play"
+ce "activity->play"  "type":1
+ae "activity->sexual activity" "activity" > "sexual activity"
+ce "activity->sexual activity"  "type":1
+ae "activity->sleeping" "activity" > "sleeping"
+ce "activity->sleeping"  "type":1
+ae "activity->reaction" "activity" > "reaction"
+ce "activity->reaction"  "type":1
+ae "activity->hypostasis" "activity" > "hypostasis"
+ce "activity->hypostasis"  "type":1
+ae "activity->opsonization" "activity" > "opsonization"
+ce "activity->opsonization"  "type":1
+ae "activity->overactivity" "activity" > "overactivity"
+ce "activity->overactivity"  "type":1
+ae "activity->peristalsis" "activity" > "peristalsis"
+ce "activity->peristalsis"  "type":1
+ae "activity->perspiration" "activity" > "perspiration"
+ce "activity->perspiration"  "type":1
+ae "activity->pinocytosis" "activity" > "pinocytosis"
+ce "activity->pinocytosis"  "type":1
+ae "activity->placentation" "activity" > "placentation"
+ce "activity->placentation"  "type":1
+ae "activity->tanning" "activity" > "tanning"
+ce "activity->tanning"  "type":1
+ae "activity->capture" "activity" > "capture"
+ce "activity->capture"  "type":1
+ae "activity->condensation" "activity" > "condensation"
+ce "activity->condensation"  "type":1
+ae "activity->convection" "activity" > "convection"
+ce "activity->convection"  "type":1
+ae "activity->decay" "activity" > "decay"
+ce "activity->decay"  "type":1
+ae "activity->desorption" "activity" > "desorption"
+ce "activity->desorption"  "type":1
+ae "activity->diffusion" "activity" > "diffusion"
+ce "activity->diffusion"  "type":1
+ae "activity->drift" "activity" > "drift"
+ce "activity->drift"  "type":1
+ae "activity->effervescence" "activity" > "effervescence"
+ce "activity->effervescence"  "type":1
+ae "activity->electrophoresis" "activity" > "electrophoresis"
+ce "activity->electrophoresis"  "type":1
+ae "activity->establishment" "activity" > "establishment"
+ce "activity->establishment"  "type":1
+ae "activity->feedback" "activity" > "feedback"
+ce "activity->feedback"  "type":1
+ae "activity->filtration" "activity" > "filtration"
+ce "activity->filtration"  "type":1
+ae "activity->formation" "activity" > "formation"
+ce "activity->formation"  "type":1
+ae "activity->ion exchange" "activity" > "ion exchange"
+ce "activity->ion exchange"  "type":1
+ae "activity->pair production" "activity" > "pair production"
+ce "activity->pair production"  "type":1
+ae "activity->precession of the equinoxes" "activity" > "precession of the equinoxes"
+ce "activity->precession of the equinoxes"  "type":1
+ae "activity->release" "activity" > "release"
+ce "activity->release"  "type":1
+ae "activity->saltation" "activity" > "saltation"
+ce "activity->saltation"  "type":1
+ae "activity->sink" "activity" > "sink"
+ce "activity->sink"  "type":1
+ae "activity->softening" "activity" > "softening"
+ce "activity->softening"  "type":1
+ae "activity->stimulation" "activity" > "stimulation"
+ce "activity->stimulation"  "type":1
+ae "activity->synergy" "activity" > "synergy"
+ce "activity->synergy"  "type":1
+ae "activity->dynamism" "activity" > "dynamism"
+ce "activity->dynamism"  "type":1
+ae "act->expression" "act" > "expression"
+ce "act->expression"  "type":0
+ae "act->decree" "act" > "decree"
+ce "act->decree"  "type":1
+ae "act->action" "act" > "action"
+ce "act->action"  "type":1
+ae "act->egress" "act" > "egress"
+ce "act->egress"  "type":1
+ae "act->exhumation" "act" > "exhumation"
+ce "act->exhumation"  "type":1
+ae "act->mitzvah" "act" > "mitzvah"
+ce "act->mitzvah"  "type":1
+ae "act->touch" "act" > "touch"
+ce "act->touch"  "type":1
+ae "act->assumption" "act" > "assumption"
+ce "act->assumption"  "type":1
+ae "act->residency" "act" > "residency"
+ce "act->residency"  "type":1
+ae "act->waste" "act" > "waste"
+ce "act->waste"  "type":1
+ae "act->proclamation" "act" > "proclamation"
+ce "act->proclamation"  "type":1
+ae "act->play" "act" > "play"
+ce "act->play"  "type":6
+ae "act->ballet" "act" > "ballet"
+ce "act->ballet"  "type":6
+ae "legal document->articles of incorporation" "legal document" > "articles of incorporation"
+ce "legal document->articles of incorporation"  "type":1
+ae "legal document->ship's papers" "legal document" > "ship's papers"
+ce "legal document->ship's papers"  "type":1
+ae "legal document->debenture" "legal document" > "debenture"
+ce "legal document->debenture"  "type":1
+ae "legal document->letters of administration" "legal document" > "letters of administration"
+ce "legal document->letters of administration"  "type":1
+ae "legal document->brief" "legal document" > "brief"
+ce "legal document->brief"  "type":1
+ae "legal document->living will" "legal document" > "living will"
+ce "legal document->living will"  "type":1
+ae "legal document->trust deed" "legal document" > "trust deed"
+ce "legal document->trust deed"  "type":1
+ae "legal document->conveyance" "legal document" > "conveyance"
+ce "legal document->conveyance"  "type":1
+ae "legal document->writ" "legal document" > "writ"
+ce "legal document->writ"  "type":1
+ae "legal document->arraignment" "legal document" > "arraignment"
+ce "legal document->arraignment"  "type":1
+ae "document->representation" "document" > "representation"
+ce "document->representation"  "type":0
+ae "document->brevet" "document" > "brevet"
+ce "document->brevet"  "type":1
+ae "document->commercial document" "document" > "commercial document"
+ce "document->commercial document"  "type":1
+ae "document->form" "document" > "form"
+ce "document->form"  "type":1
+ae "document->platform" "document" > "platform"
+ce "document->platform"  "type":1
+ae "document->resignation" "document" > "resignation"
+ce "document->resignation"  "type":1
+ae "document->resolution" "document" > "resolution"
+ce "document->resolution"  "type":1
+ae "document->voucher" "document" > "voucher"
+ce "document->voucher"  "type":1
+ae "document->letter" "document" > "letter"
+ce "document->letter"  "type":1
+ae "document->quittance" "document" > "quittance"
+ce "document->quittance"  "type":1
+ae "document->web page" "document" > "web page"
+ce "document->web page"  "type":1
+ae "document->ASCII text file" "document" > "ASCII text file"
+ce "document->ASCII text file"  "type":1
+ae "writing->written communication" "writing" > "written communication"
+ce "writing->written communication"  "type":0
+ae "writing->adoxography" "writing" > "adoxography"
+ce "writing->adoxography"  "type":1
+ae "writing->novelization" "writing" > "novelization"
+ce "writing->novelization"  "type":1
+ae "writing->redaction" "writing" > "redaction"
+ce "writing->redaction"  "type":1
+ae "writing->lexicography" "writing" > "lexicography"
+ce "writing->lexicography"  "type":1
+ae "writing->bowdlerization" "writing" > "bowdlerization"
+ce "writing->bowdlerization"  "type":1
+ae "writing->matter" "writing" > "matter"
+ce "writing->matter"  "type":1
+ae "writing->diary" "writing" > "diary"
+ce "writing->diary"  "type":1
+ae "writing->manuscript" "writing" > "manuscript"
+ce "writing->manuscript"  "type":1
+ae "writing->essay" "writing" > "essay"
+ce "writing->essay"  "type":1
+ae "writing->sacred text" "writing" > "sacred text"
+ce "writing->sacred text"  "type":1
+ae "writing->transcript" "writing" > "transcript"
+ce "writing->transcript"  "type":1
+ae "writing->patristics" "writing" > "patristics"
+ce "writing->patristics"  "type":1
+ae "writing->orthography" "writing" > "orthography"
+ce "writing->orthography"  "type":1
+ae "writing->printing" "writing" > "printing"
+ce "writing->printing"  "type":1
+ae "writing->skywriting" "writing" > "skywriting"
+ce "writing->skywriting"  "type":1
+ae "writing->notation" "writing" > "notation"
+ce "writing->notation"  "type":1
+ae "creating by mental acts->realization" "creating by mental acts" > "realization"
+ce "creating by mental acts->realization"  "type":1
+ae "creating by mental acts->composing" "creating by mental acts" > "composing"
+ce "creating by mental acts->composing"  "type":1
+ae "creating by mental acts->invention" "creating by mental acts" > "invention"
+ce "creating by mental acts->invention"  "type":1
+ae "creation->beginning" "creation" > "beginning"
+ce "creation->beginning"  "type":0
+ae "creation->pornography" "creation" > "pornography"
+ce "creation->pornography"  "type":1
+ae "creation->art" "creation" > "art"
+ce "creation->art"  "type":1
+ae "creation->classic" "creation" > "classic"
+ce "creation->classic"  "type":1
+ae "creation->invention" "creation" > "invention"
+ce "creation->invention"  "type":1
+ae "creation->master" "creation" > "master"
+ce "creation->master"  "type":1
+ae "creation->product" "creation" > "product"
+ce "creation->product"  "type":1
+ae "creation->representation" "creation" > "representation"
+ce "creation->representation"  "type":1
+ae "creation->piece" "creation" > "piece"
+ce "creation->piece"  "type":1
+ae "creation->fertilization" "creation" > "fertilization"
+ce "creation->fertilization"  "type":1
+ae "creation->authorship" "creation" > "authorship"
+ce "creation->authorship"  "type":1
+ae "creation->natural order" "creation" > "natural order"
+ce "creation->natural order"  "type":1
+ae "creation->extraterrestrial object" "creation" > "extraterrestrial object"
+ce "creation->extraterrestrial object"  "type":7
+ae "smile->smirk" "smile" > "smirk"
+ce "smile->smirk"  "type":1
+ae "facial expression->countenance" "facial expression" > "countenance"
+ce "facial expression->countenance"  "type":0
+ae "facial expression->frown" "facial expression" > "frown"
+ce "facial expression->frown"  "type":1
+ae "facial expression->straight face" "facial expression" > "straight face"
+ce "facial expression->straight face"  "type":1
+ae "facial expression->leer" "facial expression" > "leer"
+ce "facial expression->leer"  "type":1
+ae "facial expression->sparkle" "facial expression" > "sparkle"
+ce "facial expression->sparkle"  "type":1
+ae "gesture->jab" "gesture" > "jab"
+ce "gesture->jab"  "type":1
+ae "gesture->sign" "gesture" > "sign"
+ce "gesture->sign"  "type":1
+ae "gesture->beck" "gesture" > "beck"
+ce "gesture->beck"  "type":1
+ae "gesture->high-five" "gesture" > "high-five"
+ce "gesture->high-five"  "type":1
+ae "gesture->previous question" "gesture" > "previous question"
+ce "gesture->previous question"  "type":1
+ae "gesture->V sign" "gesture" > "V sign"
+ce "gesture->V sign"  "type":1
+ae "gesture->bow" "gesture" > "bow"
+ce "gesture->bow"  "type":1
+ae "motion->V sign" "motion" > "V sign"
+ce "motion->V sign"  "type":1
+ae "motion->nod" "motion" > "nod"
+ce "motion->nod"  "type":1
+ae "motion->bow" "motion" > "bow"
+ce "motion->bow"  "type":1
+ae "motion->sign of the cross" "motion" > "sign of the cross"
+ce "motion->sign of the cross"  "type":1
+ae "motion->crustal movement" "motion" > "crustal movement"
+ce "motion->crustal movement"  "type":1
+ae "motion->passing" "motion" > "passing"
+ce "motion->passing"  "type":1
+ae "motion->deflection" "motion" > "deflection"
+ce "motion->deflection"  "type":1
+ae "motion->bending" "motion" > "bending"
+ce "motion->bending"  "type":1
+ae "motion->change of location" "motion" > "change of location"
+ce "motion->change of location"  "type":1
+ae "motion->twist" "motion" > "twist"
+ce "motion->twist"  "type":1
+ae "motion->undulation" "motion" > "undulation"
+ce "motion->undulation"  "type":1
+ae "motion->Brownian movement" "motion" > "Brownian movement"
+ce "motion->Brownian movement"  "type":1
+ae "motion->disturbance" "motion" > "disturbance"
+ce "motion->disturbance"  "type":1
+ae "motion->inclination" "motion" > "inclination"
+ce "motion->inclination"  "type":1
+ae "motion->kneel" "motion" > "kneel"
+ce "motion->kneel"  "type":1
+ae "motion->lurch" "motion" > "lurch"
+ce "motion->lurch"  "type":1
+ae "motion->reach" "motion" > "reach"
+ce "motion->reach"  "type":1
+ae "motion->reciprocation" "motion" > "reciprocation"
+ce "motion->reciprocation"  "type":1
+ae "motion->reclining" "motion" > "reclining"
+ce "motion->reclining"  "type":1
+ae "motion->retraction" "motion" > "retraction"
+ce "motion->retraction"  "type":1
+ae "motion->retroflection" "motion" > "retroflection"
+ce "motion->retroflection"  "type":1
+ae "motion->sitting" "motion" > "sitting"
+ce "motion->sitting"  "type":1
+ae "motion->snap" "motion" > "snap"
+ce "motion->snap"  "type":1
+ae "motion->sweep" "motion" > "sweep"
+ce "motion->sweep"  "type":1
+ae "motion->wave" "motion" > "wave"
+ce "motion->wave"  "type":1
+ae "motion->straddle" "motion" > "straddle"
+ce "motion->straddle"  "type":1
+ae "motion->stroke" "motion" > "stroke"
+ce "motion->stroke"  "type":1
+ae "motion->eurythmy" "motion" > "eurythmy"
+ce "motion->eurythmy"  "type":1
+ae "motion->precession" "motion" > "precession"
+ce "motion->precession"  "type":1
+ae "motion->stream" "motion" > "stream"
+ce "motion->stream"  "type":1
+ae "motion->pursuit" "motion" > "pursuit"
+ce "motion->pursuit"  "type":1
+ae "motion->descent" "motion" > "descent"
+ce "motion->descent"  "type":1
+ae "motion->slippage" "motion" > "slippage"
+ce "motion->slippage"  "type":1
+ae "visual communication->video" "visual communication" > "video"
+ce "visual communication->video"  "type":1
+ae "visual communication->demonstration" "visual communication" > "demonstration"
+ce "visual communication->demonstration"  "type":1
+ae "visual communication->eye contact" "visual communication" > "eye contact"
+ce "visual communication->eye contact"  "type":1
+ae "visual communication->projection" "visual communication" > "projection"
+ce "visual communication->projection"  "type":1
+ae "visual communication->graph" "visual communication" > "graph"
+ce "visual communication->graph"  "type":1
+ae "communication->abstraction" "communication" > "abstraction"
+ce "communication->abstraction"  "type":0
+ae "communication->transmission" "communication" > "transmission"
+ce "communication->transmission"  "type":1
+ae "communication->intercommunication" "communication" > "intercommunication"
+ce "communication->intercommunication"  "type":1
+ae "communication->discussion" "communication" > "discussion"
+ce "communication->discussion"  "type":1
+ae "communication->persuasion" "communication" > "persuasion"
+ce "communication->persuasion"  "type":1
+ae "communication->dissuasion" "communication" > "dissuasion"
+ce "communication->dissuasion"  "type":1
+ae "communication->expostulation" "communication" > "expostulation"
+ce "communication->expostulation"  "type":1
+ae "communication->publication" "communication" > "publication"
+ce "communication->publication"  "type":1
+ae "communication->message" "communication" > "message"
+ce "communication->message"  "type":1
+ae "communication->sign" "communication" > "sign"
+ce "communication->sign"  "type":1
+ae "communication->display" "communication" > "display"
+ce "communication->display"  "type":1
+ae "communication->paralanguage" "communication" > "paralanguage"
+ce "communication->paralanguage"  "type":1
+ae "communication->voice" "communication" > "voice"
+ce "communication->voice"  "type":1
+ae "communication->psychic communication" "communication" > "psychic communication"
+ce "communication->psychic communication"  "type":1

@@ -1,0 +1,16 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Educators"
+cn "Educators"  "ui.label":"Educators"
+cn "Educators"  "ui.style":"size-mode:fit;"
+an "Educational_personnel"
+cn "Educational_personnel"  "ui.label":"Educational_personnel"
+cn "Educational_personnel"  "ui.style":"size:6px; fill-color:white; "
+an "Educational theorists"
+cn "Educational theorists"  "ui.label":"Educational theorists"
+cn "Educational theorists"  "ui.style":"size-mode:fit;"
+ae "Educators->Educational_personnel" "Educators"  "Educational_personnel"
+ce "Educators->Educational_personnel"  "type":0
+ae "Educational theorists->Educational_personnel" "Educational theorists"  "Educational_personnel"
+ce "Educational theorists->Educational_personnel"  "type":0

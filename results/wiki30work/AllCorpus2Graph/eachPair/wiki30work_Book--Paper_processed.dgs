@@ -1,0 +1,866 @@
+DGS004
+null 0 0
+an "Book"
+cn "Book"  "ui.label":"Book"
+cn "Book"  "ui.style":"size-mode:fit;"
+an "publication"
+cn "publication"  "ui.label":"publication"
+cn "publication"  "ui.style":"size:6px; fill-color:white; "
+an "work"
+cn "work"  "ui.label":"work"
+cn "work"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "artifact"
+cn "artifact"  "ui.label":"artifact"
+cn "artifact"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Paper"
+cn "Paper"  "ui.label":"Paper"
+cn "Paper"  "ui.style":"size-mode:fit;"
+an "material"
+cn "material"  "ui.label":"material"
+cn "material"  "ui.style":"size:6px; fill-color:white; "
+an "substance"
+cn "substance"  "ui.label":"substance"
+cn "substance"  "ui.style":"size:6px; fill-color:white; "
+an "matter"
+cn "matter"  "ui.label":"matter"
+cn "matter"  "ui.style":"size:6px; fill-color:white; "
+an "concern"
+cn "concern"  "ui.label":"concern"
+cn "concern"  "ui.style":"size:6px; fill-color:white; "
+an "interest"
+cn "interest"  "ui.label":"interest"
+cn "interest"  "ui.style":"size:6px; fill-color:white; "
+an "curiosity"
+cn "curiosity"  "ui.label":"curiosity"
+cn "curiosity"  "ui.style":"size:6px; fill-color:white; "
+an "cognitive state"
+cn "cognitive state"  "ui.label":"cognitive state"
+cn "cognitive state"  "ui.style":"size:6px; fill-color:white; "
+an "psychological state"
+cn "psychological state"  "ui.label":"psychological state"
+cn "psychological state"  "ui.style":"size:6px; fill-color:white; "
+an "condition"
+cn "condition"  "ui.label":"condition"
+cn "condition"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "Memory"
+cn "Memory"  "ui.label":"Memory"
+cn "Memory"  "ui.style":"size:6px; fill-color:white; "
+an "statement"
+cn "statement"  "ui.label":"statement"
+cn "statement"  "ui.style":"size:6px; fill-color:white; "
+an "section"
+cn "section"  "ui.label":"section"
+cn "section"  "ui.style":"size:6px; fill-color:white; "
+an "provision"
+cn "provision"  "ui.label":"provision"
+cn "provision"  "ui.style":"size:6px; fill-color:white; "
+an "David Hume"
+cn "David Hume"  "ui.label":"David Hume"
+cn "David Hume"  "ui.style":"size:6px; fill-color:white; "
+an "Plato"
+cn "Plato"  "ui.label":"Plato"
+cn "Plato"  "ui.style":"size:6px; fill-color:white; "
+an "disrespect"
+cn "disrespect"  "ui.label":"disrespect"
+cn "disrespect"  "ui.style":"size:6px; fill-color:white; "
+an "product"
+cn "product"  "ui.label":"product"
+cn "product"  "ui.style":"size:6px; fill-color:white; "
+an "set"
+cn "set"  "ui.label":"set"
+cn "set"  "ui.style":"size:6px; fill-color:white; "
+an "occupation"
+cn "occupation"  "ui.label":"occupation"
+cn "occupation"  "ui.style":"size:6px; fill-color:white; "
+an "social group"
+cn "social group"  "ui.label":"social group"
+cn "social group"  "ui.style":"size:6px; fill-color:white; "
+an "source"
+cn "source"  "ui.label":"source"
+cn "source"  "ui.style":"size:6px; fill-color:white; "
+an "Composite material"
+cn "Composite material"  "ui.label":"Composite material"
+cn "Composite material"  "ui.style":"size:6px; fill-color:white; "
+an "kingdom"
+cn "kingdom"  "ui.label":"kingdom"
+cn "kingdom"  "ui.style":"size:6px; fill-color:white; "
+an "medium"
+cn "medium"  "ui.label":"medium"
+cn "medium"  "ui.style":"size:6px; fill-color:white; "
+an "Man"
+cn "Man"  "ui.label":"Man"
+cn "Man"  "ui.style":"size:6px; fill-color:white; "
+an "Concept"
+cn "Concept"  "ui.label":"Concept"
+cn "Concept"  "ui.style":"size:6px; fill-color:white; "
+an "motivation"
+cn "motivation"  "ui.label":"motivation"
+cn "motivation"  "ui.style":"size:6px; fill-color:white; "
+an "disapproval"
+cn "disapproval"  "ui.label":"disapproval"
+cn "disapproval"  "ui.style":"size:6px; fill-color:white; "
+an "Earth"
+cn "Earth"  "ui.label":"Earth"
+cn "Earth"  "ui.style":"size:6px; fill-color:white; "
+an "Business"
+cn "Business"  "ui.label":"Business"
+cn "Business"  "ui.style":"size:6px; fill-color:white; "
+an "Notebooks"
+cn "Notebooks"  "ui.label":"Notebooks"
+cn "Notebooks"  "ui.style":"size:6px; fill-color:white; "
+an "food"
+cn "food"  "ui.label":"food"
+cn "food"  "ui.style":"size:6px; fill-color:white; "
+an "Communication"
+cn "Communication"  "ui.label":"Communication"
+cn "Communication"  "ui.style":"size:6px; fill-color:white; "
+an "Ludwig Wittgenstein"
+cn "Ludwig Wittgenstein"  "ui.label":"Ludwig Wittgenstein"
+cn "Ludwig Wittgenstein"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "Mathematics"
+cn "Mathematics"  "ui.label":"Mathematics"
+cn "Mathematics"  "ui.style":"size:6px; fill-color:white; "
+an "population"
+cn "population"  "ui.label":"population"
+cn "population"  "ui.style":"size:6px; fill-color:white; "
+an "text"
+cn "text"  "ui.label":"text"
+cn "text"  "ui.style":"size:6px; fill-color:white; "
+an "stratification"
+cn "stratification"  "ui.label":"stratification"
+cn "stratification"  "ui.style":"size:6px; fill-color:white; "
+an "Economics"
+cn "Economics"  "ui.label":"Economics"
+cn "Economics"  "ui.style":"size:6px; fill-color:white; "
+an "Magazine"
+cn "Magazine"  "ui.label":"Magazine"
+cn "Magazine"  "ui.style":"size:6px; fill-color:white; "
+an "rule"
+cn "rule"  "ui.label":"rule"
+cn "rule"  "ui.style":"size:6px; fill-color:white; "
+an "Philosophy"
+cn "Philosophy"  "ui.label":"Philosophy"
+cn "Philosophy"  "ui.style":"size:6px; fill-color:white; "
+an "Content (media)"
+cn "Content (media)"  "ui.label":"Content (media)"
+cn "Content (media)"  "ui.style":"size:6px; fill-color:white; "
+an "Linen"
+cn "Linen"  "ui.label":"Linen"
+cn "Linen"  "ui.style":"size:6px; fill-color:white; "
+an "Vellum"
+cn "Vellum"  "ui.label":"Vellum"
+cn "Vellum"  "ui.style":"size:6px; fill-color:white; "
+an "Scroll"
+cn "Scroll"  "ui.label":"Scroll"
+cn "Scroll"  "ui.style":"size:6px; fill-color:white; "
+an "Aristotle"
+cn "Aristotle"  "ui.label":"Aristotle"
+cn "Aristotle"  "ui.style":"size:6px; fill-color:white; "
+an "Physics (Aristotle)"
+cn "Physics (Aristotle)"  "ui.label":"Physics (Aristotle)"
+cn "Physics (Aristotle)"  "ui.style":"size:6px; fill-color:white; "
+an "narrative"
+cn "narrative"  "ui.label":"narrative"
+cn "narrative"  "ui.style":"size:6px; fill-color:white; "
+an "scene"
+cn "scene"  "ui.label":"scene"
+cn "scene"  "ui.style":"size:6px; fill-color:white; "
+an "Academic journal"
+cn "Academic journal"  "ui.label":"Academic journal"
+cn "Academic journal"  "ui.style":"size:6px; fill-color:white; "
+an "Matter"
+cn "Matter"  "ui.label":"Matter"
+cn "Matter"  "ui.style":"size:6px; fill-color:white; "
+an "County"
+cn "County"  "ui.label":"County"
+cn "County"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "Middle East"
+cn "Middle East"  "ui.label":"Middle East"
+cn "Middle East"  "ui.style":"size:6px; fill-color:white; "
+an "sheet"
+cn "sheet"  "ui.label":"sheet"
+cn "sheet"  "ui.style":"size:6px; fill-color:white; "
+an "Idea"
+cn "Idea"  "ui.label":"Idea"
+cn "Idea"  "ui.style":"size:6px; fill-color:white; "
+an "Russian language"
+cn "Russian language"  "ui.label":"Russian language"
+cn "Russian language"  "ui.style":"size:6px; fill-color:white; "
+an "part"
+cn "part"  "ui.label":"part"
+cn "part"  "ui.style":"size:6px; fill-color:white; "
+an "Serbian language"
+cn "Serbian language"  "ui.label":"Serbian language"
+cn "Serbian language"  "ui.style":"size:6px; fill-color:white; "
+an "Bookbinding"
+cn "Bookbinding"  "ui.label":"Bookbinding"
+cn "Bookbinding"  "ui.style":"size:6px; fill-color:white; "
+an "Papyrus"
+cn "Papyrus"  "ui.label":"Papyrus"
+cn "Papyrus"  "ui.style":"size:6px; fill-color:white; "
+an "States of Germany"
+cn "States of Germany"  "ui.label":"States of Germany"
+cn "States of Germany"  "ui.style":"size:6px; fill-color:white; "
+an "sum"
+cn "sum"  "ui.label":"sum"
+cn "sum"  "ui.style":"size:6px; fill-color:white; "
+an "atom"
+cn "atom"  "ui.label":"atom"
+cn "atom"  "ui.style":"size:6px; fill-color:white; "
+an "Category:Ontology"
+cn "Category:Ontology"  "ui.label":"Category:Ontology"
+cn "Category:Ontology"  "ui.style":"size:6px; fill-color:white; "
+an "Stylus"
+cn "Stylus"  "ui.label":"Stylus"
+cn "Stylus"  "ui.style":"size:6px; fill-color:white; "
+an "Bronze Age"
+cn "Bronze Age"  "ui.label":"Bronze Age"
+cn "Bronze Age"  "ui.style":"size:6px; fill-color:white; "
+an "Ancient Egypt"
+cn "Ancient Egypt"  "ui.label":"Ancient Egypt"
+cn "Ancient Egypt"  "ui.style":"size:6px; fill-color:white; "
+an "Thought"
+cn "Thought"  "ui.label":"Thought"
+cn "Thought"  "ui.style":"size:6px; fill-color:white; "
+an "opinion"
+cn "opinion"  "ui.label":"opinion"
+cn "opinion"  "ui.style":"size:6px; fill-color:white; "
+an "education"
+cn "education"  "ui.label":"education"
+cn "education"  "ui.style":"size:6px; fill-color:white; "
+an "Typography"
+cn "Typography"  "ui.label":"Typography"
+cn "Typography"  "ui.style":"size:6px; fill-color:white; "
+an "Thales of Miletus"
+cn "Thales of Miletus"  "ui.label":"Thales of Miletus"
+cn "Thales of Miletus"  "ui.style":"size:6px; fill-color:white; "
+an "notion"
+cn "notion"  "ui.label":"notion"
+cn "notion"  "ui.style":"size:6px; fill-color:white; "
+an "Category:Creativity"
+cn "Category:Creativity"  "ui.label":"Category:Creativity"
+cn "Category:Creativity"  "ui.style":"size:6px; fill-color:white; "
+an "Author"
+cn "Author"  "ui.label":"Author"
+cn "Author"  "ui.style":"size:6px; fill-color:white; "
+an "University of Chicago Press"
+cn "University of Chicago Press"  "ui.label":"University of Chicago Press"
+cn "University of Chicago Press"  "ui.style":"size:6px; fill-color:white; "
+an "business"
+cn "business"  "ui.label":"business"
+cn "business"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "White paper"
+cn "White paper"  "ui.label":"White paper"
+cn "White paper"  "ui.style":"size:6px; fill-color:white; "
+an "Textile"
+cn "Textile"  "ui.label":"Textile"
+cn "Textile"  "ui.style":"size:6px; fill-color:white; "
+an "agency"
+cn "agency"  "ui.label":"agency"
+cn "agency"  "ui.style":"size:6px; fill-color:white; "
+an "Clergy"
+cn "Clergy"  "ui.label":"Clergy"
+cn "Clergy"  "ui.style":"size:6px; fill-color:white; "
+an "Object (philosophy)"
+cn "Object (philosophy)"  "ui.label":"Object (philosophy)"
+cn "Object (philosophy)"  "ui.style":"size:6px; fill-color:white; "
+an "Scribe"
+cn "Scribe"  "ui.label":"Scribe"
+cn "Scribe"  "ui.style":"size:6px; fill-color:white; "
+an "Notion (philosophy)"
+cn "Notion (philosophy)"  "ui.label":"Notion (philosophy)"
+cn "Notion (philosophy)"  "ui.style":"size:6px; fill-color:white; "
+an "Non-disclosure agreement"
+cn "Non-disclosure agreement"  "ui.label":"Non-disclosure agreement"
+cn "Non-disclosure agreement"  "ui.style":"size:6px; fill-color:white; "
+an "Italy"
+cn "Italy"  "ui.label":"Italy"
+cn "Italy"  "ui.style":"size:6px; fill-color:white; "
+an "request"
+cn "request"  "ui.label":"request"
+cn "request"  "ui.style":"size:6px; fill-color:white; "
+an "Muslim world"
+cn "Muslim world"  "ui.label":"Muslim world"
+cn "Muslim world"  "ui.style":"size:6px; fill-color:white; "
+an "Proofreading"
+cn "Proofreading"  "ui.label":"Proofreading"
+cn "Proofreading"  "ui.style":"size:6px; fill-color:white; "
+an "Diary"
+cn "Diary"  "ui.label":"Diary"
+cn "Diary"  "ui.style":"size:6px; fill-color:white; "
+an "Writer"
+cn "Writer"  "ui.label":"Writer"
+cn "Writer"  "ui.style":"size:6px; fill-color:white; "
+an "procedure"
+cn "procedure"  "ui.label":"procedure"
+cn "procedure"  "ui.style":"size:6px; fill-color:white; "
+an "commitment"
+cn "commitment"  "ui.label":"commitment"
+cn "commitment"  "ui.style":"size:6px; fill-color:white; "
+an "Pakistan"
+cn "Pakistan"  "ui.label":"Pakistan"
+cn "Pakistan"  "ui.style":"size:6px; fill-color:white; "
+ae "Book->publication" "Book"  "publication"
+ce "Book->publication"  "type":0
+ae "publication->work" "publication"  "work"
+ce "publication->work"  "type":0
+ae "work->activity" "work"  "activity"
+ce "work->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "creation->artifact" "creation"  "artifact"
+ce "creation->artifact"  "type":0
+ae "artifact->whole" "artifact"  "whole"
+ce "artifact->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Paper->material" "Paper"  "material"
+ce "Paper->material"  "type":0
+ae "material->substance" "material"  "substance"
+ce "material->substance"  "type":0
+ae "substance->matter" "substance"  "matter"
+ce "substance->matter"  "type":0
+ae "matter->concern" "matter"  "concern"
+ce "matter->concern"  "type":0
+ae "concern->interest" "concern"  "interest"
+ce "concern->interest"  "type":0
+ae "interest->curiosity" "interest"  "curiosity"
+ce "interest->curiosity"  "type":0
+ae "curiosity->cognitive state" "curiosity"  "cognitive state"
+ce "curiosity->cognitive state"  "type":0
+ae "cognitive state->psychological state" "cognitive state"  "psychological state"
+ce "cognitive state->psychological state"  "type":0
+ae "psychological state->condition" "psychological state"  "condition"
+ce "psychological state->condition"  "type":0
+ae "condition->state" "condition"  "state"
+ce "condition->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "physical entity->substance" "physical entity" > "substance"
+ce "physical entity->substance"  "type":1
+ae "Book->collection" "Book" > "collection"
+ce "Book->collection"  "type":0
+ae "physical entity->matter" "physical entity" > "matter"
+ce "physical entity->matter"  "type":1
+ae "physical entity->thing" "physical entity" > "thing"
+ce "physical entity->thing"  "type":1
+ae "material->Composite material" "material" > "Composite material"
+ce "material->Composite material"  "type":8
+ae "document->White paper" "document" > "White paper"
+ce "document->White paper"  "type":8
+ae "activity->writing" "activity" > "writing"
+ce "activity->writing"  "type":1
+ae "document->representation" "document" > "representation"
+ce "document->representation"  "type":0
+ae "activity->occupation" "activity" > "occupation"
+ce "activity->occupation"  "type":1
+ae "activity->source" "activity" > "source"
+ce "activity->source"  "type":1
+ae "Paper->Papyrus" "Paper" > "Papyrus"
+ce "Paper->Papyrus"  "type":8
+ae "abstraction->Philosophy" "abstraction" > "Philosophy"
+ce "abstraction->Philosophy"  "type":8
+ae "writing->Scribe" "writing" > "Scribe"
+ce "writing->Scribe"  "type":8
+ae "collection->request" "collection" > "request"
+ce "collection->request"  "type":0
+ae "Paper->Ancient Egypt" "Paper" > "Ancient Egypt"
+ce "Paper->Ancient Egypt"  "type":8
+ae "idea->Concept" "idea" > "Concept"
+ce "idea->Concept"  "type":8
+ae "publication->Magazine" "publication" > "Magazine"
+ce "publication->Magazine"  "type":8
+ae "collection->population" "collection" > "population"
+ce "collection->population"  "type":1
+ae "idea->Object (philosophy)" "idea" > "Object (philosophy)"
+ce "idea->Object (philosophy)"  "type":8
+ae "publication->Content (media)" "publication" > "Content (media)"
+ce "publication->Content (media)"  "type":8
+ae "abstraction->Thales of Miletus" "abstraction" > "Thales of Miletus"
+ce "abstraction->Thales of Miletus"  "type":8
+ae "Paper->sheet" "Paper" > "sheet"
+ce "Paper->sheet"  "type":1
+ae "district->States of Germany" "district" > "States of Germany"
+ce "district->States of Germany"  "type":8
+ae "publication->text" "publication" > "text"
+ce "publication->text"  "type":7
+ae "object->business" "object" > "business"
+ce "object->business"  "type":1
+ae "idea->notion" "idea" > "notion"
+ce "idea->notion"  "type":1
+ae "idea->Non-disclosure agreement" "idea" > "Non-disclosure agreement"
+ce "idea->Non-disclosure agreement"  "type":8
+ae "condition->statement" "condition" > "statement"
+ce "condition->statement"  "type":0
+ae "condition->procedure" "condition" > "procedure"
+ce "condition->procedure"  "type":0
+ae "Book->text" "Book" > "text"
+ce "Book->text"  "type":6
+ae "writing->Russian language" "writing" > "Russian language"
+ce "writing->Russian language"  "type":8
+ae "writing->Serbian language" "writing" > "Serbian language"
+ce "writing->Serbian language"  "type":8
+ae "interest->Muslim world" "interest" > "Muslim world"
+ce "interest->Muslim world"  "type":8
+ae "Book->rule" "Book" > "rule"
+ce "Book->rule"  "type":7
+ae "collection->sum" "collection" > "sum"
+ce "collection->sum"  "type":1
+ae "work->writing" "work" > "writing"
+ce "work->writing"  "type":1
+ae "abstraction->Concept" "abstraction" > "Concept"
+ce "abstraction->Concept"  "type":8
+ae "Book->Vellum" "Book" > "Vellum"
+ce "Book->Vellum"  "type":8
+ae "Book->Scroll" "Book" > "Scroll"
+ce "Book->Scroll"  "type":8
+ae "Book->Aristotle" "Book" > "Aristotle"
+ce "Book->Aristotle"  "type":8
+ae "Book->Physics (Aristotle)" "Book" > "Physics (Aristotle)"
+ce "Book->Physics (Aristotle)"  "type":8
+ae "abstraction->set" "abstraction" > "set"
+ce "abstraction->set"  "type":1
+ae "object->part" "object" > "part"
+ce "object->part"  "type":1
+ae "Book->Academic journal" "Book" > "Academic journal"
+ce "Book->Academic journal"  "type":8
+ae "abstraction->communication" "abstraction" > "communication"
+ce "abstraction->communication"  "type":1
+ae "interest->Clergy" "interest" > "Clergy"
+ce "interest->Clergy"  "type":8
+ae "concept->Idea" "concept" > "Idea"
+ce "concept->Idea"  "type":8
+ae "abstraction->thing" "abstraction" > "thing"
+ce "abstraction->thing"  "type":1
+ae "document->Typography" "document" > "Typography"
+ce "document->Typography"  "type":8
+ae "interest->Middle East" "interest" > "Middle East"
+ce "interest->Middle East"  "type":8
+ae "Book->Russian language" "Book" > "Russian language"
+ce "Book->Russian language"  "type":8
+ae "Paper->Diary" "Paper" > "Diary"
+ce "Paper->Diary"  "type":8
+ae "Book->Serbian language" "Book" > "Serbian language"
+ce "Book->Serbian language"  "type":8
+ae "Paper->Communication" "Paper" > "Communication"
+ce "Paper->Communication"  "type":8
+ae "abstraction->concept" "abstraction" > "concept"
+ce "abstraction->concept"  "type":0
+ae "collection->set" "collection" > "set"
+ce "collection->set"  "type":1
+ae "interest->Business" "interest" > "Business"
+ce "interest->Business"  "type":8
+ae "Paper->Magazine" "Paper" > "Magazine"
+ce "Paper->Magazine"  "type":8
+ae "writing->section" "writing" > "section"
+ce "writing->section"  "type":1
+ae "Book->Stylus" "Book" > "Stylus"
+ce "Book->Stylus"  "type":8
+ae "Book->Bronze Age" "Book" > "Bronze Age"
+ce "Book->Bronze Age"  "type":8
+ae "Book->Ancient Egypt" "Book" > "Ancient Egypt"
+ce "Book->Ancient Egypt"  "type":8
+ae "curiosity->Memory" "curiosity" > "Memory"
+ce "curiosity->Memory"  "type":8
+ae "act->motivation" "act" > "motivation"
+ce "act->motivation"  "type":1
+ae "concept->Philosophy" "concept" > "Philosophy"
+ce "concept->Philosophy"  "type":8
+ae "state->kingdom" "state" > "kingdom"
+ce "state->kingdom"  "type":1
+ae "concept->Mathematics" "concept" > "Mathematics"
+ce "concept->Mathematics"  "type":8
+ae "concept->Category:Ontology" "concept" > "Category:Ontology"
+ce "concept->Category:Ontology"  "type":8
+ae "writing->Author" "writing" > "Author"
+ce "writing->Author"  "type":8
+ae "Book->Author" "Book" > "Author"
+ce "Book->Author"  "type":8
+ae "Paper->Notebooks" "Paper" > "Notebooks"
+ce "Paper->Notebooks"  "type":8
+ae "activity->provision" "activity" > "provision"
+ce "activity->provision"  "type":1
+ae "substance->disapproval" "substance" > "disapproval"
+ce "substance->disapproval"  "type":1
+ae "Book->Bookbinding" "Book" > "Bookbinding"
+ce "Book->Bookbinding"  "type":8
+ae "Paper->Composite material" "Paper" > "Composite material"
+ce "Paper->Composite material"  "type":8
+ae "location->set" "location" > "set"
+ce "location->set"  "type":1
+ae "concept->University of Chicago Press" "concept" > "University of Chicago Press"
+ce "concept->University of Chicago Press"  "type":8
+ae "matter->content" "matter" > "content"
+ce "matter->content"  "type":0
+ae "Book->Scribe" "Book" > "Scribe"
+ce "Book->Scribe"  "type":8
+ae "location->stratification" "location" > "stratification"
+ce "location->stratification"  "type":1
+ae "concept->Object (philosophy)" "concept" > "Object (philosophy)"
+ce "concept->Object (philosophy)"  "type":8
+ae "Book->Italy" "Book" > "Italy"
+ce "Book->Italy"  "type":8
+ae "location->Earth" "location" > "Earth"
+ce "location->Earth"  "type":8
+ae "Book->Muslim world" "Book" > "Muslim world"
+ce "Book->Muslim world"  "type":8
+ae "Book->Proofreading" "Book" > "Proofreading"
+ce "Book->Proofreading"  "type":8
+ae "concept->Notion (philosophy)" "concept" > "Notion (philosophy)"
+ce "concept->Notion (philosophy)"  "type":8
+ae "idea->Ludwig Wittgenstein" "idea" > "Ludwig Wittgenstein"
+ce "idea->Ludwig Wittgenstein"  "type":8
+ae "idea->David Hume" "idea" > "David Hume"
+ce "idea->David Hume"  "type":8
+ae "act->scene" "act" > "scene"
+ce "act->scene"  "type":7
+ae "interest->social group" "interest" > "social group"
+ce "interest->social group"  "type":0
+ae "Book->Textile" "Book" > "Textile"
+ce "Book->Textile"  "type":8
+ae "document->Bookbinding" "document" > "Bookbinding"
+ce "document->Bookbinding"  "type":8
+ae "state->States of Germany" "state" > "States of Germany"
+ce "state->States of Germany"  "type":8
+ae "document->Scroll" "document" > "Scroll"
+ce "document->Scroll"  "type":8
+ae "whole->section" "whole" > "section"
+ce "whole->section"  "type":7
+ae "whole->part" "whole" > "part"
+ce "whole->part"  "type":7
+ae "location->activity" "location" > "activity"
+ce "location->activity"  "type":0
+ae "whole->sum" "whole" > "sum"
+ce "whole->sum"  "type":1
+ae "district->Pakistan" "district" > "Pakistan"
+ce "district->Pakistan"  "type":8
+ae "writing->Typography" "writing" > "Typography"
+ce "writing->Typography"  "type":8
+ae "writing->White paper" "writing" > "White paper"
+ce "writing->White paper"  "type":8
+ae "concept->notion" "concept" > "notion"
+ce "concept->notion"  "type":1
+ae "district->County" "district" > "County"
+ce "district->County"  "type":8
+ae "concept->rule" "concept" > "rule"
+ce "concept->rule"  "type":1
+ae "concept->abstraction" "concept" > "abstraction"
+ce "concept->abstraction"  "type":1
+ae "group->population" "group" > "population"
+ce "group->population"  "type":1
+ae "matter->Thales of Miletus" "matter" > "Thales of Miletus"
+ce "matter->Thales of Miletus"  "type":8
+ae "concept->part" "concept" > "part"
+ce "concept->part"  "type":1
+ae "writing->Pakistan" "writing" > "Pakistan"
+ce "writing->Pakistan"  "type":8
+ae "matter->Physics (Aristotle)" "matter" > "Physics (Aristotle)"
+ce "matter->Physics (Aristotle)"  "type":8
+ae "matter->Aristotle" "matter" > "Aristotle"
+ce "matter->Aristotle"  "type":8
+ae "substance->request" "substance" > "request"
+ce "substance->request"  "type":1
+ae "group->social group" "group" > "social group"
+ce "group->social group"  "type":1
+ae "matter->text" "matter" > "text"
+ce "matter->text"  "type":1
+ae "concept->Thought" "concept" > "Thought"
+ce "concept->Thought"  "type":8
+ae "group->kingdom" "group" > "kingdom"
+ce "group->kingdom"  "type":1
+ae "substance->food" "substance" > "food"
+ce "substance->food"  "type":1
+ae "idea->Notion (philosophy)" "idea" > "Notion (philosophy)"
+ce "idea->Notion (philosophy)"  "type":8
+ae "condition->stratification" "condition" > "stratification"
+ce "condition->stratification"  "type":1
+ae "activity->agency" "activity" > "agency"
+ce "activity->agency"  "type":1
+ae "condition->provision" "condition" > "provision"
+ce "condition->provision"  "type":1
+ae "region->Earth" "region" > "Earth"
+ce "region->Earth"  "type":8
+ae "document->Paper" "document" > "Paper"
+ce "document->Paper"  "type":8
+ae "curiosity->Aristotle" "curiosity" > "Aristotle"
+ce "curiosity->Aristotle"  "type":8
+ae "creation->product" "creation" > "product"
+ce "creation->product"  "type":1
+ae "Paper->product" "Paper" > "product"
+ce "Paper->product"  "type":0
+ae "concept->Plato" "concept" > "Plato"
+ce "concept->Plato"  "type":8
+ae "material->atom" "material" > "atom"
+ce "material->atom"  "type":1
+ae "substance->commitment" "substance" > "commitment"
+ce "substance->commitment"  "type":1
+ae "writing->Diary" "writing" > "Diary"
+ce "writing->Diary"  "type":8
+ae "idea->Man" "idea" > "Man"
+ce "idea->Man"  "type":8
+ae "concept->Memory" "concept" > "Memory"
+ce "concept->Memory"  "type":8
+ae "document->Papyrus" "document" > "Papyrus"
+ce "document->Papyrus"  "type":8
+ae "condition->motivation" "condition" > "motivation"
+ce "condition->motivation"  "type":1
+ae "concern->part" "concern" > "part"
+ce "concern->part"  "type":1
+ae "curiosity->Category:Creativity" "curiosity" > "Category:Creativity"
+ce "curiosity->Category:Creativity"  "type":8
+ae "Paper->medium" "Paper" > "medium"
+ce "Paper->medium"  "type":0
+ae "concern->business" "concern" > "business"
+ce "concern->business"  "type":1
+ae "concern->agency" "concern" > "agency"
+ce "concern->agency"  "type":1
+ae "concept->Man" "concept" > "Man"
+ce "concept->Man"  "type":8
+ae "writing->Communication" "writing" > "Communication"
+ce "writing->Communication"  "type":8
+ae "substance->Matter" "substance" > "Matter"
+ce "substance->Matter"  "type":8
+ae "concept->Ludwig Wittgenstein" "concept" > "Ludwig Wittgenstein"
+ce "concept->Ludwig Wittgenstein"  "type":8
+ae "writing->Writer" "writing" > "Writer"
+ce "writing->Writer"  "type":8
+ae "substance->narrative" "substance" > "narrative"
+ce "substance->narrative"  "type":1
+ae "Paper->Linen" "Paper" > "Linen"
+ce "Paper->Linen"  "type":8
+ae "activity->education" "activity" > "education"
+ce "activity->education"  "type":1
+ae "publication->Author" "publication" > "Author"
+ce "publication->Author"  "type":8
+ae "document->source" "document" > "source"
+ce "document->source"  "type":1
+ae "content->Content (media)" "content" > "Content (media)"
+ce "content->Content (media)"  "type":8
+ae "Book->Diary" "Book" > "Diary"
+ce "Book->Diary"  "type":8
+ae "Book->Writer" "Book" > "Writer"
+ce "Book->Writer"  "type":8
+ae "content->scene" "content" > "scene"
+ce "content->scene"  "type":6
+ae "work->occupation" "work" > "occupation"
+ce "work->occupation"  "type":0
+ae "writing->Bronze Age" "writing" > "Bronze Age"
+ce "writing->Bronze Age"  "type":8
+ae "Book->Business" "Book" > "Business"
+ce "Book->Business"  "type":8
+ae "content->education" "content" > "education"
+ce "content->education"  "type":1
+ae "material->Matter" "material" > "Matter"
+ce "material->Matter"  "type":8
+ae "abstraction->Thought" "abstraction" > "Thought"
+ce "abstraction->Thought"  "type":8
+ae "abstraction->Idea" "abstraction" > "Idea"
+ce "abstraction->Idea"  "type":8
+ae "region->County" "region" > "County"
+ce "region->County"  "type":8
+ae "substance->opinion" "substance" > "opinion"
+ce "substance->opinion"  "type":1
+ae "content->representation" "content" > "representation"
+ce "content->representation"  "type":1
+ae "substance->statement" "substance" > "statement"
+ce "substance->statement"  "type":1
+ae "Book->Clergy" "Book" > "Clergy"
+ce "Book->Clergy"  "type":8
+ae "interest->Aristotle" "interest" > "Aristotle"
+ce "interest->Aristotle"  "type":8
+ae "document->Non-disclosure agreement" "document" > "Non-disclosure agreement"
+ce "document->Non-disclosure agreement"  "type":8
+ae "content->food" "content" > "food"
+ce "content->food"  "type":1
+ae "artifact->sheet" "artifact" > "sheet"
+ce "artifact->sheet"  "type":1
+ae "content->narrative" "content" > "narrative"
+ce "content->narrative"  "type":1
+ae "Book->Notebooks" "Book" > "Notebooks"
+ce "Book->Notebooks"  "type":8
+ae "interest->David Hume" "interest" > "David Hume"
+ce "interest->David Hume"  "type":8
+ae "substance->part" "substance" > "part"
+ce "substance->part"  "type":0
+ae "abstraction->Mathematics" "abstraction" > "Mathematics"
+ce "abstraction->Mathematics"  "type":8
+ae "substance->idea" "substance" > "idea"
+ce "substance->idea"  "type":0
+ae "content->opinion" "content" > "opinion"
+ce "content->opinion"  "type":1
+ae "Paper->Middle East" "Paper" > "Middle East"
+ce "Paper->Middle East"  "type":8
+ae "content->statement" "content" > "statement"
+ce "content->statement"  "type":1
+ae "content->disrespect" "content" > "disrespect"
+ce "content->disrespect"  "type":1
+ae "content->disapproval" "content" > "disapproval"
+ce "content->disapproval"  "type":1
+ae "content->commitment" "content" > "commitment"
+ce "content->commitment"  "type":1
+ae "abstraction->Economics" "abstraction" > "Economics"
+ce "abstraction->Economics"  "type":8
+ae "substance->communication" "substance" > "communication"
+ce "substance->communication"  "type":0
+ae "substance->disrespect" "substance" > "disrespect"
+ce "substance->disrespect"  "type":1
+ae "substance->atom" "substance" > "atom"
+ce "substance->atom"  "type":1
+ae "content->request" "content" > "request"
+ce "content->request"  "type":1
+ae "Book->Linen" "Book" > "Linen"
+ce "Book->Linen"  "type":8
+ae "document->Proofreading" "document" > "Proofreading"
+ce "document->Proofreading"  "type":8
+ae "idea->Plato" "idea" > "Plato"
+ce "idea->Plato"  "type":8
+ae "matter->University of Chicago Press" "matter" > "University of Chicago Press"
+ce "matter->University of Chicago Press"  "type":8
+ae "Paper->Textile" "Paper" > "Textile"
+ce "Paper->Textile"  "type":8
+ae "abstraction->Category:Creativity" "abstraction" > "Category:Creativity"
+ce "abstraction->Category:Creativity"  "type":8
+ae "activity->procedure" "activity" > "procedure"
+ce "activity->procedure"  "type":1
+ae "entity->thing" "entity" > "thing"
+ce "entity->thing"  "type":1
+ae "content->communication" "content" > "communication"
+ce "content->communication"  "type":0
+ae "idea->Category:Ontology" "idea" > "Category:Ontology"
+ce "idea->Category:Ontology"  "type":8
+ae "region->Economics" "region" > "Economics"
+ce "region->Economics"  "type":8
+ae "document->Academic journal" "document" > "Academic journal"
+ce "document->Academic journal"  "type":8
+ae "idea->Category:Creativity" "idea" > "Category:Creativity"
+ce "idea->Category:Creativity"  "type":8
+ae "substance->medium" "substance" > "medium"
+ce "substance->medium"  "type":1
+ae "writing->Stylus" "writing" > "Stylus"
+ce "writing->Stylus"  "type":8
+ae "writing->Paper" "writing" > "Paper"
+ce "writing->Paper"  "type":8
+ae "interest->Italy" "interest" > "Italy"
+ce "interest->Italy"  "type":8
+ae "writing->Vellum" "writing" > "Vellum"
+ce "writing->Vellum"  "type":8
+ae "curiosity->object" "curiosity" > "object"
+ce "curiosity->object"  "type":0
+ae "writing->Papyrus" "writing" > "Papyrus"
+ce "writing->Papyrus"  "type":8

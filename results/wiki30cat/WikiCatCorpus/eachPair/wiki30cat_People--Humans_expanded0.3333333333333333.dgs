@@ -1,0 +1,46 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "People"
+cn "People"  "ui.label":"People"
+cn "People"  "ui.style":"size-mode:fit;"
+an "Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.label":"Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.style":"size:6px; fill-color:white; "
+an "Humans"
+cn "Humans"  "ui.label":"Humans"
+cn "Humans"  "ui.style":"size-mode:fit;"
+an "Anthropology"
+cn "Anthropology"  "ui.label":"Anthropology"
+cn "Anthropology"  "ui.style":"size:6px; fill-color:white; "
+an "Humanities"
+cn "Humanities"  "ui.label":"Humanities"
+cn "Humanities"  "ui.style":"size:6px; fill-color:white; "
+an "Cosmopolitan_vertebrates"
+cn "Cosmopolitan_vertebrates"  "ui.label":"Cosmopolitan_vertebrates"
+cn "Cosmopolitan_vertebrates"  "ui.style":"size:6px; fill-color:white; "
+an "Extant_Gelasian_first_appearances"
+cn "Extant_Gelasian_first_appearances"  "ui.label":"Extant_Gelasian_first_appearances"
+cn "Extant_Gelasian_first_appearances"  "ui.style":"size:6px; fill-color:white; "
+an "Hominina"
+cn "Hominina"  "ui.label":"Hominina"
+cn "Hominina"  "ui.style":"size:6px; fill-color:white; "
+an "Museology"
+cn "Museology"  "ui.label":"Museology"
+cn "Museology"  "ui.style":"size:6px; fill-color:white; "
+ae "People->Main_topic_classifications" "People"  "Main_topic_classifications"
+ce "People->Main_topic_classifications"  "type":0
+ae "Humans->Anthropology" "Humans"  "Anthropology"
+ce "Humans->Anthropology"  "type":0
+ae "Anthropology->Humanities" "Anthropology"  "Humanities"
+ce "Anthropology->Humanities"  "type":0
+ae "Humanities->Main_topic_classifications" "Humanities"  "Main_topic_classifications"
+ce "Humanities->Main_topic_classifications"  "type":0
+ae "Humans->Cosmopolitan_vertebrates" "Humans" > "Cosmopolitan_vertebrates"
+ce "Humans->Cosmopolitan_vertebrates"  "type":0
+ae "Humans->Extant_Gelasian_first_appearances" "Humans" > "Extant_Gelasian_first_appearances"
+ce "Humans->Extant_Gelasian_first_appearances"  "type":0
+ae "Humans->Hominina" "Humans" > "Hominina"
+ce "Humans->Hominina"  "type":0
+ae "Anthropology->Museology" "Anthropology" > "Museology"
+ce "Anthropology->Museology"  "type":0

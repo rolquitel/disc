@@ -1,0 +1,186 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "crane"
+cn "crane"  "ui.label":"crane"
+cn "crane"  "ui.style":"size-mode:fit;"
+an "lifting device"
+cn "lifting device"  "ui.label":"lifting device"
+cn "lifting device"  "ui.style":"size:6px; fill-color:white; "
+an "device"
+cn "device"  "ui.label":"device"
+cn "device"  "ui.style":"size:6px; fill-color:white; "
+an "instrumentality"
+cn "instrumentality"  "ui.label":"instrumentality"
+cn "instrumentality"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "definite quantity"
+cn "definite quantity"  "ui.label":"definite quantity"
+cn "definite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "implement"
+cn "implement"  "ui.label":"implement"
+cn "implement"  "ui.style":"size-mode:fit;"
+an "drive"
+cn "drive"  "ui.label":"drive"
+cn "drive"  "ui.style":"size:6px; fill-color:white; "
+an "chromatography"
+cn "chromatography"  "ui.label":"chromatography"
+cn "chromatography"  "ui.style":"size:6px; fill-color:white; "
+an "process"
+cn "process"  "ui.label":"process"
+cn "process"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "sorption"
+cn "sorption"  "ui.label":"sorption"
+cn "sorption"  "ui.style":"size:6px; fill-color:white; "
+an "formation"
+cn "formation"  "ui.label":"formation"
+cn "formation"  "ui.style":"size:6px; fill-color:white; "
+an "oscillation"
+cn "oscillation"  "ui.label":"oscillation"
+cn "oscillation"  "ui.style":"size:6px; fill-color:white; "
+an "hardening"
+cn "hardening"  "ui.label":"hardening"
+cn "hardening"  "ui.style":"size:6px; fill-color:white; "
+an "busyness"
+cn "busyness"  "ui.label":"busyness"
+cn "busyness"  "ui.style":"size:6px; fill-color:white; "
+an "play"
+cn "play"  "ui.label":"play"
+cn "play"  "ui.style":"size:6px; fill-color:white; "
+an "acidification"
+cn "acidification"  "ui.label":"acidification"
+cn "acidification"  "ui.style":"size:6px; fill-color:white; "
+an "key"
+cn "key"  "ui.label":"key"
+cn "key"  "ui.style":"size:6px; fill-color:white; "
+ae "crane->lifting device" "crane"  "lifting device"
+ce "crane->lifting device"  "type":0
+ae "lifting device->device" "lifting device"  "device"
+ce "lifting device->device"  "type":0
+ae "device->instrumentality" "device"  "instrumentality"
+ce "device->instrumentality"  "type":0
+ae "instrumentality->unit" "instrumentality"  "unit"
+ce "instrumentality->unit"  "type":0
+ae "unit->definite quantity" "unit"  "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity"  "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "implement->instrumentality" "implement"  "instrumentality"
+ce "implement->instrumentality"  "type":0
+ae "action->play" "action" > "play"
+ce "action->play"  "type":1
+ae "action->busyness" "action" > "busyness"
+ce "action->busyness"  "type":1
+ae "activity->busyness" "activity" > "busyness"
+ce "activity->busyness"  "type":1
+ae "operation->activity" "operation" > "activity"
+ce "operation->activity"  "type":0
+ae "document->communication" "document" > "communication"
+ce "document->communication"  "type":0
+ae "activity->play" "activity" > "play"
+ce "activity->play"  "type":1
+ae "action->sorption" "action" > "sorption"
+ce "action->sorption"  "type":1
+ae "activity->acidification" "activity" > "acidification"
+ce "activity->acidification"  "type":1
+ae "activity->sorption" "activity" > "sorption"
+ce "activity->sorption"  "type":1
+ae "act->communication" "act" > "communication"
+ce "act->communication"  "type":1
+ae "action->hardening" "action" > "hardening"
+ce "action->hardening"  "type":1
+ae "measure->legal document" "measure" > "legal document"
+ce "measure->legal document"  "type":0
+ae "device->key" "device" > "key"
+ce "device->key"  "type":1
+ae "activity->oscillation" "activity" > "oscillation"
+ce "activity->oscillation"  "type":1
+ae "creating by mental acts->formation" "creating by mental acts" > "formation"
+ce "creating by mental acts->formation"  "type":1
+ae "action->acidification" "action" > "acidification"
+ce "action->acidification"  "type":1
+ae "device->drive" "device" > "drive"
+ce "device->drive"  "type":1
+ae "activity->hardening" "activity" > "hardening"
+ce "activity->hardening"  "type":1
+ae "activity->formation" "activity" > "formation"
+ce "activity->formation"  "type":1
+ae "action->drive" "action" > "drive"
+ce "action->drive"  "type":0
+ae "action->process" "action" > "process"
+ce "action->process"  "type":0
+ae "action->oscillation" "action" > "oscillation"
+ce "action->oscillation"  "type":1
+ae "action->key" "action" > "key"
+ce "action->key"  "type":7
+ae "action->chromatography" "action" > "chromatography"
+ce "action->chromatography"  "type":1
+ae "operation->process" "operation" > "process"
+ce "operation->process"  "type":0
+ae "activity->chromatography" "activity" > "chromatography"
+ce "activity->chromatography"  "type":1

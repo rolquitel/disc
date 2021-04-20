@@ -1,0 +1,1224 @@
+DGS004
+null 0 0
+an "Computer"
+cn "Computer"  "ui.label":"Computer"
+cn "Computer"  "ui.style":"size-mode:fit;"
+an "machine"
+cn "machine"  "ui.label":"machine"
+cn "machine"  "ui.style":"size:6px; fill-color:white; "
+an "device"
+cn "device"  "ui.label":"device"
+cn "device"  "ui.style":"size:6px; fill-color:white; "
+an "instrumentality"
+cn "instrumentality"  "ui.label":"instrumentality"
+cn "instrumentality"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "definite quantity"
+cn "definite quantity"  "ui.label":"definite quantity"
+cn "definite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Internet"
+cn "Internet"  "ui.label":"Internet"
+cn "Internet"  "ui.style":"size-mode:fit;"
+an "computer network"
+cn "computer network"  "ui.label":"computer network"
+cn "computer network"  "ui.style":"size:6px; fill-color:white; "
+an "network"
+cn "network"  "ui.label":"network"
+cn "network"  "ui.style":"size:6px; fill-color:white; "
+an "system"
+cn "system"  "ui.label":"system"
+cn "system"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "Business-to-business"
+cn "Business-to-business"  "ui.label":"Business-to-business"
+cn "Business-to-business"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "Instant messaging"
+cn "Instant messaging"  "ui.label":"Instant messaging"
+cn "Instant messaging"  "ui.style":"size:6px; fill-color:white; "
+an "Domain Name System"
+cn "Domain Name System"  "ui.label":"Domain Name System"
+cn "Domain Name System"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2017"
+cn "Internet_properties_established_in_2017"  "ui.label":"Internet_properties_established_in_2017"
+cn "Internet_properties_established_in_2017"  "ui.style":"size:6px; fill-color:white; "
+an "Web browser"
+cn "Web browser"  "ui.label":"Web browser"
+cn "Web browser"  "ui.style":"size:6px; fill-color:white; "
+an "server"
+cn "server"  "ui.label":"server"
+cn "server"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_the_2020s"
+cn "Internet_properties_established_in_the_2020s"  "ui.label":"Internet_properties_established_in_the_2020s"
+cn "Internet_properties_established_in_the_2020s"  "ui.style":"size:6px; fill-color:white; "
+an "Bill of lading"
+cn "Bill of lading"  "ui.label":"Bill of lading"
+cn "Bill of lading"  "ui.style":"size:6px; fill-color:white; "
+an "platform"
+cn "platform"  "ui.label":"platform"
+cn "platform"  "ui.style":"size:6px; fill-color:white; "
+an "Government"
+cn "Government"  "ui.label":"Government"
+cn "Government"  "ui.style":"size:6px; fill-color:white; "
+an "Spreadsheet"
+cn "Spreadsheet"  "ui.label":"Spreadsheet"
+cn "Spreadsheet"  "ui.style":"size:6px; fill-color:white; "
+an "Politics"
+cn "Politics"  "ui.label":"Politics"
+cn "Politics"  "ui.style":"size:6px; fill-color:white; "
+an "Computer file"
+cn "Computer file"  "ui.label":"Computer file"
+cn "Computer file"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2014"
+cn "Internet_properties_established_in_2014"  "ui.label":"Internet_properties_established_in_2014"
+cn "Internet_properties_established_in_2014"  "ui.style":"size:6px; fill-color:white; "
+an "stimulation"
+cn "stimulation"  "ui.label":"stimulation"
+cn "stimulation"  "ui.style":"size:6px; fill-color:white; "
+an "Packet switching"
+cn "Packet switching"  "ui.label":"Packet switching"
+cn "Packet switching"  "ui.style":"size:6px; fill-color:white; "
+an "Thailand"
+cn "Thailand"  "ui.label":"Thailand"
+cn "Thailand"  "ui.style":"size:6px; fill-color:white; "
+an "Paul Baran"
+cn "Paul Baran"  "ui.label":"Paul Baran"
+cn "Paul Baran"  "ui.style":"size:6px; fill-color:white; "
+an "Telnet"
+cn "Telnet"  "ui.label":"Telnet"
+cn "Telnet"  "ui.style":"size:6px; fill-color:white; "
+an "ARPANET"
+cn "ARPANET"  "ui.label":"ARPANET"
+cn "ARPANET"  "ui.style":"size:6px; fill-color:white; "
+an "Word processor"
+cn "Word processor"  "ui.label":"Word processor"
+cn "Word processor"  "ui.style":"size:6px; fill-color:white; "
+an "Operating system"
+cn "Operating system"  "ui.label":"Operating system"
+cn "Operating system"  "ui.style":"size:6px; fill-color:white; "
+an "SRI International"
+cn "SRI International"  "ui.label":"SRI International"
+cn "SRI International"  "ui.style":"size:6px; fill-color:white; "
+an "Internet-related_organizations"
+cn "Internet-related_organizations"  "ui.label":"Internet-related_organizations"
+cn "Internet-related_organizations"  "ui.style":"size:6px; fill-color:white; "
+an "Productivity software"
+cn "Productivity software"  "ui.label":"Productivity software"
+cn "Productivity software"  "ui.style":"size:6px; fill-color:white; "
+an "Paper"
+cn "Paper"  "ui.label":"Paper"
+cn "Paper"  "ui.style":"size:6px; fill-color:white; "
+an "Mobile device"
+cn "Mobile device"  "ui.label":"Mobile device"
+cn "Mobile device"  "ui.style":"size:6px; fill-color:white; "
+an "Network_analyzers"
+cn "Network_analyzers"  "ui.label":"Network_analyzers"
+cn "Network_analyzers"  "ui.style":"size:6px; fill-color:white; "
+an "Cornell University"
+cn "Cornell University"  "ui.label":"Cornell University"
+cn "Cornell University"  "ui.style":"size:6px; fill-color:white; "
+an "Digital audio"
+cn "Digital audio"  "ui.label":"Digital audio"
+cn "Digital audio"  "ui.style":"size:6px; fill-color:white; "
+an "group action"
+cn "group action"  "ui.label":"group action"
+cn "group action"  "ui.style":"size:6px; fill-color:white; "
+an "World War II"
+cn "World War II"  "ui.label":"World War II"
+cn "World War II"  "ui.style":"size:6px; fill-color:white; "
+an "government"
+cn "government"  "ui.label":"government"
+cn "government"  "ui.style":"size:6px; fill-color:white; "
+an "File server"
+cn "File server"  "ui.label":"File server"
+cn "File server"  "ui.style":"size:6px; fill-color:white; "
+an "Computer network"
+cn "Computer network"  "ui.label":"Computer network"
+cn "Computer network"  "ui.style":"size:6px; fill-color:white; "
+an "mandate"
+cn "mandate"  "ui.label":"mandate"
+cn "mandate"  "ui.style":"size:6px; fill-color:white; "
+an "North America"
+cn "North America"  "ui.label":"North America"
+cn "North America"  "ui.style":"size:6px; fill-color:white; "
+an "succession"
+cn "succession"  "ui.label":"succession"
+cn "succession"  "ui.style":"size:6px; fill-color:white; "
+an "Pirate_parties"
+cn "Pirate_parties"  "ui.label":"Pirate_parties"
+cn "Pirate_parties"  "ui.style":"size:6px; fill-color:white; "
+an "United Kingdom"
+cn "United Kingdom"  "ui.label":"United Kingdom"
+cn "United Kingdom"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_1995"
+cn "Internet_properties_established_in_1995"  "ui.label":"Internet_properties_established_in_1995"
+cn "Internet_properties_established_in_1995"  "ui.style":"size:6px; fill-color:white; "
+an "Brazil"
+cn "Brazil"  "ui.label":"Brazil"
+cn "Brazil"  "ui.style":"size:6px; fill-color:white; "
+an "set"
+cn "set"  "ui.label":"set"
+cn "set"  "ui.style":"size:6px; fill-color:white; "
+an "HTML"
+cn "HTML"  "ui.label":"HTML"
+cn "HTML"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_censorship"
+cn "Internet_censorship"  "ui.label":"Internet_censorship"
+cn "Internet_censorship"  "ui.style":"size:6px; fill-color:white; "
+an "transduction"
+cn "transduction"  "ui.label":"transduction"
+cn "transduction"  "ui.style":"size:6px; fill-color:white; "
+an "Cybercrime"
+cn "Cybercrime"  "ui.label":"Cybercrime"
+cn "Cybercrime"  "ui.style":"size:6px; fill-color:white; "
+an "Crypto-anarchism"
+cn "Crypto-anarchism"  "ui.label":"Crypto-anarchism"
+cn "Crypto-anarchism"  "ui.style":"size:6px; fill-color:white; "
+an "Iran"
+cn "Iran"  "ui.label":"Iran"
+cn "Iran"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_1988"
+cn "Internet_properties_established_in_1988"  "ui.label":"Internet_properties_established_in_1988"
+cn "Internet_properties_established_in_1988"  "ui.style":"size:6px; fill-color:white; "
+an "Communication protocol"
+cn "Communication protocol"  "ui.label":"Communication protocol"
+cn "Communication protocol"  "ui.style":"size:6px; fill-color:white; "
+an "conveyance"
+cn "conveyance"  "ui.label":"conveyance"
+cn "conveyance"  "ui.style":"size:6px; fill-color:white; "
+an "transpiration"
+cn "transpiration"  "ui.label":"transpiration"
+cn "transpiration"  "ui.style":"size:6px; fill-color:white; "
+an "Publishing"
+cn "Publishing"  "ui.label":"Publishing"
+cn "Publishing"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_1981"
+cn "Internet_properties_established_in_1981"  "ui.label":"Internet_properties_established_in_1981"
+cn "Internet_properties_established_in_1981"  "ui.style":"size:6px; fill-color:white; "
+an "Printing"
+cn "Printing"  "ui.label":"Printing"
+cn "Printing"  "ui.style":"size:6px; fill-color:white; "
+an "Thesis"
+cn "Thesis"  "ui.label":"Thesis"
+cn "Thesis"  "ui.style":"size:6px; fill-color:white; "
+an "Electrical network"
+cn "Electrical network"  "ui.label":"Electrical network"
+cn "Electrical network"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_1984"
+cn "Internet_properties_established_in_1984"  "ui.label":"Internet_properties_established_in_1984"
+cn "Internet_properties_established_in_1984"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_1991"
+cn "Internet_properties_established_in_1991"  "ui.label":"Internet_properties_established_in_1991"
+cn "Internet_properties_established_in_1991"  "ui.style":"size:6px; fill-color:white; "
+an "Switzerland"
+cn "Switzerland"  "ui.label":"Switzerland"
+cn "Switzerland"  "ui.style":"size:6px; fill-color:white; "
+an "Personal digital assistant"
+cn "Personal digital assistant"  "ui.label":"Personal digital assistant"
+cn "Personal digital assistant"  "ui.style":"size:6px; fill-color:white; "
+an "Strategy"
+cn "Strategy"  "ui.label":"Strategy"
+cn "Strategy"  "ui.style":"size:6px; fill-color:white; "
+an "File_hosting"
+cn "File_hosting"  "ui.label":"File_hosting"
+cn "File_hosting"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2020"
+cn "Internet_properties_established_in_2020"  "ui.label":"Internet_properties_established_in_2020"
+cn "Internet_properties_established_in_2020"  "ui.style":"size:6px; fill-color:white; "
+an "Leased line"
+cn "Leased line"  "ui.label":"Leased line"
+cn "Leased line"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2018"
+cn "Internet_properties_established_in_2018"  "ui.label":"Internet_properties_established_in_2018"
+cn "Internet_properties_established_in_2018"  "ui.style":"size:6px; fill-color:white; "
+an "Network service"
+cn "Network service"  "ui.label":"Network service"
+cn "Network service"  "ui.style":"size:6px; fill-color:white; "
+an "Virtual private network"
+cn "Virtual private network"  "ui.label":"Virtual private network"
+cn "Virtual private network"  "ui.style":"size:6px; fill-color:white; "
+an "Charles Babbage"
+cn "Charles Babbage"  "ui.label":"Charles Babbage"
+cn "Charles Babbage"  "ui.style":"size:6px; fill-color:white; "
+an "Local area network"
+cn "Local area network"  "ui.label":"Local area network"
+cn "Local area network"  "ui.style":"size:6px; fill-color:white; "
+an "eruption"
+cn "eruption"  "ui.label":"eruption"
+cn "eruption"  "ui.style":"size:6px; fill-color:white; "
+an "swing"
+cn "swing"  "ui.label":"swing"
+cn "swing"  "ui.style":"size:6px; fill-color:white; "
+an "Analytical Engine"
+cn "Analytical Engine"  "ui.label":"Analytical Engine"
+cn "Analytical Engine"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_1986"
+cn "Internet_properties_established_in_1986"  "ui.label":"Internet_properties_established_in_1986"
+cn "Internet_properties_established_in_1986"  "ui.style":"size:6px; fill-color:white; "
+an "domain"
+cn "domain"  "ui.label":"domain"
+cn "domain"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2016"
+cn "Internet_properties_established_in_2016"  "ui.label":"Internet_properties_established_in_2016"
+cn "Internet_properties_established_in_2016"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_1994"
+cn "Internet_properties_established_in_1994"  "ui.label":"Internet_properties_established_in_1994"
+cn "Internet_properties_established_in_1994"  "ui.style":"size:6px; fill-color:white; "
+an "work"
+cn "work"  "ui.label":"work"
+cn "work"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2015"
+cn "Internet_properties_established_in_2015"  "ui.label":"Internet_properties_established_in_2015"
+cn "Internet_properties_established_in_2015"  "ui.style":"size:6px; fill-color:white; "
+an "History"
+cn "History"  "ui.label":"History"
+cn "History"  "ui.style":"size:6px; fill-color:white; "
+an "process"
+cn "process"  "ui.label":"process"
+cn "process"  "ui.style":"size:6px; fill-color:white; "
+an "Earth"
+cn "Earth"  "ui.label":"Earth"
+cn "Earth"  "ui.style":"size:6px; fill-color:white; "
+an "List of regional districts of British Columbia"
+cn "List of regional districts of British Columbia"  "ui.label":"List of regional districts of British Columbia"
+cn "List of regional districts of British Columbia"  "ui.style":"size:6px; fill-color:white; "
+an "First-person shooter"
+cn "First-person shooter"  "ui.label":"First-person shooter"
+cn "First-person shooter"  "ui.style":"size:6px; fill-color:white; "
+an "saltation"
+cn "saltation"  "ui.label":"saltation"
+cn "saltation"  "ui.style":"size:6px; fill-color:white; "
+an "Military organization"
+cn "Military organization"  "ui.label":"Military organization"
+cn "Military organization"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2013"
+cn "Internet_properties_established_in_2013"  "ui.label":"Internet_properties_established_in_2013"
+cn "Internet_properties_established_in_2013"  "ui.style":"size:6px; fill-color:white; "
+an "aeration"
+cn "aeration"  "ui.label":"aeration"
+cn "aeration"  "ui.style":"size:6px; fill-color:white; "
+an "London"
+cn "London"  "ui.label":"London"
+cn "London"  "ui.style":"size:6px; fill-color:white; "
+an "Interactive fiction"
+cn "Interactive fiction"  "ui.label":"Interactive fiction"
+cn "Interactive fiction"  "ui.style":"size:6px; fill-color:white; "
+an "capture"
+cn "capture"  "ui.label":"capture"
+cn "capture"  "ui.style":"size:6px; fill-color:white; "
+an "Morpheme"
+cn "Morpheme"  "ui.label":"Morpheme"
+cn "Morpheme"  "ui.style":"size:6px; fill-color:white; "
+an "Application software"
+cn "Application software"  "ui.label":"Application software"
+cn "Application software"  "ui.style":"size:6px; fill-color:white; "
+an "decay"
+cn "decay"  "ui.label":"decay"
+cn "decay"  "ui.style":"size:6px; fill-color:white; "
+an "distribution"
+cn "distribution"  "ui.label":"distribution"
+cn "distribution"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_culture"
+cn "Internet_culture"  "ui.label":"Internet_culture"
+cn "Internet_culture"  "ui.style":"size:6px; fill-color:white; "
+an "desorption"
+cn "desorption"  "ui.label":"desorption"
+cn "desorption"  "ui.style":"size:6px; fill-color:white; "
+an "Institute of Electrical and Electronics Engineers"
+cn "Institute of Electrical and Electronics Engineers"  "ui.label":"Institute of Electrical and Electronics Engineers"
+cn "Institute of Electrical and Electronics Engineers"  "ui.style":"size:6px; fill-color:white; "
+an "search"
+cn "search"  "ui.label":"search"
+cn "search"  "ui.style":"size:6px; fill-color:white; "
+an "Border Gateway Protocol"
+cn "Border Gateway Protocol"  "ui.label":"Border Gateway Protocol"
+cn "Border Gateway Protocol"  "ui.style":"size:6px; fill-color:white; "
+an "Data (computing)"
+cn "Data (computing)"  "ui.label":"Data (computing)"
+cn "Data (computing)"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2010"
+cn "Internet_properties_established_in_2010"  "ui.label":"Internet_properties_established_in_2010"
+cn "Internet_properties_established_in_2010"  "ui.style":"size:6px; fill-color:white; "
+an "Information system"
+cn "Information system"  "ui.label":"Information system"
+cn "Information system"  "ui.style":"size:6px; fill-color:white; "
+an "Information technology"
+cn "Information technology"  "ui.label":"Information technology"
+cn "Information technology"  "ui.style":"size:6px; fill-color:white; "
+an "Computer science"
+cn "Computer science"  "ui.label":"Computer science"
+cn "Computer science"  "ui.style":"size:6px; fill-color:white; "
+an "National Physical Laboratory (United Kingdom)"
+cn "National Physical Laboratory (United Kingdom)"  "ui.label":"National Physical Laboratory (United Kingdom)"
+cn "National Physical Laboratory (United Kingdom)"  "ui.style":"size:6px; fill-color:white; "
+an "diffusion"
+cn "diffusion"  "ui.label":"diffusion"
+cn "diffusion"  "ui.style":"size:6px; fill-color:white; "
+an "Server (computing)"
+cn "Server (computing)"  "ui.label":"Server (computing)"
+cn "Server (computing)"  "ui.style":"size:6px; fill-color:white; "
+an "support"
+cn "support"  "ui.label":"support"
+cn "support"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2009"
+cn "Internet_properties_established_in_2009"  "ui.label":"Internet_properties_established_in_2009"
+cn "Internet_properties_established_in_2009"  "ui.style":"size:6px; fill-color:white; "
+an "Electronic engineering"
+cn "Electronic engineering"  "ui.label":"Electronic engineering"
+cn "Electronic engineering"  "ui.style":"size:6px; fill-color:white; "
+an "Electrical engineering"
+cn "Electrical engineering"  "ui.label":"Electrical engineering"
+cn "Electrical engineering"  "ui.style":"size:6px; fill-color:white; "
+an "drift"
+cn "drift"  "ui.label":"drift"
+cn "drift"  "ui.style":"size:6px; fill-color:white; "
+an "County"
+cn "County"  "ui.label":"County"
+cn "County"  "ui.style":"size:6px; fill-color:white; "
+an "electrophoresis"
+cn "electrophoresis"  "ui.label":"electrophoresis"
+cn "electrophoresis"  "ui.style":"size:6px; fill-color:white; "
+an "Sovereign state"
+cn "Sovereign state"  "ui.label":"Sovereign state"
+cn "Sovereign state"  "ui.style":"size:6px; fill-color:white; "
+an "I2P"
+cn "I2P"  "ui.label":"I2P"
+cn "I2P"  "ui.style":"size:6px; fill-color:white; "
+an "Ontology"
+cn "Ontology"  "ui.label":"Ontology"
+cn "Ontology"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2005"
+cn "Internet_properties_established_in_2005"  "ui.label":"Internet_properties_established_in_2005"
+cn "Internet_properties_established_in_2005"  "ui.style":"size:6px; fill-color:white; "
+an "Central Asia"
+cn "Central Asia"  "ui.label":"Central Asia"
+cn "Central Asia"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2004"
+cn "Internet_properties_established_in_2004"  "ui.label":"Internet_properties_established_in_2004"
+cn "Internet_properties_established_in_2004"  "ui.style":"size:6px; fill-color:white; "
+an "formation"
+cn "formation"  "ui.label":"formation"
+cn "formation"  "ui.style":"size:6px; fill-color:white; "
+an "political unit"
+cn "political unit"  "ui.label":"political unit"
+cn "political unit"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2003"
+cn "Internet_properties_established_in_2003"  "ui.label":"Internet_properties_established_in_2003"
+cn "Internet_properties_established_in_2003"  "ui.style":"size:6px; fill-color:white; "
+an "DARPA"
+cn "DARPA"  "ui.label":"DARPA"
+cn "DARPA"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2002"
+cn "Internet_properties_established_in_2002"  "ui.label":"Internet_properties_established_in_2002"
+cn "Internet_properties_established_in_2002"  "ui.style":"size:6px; fill-color:white; "
+an "Sabre (computer system)"
+cn "Sabre (computer system)"  "ui.label":"Sabre (computer system)"
+cn "Sabre (computer system)"  "ui.style":"size:6px; fill-color:white; "
+an "Gulf War"
+cn "Gulf War"  "ui.label":"Gulf War"
+cn "Gulf War"  "ui.style":"size:6px; fill-color:white; "
+an "machinery"
+cn "machinery"  "ui.label":"machinery"
+cn "machinery"  "ui.style":"size:6px; fill-color:white; "
+an "Tor_(anonymity_network)"
+cn "Tor_(anonymity_network)"  "ui.label":"Tor_(anonymity_network)"
+cn "Tor_(anonymity_network)"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_2001"
+cn "Internet_properties_established_in_2001"  "ui.label":"Internet_properties_established_in_2001"
+cn "Internet_properties_established_in_2001"  "ui.style":"size:6px; fill-color:white; "
+an "Exploit (computer security)"
+cn "Exploit (computer security)"  "ui.label":"Exploit (computer security)"
+cn "Exploit (computer security)"  "ui.style":"size:6px; fill-color:white; "
+an "hardening"
+cn "hardening"  "ui.label":"hardening"
+cn "hardening"  "ui.style":"size:6px; fill-color:white; "
+an "mechanism"
+cn "mechanism"  "ui.label":"mechanism"
+cn "mechanism"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_1998"
+cn "Internet_properties_established_in_1998"  "ui.label":"Internet_properties_established_in_1998"
+cn "Internet_properties_established_in_1998"  "ui.style":"size:6px; fill-color:white; "
+an "inactivation"
+cn "inactivation"  "ui.label":"inactivation"
+cn "inactivation"  "ui.style":"size:6px; fill-color:white; "
+an "ionization"
+cn "ionization"  "ui.label":"ionization"
+cn "ionization"  "ui.style":"size:6px; fill-color:white; "
+an "Email"
+cn "Email"  "ui.label":"Email"
+cn "Email"  "ui.style":"size:6px; fill-color:white; "
+an "materialization"
+cn "materialization"  "ui.label":"materialization"
+cn "materialization"  "ui.style":"size:6px; fill-color:white; "
+an "nuclear reaction"
+cn "nuclear reaction"  "ui.label":"nuclear reaction"
+cn "nuclear reaction"  "ui.style":"size:6px; fill-color:white; "
+an "Internet_properties_established_in_1997"
+cn "Internet_properties_established_in_1997"  "ui.label":"Internet_properties_established_in_1997"
+cn "Internet_properties_established_in_1997"  "ui.style":"size:6px; fill-color:white; "
+an "natural object"
+cn "natural object"  "ui.label":"natural object"
+cn "natural object"  "ui.style":"size:6px; fill-color:white; "
+an "implantation"
+cn "implantation"  "ui.label":"implantation"
+cn "implantation"  "ui.style":"size:6px; fill-color:white; "
+an "release"
+cn "release"  "ui.label":"release"
+cn "release"  "ui.style":"size:6px; fill-color:white; "
+ae "Computer->machine" "Computer"  "machine"
+ce "Computer->machine"  "type":0
+ae "machine->device" "machine"  "device"
+ce "machine->device"  "type":0
+ae "device->instrumentality" "device"  "instrumentality"
+ce "device->instrumentality"  "type":0
+ae "instrumentality->unit" "instrumentality"  "unit"
+ce "instrumentality->unit"  "type":0
+ae "unit->definite quantity" "unit"  "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity"  "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "activity->state" "activity"  "state"
+ce "activity->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "Internet->computer network" "Internet"  "computer network"
+ce "Internet->computer network"  "type":0
+ae "computer network->network" "computer network"  "network"
+ce "computer network->network"  "type":0
+ae "network->system" "network"  "system"
+ce "network->system"  "type":0
+ae "system->instrumentality" "system"  "instrumentality"
+ce "system->instrumentality"  "type":0
+ae "system->group" "system"  "group"
+ce "system->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Computer->Internet_properties_established_in_1988" "Computer" > "Internet_properties_established_in_1988"
+ce "Computer->Internet_properties_established_in_1988"  "type":8
+ae "Internet->Web browser" "Internet" > "Web browser"
+ce "Internet->Web browser"  "type":8
+ae "action->succession" "action" > "succession"
+ce "action->succession"  "type":1
+ae "writing->Central Asia" "writing" > "Central Asia"
+ce "writing->Central Asia"  "type":8
+ae "maneuver->Strategy" "maneuver" > "Strategy"
+ce "maneuver->Strategy"  "type":8
+ae "region->Gulf War" "region" > "Gulf War"
+ce "region->Gulf War"  "type":8
+ae "Computer->server" "Computer" > "server"
+ce "Computer->server"  "type":1
+ae "Computer->Internet_properties_established_in_1981" "Computer" > "Internet_properties_established_in_1981"
+ce "Computer->Internet_properties_established_in_1981"  "type":8
+ae "action->stimulation" "action" > "stimulation"
+ce "action->stimulation"  "type":1
+ae "Computer->platform" "Computer" > "platform"
+ce "Computer->platform"  "type":6
+ae "region->United Kingdom" "region" > "United Kingdom"
+ce "region->United Kingdom"  "type":8
+ae "Internet->Domain Name System" "Internet" > "Domain Name System"
+ce "Internet->Domain Name System"  "type":8
+ae "Computer->Internet_properties_established_in_1998" "Computer" > "Internet_properties_established_in_1998"
+ce "Computer->Internet_properties_established_in_1998"  "type":8
+ae "machine->Charles Babbage" "machine" > "Charles Babbage"
+ce "machine->Charles Babbage"  "type":8
+ae "machine->Analytical Engine" "machine" > "Analytical Engine"
+ce "machine->Analytical Engine"  "type":8
+ae "activity->electrophoresis" "activity" > "electrophoresis"
+ce "activity->electrophoresis"  "type":1
+ae "Internet->Business-to-business" "Internet" > "Business-to-business"
+ce "Internet->Business-to-business"  "type":8
+ae "district->Brazil" "district" > "Brazil"
+ce "district->Brazil"  "type":8
+ae "action->eruption" "action" > "eruption"
+ce "action->eruption"  "type":1
+ae "Internet->Thailand" "Internet" > "Thailand"
+ce "Internet->Thailand"  "type":8
+ae "action->swing" "action" > "swing"
+ce "action->swing"  "type":1
+ae "Internet->Instant messaging" "Internet" > "Instant messaging"
+ce "Internet->Instant messaging"  "type":8
+ae "Computer->Operating system" "Computer" > "Operating system"
+ce "Computer->Operating system"  "type":8
+ae "Computer->Internet_properties_established_in_2010" "Computer" > "Internet_properties_established_in_2010"
+ce "Computer->Internet_properties_established_in_2010"  "type":8
+ae "activity->transduction" "activity" > "transduction"
+ce "activity->transduction"  "type":1
+ae "activity->transpiration" "activity" > "transpiration"
+ce "activity->transpiration"  "type":1
+ae "computer network->Virtual private network" "computer network" > "Virtual private network"
+ce "computer network->Virtual private network"  "type":8
+ae "Computer->Mobile device" "Computer" > "Mobile device"
+ce "Computer->Mobile device"  "type":8
+ae "Computer->Internet" "Computer" > "Internet"
+ce "Computer->Internet"  "type":8
+ae "abstraction->Morpheme" "abstraction" > "Morpheme"
+ce "abstraction->Morpheme"  "type":8
+ae "Internet->Mobile device" "Internet" > "Mobile device"
+ce "Internet->Mobile device"  "type":8
+ae "unit->object" "unit" > "object"
+ce "unit->object"  "type":0
+ae "unit->thing" "unit" > "thing"
+ce "unit->thing"  "type":0
+ae "Computer->World War II" "Computer" > "World War II"
+ce "Computer->World War II"  "type":8
+ae "abstraction->History" "abstraction" > "History"
+ce "abstraction->History"  "type":8
+ae "Internet->ARPANET" "Internet" > "ARPANET"
+ce "Internet->ARPANET"  "type":8
+ae "activity->succession" "activity" > "succession"
+ce "activity->succession"  "type":1
+ae "abstraction->Operating system" "abstraction" > "Operating system"
+ce "abstraction->Operating system"  "type":8
+ae "region->Politics" "region" > "Politics"
+ce "region->Politics"  "type":8
+ae "computer network->DARPA" "computer network" > "DARPA"
+ce "computer network->DARPA"  "type":8
+ae "Internet->Internet_properties_established_in_2020" "Internet" > "Internet_properties_established_in_2020"
+ce "Internet->Internet_properties_established_in_2020"  "type":8
+ae "Internet->Internet_properties_established_in_2018" "Internet" > "Internet_properties_established_in_2018"
+ce "Internet->Internet_properties_established_in_2018"  "type":8
+ae "Internet->Internet_properties_established_in_2017" "Internet" > "Internet_properties_established_in_2017"
+ce "Internet->Internet_properties_established_in_2017"  "type":8
+ae "Internet->Iran" "Internet" > "Iran"
+ce "Internet->Iran"  "type":8
+ae "writing->Word processor" "writing" > "Word processor"
+ce "writing->Word processor"  "type":8
+ae "Internet->Internet_properties_established_in_2016" "Internet" > "Internet_properties_established_in_2016"
+ce "Internet->Internet_properties_established_in_2016"  "type":8
+ae "Internet->Internet_properties_established_in_2013" "Internet" > "Internet_properties_established_in_2013"
+ce "Internet->Internet_properties_established_in_2013"  "type":8
+ae "Internet->Internet_properties_established_in_2010" "Internet" > "Internet_properties_established_in_2010"
+ce "Internet->Internet_properties_established_in_2010"  "type":8
+ae "Internet->Internet_properties_established_in_2004" "Internet" > "Internet_properties_established_in_2004"
+ce "Internet->Internet_properties_established_in_2004"  "type":8
+ae "Internet->Internet_properties_established_in_2003" "Internet" > "Internet_properties_established_in_2003"
+ce "Internet->Internet_properties_established_in_2003"  "type":8
+ae "Computer->Iran" "Computer" > "Iran"
+ce "Computer->Iran"  "type":8
+ae "Internet->Internet_properties_established_in_2002" "Internet" > "Internet_properties_established_in_2002"
+ce "Internet->Internet_properties_established_in_2002"  "type":8
+ae "Internet->Internet_properties_established_in_2001" "Internet" > "Internet_properties_established_in_2001"
+ce "Internet->Internet_properties_established_in_2001"  "type":8
+ae "abstraction->Strategy" "abstraction" > "Strategy"
+ce "abstraction->Strategy"  "type":8
+ae "writing->Paper" "writing" > "Paper"
+ce "writing->Paper"  "type":8
+ae "operation->implantation" "operation" > "implantation"
+ce "operation->implantation"  "type":1
+ae "Internet->Internet_properties_established_in_1998" "Internet" > "Internet_properties_established_in_1998"
+ce "Internet->Internet_properties_established_in_1998"  "type":8
+ae "Computer->Internet_culture" "Computer" > "Internet_culture"
+ce "Computer->Internet_culture"  "type":8
+ae "Internet->Internet_properties_established_in_1997" "Internet" > "Internet_properties_established_in_1997"
+ce "Internet->Internet_properties_established_in_1997"  "type":8
+ae "Internet->Internet_properties_established_in_1994" "Internet" > "Internet_properties_established_in_1994"
+ce "Internet->Internet_properties_established_in_1994"  "type":8
+ae "abstraction->Bill of lading" "abstraction" > "Bill of lading"
+ce "abstraction->Bill of lading"  "type":8
+ae "abstraction->Ontology" "abstraction" > "Ontology"
+ce "abstraction->Ontology"  "type":8
+ae "Computer->Switzerland" "Computer" > "Switzerland"
+ce "Computer->Switzerland"  "type":8
+ae "Internet->Internet_properties_established_in_1991" "Internet" > "Internet_properties_established_in_1991"
+ce "Internet->Internet_properties_established_in_1991"  "type":8
+ae "computer network->Packet switching" "computer network" > "Packet switching"
+ce "computer network->Packet switching"  "type":8
+ae "computer network->Paul Baran" "computer network" > "Paul Baran"
+ce "computer network->Paul Baran"  "type":8
+ae "Computer->Internet_properties_established_in_1986" "Computer" > "Internet_properties_established_in_1986"
+ce "Computer->Internet_properties_established_in_1986"  "type":8
+ae "physical entity->thing" "physical entity" > "thing"
+ce "physical entity->thing"  "type":1
+ae "activity->nuclear reaction" "activity" > "nuclear reaction"
+ce "activity->nuclear reaction"  "type":1
+ae "activity->materialization" "activity" > "materialization"
+ce "activity->materialization"  "type":1
+ae "action->formation" "action" > "formation"
+ce "action->formation"  "type":1
+ae "Computer->Charles Babbage" "Computer" > "Charles Babbage"
+ce "Computer->Charles Babbage"  "type":8
+ae "computer network->Sabre (computer system)" "computer network" > "Sabre (computer system)"
+ce "computer network->Sabre (computer system)"  "type":8
+ae "operation->search" "operation" > "search"
+ce "operation->search"  "type":1
+ae "computer network->File server" "computer network" > "File server"
+ce "computer network->File server"  "type":8
+ae "Computer->Analytical Engine" "Computer" > "Analytical Engine"
+ce "Computer->Analytical Engine"  "type":8
+ae "Internet->Internet_censorship" "Internet" > "Internet_censorship"
+ce "Internet->Internet_censorship"  "type":8
+ae "writing->Morpheme" "writing" > "Morpheme"
+ce "writing->Morpheme"  "type":8
+ae "computer network->Digital audio" "computer network" > "Digital audio"
+ce "computer network->Digital audio"  "type":8
+ae "computer network->Network service" "computer network" > "Network service"
+ce "computer network->Network service"  "type":8
+ae "computer network->Application software" "computer network" > "Application software"
+ce "computer network->Application software"  "type":8
+ae "Internet->Personal digital assistant" "Internet" > "Personal digital assistant"
+ce "Internet->Personal digital assistant"  "type":8
+ae "action->hardening" "action" > "hardening"
+ce "action->hardening"  "type":1
+ae "computer network->Information technology" "computer network" > "Information technology"
+ce "computer network->Information technology"  "type":8
+ae "Computer->Internet_properties_established_in_1991" "Computer" > "Internet_properties_established_in_1991"
+ce "Computer->Internet_properties_established_in_1991"  "type":8
+ae "action->inactivation" "action" > "inactivation"
+ce "action->inactivation"  "type":1
+ae "computer network->Communication protocol" "computer network" > "Communication protocol"
+ce "computer network->Communication protocol"  "type":8
+ae "state->Sovereign state" "state" > "Sovereign state"
+ce "state->Sovereign state"  "type":8
+ae "writing->History" "writing" > "History"
+ce "writing->History"  "type":8
+ae "action->ionization" "action" > "ionization"
+ce "action->ionization"  "type":1
+ae "activity->ionization" "activity" > "ionization"
+ce "activity->ionization"  "type":1
+ae "Computer->London" "Computer" > "London"
+ce "Computer->London"  "type":8
+ae "abstraction->measure" "abstraction" > "measure"
+ce "abstraction->measure"  "type":1
+ae "action->materialization" "action" > "materialization"
+ce "action->materialization"  "type":1
+ae "computer network->Computer" "computer network" > "Computer"
+ce "computer network->Computer"  "type":8
+ae "Internet->Telnet" "Internet" > "Telnet"
+ce "Internet->Telnet"  "type":8
+ae "device->mechanism" "device" > "mechanism"
+ce "device->mechanism"  "type":1
+ae "action->nuclear reaction" "action" > "nuclear reaction"
+ce "action->nuclear reaction"  "type":1
+ae "Computer->Internet_properties_established_in_1994" "Computer" > "Internet_properties_established_in_1994"
+ce "Computer->Internet_properties_established_in_1994"  "type":8
+ae "activity->inactivation" "activity" > "inactivation"
+ce "activity->inactivation"  "type":1
+ae "computer network->server" "computer network" > "server"
+ce "computer network->server"  "type":7
+ae "operation->activity" "operation" > "activity"
+ce "operation->activity"  "type":0
+ae "activity->hardening" "activity" > "hardening"
+ce "activity->hardening"  "type":1
+ae "operation->process" "operation" > "process"
+ce "operation->process"  "type":0
+ae "device->release" "device" > "release"
+ce "device->release"  "type":1
+ae "Internet->Network_analyzers" "Internet" > "Network_analyzers"
+ce "Internet->Network_analyzers"  "type":8
+ae "operation->work" "operation" > "work"
+ce "operation->work"  "type":0
+ae "action->release" "action" > "release"
+ce "action->release"  "type":1
+ae "Computer->National Physical Laboratory (United Kingdom)" "Computer" > "National Physical Laboratory (United Kingdom)"
+ce "Computer->National Physical Laboratory (United Kingdom)"  "type":8
+ae "action->saltation" "action" > "saltation"
+ce "action->saltation"  "type":1
+ae "Internet->London" "Internet" > "London"
+ce "Internet->London"  "type":8
+ae "activity->formation" "activity" > "formation"
+ce "activity->formation"  "type":1
+ae "Computer->Internet_properties_established_in_1997" "Computer" > "Internet_properties_established_in_1997"
+ce "Computer->Internet_properties_established_in_1997"  "type":8
+ae "state->Government" "state" > "Government"
+ce "state->Government"  "type":8
+ae "computer network->Exploit (computer security)" "computer network" > "Exploit (computer security)"
+ce "computer network->Exploit (computer security)"  "type":8
+ae "activity->swing" "activity" > "swing"
+ce "activity->swing"  "type":1
+ae "computer network->National Physical Laboratory (United Kingdom)" "computer network" > "National Physical Laboratory (United Kingdom)"
+ce "computer network->National Physical Laboratory (United Kingdom)"  "type":8
+ae "operation->support" "operation" > "support"
+ce "operation->support"  "type":1
+ae "computer network->ARPANET" "computer network" > "ARPANET"
+ce "computer network->ARPANET"  "type":8
+ae "Computer->Internet_properties_established_in_1984" "Computer" > "Internet_properties_established_in_1984"
+ce "Computer->Internet_properties_established_in_1984"  "type":8
+ae "writing->activity" "writing" > "activity"
+ce "writing->activity"  "type":0
+ae "entity->thing" "entity" > "thing"
+ce "entity->thing"  "type":1
+ae "computer network->SRI International" "computer network" > "SRI International"
+ce "computer network->SRI International"  "type":8
+ae "region->domain" "region" > "domain"
+ce "region->domain"  "type":1
+ae "action->electrophoresis" "action" > "electrophoresis"
+ce "action->electrophoresis"  "type":1
+ae "activity->saltation" "activity" > "saltation"
+ce "activity->saltation"  "type":1
+ae "action->drift" "action" > "drift"
+ce "action->drift"  "type":1
+ae "district->Thailand" "district" > "Thailand"
+ce "district->Thailand"  "type":8
+ae "action->diffusion" "action" > "diffusion"
+ce "action->diffusion"  "type":1
+ae "computer network->Domain Name System" "computer network" > "Domain Name System"
+ce "computer network->Domain Name System"  "type":8
+ae "region->Earth" "region" > "Earth"
+ce "region->Earth"  "type":8
+ae "Internet->Crypto-anarchism" "Internet" > "Crypto-anarchism"
+ce "Internet->Crypto-anarchism"  "type":8
+ae "action->desorption" "action" > "desorption"
+ce "action->desorption"  "type":1
+ae "document->Personal digital assistant" "document" > "Personal digital assistant"
+ce "document->Personal digital assistant"  "type":8
+ae "computer network->Printing" "computer network" > "Printing"
+ce "computer network->Printing"  "type":8
+ae "district->Switzerland" "district" > "Switzerland"
+ce "district->Switzerland"  "type":8
+ae "action->decay" "action" > "decay"
+ce "action->decay"  "type":1
+ae "Internet->Pirate_parties" "Internet" > "Pirate_parties"
+ce "Internet->Pirate_parties"  "type":8
+ae "Internet->I2P" "Internet" > "I2P"
+ce "Internet->I2P"  "type":8
+ae "Internet->Tor_(anonymity_network)" "Internet" > "Tor_(anonymity_network)"
+ce "Internet->Tor_(anonymity_network)"  "type":8
+ae "document->Paper" "document" > "Paper"
+ce "document->Paper"  "type":8
+ae "state->domain" "state" > "domain"
+ce "state->domain"  "type":7
+ae "action->capture" "action" > "capture"
+ce "action->capture"  "type":1
+ae "computer network->Electrical engineering" "computer network" > "Electrical engineering"
+ce "computer network->Electrical engineering"  "type":8
+ae "Internet->Internet-related_organizations" "Internet" > "Internet-related_organizations"
+ce "Internet->Internet-related_organizations"  "type":8
+ae "computer network->Electronic engineering" "computer network" > "Electronic engineering"
+ce "computer network->Electronic engineering"  "type":8
+ae "Computer->Telnet" "Computer" > "Telnet"
+ce "Computer->Telnet"  "type":8
+ae "computer network->Computer science" "computer network" > "Computer science"
+ce "computer network->Computer science"  "type":8
+ae "Internet->Central Asia" "Internet" > "Central Asia"
+ce "Internet->Central Asia"  "type":8
+ae "Internet->Computer network" "Internet" > "Computer network"
+ce "Internet->Computer network"  "type":8
+ae "Internet->Internet_culture" "Internet" > "Internet_culture"
+ce "Internet->Internet_culture"  "type":8
+ae "instrumentality->conveyance" "instrumentality" > "conveyance"
+ce "instrumentality->conveyance"  "type":1
+ae "group->set" "group" > "set"
+ce "group->set"  "type":0
+ae "document->Politics" "document" > "Politics"
+ce "document->Politics"  "type":8
+ae "action->aeration" "action" > "aeration"
+ce "action->aeration"  "type":1
+ae "document->Government" "document" > "Government"
+ce "document->Government"  "type":8
+ae "document->Bill of lading" "document" > "Bill of lading"
+ce "document->Bill of lading"  "type":8
+ae "computer network->Border Gateway Protocol" "computer network" > "Border Gateway Protocol"
+ce "computer network->Border Gateway Protocol"  "type":8
+ae "system->Information system" "system" > "Information system"
+ce "system->Information system"  "type":8
+ae "document->Spreadsheet" "document" > "Spreadsheet"
+ce "document->Spreadsheet"  "type":8
+ae "Computer->Personal digital assistant" "Computer" > "Personal digital assistant"
+ce "Computer->Personal digital assistant"  "type":8
+ae "system->Gulf War" "system" > "Gulf War"
+ce "system->Gulf War"  "type":8
+ae "Internet->Internet_properties_established_in_1981" "Internet" > "Internet_properties_established_in_1981"
+ce "Internet->Internet_properties_established_in_1981"  "type":8
+ae "Internet->Internet_properties_established_in_1984" "Internet" > "Internet_properties_established_in_1984"
+ce "Internet->Internet_properties_established_in_1984"  "type":8
+ae "system->Ontology" "system" > "Ontology"
+ce "system->Ontology"  "type":8
+ae "Internet->Email" "Internet" > "Email"
+ce "Internet->Email"  "type":8
+ae "Internet->Internet_properties_established_in_1986" "Internet" > "Internet_properties_established_in_1986"
+ce "Internet->Internet_properties_established_in_1986"  "type":8
+ae "Internet->Internet_properties_established_in_1988" "Internet" > "Internet_properties_established_in_1988"
+ce "Internet->Internet_properties_established_in_1988"  "type":8
+ae "activity->stimulation" "activity" > "stimulation"
+ce "activity->stimulation"  "type":1
+ae "document->Thesis" "document" > "Thesis"
+ce "document->Thesis"  "type":8
+ae "Internet->Cybercrime" "Internet" > "Cybercrime"
+ce "Internet->Cybercrime"  "type":8
+ae "Computer->Internet_properties_established_in_2001" "Computer" > "Internet_properties_established_in_2001"
+ce "Computer->Internet_properties_established_in_2001"  "type":8
+ae "computer network->Local area network" "computer network" > "Local area network"
+ce "computer network->Local area network"  "type":8
+ae "machine->machinery" "machine" > "machinery"
+ce "machine->machinery"  "type":1
+ae "Computer->Internet_properties_established_in_1995" "Computer" > "Internet_properties_established_in_1995"
+ce "Computer->Internet_properties_established_in_1995"  "type":8
+ae "Computer->Electrical network" "Computer" > "Electrical network"
+ce "Computer->Electrical network"  "type":8
+ae "unit->political unit" "unit" > "political unit"
+ce "unit->political unit"  "type":1
+ae "Internet->Packet switching" "Internet" > "Packet switching"
+ce "Internet->Packet switching"  "type":8
+ae "Internet->Paul Baran" "Internet" > "Paul Baran"
+ce "Internet->Paul Baran"  "type":8
+ae "Internet->First-person shooter" "Internet" > "First-person shooter"
+ce "Internet->First-person shooter"  "type":8
+ae "unit->group" "unit" > "group"
+ce "unit->group"  "type":1
+ae "Computer->Network_analyzers" "Computer" > "Network_analyzers"
+ce "Computer->Network_analyzers"  "type":8
+ae "region->Sovereign state" "region" > "Sovereign state"
+ce "region->Sovereign state"  "type":8
+ae "document->Computer file" "document" > "Computer file"
+ce "document->Computer file"  "type":8
+ae "Computer->Internet-related_organizations" "Computer" > "Internet-related_organizations"
+ce "Computer->Internet-related_organizations"  "type":8
+ae "system->Computer science" "system" > "Computer science"
+ce "system->Computer science"  "type":8
+ae "writing->Email" "writing" > "Email"
+ce "writing->Email"  "type":8
+ae "activity->drift" "activity" > "drift"
+ce "activity->drift"  "type":1
+ae "unit->natural object" "unit" > "natural object"
+ce "unit->natural object"  "type":1
+ae "computer network->Business-to-business" "computer network" > "Business-to-business"
+ce "computer network->Business-to-business"  "type":8
+ae "Computer->Server (computing)" "Computer" > "Server (computing)"
+ce "Computer->Server (computing)"  "type":8
+ae "region->County" "region" > "County"
+ce "region->County"  "type":8
+ae "Computer->Data (computing)" "Computer" > "Data (computing)"
+ce "Computer->Data (computing)"  "type":8
+ae "maneuver->device" "maneuver" > "device"
+ce "maneuver->device"  "type":1
+ae "state->action" "state" > "action"
+ce "state->action"  "type":1
+ae "Computer->Application software" "Computer" > "Application software"
+ce "Computer->Application software"  "type":8
+ae "Internet->SRI International" "Internet" > "SRI International"
+ce "Internet->SRI International"  "type":8
+ae "document->platform" "document" > "platform"
+ce "document->platform"  "type":1
+ae "Computer->Internet_properties_established_in_2002" "Computer" > "Internet_properties_established_in_2002"
+ce "Computer->Internet_properties_established_in_2002"  "type":8
+ae "Computer->Internet_properties_established_in_2014" "Computer" > "Internet_properties_established_in_2014"
+ce "Computer->Internet_properties_established_in_2014"  "type":8
+ae "district->mandate" "district" > "mandate"
+ce "district->mandate"  "type":1
+ae "Computer->Internet_properties_established_in_2003" "Computer" > "Internet_properties_established_in_2003"
+ce "Computer->Internet_properties_established_in_2003"  "type":8
+ae "Computer->Internet_properties_established_in_2017" "Computer" > "Internet_properties_established_in_2017"
+ce "Computer->Internet_properties_established_in_2017"  "type":8
+ae "writing->Interactive fiction" "writing" > "Interactive fiction"
+ce "writing->Interactive fiction"  "type":8
+ae "Computer->File_hosting" "Computer" > "File_hosting"
+ce "Computer->File_hosting"  "type":8
+ae "action->transduction" "action" > "transduction"
+ce "action->transduction"  "type":1
+ae "Computer->Internet_properties_established_in_2004" "Computer" > "Internet_properties_established_in_2004"
+ce "Computer->Internet_properties_established_in_2004"  "type":8
+ae "Internet->Virtual private network" "Internet" > "Virtual private network"
+ce "Internet->Virtual private network"  "type":8
+ae "legal document->mandate" "legal document" > "mandate"
+ce "legal document->mandate"  "type":1
+ae "computer network->Institute of Electrical and Electronics Engineers" "computer network" > "Institute of Electrical and Electronics Engineers"
+ce "computer network->Institute of Electrical and Electronics Engineers"  "type":8
+ae "Internet->Leased line" "Internet" > "Leased line"
+ce "Internet->Leased line"  "type":8
+ae "action->transpiration" "action" > "transpiration"
+ce "action->transpiration"  "type":1
+ae "writing->Printing" "writing" > "Printing"
+ce "writing->Printing"  "type":8
+ae "legal document->conveyance" "legal document" > "conveyance"
+ce "legal document->conveyance"  "type":1
+ae "writing->Publishing" "writing" > "Publishing"
+ce "writing->Publishing"  "type":8
+ae "Computer->Internet_properties_established_in_2005" "Computer" > "Internet_properties_established_in_2005"
+ce "Computer->Internet_properties_established_in_2005"  "type":8
+ae "system->Earth" "system" > "Earth"
+ce "system->Earth"  "type":8
+ae "Computer->Internet_properties_established_in_2020" "Computer" > "Internet_properties_established_in_2020"
+ce "Computer->Internet_properties_established_in_2020"  "type":8
+ae "Computer->Internet_properties_established_in_2015" "Computer" > "Internet_properties_established_in_2015"
+ce "Computer->Internet_properties_established_in_2015"  "type":8
+ae "Computer->Communication protocol" "Computer" > "Communication protocol"
+ce "Computer->Communication protocol"  "type":8
+ae "Internet->Cornell University" "Internet" > "Cornell University"
+ce "Internet->Cornell University"  "type":8
+ae "Computer->HTML" "Computer" > "HTML"
+ce "Computer->HTML"  "type":8
+ae "Internet->Internet_properties_established_in_1995" "Internet" > "Internet_properties_established_in_1995"
+ce "Internet->Internet_properties_established_in_1995"  "type":8
+ae "district->County" "district" > "County"
+ce "district->County"  "type":8
+ae "Internet->Internet_properties_established_in_2005" "Internet" > "Internet_properties_established_in_2005"
+ce "Internet->Internet_properties_established_in_2005"  "type":8
+ae "Internet->Internet_properties_established_in_2009" "Internet" > "Internet_properties_established_in_2009"
+ce "Internet->Internet_properties_established_in_2009"  "type":8
+ae "creating by mental acts->formation" "creating by mental acts" > "formation"
+ce "creating by mental acts->formation"  "type":1
+ae "Internet->Internet_properties_established_in_2014" "Internet" > "Internet_properties_established_in_2014"
+ce "Internet->Internet_properties_established_in_2014"  "type":8
+ae "Computer->Productivity software" "Computer" > "Productivity software"
+ce "Computer->Productivity software"  "type":8
+ae "Computer->Word processor" "Computer" > "Word processor"
+ce "Computer->Word processor"  "type":8
+ae "Internet->Internet_properties_established_in_2015" "Internet" > "Internet_properties_established_in_2015"
+ce "Internet->Internet_properties_established_in_2015"  "type":8
+ae "Internet->HTML" "Internet" > "HTML"
+ce "Internet->HTML"  "type":8
+ae "Computer->Spreadsheet" "Computer" > "Spreadsheet"
+ce "Computer->Spreadsheet"  "type":8
+ae "Computer->Web browser" "Computer" > "Web browser"
+ce "Computer->Web browser"  "type":8
+ae "Internet->Internet_properties_established_in_the_2020s" "Internet" > "Internet_properties_established_in_the_2020s"
+ce "Internet->Internet_properties_established_in_the_2020s"  "type":8
+ae "action->state" "action" > "state"
+ce "action->state"  "type":0
+ae "Computer->Instant messaging" "Computer" > "Instant messaging"
+ce "Computer->Instant messaging"  "type":8
+ae "act->Thesis" "act" > "Thesis"
+ce "act->Thesis"  "type":8
+ae "creation->natural object" "creation" > "natural object"
+ce "creation->natural object"  "type":0
+ae "Computer->Digital audio" "Computer" > "Digital audio"
+ce "Computer->Digital audio"  "type":8
+ae "action->group action" "action" > "group action"
+ce "action->group action"  "type":0
+ae "activity->diffusion" "activity" > "diffusion"
+ce "activity->diffusion"  "type":1
+ae "action->mechanism" "action" > "mechanism"
+ce "action->mechanism"  "type":0
+ae "unit->Military organization" "unit" > "Military organization"
+ce "unit->Military organization"  "type":8
+ae "Internet->Server (computing)" "Internet" > "Server (computing)"
+ce "Internet->Server (computing)"  "type":8
+ae "Internet->File server" "Internet" > "File server"
+ce "Internet->File server"  "type":8
+ae "Internet->Computer file" "Internet" > "Computer file"
+ce "Internet->Computer file"  "type":8
+ae "Computer->Internet_properties_established_in_the_2020s" "Computer" > "Internet_properties_established_in_the_2020s"
+ce "Computer->Internet_properties_established_in_the_2020s"  "type":8
+ae "action->work" "action" > "work"
+ce "action->work"  "type":0
+ae "action->thing" "action" > "thing"
+ce "action->thing"  "type":1
+ae "machine->Cornell University" "machine" > "Cornell University"
+ce "machine->Cornell University"  "type":8
+ae "region->Brazil" "region" > "Brazil"
+ce "region->Brazil"  "type":8
+ae "Computer->First-person shooter" "Computer" > "First-person shooter"
+ce "Computer->First-person shooter"  "type":8
+ae "activity->desorption" "activity" > "desorption"
+ce "activity->desorption"  "type":1
+ae "Computer->Interactive fiction" "Computer" > "Interactive fiction"
+ce "Computer->Interactive fiction"  "type":8
+ae "Internet->Border Gateway Protocol" "Internet" > "Border Gateway Protocol"
+ce "Internet->Border Gateway Protocol"  "type":8
+ae "Computer->Pirate_parties" "Computer" > "Pirate_parties"
+ce "Computer->Pirate_parties"  "type":8
+ae "activity->decay" "activity" > "decay"
+ce "activity->decay"  "type":1
+ae "system->distribution" "system" > "distribution"
+ce "system->distribution"  "type":1
+ae "location->set" "location" > "set"
+ce "location->set"  "type":1
+ae "machine->North America" "machine" > "North America"
+ce "machine->North America"  "type":8
+ae "Computer->Internet_properties_established_in_2009" "Computer" > "Internet_properties_established_in_2009"
+ce "Computer->Internet_properties_established_in_2009"  "type":8
+ae "machine->United Kingdom" "machine" > "United Kingdom"
+ce "machine->United Kingdom"  "type":8
+ae "Computer->Internet_censorship" "Computer" > "Internet_censorship"
+ce "Computer->Internet_censorship"  "type":8
+ae "location->implantation" "location" > "implantation"
+ce "location->implantation"  "type":1
+ae "Computer->Cybercrime" "Computer" > "Cybercrime"
+ce "Computer->Cybercrime"  "type":8
+ae "Computer->Crypto-anarchism" "Computer" > "Crypto-anarchism"
+ce "Computer->Crypto-anarchism"  "type":8
+ae "Computer->Internet_properties_established_in_2013" "Computer" > "Internet_properties_established_in_2013"
+ce "Computer->Internet_properties_established_in_2013"  "type":8
+ae "system->government" "system" > "government"
+ce "system->government"  "type":1
+ae "Internet->Publishing" "Internet" > "Publishing"
+ce "Internet->Publishing"  "type":8
+ae "activity->process" "activity" > "process"
+ce "activity->process"  "type":0
+ae "Computer->Tor_(anonymity_network)" "Computer" > "Tor_(anonymity_network)"
+ce "Computer->Tor_(anonymity_network)"  "type":8
+ae "state->political unit" "state" > "political unit"
+ce "state->political unit"  "type":0
+ae "measure->abstraction" "measure" > "abstraction"
+ce "measure->abstraction"  "type":0
+ae "measure->legal document" "measure" > "legal document"
+ce "measure->legal document"  "type":0
+ae "system->machinery" "system" > "machinery"
+ce "system->machinery"  "type":1
+ae "measure->activity" "measure" > "activity"
+ce "measure->activity"  "type":0
+ae "state->government" "state" > "government"
+ce "state->government"  "type":0
+ae "act->distribution" "act" > "distribution"
+ce "act->distribution"  "type":1
+ae "act->group action" "act" > "group action"
+ce "act->group action"  "type":1
+ae "Internet->Productivity software" "Internet" > "Productivity software"
+ce "Internet->Productivity software"  "type":8
+ae "activity->capture" "activity" > "capture"
+ce "activity->capture"  "type":1
+ae "computer network->Leased line" "computer network" > "Leased line"
+ce "computer network->Leased line"  "type":8
+ae "Internet->Data (computing)" "Internet" > "Data (computing)"
+ce "Internet->Data (computing)"  "type":8
+ae "Internet->North America" "Internet" > "North America"
+ce "Internet->North America"  "type":8
+ae "Internet->File_hosting" "Internet" > "File_hosting"
+ce "Internet->File_hosting"  "type":8
+ae "Computer->Exploit (computer security)" "Computer" > "Exploit (computer security)"
+ce "Computer->Exploit (computer security)"  "type":8
+ae "activity->aeration" "activity" > "aeration"
+ce "activity->aeration"  "type":1
+ae "Computer->Sabre (computer system)" "Computer" > "Sabre (computer system)"
+ce "Computer->Sabre (computer system)"  "type":8
+ae "Computer->DARPA" "Computer" > "DARPA"
+ce "Computer->DARPA"  "type":8
+ae "Internet->Network service" "Internet" > "Network service"
+ce "Internet->Network service"  "type":8
+ae "Internet->Local area network" "Internet" > "Local area network"
+ce "Internet->Local area network"  "type":8
+ae "region->World War II" "region" > "World War II"
+ce "region->World War II"  "type":8
+ae "region->Military organization" "region" > "Military organization"
+ce "region->Military organization"  "type":8
+ae "activity->search" "activity" > "search"
+ce "activity->search"  "type":1
+ae "Computer->I2P" "Computer" > "I2P"
+ce "Computer->I2P"  "type":8
+ae "activity->support" "activity" > "support"
+ce "activity->support"  "type":1
+ae "district->List of regional districts of British Columbia" "district" > "List of regional districts of British Columbia"
+ce "district->List of regional districts of British Columbia"  "type":8
+ae "region->List of regional districts of British Columbia" "region" > "List of regional districts of British Columbia"
+ce "region->List of regional districts of British Columbia"  "type":8
+ae "Computer->Electrical engineering" "Computer" > "Electrical engineering"
+ce "Computer->Electrical engineering"  "type":8
+ae "Computer->Electronic engineering" "Computer" > "Electronic engineering"
+ce "Computer->Electronic engineering"  "type":8
+ae "location->Earth" "location" > "Earth"
+ce "location->Earth"  "type":8
+ae "Computer->Internet_properties_established_in_2016" "Computer" > "Internet_properties_established_in_2016"
+ce "Computer->Internet_properties_established_in_2016"  "type":8
+ae "network->Computer network" "network" > "Computer network"
+ce "network->Computer network"  "type":8
+ae "Computer->Computer science" "Computer" > "Computer science"
+ce "Computer->Computer science"  "type":8
+ae "Computer->Information technology" "Computer" > "Information technology"
+ce "Computer->Information technology"  "type":8
+ae "Computer->Information system" "Computer" > "Information system"
+ce "Computer->Information system"  "type":8
+ae "Computer->Internet_properties_established_in_2018" "Computer" > "Internet_properties_established_in_2018"
+ce "Computer->Internet_properties_established_in_2018"  "type":8
+ae "network->Electrical network" "network" > "Electrical network"
+ce "network->Electrical network"  "type":8
+ae "activity->eruption" "activity" > "eruption"
+ce "activity->eruption"  "type":1
+ae "Computer->Institute of Electrical and Electronics Engineers" "Computer" > "Institute of Electrical and Electronics Engineers"
+ce "Computer->Institute of Electrical and Electronics Engineers"  "type":8

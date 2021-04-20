@@ -1,0 +1,727 @@
+DGS004
+null 0 0
+an "Law"
+cn "Law"  "ui.label":"Law"
+cn "Law"  "ui.style":"size-mode:fit;"
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_by_law_firm"
+cn "Lawyers_by_law_firm"  "ui.label":"Lawyers_by_law_firm"
+cn "Lawyers_by_law_firm"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyer"
+cn "Lawyer"  "ui.label":"Lawyer"
+cn "Lawyer"  "ui.style":"size-mode:fit;"
+an "professional"
+cn "professional"  "ui.label":"professional"
+cn "professional"  "ui.style":"size:6px; fill-color:white; "
+an "adult"
+cn "adult"  "ui.label":"adult"
+cn "adult"  "ui.style":"size:6px; fill-color:white; "
+an "person"
+cn "person"  "ui.label":"person"
+cn "person"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "United States"
+cn "United States"  "ui.label":"United States"
+cn "United States"  "ui.style":"size:6px; fill-color:white; "
+an "Swazi_lawyers"
+cn "Swazi_lawyers"  "ui.label":"Swazi_lawyers"
+cn "Swazi_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "host"
+cn "host"  "ui.label":"host"
+cn "host"  "ui.style":"size:6px; fill-color:white; "
+an "People_associated_with_Covington_&_Burling"
+cn "People_associated_with_Covington_&_Burling"  "ui.label":"People_associated_with_Covington_&_Burling"
+cn "People_associated_with_Covington_&_Burling"  "ui.style":"size:6px; fill-color:white; "
+an "Davis_Polk_&_Wardwell_lawyers"
+cn "Davis_Polk_&_Wardwell_lawyers"  "ui.label":"Davis_Polk_&_Wardwell_lawyers"
+cn "Davis_Polk_&_Wardwell_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Bar Professional Training Course"
+cn "Bar Professional Training Course"  "ui.label":"Bar Professional Training Course"
+cn "Bar Professional Training Course"  "ui.style":"size:6px; fill-color:white; "
+an "Litigators"
+cn "Litigators"  "ui.label":"Litigators"
+cn "Litigators"  "ui.style":"size:6px; fill-color:white; "
+an "People_associated_with_Mayer_Brown"
+cn "People_associated_with_Mayer_Brown"  "ui.label":"People_associated_with_Mayer_Brown"
+cn "People_associated_with_Mayer_Brown"  "ui.style":"size:6px; fill-color:white; "
+an "Abstract and concrete"
+cn "Abstract and concrete"  "ui.label":"Abstract and concrete"
+cn "Abstract and concrete"  "ui.style":"size:6px; fill-color:white; "
+an "People_associated_with_O'Melveny_&_Myers"
+cn "People_associated_with_O'Melveny_&_Myers"  "ui.label":"People_associated_with_O'Melveny_&_Myers"
+cn "People_associated_with_O'Melveny_&_Myers"  "ui.style":"size:6px; fill-color:white; "
+an "Papua_New_Guinean_lawyers"
+cn "Papua_New_Guinean_lawyers"  "ui.label":"Papua_New_Guinean_lawyers"
+cn "Papua_New_Guinean_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "People_associated_with_Munger,_Tolles_&_Olson"
+cn "People_associated_with_Munger,_Tolles_&_Olson"  "ui.label":"People_associated_with_Munger,_Tolles_&_Olson"
+cn "People_associated_with_Munger,_Tolles_&_Olson"  "ui.style":"size:6px; fill-color:white; "
+an "Immanuel Kant"
+cn "Immanuel Kant"  "ui.label":"Immanuel Kant"
+cn "Immanuel Kant"  "ui.style":"size:6px; fill-color:white; "
+an "Proskauer_Rose_people"
+cn "Proskauer_Rose_people"  "ui.label":"Proskauer_Rose_people"
+cn "Proskauer_Rose_people"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_from_Tucson,_Arizona"
+cn "Lawyers_from_Tucson,_Arizona"  "ui.label":"Lawyers_from_Tucson,_Arizona"
+cn "Lawyers_from_Tucson,_Arizona"  "ui.style":"size:6px; fill-color:white; "
+an "Belgian_lawyers_by_century"
+cn "Belgian_lawyers_by_century"  "ui.label":"Belgian_lawyers_by_century"
+cn "Belgian_lawyers_by_century"  "ui.style":"size:6px; fill-color:white; "
+an "Canadian_lawyers_by_century"
+cn "Canadian_lawyers_by_century"  "ui.label":"Canadian_lawyers_by_century"
+cn "Canadian_lawyers_by_century"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_with_physical_disabilities"
+cn "Lawyers_with_physical_disabilities"  "ui.label":"Lawyers_with_physical_disabilities"
+cn "Lawyers_with_physical_disabilities"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_from_Philadelphia"
+cn "Lawyers_from_Philadelphia"  "ui.label":"Lawyers_from_Philadelphia"
+cn "Lawyers_from_Philadelphia"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_from_Oakland,_California"
+cn "Lawyers_from_Oakland,_California"  "ui.label":"Lawyers_from_Oakland,_California"
+cn "Lawyers_from_Oakland,_California"  "ui.style":"size:6px; fill-color:white; "
+an "Slovak_lawyers"
+cn "Slovak_lawyers"  "ui.label":"Slovak_lawyers"
+cn "Slovak_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_from_New_Haven,_Connecticut"
+cn "Lawyers_from_New_Haven,_Connecticut"  "ui.label":"Lawyers_from_New_Haven,_Connecticut"
+cn "Lawyers_from_New_Haven,_Connecticut"  "ui.style":"size:6px; fill-color:white; "
+an "Australian_lawyers"
+cn "Australian_lawyers"  "ui.label":"Australian_lawyers"
+cn "Australian_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Bahraini_lawyers"
+cn "Bahraini_lawyers"  "ui.label":"Bahraini_lawyers"
+cn "Bahraini_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_from_Montgomery,_Alabama"
+cn "Lawyers_from_Montgomery,_Alabama"  "ui.label":"Lawyers_from_Montgomery,_Alabama"
+cn "Lawyers_from_Montgomery,_Alabama"  "ui.style":"size:6px; fill-color:white; "
+an "Empirical evidence"
+cn "Empirical evidence"  "ui.label":"Empirical evidence"
+cn "Empirical evidence"  "ui.style":"size:6px; fill-color:white; "
+an "Bissau-Guinean_lawyers"
+cn "Bissau-Guinean_lawyers"  "ui.label":"Bissau-Guinean_lawyers"
+cn "Bissau-Guinean_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_from_Milwaukee"
+cn "Lawyers_from_Milwaukee"  "ui.label":"Lawyers_from_Milwaukee"
+cn "Lawyers_from_Milwaukee"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_from_Miami"
+cn "Lawyers_from_Miami"  "ui.label":"Lawyers_from_Miami"
+cn "Lawyers_from_Miami"  "ui.style":"size:6px; fill-color:white; "
+an "Economics"
+cn "Economics"  "ui.label":"Economics"
+cn "Economics"  "ui.style":"size:6px; fill-color:white; "
+an "native"
+cn "native"  "ui.label":"native"
+cn "native"  "ui.style":"size:6px; fill-color:white; "
+an "Civil law (legal system)"
+cn "Civil law (legal system)"  "ui.label":"Civil law (legal system)"
+cn "Civil law (legal system)"  "ui.style":"size:6px; fill-color:white; "
+an "Fijian_lawyers_by_century"
+cn "Fijian_lawyers_by_century"  "ui.label":"Fijian_lawyers_by_century"
+cn "Fijian_lawyers_by_century"  "ui.style":"size:6px; fill-color:white; "
+an "Cameroonian_lawyers"
+cn "Cameroonian_lawyers"  "ui.label":"Cameroonian_lawyers"
+cn "Cameroonian_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Cape_Verdean_lawyers"
+cn "Cape_Verdean_lawyers"  "ui.label":"Cape_Verdean_lawyers"
+cn "Cape_Verdean_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Senegalese_lawyers"
+cn "Senegalese_lawyers"  "ui.label":"Senegalese_lawyers"
+cn "Senegalese_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Chinese_lawyers"
+cn "Chinese_lawyers"  "ui.label":"Chinese_lawyers"
+cn "Chinese_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_from_Kansas_City,_Missouri"
+cn "Lawyers_from_Kansas_City,_Missouri"  "ui.label":"Lawyers_from_Kansas_City,_Missouri"
+cn "Lawyers_from_Kansas_City,_Missouri"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_from_Africa"
+cn "Lawyers_from_Africa"  "ui.label":"Lawyers_from_Africa"
+cn "Lawyers_from_Africa"  "ui.style":"size:6px; fill-color:white; "
+an "Ancient_lawyers"
+cn "Ancient_lawyers"  "ui.label":"Ancient_lawyers"
+cn "Ancient_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_from_Fargo,_North_Dakota"
+cn "Lawyers_from_Fargo,_North_Dakota"  "ui.label":"Lawyers_from_Fargo,_North_Dakota"
+cn "Lawyers_from_Fargo,_North_Dakota"  "ui.style":"size:6px; fill-color:white; "
+an "Property"
+cn "Property"  "ui.label":"Property"
+cn "Property"  "ui.style":"size:6px; fill-color:white; "
+an "Saint_Vincent_and_the_Grenadines_lawyers"
+cn "Saint_Vincent_and_the_Grenadines_lawyers"  "ui.label":"Saint_Vincent_and_the_Grenadines_lawyers"
+cn "Saint_Vincent_and_the_Grenadines_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Disbarred_lawyers"
+cn "Disbarred_lawyers"  "ui.label":"Disbarred_lawyers"
+cn "Disbarred_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Ecuadorian_lawyers"
+cn "Ecuadorian_lawyers"  "ui.label":"Ecuadorian_lawyers"
+cn "Ecuadorian_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "sum"
+cn "sum"  "ui.label":"sum"
+cn "sum"  "ui.style":"size:6px; fill-color:white; "
+an "Eritrean_lawyers"
+cn "Eritrean_lawyers"  "ui.label":"Eritrean_lawyers"
+cn "Eritrean_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Filipino_lawyers"
+cn "Filipino_lawyers"  "ui.label":"Filipino_lawyers"
+cn "Filipino_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_from_Chicago"
+cn "Lawyers_from_Chicago"  "ui.label":"Lawyers_from_Chicago"
+cn "Lawyers_from_Chicago"  "ui.style":"size:6px; fill-color:white; "
+an "Conflict of interest"
+cn "Conflict of interest"  "ui.label":"Conflict of interest"
+cn "Conflict of interest"  "ui.style":"size:6px; fill-color:white; "
+an "Gambian_lawyers"
+cn "Gambian_lawyers"  "ui.label":"Gambian_lawyers"
+cn "Gambian_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Sri_Lankan_lawyers_by_century"
+cn "Sri_Lankan_lawyers_by_century"  "ui.label":"Sri_Lankan_lawyers_by_century"
+cn "Sri_Lankan_lawyers_by_century"  "ui.style":"size:6px; fill-color:white; "
+an "Haitian_lawyers"
+cn "Haitian_lawyers"  "ui.label":"Haitian_lawyers"
+cn "Haitian_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Icelandic_lawyers"
+cn "Icelandic_lawyers"  "ui.label":"Icelandic_lawyers"
+cn "Icelandic_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Union_Internationale_des_Avocats"
+cn "Union_Internationale_des_Avocats"  "ui.label":"Union_Internationale_des_Avocats"
+cn "Union_Internationale_des_Avocats"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_from_San_Francisco"
+cn "Lawyers_from_San_Francisco"  "ui.label":"Lawyers_from_San_Francisco"
+cn "Lawyers_from_San_Francisco"  "ui.style":"size:6px; fill-color:white; "
+an "Niuean_lawyers"
+cn "Niuean_lawyers"  "ui.label":"Niuean_lawyers"
+cn "Niuean_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Memory"
+cn "Memory"  "ui.label":"Memory"
+cn "Memory"  "ui.style":"size:6px; fill-color:white; "
+an "Welsh_lawyers_by_century"
+cn "Welsh_lawyers_by_century"  "ui.label":"Welsh_lawyers_by_century"
+cn "Welsh_lawyers_by_century"  "ui.style":"size:6px; fill-color:white; "
+an "White_House_Counsels"
+cn "White_House_Counsels"  "ui.label":"White_House_Counsels"
+cn "White_House_Counsels"  "ui.style":"size:6px; fill-color:white; "
+an "United_States_Deputy_Attorneys_General"
+cn "United_States_Deputy_Attorneys_General"  "ui.label":"United_States_Deputy_Attorneys_General"
+cn "United_States_Deputy_Attorneys_General"  "ui.style":"size:6px; fill-color:white; "
+an "United_States_Associate_Attorneys_General"
+cn "United_States_Associate_Attorneys_General"  "ui.label":"United_States_Associate_Attorneys_General"
+cn "United_States_Associate_Attorneys_General"  "ui.style":"size:6px; fill-color:white; "
+an "Liberian_lawyers"
+cn "Liberian_lawyers"  "ui.label":"Liberian_lawyers"
+cn "Liberian_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_from_Zierikzee"
+cn "Lawyers_from_Zierikzee"  "ui.label":"Lawyers_from_Zierikzee"
+cn "Lawyers_from_Zierikzee"  "ui.style":"size:6px; fill-color:white; "
+an "British_lawyers_of_Pakistani_descent"
+cn "British_lawyers_of_Pakistani_descent"  "ui.label":"British_lawyers_of_Pakistani_descent"
+cn "British_lawyers_of_Pakistani_descent"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_from_Melbourne"
+cn "Lawyers_from_Melbourne"  "ui.label":"Lawyers_from_Melbourne"
+cn "Lawyers_from_Melbourne"  "ui.style":"size:6px; fill-color:white; "
+an "Conceptual model"
+cn "Conceptual model"  "ui.label":"Conceptual model"
+cn "Conceptual model"  "ui.style":"size:6px; fill-color:white; "
+an "Manx_lawyers"
+cn "Manx_lawyers"  "ui.label":"Manx_lawyers"
+cn "Manx_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Oxford University Press"
+cn "Oxford University Press"  "ui.label":"Oxford University Press"
+cn "Oxford University Press"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_from_Perth,_Western_Australia"
+cn "Lawyers_from_Perth,_Western_Australia"  "ui.label":"Lawyers_from_Perth,_Western_Australia"
+cn "Lawyers_from_Perth,_Western_Australia"  "ui.style":"size:6px; fill-color:white; "
+an "District_of_Columbia_judges"
+cn "District_of_Columbia_judges"  "ui.label":"District_of_Columbia_judges"
+cn "District_of_Columbia_judges"  "ui.style":"size:6px; fill-color:white; "
+an "Liberty"
+cn "Liberty"  "ui.label":"Liberty"
+cn "Liberty"  "ui.style":"size:6px; fill-color:white; "
+an "Middle Ages"
+cn "Middle Ages"  "ui.label":"Middle Ages"
+cn "Middle Ages"  "ui.style":"size:6px; fill-color:white; "
+an "20th-century_lawyers_from_Georgia_(country)"
+cn "20th-century_lawyers_from_Georgia_(country)"  "ui.label":"20th-century_lawyers_from_Georgia_(country)"
+cn "20th-century_lawyers_from_Georgia_(country)"  "ui.style":"size:6px; fill-color:white; "
+an "Angolan_lawyers_by_type"
+cn "Angolan_lawyers_by_type"  "ui.label":"Angolan_lawyers_by_type"
+cn "Angolan_lawyers_by_type"  "ui.style":"size:6px; fill-color:white; "
+an "statement"
+cn "statement"  "ui.label":"statement"
+cn "statement"  "ui.style":"size:6px; fill-color:white; "
+an "Zambian_lawyers"
+cn "Zambian_lawyers"  "ui.label":"Zambian_lawyers"
+cn "Zambian_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Ugandan_lawyers"
+cn "Ugandan_lawyers"  "ui.label":"Ugandan_lawyers"
+cn "Ugandan_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Roman Republic"
+cn "Roman Republic"  "ui.label":"Roman Republic"
+cn "Roman Republic"  "ui.style":"size:6px; fill-color:white; "
+an "Sudanese_lawyers"
+cn "Sudanese_lawyers"  "ui.label":"Sudanese_lawyers"
+cn "Sudanese_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Sierra_Leonean_lawyers"
+cn "Sierra_Leonean_lawyers"  "ui.label":"Sierra_Leonean_lawyers"
+cn "Sierra_Leonean_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Rwandan_lawyers"
+cn "Rwandan_lawyers"  "ui.label":"Rwandan_lawyers"
+cn "Rwandan_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Malian_lawyers"
+cn "Malian_lawyers"  "ui.label":"Malian_lawyers"
+cn "Malian_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Supreme Court of the United States"
+cn "Supreme Court of the United States"  "ui.label":"Supreme Court of the United States"
+cn "Supreme Court of the United States"  "ui.style":"size:6px; fill-color:white; "
+an "Assistant_United_States_Attorneys"
+cn "Assistant_United_States_Attorneys"  "ui.label":"Assistant_United_States_Attorneys"
+cn "Assistant_United_States_Attorneys"  "ui.style":"size:6px; fill-color:white; "
+an "Mozambican_lawyers"
+cn "Mozambican_lawyers"  "ui.label":"Mozambican_lawyers"
+cn "Mozambican_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Namibian_lawyers"
+cn "Namibian_lawyers"  "ui.label":"Namibian_lawyers"
+cn "Namibian_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Patent_attorneys"
+cn "Patent_attorneys"  "ui.label":"Patent_attorneys"
+cn "Patent_attorneys"  "ui.style":"size:6px; fill-color:white; "
+an "Nicaraguan_lawyers"
+cn "Nicaraguan_lawyers"  "ui.label":"Nicaraguan_lawyers"
+cn "Nicaraguan_lawyers"  "ui.style":"size:6px; fill-color:white; "
+an "Torah"
+cn "Torah"  "ui.label":"Torah"
+cn "Torah"  "ui.style":"size:6px; fill-color:white; "
+an "Lawyers_by_city_in_the_United_States"
+cn "Lawyers_by_city_in_the_United_States"  "ui.label":"Lawyers_by_city_in_the_United_States"
+cn "Lawyers_by_city_in_the_United_States"  "ui.style":"size:6px; fill-color:white; "
+an "Prosecutors"
+cn "Prosecutors"  "ui.label":"Prosecutors"
+cn "Prosecutors"  "ui.style":"size:6px; fill-color:white; "
+ae "Law->collection" "Law"  "collection"
+ce "Law->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "Lawyer->Union_Internationale_des_Avocats" "Lawyer" > "Union_Internationale_des_Avocats"
+ce "Lawyer->Union_Internationale_des_Avocats"  "type":8
+ae "Lawyer->professional" "Lawyer"  "professional"
+ce "Lawyer->professional"  "type":0
+ae "professional->adult" "professional"  "adult"
+ce "professional->adult"  "type":0
+ae "adult->person" "adult"  "person"
+ce "adult->person"  "type":0
+ae "person->organism" "person"  "organism"
+ce "person->organism"  "type":0
+ae "organism->living thing" "organism"  "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing"  "whole"
+ce "living thing->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "Lawyer->Sierra_Leonean_lawyers" "Lawyer" > "Sierra_Leonean_lawyers"
+ce "Lawyer->Sierra_Leonean_lawyers"  "type":8
+ae "Lawyer->Senegalese_lawyers" "Lawyer" > "Senegalese_lawyers"
+ce "Lawyer->Senegalese_lawyers"  "type":8
+ae "Law->Lawyers_from_Milwaukee" "Law" > "Lawyers_from_Milwaukee"
+ce "Law->Lawyers_from_Milwaukee"  "type":8
+ae "Lawyer->Saint_Vincent_and_the_Grenadines_lawyers" "Lawyer" > "Saint_Vincent_and_the_Grenadines_lawyers"
+ce "Lawyer->Saint_Vincent_and_the_Grenadines_lawyers"  "type":8
+ae "Lawyer->Rwandan_lawyers" "Lawyer" > "Rwandan_lawyers"
+ce "Lawyer->Rwandan_lawyers"  "type":8
+ae "Law->Patent_attorneys" "Law" > "Patent_attorneys"
+ce "Law->Patent_attorneys"  "type":8
+ae "Law->Prosecutors" "Law" > "Prosecutors"
+ce "Law->Prosecutors"  "type":8
+ae "Lawyer->Lawyers_from_Perth,_Western_Australia" "Lawyer" > "Lawyers_from_Perth,_Western_Australia"
+ce "Lawyer->Lawyers_from_Perth,_Western_Australia"  "type":8
+ae "Law->Lawyers_from_Montgomery,_Alabama" "Law" > "Lawyers_from_Montgomery,_Alabama"
+ce "Law->Lawyers_from_Montgomery,_Alabama"  "type":8
+ae "Law->Lawyers_from_New_Haven,_Connecticut" "Law" > "Lawyers_from_New_Haven,_Connecticut"
+ce "Law->Lawyers_from_New_Haven,_Connecticut"  "type":8
+ae "Lawyer->Papua_New_Guinean_lawyers" "Lawyer" > "Papua_New_Guinean_lawyers"
+ce "Lawyer->Papua_New_Guinean_lawyers"  "type":8
+ae "Lawyer->Niuean_lawyers" "Lawyer" > "Niuean_lawyers"
+ce "Lawyer->Niuean_lawyers"  "type":8
+ae "organism->Immanuel Kant" "organism" > "Immanuel Kant"
+ce "organism->Immanuel Kant"  "type":8
+ae "Law->Malian_lawyers" "Law" > "Malian_lawyers"
+ce "Law->Malian_lawyers"  "type":8
+ae "Law->Rwandan_lawyers" "Law" > "Rwandan_lawyers"
+ce "Law->Rwandan_lawyers"  "type":8
+ae "Law->Sierra_Leonean_lawyers" "Law" > "Sierra_Leonean_lawyers"
+ce "Law->Sierra_Leonean_lawyers"  "type":8
+ae "Lawyer->Law" "Lawyer" > "Law"
+ce "Lawyer->Law"  "type":8
+ae "Law->Sudanese_lawyers" "Law" > "Sudanese_lawyers"
+ce "Law->Sudanese_lawyers"  "type":8
+ae "Law->Ugandan_lawyers" "Law" > "Ugandan_lawyers"
+ce "Law->Ugandan_lawyers"  "type":8
+ae "Law->Zambian_lawyers" "Law" > "Zambian_lawyers"
+ce "Law->Zambian_lawyers"  "type":8
+ae "Lawyer->Nicaraguan_lawyers" "Lawyer" > "Nicaraguan_lawyers"
+ce "Lawyer->Nicaraguan_lawyers"  "type":8
+ae "Law->20th-century_lawyers_from_Georgia_(country)" "Law" > "20th-century_lawyers_from_Georgia_(country)"
+ce "Law->20th-century_lawyers_from_Georgia_(country)"  "type":8
+ae "Law->Lawyers_from_Oakland,_California" "Law" > "Lawyers_from_Oakland,_California"
+ce "Law->Lawyers_from_Oakland,_California"  "type":8
+ae "Lawyer->Namibian_lawyers" "Lawyer" > "Namibian_lawyers"
+ce "Lawyer->Namibian_lawyers"  "type":8
+ae "content->statement" "content" > "statement"
+ce "content->statement"  "type":1
+ae "Law->District_of_Columbia_judges" "Law" > "District_of_Columbia_judges"
+ce "Law->District_of_Columbia_judges"  "type":8
+ae "Law->Lawyers_from_Philadelphia" "Law" > "Lawyers_from_Philadelphia"
+ce "Law->Lawyers_from_Philadelphia"  "type":8
+ae "Lawyer->Lawyers_from_Melbourne" "Lawyer" > "Lawyers_from_Melbourne"
+ce "Lawyer->Lawyers_from_Melbourne"  "type":8
+ae "Lawyer->Manx_lawyers" "Lawyer" > "Manx_lawyers"
+ce "Lawyer->Manx_lawyers"  "type":8
+ae "Law->Economics" "Law" > "Economics"
+ce "Law->Economics"  "type":8
+ae "abstraction->Conceptual model" "abstraction" > "Conceptual model"
+ce "abstraction->Conceptual model"  "type":8
+ae "Law->Civil law (legal system)" "Law" > "Civil law (legal system)"
+ce "Law->Civil law (legal system)"  "type":8
+ae "Lawyer->Sri_Lankan_lawyers_by_century" "Lawyer" > "Sri_Lankan_lawyers_by_century"
+ce "Lawyer->Sri_Lankan_lawyers_by_century"  "type":8
+ae "abstraction->Economics" "abstraction" > "Economics"
+ce "abstraction->Economics"  "type":8
+ae "Law->British_lawyers_of_Pakistani_descent" "Law" > "British_lawyers_of_Pakistani_descent"
+ce "Law->British_lawyers_of_Pakistani_descent"  "type":8
+ae "Lawyer->Lawyers_from_Zierikzee" "Lawyer" > "Lawyers_from_Zierikzee"
+ce "Lawyer->Lawyers_from_Zierikzee"  "type":8
+ae "Law->Lawyers_from_Tucson,_Arizona" "Law" > "Lawyers_from_Tucson,_Arizona"
+ce "Law->Lawyers_from_Tucson,_Arizona"  "type":8
+ae "Law->United_States_Associate_Attorneys_General" "Law" > "United_States_Associate_Attorneys_General"
+ce "Law->United_States_Associate_Attorneys_General"  "type":8
+ae "Law->United_States_Deputy_Attorneys_General" "Law" > "United_States_Deputy_Attorneys_General"
+ce "Law->United_States_Deputy_Attorneys_General"  "type":8
+ae "Law->White_House_Counsels" "Law" > "White_House_Counsels"
+ce "Law->White_House_Counsels"  "type":8
+ae "Lawyer->Liberian_lawyers" "Lawyer" > "Liberian_lawyers"
+ce "Lawyer->Liberian_lawyers"  "type":8
+ae "Law->Lawyers_from_Melbourne" "Law" > "Lawyers_from_Melbourne"
+ce "Law->Lawyers_from_Melbourne"  "type":8
+ae "Lawyer->Lawyers_from_Chicago" "Lawyer" > "Lawyers_from_Chicago"
+ce "Lawyer->Lawyers_from_Chicago"  "type":8
+ae "Law->Bissau-Guinean_lawyers" "Law" > "Bissau-Guinean_lawyers"
+ce "Law->Bissau-Guinean_lawyers"  "type":8
+ae "person->native" "person" > "native"
+ce "person->native"  "type":1
+ae "Law->Lawyers_from_Zierikzee" "Law" > "Lawyers_from_Zierikzee"
+ce "Law->Lawyers_from_Zierikzee"  "type":8
+ae "idea->Property" "idea" > "Property"
+ce "idea->Property"  "type":8
+ae "Lawyer->Icelandic_lawyers" "Lawyer" > "Icelandic_lawyers"
+ce "Lawyer->Icelandic_lawyers"  "type":8
+ae "Lawyer->Haitian_lawyers" "Lawyer" > "Haitian_lawyers"
+ce "Lawyer->Haitian_lawyers"  "type":8
+ae "Law->Assistant_United_States_Attorneys" "Law" > "Assistant_United_States_Attorneys"
+ce "Law->Assistant_United_States_Attorneys"  "type":8
+ae "Lawyer->Gambian_lawyers" "Lawyer" > "Gambian_lawyers"
+ce "Lawyer->Gambian_lawyers"  "type":8
+ae "Lawyer->Lawyers_from_Fargo,_North_Dakota" "Lawyer" > "Lawyers_from_Fargo,_North_Dakota"
+ce "Lawyer->Lawyers_from_Fargo,_North_Dakota"  "type":8
+ae "Lawyer->Filipino_lawyers" "Lawyer" > "Filipino_lawyers"
+ce "Lawyer->Filipino_lawyers"  "type":8
+ae "Law->Bahraini_lawyers" "Law" > "Bahraini_lawyers"
+ce "Law->Bahraini_lawyers"  "type":8
+ae "collection->sum" "collection" > "sum"
+ce "collection->sum"  "type":1
+ae "Lawyer->Eritrean_lawyers" "Lawyer" > "Eritrean_lawyers"
+ce "Lawyer->Eritrean_lawyers"  "type":8
+ae "Lawyer->Ecuadorian_lawyers" "Lawyer" > "Ecuadorian_lawyers"
+ce "Lawyer->Ecuadorian_lawyers"  "type":8
+ae "Law->Australian_lawyers" "Law" > "Australian_lawyers"
+ce "Law->Australian_lawyers"  "type":8
+ae "Law->Lawyers_from_Kansas_City,_Missouri" "Law" > "Lawyers_from_Kansas_City,_Missouri"
+ce "Law->Lawyers_from_Kansas_City,_Missouri"  "type":8
+ae "Law->Cape_Verdean_lawyers" "Law" > "Cape_Verdean_lawyers"
+ce "Law->Cape_Verdean_lawyers"  "type":8
+ae "Lawyer->Chinese_lawyers" "Lawyer" > "Chinese_lawyers"
+ce "Lawyer->Chinese_lawyers"  "type":8
+ae "adult->Middle Ages" "adult" > "Middle Ages"
+ce "adult->Middle Ages"  "type":8
+ae "person->Liberty" "person" > "Liberty"
+ce "person->Liberty"  "type":8
+ae "adult->Torah" "adult" > "Torah"
+ce "adult->Torah"  "type":8
+ae "idea->Memory" "idea" > "Memory"
+ce "idea->Memory"  "type":8
+ae "Lawyer->Cape_Verdean_lawyers" "Lawyer" > "Cape_Verdean_lawyers"
+ce "Lawyer->Cape_Verdean_lawyers"  "type":8
+ae "Law->Property" "Law" > "Property"
+ce "Law->Property"  "type":8
+ae "idea->Empirical evidence" "idea" > "Empirical evidence"
+ce "idea->Empirical evidence"  "type":8
+ae "Lawyer->Cameroonian_lawyers" "Lawyer" > "Cameroonian_lawyers"
+ce "Lawyer->Cameroonian_lawyers"  "type":8
+ae "idea->Liberty" "idea" > "Liberty"
+ce "idea->Liberty"  "type":8
+ae "idea->Immanuel Kant" "idea" > "Immanuel Kant"
+ce "idea->Immanuel Kant"  "type":8
+ae "Law->Lawyers_from_Fargo,_North_Dakota" "Law" > "Lawyers_from_Fargo,_North_Dakota"
+ce "Law->Lawyers_from_Fargo,_North_Dakota"  "type":8
+ae "adult->United States" "adult" > "United States"
+ce "adult->United States"  "type":8
+ae "Lawyer->Lawyers_by_city_in_the_United_States" "Lawyer" > "Lawyers_by_city_in_the_United_States"
+ce "Lawyer->Lawyers_by_city_in_the_United_States"  "type":8
+ae "Law->People_associated_with_Covington_&_Burling" "Law" > "People_associated_with_Covington_&_Burling"
+ce "Law->People_associated_with_Covington_&_Burling"  "type":8
+ae "idea->Abstract and concrete" "idea" > "Abstract and concrete"
+ce "idea->Abstract and concrete"  "type":8
+ae "Lawyer->Bahraini_lawyers" "Lawyer" > "Bahraini_lawyers"
+ce "Lawyer->Bahraini_lawyers"  "type":8
+ae "Law->Lawyers_from_San_Francisco" "Law" > "Lawyers_from_San_Francisco"
+ce "Law->Lawyers_from_San_Francisco"  "type":8
+ae "Law->Roman Republic" "Law" > "Roman Republic"
+ce "Law->Roman Republic"  "type":8
+ae "idea->Oxford University Press" "idea" > "Oxford University Press"
+ce "idea->Oxford University Press"  "type":8
+ae "abstraction->concept" "abstraction" > "concept"
+ce "abstraction->concept"  "type":0
+ae "Law->Davis_Polk_&_Wardwell_lawyers" "Law" > "Davis_Polk_&_Wardwell_lawyers"
+ce "Law->Davis_Polk_&_Wardwell_lawyers"  "type":8
+ae "Lawyer->Angolan_lawyers_by_type" "Lawyer" > "Angolan_lawyers_by_type"
+ce "Lawyer->Angolan_lawyers_by_type"  "type":8
+ae "Lawyer->Australian_lawyers" "Lawyer" > "Australian_lawyers"
+ce "Lawyer->Australian_lawyers"  "type":8
+ae "idea->statement" "idea" > "statement"
+ce "idea->statement"  "type":1
+ae "Law->Chinese_lawyers" "Law" > "Chinese_lawyers"
+ce "Law->Chinese_lawyers"  "type":8
+ae "Law->People_associated_with_Mayer_Brown" "Law" > "People_associated_with_Mayer_Brown"
+ce "Law->People_associated_with_Mayer_Brown"  "type":8
+ae "Lawyer->Ugandan_lawyers" "Lawyer" > "Ugandan_lawyers"
+ce "Lawyer->Ugandan_lawyers"  "type":8
+ae "Lawyer->Proskauer_Rose_people" "Lawyer" > "Proskauer_Rose_people"
+ce "Lawyer->Proskauer_Rose_people"  "type":8
+ae "Law->Torah" "Law" > "Torah"
+ce "Law->Torah"  "type":8
+ae "Lawyer->People_associated_with_Munger,_Tolles_&_Olson" "Lawyer" > "People_associated_with_Munger,_Tolles_&_Olson"
+ce "Lawyer->People_associated_with_Munger,_Tolles_&_Olson"  "type":8
+ae "Law->People_associated_with_O'Melveny_&_Myers" "Law" > "People_associated_with_O'Melveny_&_Myers"
+ce "Law->People_associated_with_O'Melveny_&_Myers"  "type":8
+ae "Lawyer->People_associated_with_O'Melveny_&_Myers" "Lawyer" > "People_associated_with_O'Melveny_&_Myers"
+ce "Lawyer->People_associated_with_O'Melveny_&_Myers"  "type":8
+ae "Lawyer->People_associated_with_Mayer_Brown" "Lawyer" > "People_associated_with_Mayer_Brown"
+ce "Lawyer->People_associated_with_Mayer_Brown"  "type":8
+ae "Lawyer->Davis_Polk_&_Wardwell_lawyers" "Lawyer" > "Davis_Polk_&_Wardwell_lawyers"
+ce "Lawyer->Davis_Polk_&_Wardwell_lawyers"  "type":8
+ae "adult->Law" "adult" > "Law"
+ce "adult->Law"  "type":8
+ae "Lawyer->People_associated_with_Covington_&_Burling" "Lawyer" > "People_associated_with_Covington_&_Burling"
+ce "Lawyer->People_associated_with_Covington_&_Burling"  "type":8
+ae "Law->Lawyers_from_Chicago" "Law" > "Lawyers_from_Chicago"
+ce "Law->Lawyers_from_Chicago"  "type":8
+ae "Law->Supreme Court of the United States" "Law" > "Supreme Court of the United States"
+ce "Law->Supreme Court of the United States"  "type":8
+ae "Law->People_associated_with_Munger,_Tolles_&_Olson" "Law" > "People_associated_with_Munger,_Tolles_&_Olson"
+ce "Law->People_associated_with_Munger,_Tolles_&_Olson"  "type":8
+ae "organism->native" "organism" > "native"
+ce "organism->native"  "type":1
+ae "concept->Conceptual model" "concept" > "Conceptual model"
+ce "concept->Conceptual model"  "type":8
+ae "Law->Proskauer_Rose_people" "Law" > "Proskauer_Rose_people"
+ce "Law->Proskauer_Rose_people"  "type":8
+ae "Law->Lawyers_from_Perth,_Western_Australia" "Law" > "Lawyers_from_Perth,_Western_Australia"
+ce "Law->Lawyers_from_Perth,_Western_Australia"  "type":8
+ae "Lawyer->Zambian_lawyers" "Lawyer" > "Zambian_lawyers"
+ce "Lawyer->Zambian_lawyers"  "type":8
+ae "Lawyer->Belgian_lawyers_by_century" "Lawyer" > "Belgian_lawyers_by_century"
+ce "Lawyer->Belgian_lawyers_by_century"  "type":8
+ae "adult->host" "adult" > "host"
+ce "adult->host"  "type":1
+ae "Lawyer->Canadian_lawyers_by_century" "Lawyer" > "Canadian_lawyers_by_century"
+ce "Lawyer->Canadian_lawyers_by_century"  "type":8
+ae "Lawyer->Lawyers_from_Tucson,_Arizona" "Lawyer" > "Lawyers_from_Tucson,_Arizona"
+ce "Lawyer->Lawyers_from_Tucson,_Arizona"  "type":8
+ae "Lawyer->Lawyers_from_San_Francisco" "Lawyer" > "Lawyers_from_San_Francisco"
+ce "Lawyer->Lawyers_from_San_Francisco"  "type":8
+ae "Lawyer->Civil law (legal system)" "Lawyer" > "Civil law (legal system)"
+ce "Lawyer->Civil law (legal system)"  "type":8
+ae "concept->Memory" "concept" > "Memory"
+ce "concept->Memory"  "type":8
+ae "Law->Angolan_lawyers_by_type" "Law" > "Angolan_lawyers_by_type"
+ce "Law->Angolan_lawyers_by_type"  "type":8
+ae "Lawyer->Middle Ages" "Lawyer" > "Middle Ages"
+ce "Lawyer->Middle Ages"  "type":8
+ae "Law->Welsh_lawyers_by_century" "Law" > "Welsh_lawyers_by_century"
+ce "Law->Welsh_lawyers_by_century"  "type":8
+ae "Lawyer->Slovak_lawyers" "Lawyer" > "Slovak_lawyers"
+ce "Lawyer->Slovak_lawyers"  "type":8
+ae "Law->Lawyers_from_Miami" "Law" > "Lawyers_from_Miami"
+ce "Law->Lawyers_from_Miami"  "type":8
+ae "Law->Sri_Lankan_lawyers_by_century" "Law" > "Sri_Lankan_lawyers_by_century"
+ce "Law->Sri_Lankan_lawyers_by_century"  "type":8
+ae "Lawyer->Welsh_lawyers_by_century" "Lawyer" > "Welsh_lawyers_by_century"
+ce "Lawyer->Welsh_lawyers_by_century"  "type":8
+ae "Lawyer->Sudanese_lawyers" "Lawyer" > "Sudanese_lawyers"
+ce "Lawyer->Sudanese_lawyers"  "type":8
+ae "Law->Bar Professional Training Course" "Law" > "Bar Professional Training Course"
+ce "Law->Bar Professional Training Course"  "type":8
+ae "Law->Cameroonian_lawyers" "Law" > "Cameroonian_lawyers"
+ce "Law->Cameroonian_lawyers"  "type":8
+ae "concept->Empirical evidence" "concept" > "Empirical evidence"
+ce "concept->Empirical evidence"  "type":8
+ae "Lawyer->Swazi_lawyers" "Lawyer" > "Swazi_lawyers"
+ce "Lawyer->Swazi_lawyers"  "type":8
+ae "Lawyer->Fijian_lawyers_by_century" "Lawyer" > "Fijian_lawyers_by_century"
+ce "Lawyer->Fijian_lawyers_by_century"  "type":8
+ae "Law->Fijian_lawyers_by_century" "Law" > "Fijian_lawyers_by_century"
+ce "Law->Fijian_lawyers_by_century"  "type":8
+ae "Lawyer->Bar Professional Training Course" "Lawyer" > "Bar Professional Training Course"
+ce "Lawyer->Bar Professional Training Course"  "type":8
+ae "Lawyer->Lawyers_from_Philadelphia" "Lawyer" > "Lawyers_from_Philadelphia"
+ce "Lawyer->Lawyers_from_Philadelphia"  "type":8
+ae "concept->Abstract and concrete" "concept" > "Abstract and concrete"
+ce "concept->Abstract and concrete"  "type":8
+ae "organism->host" "organism" > "host"
+ce "organism->host"  "type":1
+ae "Law->Canadian_lawyers_by_century" "Law" > "Canadian_lawyers_by_century"
+ce "Law->Canadian_lawyers_by_century"  "type":8
+ae "Law->Belgian_lawyers_by_century" "Law" > "Belgian_lawyers_by_century"
+ce "Law->Belgian_lawyers_by_century"  "type":8
+ae "Lawyer->Disbarred_lawyers" "Lawyer" > "Disbarred_lawyers"
+ce "Lawyer->Disbarred_lawyers"  "type":8
+ae "Lawyer->Lawyers_from_Oakland,_California" "Lawyer" > "Lawyers_from_Oakland,_California"
+ce "Lawyer->Lawyers_from_Oakland,_California"  "type":8
+ae "Lawyer->Lawyers_from_New_Haven,_Connecticut" "Lawyer" > "Lawyers_from_New_Haven,_Connecticut"
+ce "Lawyer->Lawyers_from_New_Haven,_Connecticut"  "type":8
+ae "Lawyer->Lawyers_from_Montgomery,_Alabama" "Lawyer" > "Lawyers_from_Montgomery,_Alabama"
+ce "Lawyer->Lawyers_from_Montgomery,_Alabama"  "type":8
+ae "Lawyer->Lawyers_from_Milwaukee" "Lawyer" > "Lawyers_from_Milwaukee"
+ce "Lawyer->Lawyers_from_Milwaukee"  "type":8
+ae "Law->Litigators" "Law" > "Litigators"
+ce "Law->Litigators"  "type":8
+ae "Lawyer->United States" "Lawyer" > "United States"
+ce "Lawyer->United States"  "type":8
+ae "Law->Swazi_lawyers" "Law" > "Swazi_lawyers"
+ce "Law->Swazi_lawyers"  "type":8
+ae "Lawyer->Lawyers_from_Miami" "Lawyer" > "Lawyers_from_Miami"
+ce "Lawyer->Lawyers_from_Miami"  "type":8
+ae "whole->sum" "whole" > "sum"
+ce "whole->sum"  "type":1
+ae "Lawyer->Conflict of interest" "Lawyer" > "Conflict of interest"
+ce "Lawyer->Conflict of interest"  "type":8
+ae "Lawyer->Ancient_lawyers" "Lawyer" > "Ancient_lawyers"
+ce "Lawyer->Ancient_lawyers"  "type":8
+ae "Lawyer->White_House_Counsels" "Lawyer" > "White_House_Counsels"
+ce "Lawyer->White_House_Counsels"  "type":8
+ae "Law->Slovak_lawyers" "Law" > "Slovak_lawyers"
+ce "Law->Slovak_lawyers"  "type":8
+ae "Lawyer->Supreme Court of the United States" "Lawyer" > "Supreme Court of the United States"
+ce "Lawyer->Supreme Court of the United States"  "type":8
+ae "Law->Senegalese_lawyers" "Law" > "Senegalese_lawyers"
+ce "Law->Senegalese_lawyers"  "type":8
+ae "Lawyer->Lawyers_from_Kansas_City,_Missouri" "Lawyer" > "Lawyers_from_Kansas_City,_Missouri"
+ce "Lawyer->Lawyers_from_Kansas_City,_Missouri"  "type":8
+ae "Law->Lawyers_by_law_firm" "Law" > "Lawyers_by_law_firm"
+ce "Law->Lawyers_by_law_firm"  "type":8
+ae "Law->Saint_Vincent_and_the_Grenadines_lawyers" "Law" > "Saint_Vincent_and_the_Grenadines_lawyers"
+ce "Law->Saint_Vincent_and_the_Grenadines_lawyers"  "type":8
+ae "Lawyer->Lawyers_by_law_firm" "Lawyer" > "Lawyers_by_law_firm"
+ce "Lawyer->Lawyers_by_law_firm"  "type":8
+ae "Lawyer->United_States_Deputy_Attorneys_General" "Lawyer" > "United_States_Deputy_Attorneys_General"
+ce "Lawyer->United_States_Deputy_Attorneys_General"  "type":8
+ae "Lawyer->Lawyers_with_physical_disabilities" "Lawyer" > "Lawyers_with_physical_disabilities"
+ce "Lawyer->Lawyers_with_physical_disabilities"  "type":8
+ae "Lawyer->United_States_Associate_Attorneys_General" "Lawyer" > "United_States_Associate_Attorneys_General"
+ce "Lawyer->United_States_Associate_Attorneys_General"  "type":8
+ae "Law->Papua_New_Guinean_lawyers" "Law" > "Papua_New_Guinean_lawyers"
+ce "Law->Papua_New_Guinean_lawyers"  "type":8
+ae "Law->Lawyers_with_physical_disabilities" "Law" > "Lawyers_with_physical_disabilities"
+ce "Law->Lawyers_with_physical_disabilities"  "type":8
+ae "Law->Niuean_lawyers" "Law" > "Niuean_lawyers"
+ce "Law->Niuean_lawyers"  "type":8
+ae "Lawyer->Assistant_United_States_Attorneys" "Lawyer" > "Assistant_United_States_Attorneys"
+ce "Lawyer->Assistant_United_States_Attorneys"  "type":8
+ae "Law->Nicaraguan_lawyers" "Law" > "Nicaraguan_lawyers"
+ce "Law->Nicaraguan_lawyers"  "type":8
+ae "Lawyer->British_lawyers_of_Pakistani_descent" "Lawyer" > "British_lawyers_of_Pakistani_descent"
+ce "Lawyer->British_lawyers_of_Pakistani_descent"  "type":8
+ae "Law->Namibian_lawyers" "Law" > "Namibian_lawyers"
+ce "Law->Namibian_lawyers"  "type":8
+ae "Law->Mozambican_lawyers" "Law" > "Mozambican_lawyers"
+ce "Law->Mozambican_lawyers"  "type":8
+ae "Law->Ancient_lawyers" "Law" > "Ancient_lawyers"
+ce "Law->Ancient_lawyers"  "type":8
+ae "Lawyer->District_of_Columbia_judges" "Lawyer" > "District_of_Columbia_judges"
+ce "Lawyer->District_of_Columbia_judges"  "type":8
+ae "Lawyer->20th-century_lawyers_from_Georgia_(country)" "Lawyer" > "20th-century_lawyers_from_Georgia_(country)"
+ce "Lawyer->20th-century_lawyers_from_Georgia_(country)"  "type":8
+ae "Law->Conflict of interest" "Law" > "Conflict of interest"
+ce "Law->Conflict of interest"  "type":8
+ae "Law->Disbarred_lawyers" "Law" > "Disbarred_lawyers"
+ce "Law->Disbarred_lawyers"  "type":8
+ae "Law->Union_Internationale_des_Avocats" "Law" > "Union_Internationale_des_Avocats"
+ce "Law->Union_Internationale_des_Avocats"  "type":8
+ae "Lawyer->Roman Republic" "Lawyer" > "Roman Republic"
+ce "Lawyer->Roman Republic"  "type":8
+ae "Lawyer->Oxford University Press" "Lawyer" > "Oxford University Press"
+ce "Lawyer->Oxford University Press"  "type":8
+ae "Law->Manx_lawyers" "Law" > "Manx_lawyers"
+ce "Law->Manx_lawyers"  "type":8
+ae "Lawyer->Mozambican_lawyers" "Lawyer" > "Mozambican_lawyers"
+ce "Lawyer->Mozambican_lawyers"  "type":8
+ae "Lawyer->Malian_lawyers" "Lawyer" > "Malian_lawyers"
+ce "Lawyer->Malian_lawyers"  "type":8
+ae "Law->Liberian_lawyers" "Law" > "Liberian_lawyers"
+ce "Law->Liberian_lawyers"  "type":8
+ae "Lawyer->Litigators" "Lawyer" > "Litigators"
+ce "Lawyer->Litigators"  "type":8
+ae "Lawyer->Bissau-Guinean_lawyers" "Lawyer" > "Bissau-Guinean_lawyers"
+ce "Lawyer->Bissau-Guinean_lawyers"  "type":8
+ae "Law->Ecuadorian_lawyers" "Law" > "Ecuadorian_lawyers"
+ce "Law->Ecuadorian_lawyers"  "type":8
+ae "Lawyer->Lawyers_from_Africa" "Lawyer" > "Lawyers_from_Africa"
+ce "Lawyer->Lawyers_from_Africa"  "type":8
+ae "Law->Lawyers_by_city_in_the_United_States" "Law" > "Lawyers_by_city_in_the_United_States"
+ce "Law->Lawyers_by_city_in_the_United_States"  "type":8
+ae "Law->Icelandic_lawyers" "Law" > "Icelandic_lawyers"
+ce "Law->Icelandic_lawyers"  "type":8
+ae "Law->Haitian_lawyers" "Law" > "Haitian_lawyers"
+ce "Law->Haitian_lawyers"  "type":8
+ae "Lawyer->Prosecutors" "Lawyer" > "Prosecutors"
+ce "Lawyer->Prosecutors"  "type":8
+ae "Law->Gambian_lawyers" "Law" > "Gambian_lawyers"
+ce "Law->Gambian_lawyers"  "type":8
+ae "Lawyer->Patent_attorneys" "Lawyer" > "Patent_attorneys"
+ce "Lawyer->Patent_attorneys"  "type":8
+ae "Law->Lawyers_from_Africa" "Law" > "Lawyers_from_Africa"
+ce "Law->Lawyers_from_Africa"  "type":8
+ae "Law->Filipino_lawyers" "Law" > "Filipino_lawyers"
+ce "Law->Filipino_lawyers"  "type":8
+ae "Law->Eritrean_lawyers" "Law" > "Eritrean_lawyers"
+ce "Law->Eritrean_lawyers"  "type":8

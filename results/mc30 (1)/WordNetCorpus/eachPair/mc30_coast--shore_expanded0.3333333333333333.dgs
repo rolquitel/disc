@@ -1,0 +1,211 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "coast"
+cn "coast"  "ui.label":"coast"
+cn "coast"  "ui.style":"size-mode:fit;"
+an "shore"
+cn "shore"  "ui.label":"shore"
+cn "shore"  "ui.style":"size-mode:fit;"
+an "geological formation"
+cn "geological formation"  "ui.label":"geological formation"
+cn "geological formation"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "slope"
+cn "slope"  "ui.label":"slope"
+cn "slope"  "ui.style":"size:6px; fill-color:white; "
+an "view"
+cn "view"  "ui.label":"view"
+cn "view"  "ui.style":"size:6px; fill-color:white; "
+an "littoral"
+cn "littoral"  "ui.label":"littoral"
+cn "littoral"  "ui.style":"size:6px; fill-color:white; "
+an "snowboarding"
+cn "snowboarding"  "ui.label":"snowboarding"
+cn "snowboarding"  "ui.style":"size:6px; fill-color:white; "
+an "foreshore"
+cn "foreshore"  "ui.label":"foreshore"
+cn "foreshore"  "ui.style":"size:6px; fill-color:white; "
+an "beam"
+cn "beam"  "ui.label":"beam"
+cn "beam"  "ui.style":"size:6px; fill-color:white; "
+an "strand"
+cn "strand"  "ui.label":"strand"
+cn "strand"  "ui.style":"size:6px; fill-color:white; "
+an "beach"
+cn "beach"  "ui.label":"beach"
+cn "beach"  "ui.style":"size:6px; fill-color:white; "
+an "shoreline"
+cn "shoreline"  "ui.label":"shoreline"
+cn "shoreline"  "ui.style":"size:6px; fill-color:white; "
+an "aquifer"
+cn "aquifer"  "ui.label":"aquifer"
+cn "aquifer"  "ui.style":"size:6px; fill-color:white; "
+an "diapir"
+cn "diapir"  "ui.label":"diapir"
+cn "diapir"  "ui.style":"size:6px; fill-color:white; "
+an "ice mass"
+cn "ice mass"  "ui.label":"ice mass"
+cn "ice mass"  "ui.style":"size:6px; fill-color:white; "
+an "massif"
+cn "massif"  "ui.label":"massif"
+cn "massif"  "ui.style":"size:6px; fill-color:white; "
+an "monocline"
+cn "monocline"  "ui.label":"monocline"
+cn "monocline"  "ui.style":"size:6px; fill-color:white; "
+an "ridge"
+cn "ridge"  "ui.label":"ridge"
+cn "ridge"  "ui.style":"size:6px; fill-color:white; "
+an "talus"
+cn "talus"  "ui.label":"talus"
+cn "talus"  "ui.style":"size:6px; fill-color:white; "
+an "wall"
+cn "wall"  "ui.label":"wall"
+cn "wall"  "ui.style":"size:6px; fill-color:white; "
+an "constituent"
+cn "constituent"  "ui.label":"constituent"
+cn "constituent"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "curio"
+cn "curio"  "ui.label":"curio"
+cn "curio"  "ui.style":"size:6px; fill-color:white; "
+an "draw"
+cn "draw"  "ui.label":"draw"
+cn "draw"  "ui.style":"size:6px; fill-color:white; "
+an "part"
+cn "part"  "ui.label":"part"
+cn "part"  "ui.style":"size:6px; fill-color:white; "
+an "property"
+cn "property"  "ui.label":"property"
+cn "property"  "ui.style":"size:6px; fill-color:white; "
+an "discard"
+cn "discard"  "ui.label":"discard"
+cn "discard"  "ui.style":"size:6px; fill-color:white; "
+an "finding"
+cn "finding"  "ui.label":"finding"
+cn "finding"  "ui.style":"size:6px; fill-color:white; "
+an "head"
+cn "head"  "ui.label":"head"
+cn "head"  "ui.style":"size:6px; fill-color:white; "
+an "neighbor"
+cn "neighbor"  "ui.label":"neighbor"
+cn "neighbor"  "ui.style":"size:6px; fill-color:white; "
+an "shiner"
+cn "shiner"  "ui.label":"shiner"
+cn "shiner"  "ui.style":"size:6px; fill-color:white; "
+an "vagabond"
+cn "vagabond"  "ui.label":"vagabond"
+cn "vagabond"  "ui.style":"size:6px; fill-color:white; "
+an "prepositional object"
+cn "prepositional object"  "ui.label":"prepositional object"
+cn "prepositional object"  "ui.style":"size:6px; fill-color:white; "
+an "antipathy"
+cn "antipathy"  "ui.label":"antipathy"
+cn "antipathy"  "ui.style":"size:6px; fill-color:white; "
+an "execration"
+cn "execration"  "ui.label":"execration"
+cn "execration"  "ui.style":"size:6px; fill-color:white; "
+an "center"
+cn "center"  "ui.label":"center"
+cn "center"  "ui.style":"size:6px; fill-color:white; "
+an "love"
+cn "love"  "ui.label":"love"
+cn "love"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+ae "coast->shore" "coast"  "shore"
+ce "coast->shore"  "type":0
+ae "shore->geological formation" "shore"  "geological formation"
+ce "shore->geological formation"  "type":0
+ae "geological formation->object" "geological formation"  "object"
+ce "geological formation->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "coast->slope" "coast" > "slope"
+ce "coast->slope"  "type":0
+ae "coast->view" "coast" > "view"
+ce "coast->view"  "type":0
+ae "coast->littoral" "coast" > "littoral"
+ce "coast->littoral"  "type":1
+ae "coast->snowboarding" "coast" > "snowboarding"
+ce "coast->snowboarding"  "type":1
+ae "coast->foreshore" "coast" > "foreshore"
+ce "coast->foreshore"  "type":7
+ae "shore->beam" "shore" > "beam"
+ce "shore->beam"  "type":0
+ae "shore->strand" "shore" > "strand"
+ce "shore->strand"  "type":1
+ae "shore->beach" "shore" > "beach"
+ce "shore->beach"  "type":7
+ae "shore->shoreline" "shore" > "shoreline"
+ce "shore->shoreline"  "type":7
+ae "geological formation->aquifer" "geological formation" > "aquifer"
+ce "geological formation->aquifer"  "type":1
+ae "geological formation->diapir" "geological formation" > "diapir"
+ce "geological formation->diapir"  "type":1
+ae "geological formation->ice mass" "geological formation" > "ice mass"
+ce "geological formation->ice mass"  "type":1
+ae "geological formation->massif" "geological formation" > "massif"
+ce "geological formation->massif"  "type":1
+ae "geological formation->monocline" "geological formation" > "monocline"
+ce "geological formation->monocline"  "type":1
+ae "geological formation->ridge" "geological formation" > "ridge"
+ce "geological formation->ridge"  "type":1
+ae "geological formation->talus" "geological formation" > "talus"
+ce "geological formation->talus"  "type":1
+ae "geological formation->wall" "geological formation" > "wall"
+ce "geological formation->wall"  "type":1
+ae "object->constituent" "object" > "constituent"
+ce "object->constituent"  "type":0
+ae "object->content" "object" > "content"
+ce "object->content"  "type":0
+ae "object->location" "object" > "location"
+ce "object->location"  "type":1
+ae "object->curio" "object" > "curio"
+ce "object->curio"  "type":1
+ae "object->draw" "object" > "draw"
+ce "object->draw"  "type":1
+ae "object->part" "object" > "part"
+ce "object->part"  "type":1
+ae "object->property" "object" > "property"
+ce "object->property"  "type":1
+ae "object->discard" "object" > "discard"
+ce "object->discard"  "type":1
+ae "object->finding" "object" > "finding"
+ce "object->finding"  "type":1
+ae "object->head" "object" > "head"
+ce "object->head"  "type":1
+ae "object->neighbor" "object" > "neighbor"
+ce "object->neighbor"  "type":1
+ae "object->shiner" "object" > "shiner"
+ce "object->shiner"  "type":1
+ae "object->vagabond" "object" > "vagabond"
+ce "object->vagabond"  "type":1
+ae "object->prepositional object" "object" > "prepositional object"
+ce "object->prepositional object"  "type":1
+ae "object->antipathy" "object" > "antipathy"
+ce "object->antipathy"  "type":1
+ae "object->execration" "object" > "execration"
+ce "object->execration"  "type":1
+ae "object->center" "object" > "center"
+ce "object->center"  "type":1
+ae "object->love" "object" > "love"
+ce "object->love"  "type":1
+ae "entity->abstraction" "entity" > "abstraction"
+ce "entity->abstraction"  "type":1

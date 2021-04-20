@@ -1,0 +1,238 @@
+DGS004
+null 0 0
+an "Knowledge"
+cn "Knowledge"  "ui.label":"Knowledge"
+cn "Knowledge"  "ui.style":"size-mode:fit;"
+an "psychological feature"
+cn "psychological feature"  "ui.label":"psychological feature"
+cn "psychological feature"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "Communication studies"
+cn "Communication studies"  "ui.label":"Communication studies"
+cn "Communication studies"  "ui.style":"size:6px; fill-color:white; "
+an "Information"
+cn "Information"  "ui.label":"Information"
+cn "Information"  "ui.style":"size-mode:fit;"
+an "message"
+cn "message"  "ui.label":"message"
+cn "message"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "Category:Concepts in metaphysics"
+cn "Category:Concepts in metaphysics"  "ui.label":"Category:Concepts in metaphysics"
+cn "Category:Concepts in metaphysics"  "ui.style":"size:6px; fill-color:white; "
+an "Information engineering (field)"
+cn "Information engineering (field)"  "ui.label":"Information engineering (field)"
+cn "Information engineering (field)"  "ui.style":"size:6px; fill-color:white; "
+an "dramatic composition"
+cn "dramatic composition"  "ui.label":"dramatic composition"
+cn "dramatic composition"  "ui.style":"size:6px; fill-color:white; "
+an "opinion"
+cn "opinion"  "ui.label":"opinion"
+cn "opinion"  "ui.style":"size:6px; fill-color:white; "
+an "information"
+cn "information"  "ui.label":"information"
+cn "information"  "ui.style":"size:6px; fill-color:white; "
+an "Radio"
+cn "Radio"  "ui.label":"Radio"
+cn "Radio"  "ui.style":"size:6px; fill-color:white; "
+an "cognition"
+cn "cognition"  "ui.label":"cognition"
+cn "cognition"  "ui.style":"size:6px; fill-color:white; "
+an "Semantics"
+cn "Semantics"  "ui.label":"Semantics"
+cn "Semantics"  "ui.style":"size:6px; fill-color:white; "
+an "Television"
+cn "Television"  "ui.label":"Television"
+cn "Television"  "ui.style":"size:6px; fill-color:white; "
+an "Communication"
+cn "Communication"  "ui.label":"Communication"
+cn "Communication"  "ui.style":"size:6px; fill-color:white; "
+an "Thomas Jefferson Building"
+cn "Thomas Jefferson Building"  "ui.label":"Thomas Jefferson Building"
+cn "Thomas Jefferson Building"  "ui.style":"size:6px; fill-color:white; "
+an "Papyrus"
+cn "Papyrus"  "ui.label":"Papyrus"
+cn "Papyrus"  "ui.style":"size:6px; fill-color:white; "
+an "Symbol"
+cn "Symbol"  "ui.label":"Symbol"
+cn "Symbol"  "ui.style":"size:6px; fill-color:white; "
+an "Observation"
+cn "Observation"  "ui.label":"Observation"
+cn "Observation"  "ui.style":"size:6px; fill-color:white; "
+an "Parchment"
+cn "Parchment"  "ui.label":"Parchment"
+cn "Parchment"  "ui.style":"size:6px; fill-color:white; "
+an "Clay tablet"
+cn "Clay tablet"  "ui.label":"Clay tablet"
+cn "Clay tablet"  "ui.style":"size:6px; fill-color:white; "
+an "Semiotics"
+cn "Semiotics"  "ui.label":"Semiotics"
+cn "Semiotics"  "ui.style":"size:6px; fill-color:white; "
+an "Pragmatics"
+cn "Pragmatics"  "ui.label":"Pragmatics"
+cn "Pragmatics"  "ui.style":"size:6px; fill-color:white; "
+an "Syntax"
+cn "Syntax"  "ui.label":"Syntax"
+cn "Syntax"  "ui.style":"size:6px; fill-color:white; "
+an "Knowledge_economy"
+cn "Knowledge_economy"  "ui.label":"Knowledge_economy"
+cn "Knowledge_economy"  "ui.style":"size:6px; fill-color:white; "
+an "Diary"
+cn "Diary"  "ui.label":"Diary"
+cn "Diary"  "ui.style":"size:6px; fill-color:white; "
+ae "Knowledge->psychological feature" "Knowledge"  "psychological feature"
+ce "Knowledge->psychological feature"  "type":0
+ae "psychological feature->abstraction" "psychological feature"  "abstraction"
+ce "psychological feature->abstraction"  "type":0
+ae "writing->dramatic composition" "writing" > "dramatic composition"
+ce "writing->dramatic composition"  "type":1
+ae "Information->message" "Information"  "message"
+ce "Information->message"  "type":0
+ae "message->communication" "message"  "communication"
+ce "message->communication"  "type":0
+ae "communication->act" "communication"  "act"
+ce "communication->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "document->Papyrus" "document" > "Papyrus"
+ce "document->Papyrus"  "type":8
+ae "message->Communication studies" "message" > "Communication studies"
+ce "message->Communication studies"  "type":8
+ae "writing->Diary" "writing" > "Diary"
+ce "writing->Diary"  "type":8
+ae "document->Radio" "document" > "Radio"
+ce "document->Radio"  "type":8
+ae "Knowledge->information" "Knowledge" > "information"
+ce "Knowledge->information"  "type":1
+ae "Knowledge->Information" "Knowledge" > "Information"
+ce "Knowledge->Information"  "type":8
+ae "Information->Information engineering (field)" "Information" > "Information engineering (field)"
+ce "Information->Information engineering (field)"  "type":8
+ae "communication->Information engineering (field)" "communication" > "Information engineering (field)"
+ce "communication->Information engineering (field)"  "type":8
+ae "writing->Parchment" "writing" > "Parchment"
+ce "writing->Parchment"  "type":8
+ae "abstraction->Semantics" "abstraction" > "Semantics"
+ce "abstraction->Semantics"  "type":8
+ae "Knowledge->Communication" "Knowledge" > "Communication"
+ce "Knowledge->Communication"  "type":8
+ae "Knowledge->Thomas Jefferson Building" "Knowledge" > "Thomas Jefferson Building"
+ce "Knowledge->Thomas Jefferson Building"  "type":8
+ae "communication->Semiotics" "communication" > "Semiotics"
+ce "communication->Semiotics"  "type":8
+ae "communication->Pragmatics" "communication" > "Pragmatics"
+ce "communication->Pragmatics"  "type":8
+ae "document->Television" "document" > "Television"
+ce "document->Television"  "type":8
+ae "writing->Thomas Jefferson Building" "writing" > "Thomas Jefferson Building"
+ce "writing->Thomas Jefferson Building"  "type":8
+ae "Information->Observation" "Information" > "Observation"
+ce "Information->Observation"  "type":8
+ae "Knowledge->Semiotics" "Knowledge" > "Semiotics"
+ce "Knowledge->Semiotics"  "type":8
+ae "legal document->opinion" "legal document" > "opinion"
+ce "legal document->opinion"  "type":1
+ae "Information->Knowledge" "Information" > "Knowledge"
+ce "Information->Knowledge"  "type":8
+ae "writing->Clay tablet" "writing" > "Clay tablet"
+ce "writing->Clay tablet"  "type":8
+ae "writing->Papyrus" "writing" > "Papyrus"
+ce "writing->Papyrus"  "type":8
+ae "Knowledge->Knowledge_economy" "Knowledge" > "Knowledge_economy"
+ce "Knowledge->Knowledge_economy"  "type":8
+ae "Information->cognition" "Information" > "cognition"
+ce "Information->cognition"  "type":0
+ae "Information->Knowledge_economy" "Information" > "Knowledge_economy"
+ce "Information->Knowledge_economy"  "type":8
+ae "message->Radio" "message" > "Radio"
+ce "message->Radio"  "type":8
+ae "document->Clay tablet" "document" > "Clay tablet"
+ce "document->Clay tablet"  "type":8
+ae "communication->Communication studies" "communication" > "Communication studies"
+ce "communication->Communication studies"  "type":8
+ae "abstraction->Communication" "abstraction" > "Communication"
+ce "abstraction->Communication"  "type":8
+ae "message->information" "message" > "information"
+ce "message->information"  "type":1
+ae "Knowledge->Observation" "Knowledge" > "Observation"
+ce "Knowledge->Observation"  "type":8
+ae "writing->activity" "writing" > "activity"
+ce "writing->activity"  "type":0
+ae "abstraction->Symbol" "abstraction" > "Symbol"
+ce "abstraction->Symbol"  "type":8
+ae "message->Television" "message" > "Television"
+ce "message->Television"  "type":8
+ae "document->Parchment" "document" > "Parchment"
+ce "document->Parchment"  "type":8
+ae "abstraction->Category:Concepts in metaphysics" "abstraction" > "Category:Concepts in metaphysics"
+ce "abstraction->Category:Concepts in metaphysics"  "type":8
+ae "communication->Symbol" "communication" > "Symbol"
+ce "communication->Symbol"  "type":8
+ae "Information->Semiotics" "Information" > "Semiotics"
+ce "Information->Semiotics"  "type":8
+ae "Information->Symbol" "Information" > "Symbol"
+ce "Information->Symbol"  "type":8
+ae "Information->Pragmatics" "Information" > "Pragmatics"
+ce "Information->Pragmatics"  "type":8
+ae "Information->Semantics" "Information" > "Semantics"
+ce "Information->Semantics"  "type":8
+ae "act->dramatic composition" "act" > "dramatic composition"
+ce "act->dramatic composition"  "type":0
+ae "psychological feature->cognition" "psychological feature" > "cognition"
+ce "psychological feature->cognition"  "type":1
+ae "message->opinion" "message" > "opinion"
+ce "message->opinion"  "type":1
+ae "communication->abstraction" "communication" > "abstraction"
+ce "communication->abstraction"  "type":0
+ae "communication->Diary" "communication" > "Diary"
+ce "communication->Diary"  "type":8
+ae "communication->Syntax" "communication" > "Syntax"
+ce "communication->Syntax"  "type":8
+ae "abstraction->Syntax" "abstraction" > "Syntax"
+ce "abstraction->Syntax"  "type":8
+ae "abstraction->Pragmatics" "abstraction" > "Pragmatics"
+ce "abstraction->Pragmatics"  "type":8
+ae "Information->Category:Concepts in metaphysics" "Information" > "Category:Concepts in metaphysics"
+ce "Information->Category:Concepts in metaphysics"  "type":8

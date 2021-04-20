@@ -1,0 +1,416 @@
+DGS004
+null 0 0
+an "Fruit"
+cn "Fruit"  "ui.label":"Fruit"
+cn "Fruit"  "ui.style":"size-mode:fit;"
+an "reproductive structure"
+cn "reproductive structure"  "ui.label":"reproductive structure"
+cn "reproductive structure"  "ui.style":"size:6px; fill-color:white; "
+an "plant organ"
+cn "plant organ"  "ui.label":"plant organ"
+cn "plant organ"  "ui.style":"size:6px; fill-color:white; "
+an "plant part"
+cn "plant part"  "ui.label":"plant part"
+cn "plant part"  "ui.style":"size:6px; fill-color:white; "
+an "natural object"
+cn "natural object"  "ui.label":"natural object"
+cn "natural object"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Food"
+cn "Food"  "ui.label":"Food"
+cn "Food"  "ui.style":"size-mode:fit;"
+an "substance"
+cn "substance"  "ui.label":"substance"
+cn "substance"  "ui.style":"size:6px; fill-color:white; "
+an "matter"
+cn "matter"  "ui.label":"matter"
+cn "matter"  "ui.style":"size:6px; fill-color:white; "
+an "concern"
+cn "concern"  "ui.label":"concern"
+cn "concern"  "ui.style":"size:6px; fill-color:white; "
+an "interest"
+cn "interest"  "ui.label":"interest"
+cn "interest"  "ui.style":"size:6px; fill-color:white; "
+an "curiosity"
+cn "curiosity"  "ui.label":"curiosity"
+cn "curiosity"  "ui.style":"size:6px; fill-color:white; "
+an "cognitive state"
+cn "cognitive state"  "ui.label":"cognitive state"
+cn "cognitive state"  "ui.style":"size:6px; fill-color:white; "
+an "psychological state"
+cn "psychological state"  "ui.label":"psychological state"
+cn "psychological state"  "ui.style":"size:6px; fill-color:white; "
+an "condition"
+cn "condition"  "ui.label":"condition"
+cn "condition"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "Category:Concepts in metaphysics"
+cn "Category:Concepts in metaphysics"  "ui.label":"Category:Concepts in metaphysics"
+cn "Category:Concepts in metaphysics"  "ui.style":"size:6px; fill-color:white; "
+an "county"
+cn "county"  "ui.label":"county"
+cn "county"  "ui.style":"size:6px; fill-color:white; "
+an "Ontology"
+cn "Ontology"  "ui.label":"Ontology"
+cn "Ontology"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "Class (set theory)"
+cn "Class (set theory)"  "ui.label":"Class (set theory)"
+cn "Class (set theory)"  "ui.style":"size:6px; fill-color:white; "
+an "Army group"
+cn "Army group"  "ui.label":"Army group"
+cn "Army group"  "ui.style":"size:6px; fill-color:white; "
+an "Computer science"
+cn "Computer science"  "ui.label":"Computer science"
+cn "Computer science"  "ui.style":"size:6px; fill-color:white; "
+an "Philosophy"
+cn "Philosophy"  "ui.label":"Philosophy"
+cn "Philosophy"  "ui.style":"size:6px; fill-color:white; "
+an "Mental representation"
+cn "Mental representation"  "ui.label":"Mental representation"
+cn "Mental representation"  "ui.style":"size:6px; fill-color:white; "
+an "area"
+cn "area"  "ui.label":"area"
+cn "area"  "ui.style":"size:6px; fill-color:white; "
+an "World War II"
+cn "World War II"  "ui.label":"World War II"
+cn "World War II"  "ui.style":"size:6px; fill-color:white; "
+an "Seed"
+cn "Seed"  "ui.label":"Seed"
+cn "Seed"  "ui.style":"size:6px; fill-color:white; "
+an "set"
+cn "set"  "ui.label":"set"
+cn "set"  "ui.style":"size:6px; fill-color:white; "
+an "Apple"
+cn "Apple"  "ui.label":"Apple"
+cn "Apple"  "ui.style":"size:6px; fill-color:white; "
+an "Food preservation"
+cn "Food preservation"  "ui.label":"Food preservation"
+cn "Food preservation"  "ui.style":"size:6px; fill-color:white; "
+an "Memory"
+cn "Memory"  "ui.label":"Memory"
+cn "Memory"  "ui.style":"size:6px; fill-color:white; "
+an "planting"
+cn "planting"  "ui.label":"planting"
+cn "planting"  "ui.style":"size:6px; fill-color:white; "
+an "Category:Creativity"
+cn "Category:Creativity"  "ui.label":"Category:Creativity"
+cn "Category:Creativity"  "ui.style":"size:6px; fill-color:white; "
+an "Lists of foods"
+cn "Lists of foods"  "ui.label":"Lists of foods"
+cn "Lists of foods"  "ui.style":"size:6px; fill-color:white; "
+an "List of culinary fruits"
+cn "List of culinary fruits"  "ui.label":"List of culinary fruits"
+cn "List of culinary fruits"  "ui.style":"size:6px; fill-color:white; "
+an "Vegetable"
+cn "Vegetable"  "ui.label":"Vegetable"
+cn "Vegetable"  "ui.style":"size:6px; fill-color:white; "
+an "Abstract and concrete"
+cn "Abstract and concrete"  "ui.label":"Abstract and concrete"
+cn "Abstract and concrete"  "ui.style":"size:6px; fill-color:white; "
+an "disrespect"
+cn "disrespect"  "ui.label":"disrespect"
+cn "disrespect"  "ui.style":"size:6px; fill-color:white; "
+an "burden"
+cn "burden"  "ui.label":"burden"
+cn "burden"  "ui.style":"size:6px; fill-color:white; "
+an "Peanut"
+cn "Peanut"  "ui.label":"Peanut"
+cn "Peanut"  "ui.style":"size:6px; fill-color:white; "
+an "information"
+cn "information"  "ui.label":"information"
+cn "information"  "ui.style":"size:6px; fill-color:white; "
+an "submission"
+cn "submission"  "ui.label":"submission"
+cn "submission"  "ui.style":"size:6px; fill-color:white; "
+an "Aristotle"
+cn "Aristotle"  "ui.label":"Aristotle"
+cn "Aristotle"  "ui.style":"size:6px; fill-color:white; "
+an "narrative"
+cn "narrative"  "ui.label":"narrative"
+cn "narrative"  "ui.style":"size:6px; fill-color:white; "
+an "Brazil"
+cn "Brazil"  "ui.label":"Brazil"
+cn "Brazil"  "ui.style":"size:6px; fill-color:white; "
+an "Hypostatic abstraction"
+cn "Hypostatic abstraction"  "ui.label":"Hypostatic abstraction"
+cn "Hypostatic abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "universe"
+cn "universe"  "ui.label":"universe"
+cn "universe"  "ui.style":"size:6px; fill-color:white; "
+an "Pumpkin_festivals"
+cn "Pumpkin_festivals"  "ui.label":"Pumpkin_festivals"
+cn "Pumpkin_festivals"  "ui.style":"size:6px; fill-color:white; "
+an "body"
+cn "body"  "ui.label":"body"
+cn "body"  "ui.style":"size:6px; fill-color:white; "
+an "Human"
+cn "Human"  "ui.label":"Human"
+cn "Human"  "ui.style":"size:6px; fill-color:white; "
+an "Category:Types of country subdivisions"
+cn "Category:Types of country subdivisions"  "ui.label":"Category:Types of country subdivisions"
+cn "Category:Types of country subdivisions"  "ui.style":"size:6px; fill-color:white; "
+an "Jews"
+cn "Jews"  "ui.label":"Jews"
+cn "Jews"  "ui.style":"size:6px; fill-color:white; "
+ae "Fruit->reproductive structure" "Fruit"  "reproductive structure"
+ce "Fruit->reproductive structure"  "type":0
+ae "reproductive structure->plant organ" "reproductive structure"  "plant organ"
+ce "reproductive structure->plant organ"  "type":0
+ae "plant organ->plant part" "plant organ"  "plant part"
+ce "plant organ->plant part"  "type":0
+ae "plant part->natural object" "plant part"  "natural object"
+ce "plant part->natural object"  "type":0
+ae "natural object->whole" "natural object"  "whole"
+ce "natural object->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Food->substance" "Food"  "substance"
+ce "Food->substance"  "type":0
+ae "substance->matter" "substance"  "matter"
+ce "substance->matter"  "type":0
+ae "matter->concern" "matter"  "concern"
+ce "matter->concern"  "type":0
+ae "concern->interest" "concern"  "interest"
+ce "concern->interest"  "type":0
+ae "interest->curiosity" "interest"  "curiosity"
+ce "interest->curiosity"  "type":0
+ae "curiosity->cognitive state" "curiosity"  "cognitive state"
+ce "curiosity->cognitive state"  "type":0
+ae "cognitive state->psychological state" "cognitive state"  "psychological state"
+ce "cognitive state->psychological state"  "type":0
+ae "psychological state->condition" "psychological state"  "condition"
+ce "psychological state->condition"  "type":0
+ae "condition->state" "condition"  "state"
+ce "condition->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "physical entity->matter" "physical entity" > "matter"
+ce "physical entity->matter"  "type":1
+ae "substance->body" "substance" > "body"
+ce "substance->body"  "type":1
+ae "district->Brazil" "district" > "Brazil"
+ce "district->Brazil"  "type":8
+ae "content->communication" "content" > "communication"
+ce "content->communication"  "type":0
+ae "object->Abstract and concrete" "object" > "Abstract and concrete"
+ce "object->Abstract and concrete"  "type":8
+ae "Food->Seed" "Food" > "Seed"
+ce "Food->Seed"  "type":8
+ae "curiosity->Aristotle" "curiosity" > "Aristotle"
+ce "curiosity->Aristotle"  "type":8
+ae "idea->burden" "idea" > "burden"
+ce "idea->burden"  "type":1
+ae "idea->Category:Concepts in metaphysics" "idea" > "Category:Concepts in metaphysics"
+ce "idea->Category:Concepts in metaphysics"  "type":8
+ae "district->Category:Types of country subdivisions" "district" > "Category:Types of country subdivisions"
+ce "district->Category:Types of country subdivisions"  "type":8
+ae "collection->set" "collection" > "set"
+ce "collection->set"  "type":1
+ae "Fruit->Seed" "Fruit" > "Seed"
+ce "Fruit->Seed"  "type":8
+ae "concept->Computer science" "concept" > "Computer science"
+ce "concept->Computer science"  "type":8
+ae "Fruit->Apple" "Fruit" > "Apple"
+ce "Fruit->Apple"  "type":8
+ae "content->universe" "content" > "universe"
+ce "content->universe"  "type":1
+ae "content->object" "content" > "object"
+ce "content->object"  "type":1
+ae "collection->planting" "collection" > "planting"
+ce "collection->planting"  "type":1
+ae "substance->communication" "substance" > "communication"
+ce "substance->communication"  "type":0
+ae "region->area" "region" > "area"
+ce "region->area"  "type":1
+ae "Fruit->List of culinary fruits" "Fruit" > "List of culinary fruits"
+ce "Fruit->List of culinary fruits"  "type":8
+ae "Fruit->Vegetable" "Fruit" > "Vegetable"
+ce "Fruit->Vegetable"  "type":8
+ae "Food->Food preservation" "Food" > "Food preservation"
+ce "Food->Food preservation"  "type":8
+ae "abstraction->Computer science" "abstraction" > "Computer science"
+ce "abstraction->Computer science"  "type":8
+ae "group->Army group" "group" > "Army group"
+ce "group->Army group"  "type":8
+ae "Fruit->Peanut" "Fruit" > "Peanut"
+ce "Fruit->Peanut"  "type":8
+ae "region->county" "region" > "county"
+ce "region->county"  "type":1
+ae "content->narrative" "content" > "narrative"
+ce "content->narrative"  "type":1
+ae "content->submission" "content" > "submission"
+ce "content->submission"  "type":1
+ae "interest->Aristotle" "interest" > "Aristotle"
+ce "interest->Aristotle"  "type":8
+ae "Food->Lists of foods" "Food" > "Lists of foods"
+ce "Food->Lists of foods"  "type":8
+ae "idea->Mental representation" "idea" > "Mental representation"
+ce "idea->Mental representation"  "type":8
+ae "substance->information" "substance" > "information"
+ce "substance->information"  "type":1
+ae "curiosity->Category:Creativity" "curiosity" > "Category:Creativity"
+ce "curiosity->Category:Creativity"  "type":8
+ae "idea->Ontology" "idea" > "Ontology"
+ce "idea->Ontology"  "type":8
+ae "substance->disrespect" "substance" > "disrespect"
+ce "substance->disrespect"  "type":1
+ae "location->set" "location" > "set"
+ce "location->set"  "type":1
+ae "location->planting" "location" > "planting"
+ce "location->planting"  "type":1
+ae "idea->Human" "idea" > "Human"
+ce "idea->Human"  "type":8
+ae "substance->narrative" "substance" > "narrative"
+ce "substance->narrative"  "type":1
+ae "concept->Hypostatic abstraction" "concept" > "Hypostatic abstraction"
+ce "concept->Hypostatic abstraction"  "type":8
+ae "abstraction->concept" "abstraction" > "concept"
+ce "abstraction->concept"  "type":0
+ae "concept->Mental representation" "concept" > "Mental representation"
+ce "concept->Mental representation"  "type":8
+ae "concern->burden" "concern" > "burden"
+ce "concern->burden"  "type":1
+ae "Food->World War II" "Food" > "World War II"
+ce "Food->World War II"  "type":8
+ae "administrative district->county" "administrative district" > "county"
+ce "administrative district->county"  "type":1
+ae "region->Category:Types of country subdivisions" "region" > "Category:Types of country subdivisions"
+ce "region->Category:Types of country subdivisions"  "type":8
+ae "Food->content" "Food" > "content"
+ce "Food->content"  "type":0
+ae "content->disrespect" "content" > "disrespect"
+ce "content->disrespect"  "type":1
+ae "Food->Pumpkin_festivals" "Food" > "Pumpkin_festivals"
+ce "Food->Pumpkin_festivals"  "type":8
+ae "natural object->universe" "natural object" > "universe"
+ce "natural object->universe"  "type":1
+ae "region->World War II" "region" > "World War II"
+ce "region->World War II"  "type":8
+ae "abstraction->Abstract and concrete" "abstraction" > "Abstract and concrete"
+ce "abstraction->Abstract and concrete"  "type":8
+ae "region->Army group" "region" > "Army group"
+ce "region->Army group"  "type":8
+ae "natural object->body" "natural object" > "body"
+ce "natural object->body"  "type":1
+ae "condition->submission" "condition" > "submission"
+ce "condition->submission"  "type":1
+ae "idea->Memory" "idea" > "Memory"
+ce "idea->Memory"  "type":8
+ae "Food->Peanut" "Food" > "Peanut"
+ce "Food->Peanut"  "type":8
+ae "concept->Memory" "concept" > "Memory"
+ce "concept->Memory"  "type":8
+ae "concept->Philosophy" "concept" > "Philosophy"
+ce "concept->Philosophy"  "type":8
+ae "abstraction->Category:Creativity" "abstraction" > "Category:Creativity"
+ce "abstraction->Category:Creativity"  "type":8
+ae "abstraction->Category:Concepts in metaphysics" "abstraction" > "Category:Concepts in metaphysics"
+ce "abstraction->Category:Concepts in metaphysics"  "type":8
+ae "Fruit->Lists of foods" "Fruit" > "Lists of foods"
+ce "Fruit->Lists of foods"  "type":8
+ae "matter->area" "matter" > "area"
+ce "matter->area"  "type":1
+ae "abstraction->Philosophy" "abstraction" > "Philosophy"
+ce "abstraction->Philosophy"  "type":8
+ae "condition->information" "condition" > "information"
+ce "condition->information"  "type":0
+ae "Food->Jews" "Food" > "Jews"
+ce "Food->Jews"  "type":8
+ae "abstraction->Apple" "abstraction" > "Apple"
+ce "abstraction->Apple"  "type":8
+ae "Food->Vegetable" "Food" > "Vegetable"
+ce "Food->Vegetable"  "type":8
+ae "collection->Class (set theory)" "collection" > "Class (set theory)"
+ce "collection->Class (set theory)"  "type":8
+ae "abstraction->Ontology" "abstraction" > "Ontology"
+ce "abstraction->Ontology"  "type":8
+ae "Food->List of culinary fruits" "Food" > "List of culinary fruits"
+ce "Food->List of culinary fruits"  "type":8
+ae "Fruit->Human" "Fruit" > "Human"
+ce "Fruit->Human"  "type":8
+ae "Fruit->Food preservation" "Fruit" > "Food preservation"
+ce "Fruit->Food preservation"  "type":8
+ae "region->Brazil" "region" > "Brazil"
+ce "region->Brazil"  "type":8
+ae "interest->Jews" "interest" > "Jews"
+ce "interest->Jews"  "type":8
+ae "Food->Fruit" "Food" > "Fruit"
+ce "Food->Fruit"  "type":8
+ae "concept->Ontology" "concept" > "Ontology"
+ce "concept->Ontology"  "type":8
+ae "Fruit->Pumpkin_festivals" "Fruit" > "Pumpkin_festivals"
+ce "Fruit->Pumpkin_festivals"  "type":8
+ae "concept->Class (set theory)" "concept" > "Class (set theory)"
+ce "concept->Class (set theory)"  "type":8
+ae "abstraction->Hypostatic abstraction" "abstraction" > "Hypostatic abstraction"
+ce "abstraction->Hypostatic abstraction"  "type":8

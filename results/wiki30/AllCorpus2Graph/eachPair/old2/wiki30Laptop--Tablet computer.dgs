@@ -1,0 +1,295 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Laptop"
+cn "Laptop"  "ui.label":"Laptop"
+cn "Laptop"  "ui.style":"size-mode:fit;"
+an "portable computer"
+cn "portable computer"  "ui.label":"portable computer"
+cn "portable computer"  "ui.style":"size:6px; fill-color:white; "
+an "personal computer"
+cn "personal computer"  "ui.label":"personal computer"
+cn "personal computer"  "ui.style":"size:6px; fill-color:white; "
+an "digital computer"
+cn "digital computer"  "ui.label":"digital computer"
+cn "digital computer"  "ui.style":"size:6px; fill-color:white; "
+an "computer"
+cn "computer"  "ui.label":"computer"
+cn "computer"  "ui.style":"size:6px; fill-color:white; "
+an "machine"
+cn "machine"  "ui.label":"machine"
+cn "machine"  "ui.style":"size:6px; fill-color:white; "
+an "device"
+cn "device"  "ui.label":"device"
+cn "device"  "ui.style":"size:6px; fill-color:white; "
+an "instrumentality"
+cn "instrumentality"  "ui.label":"instrumentality"
+cn "instrumentality"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "definite quantity"
+cn "definite quantity"  "ui.label":"definite quantity"
+cn "definite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Tablet computer"
+cn "Tablet computer"  "ui.label":"Tablet computer"
+cn "Tablet computer"  "ui.style":"size-mode:fit;"
+an "IPad"
+cn "IPad"  "ui.label":"IPad"
+cn "IPad"  "ui.style":"size:6px; fill-color:white; "
+an "IPad Pro"
+cn "IPad Pro"  "ui.label":"IPad Pro"
+cn "IPad Pro"  "ui.style":"size:6px; fill-color:white; "
+an "Apple Inc."
+cn "Apple Inc."  "ui.label":"Apple Inc."
+cn "Apple Inc."  "ui.style":"size:6px; fill-color:white; "
+an "Apple Park"
+cn "Apple Park"  "ui.label":"Apple Park"
+cn "Apple Park"  "ui.style":"size:6px; fill-color:white; "
+an "Cupertino, California"
+cn "Cupertino, California"  "ui.label":"Cupertino, California"
+cn "Cupertino, California"  "ui.style":"size:6px; fill-color:white; "
+an "List of cities and towns in California"
+cn "List of cities and towns in California"  "ui.label":"List of cities and towns in California"
+cn "List of cities and towns in California"  "ui.style":"size:6px; fill-color:white; "
+an "San Diego"
+cn "San Diego"  "ui.label":"San Diego"
+cn "San Diego"  "ui.style":"size:6px; fill-color:white; "
+an "California"
+cn "California"  "ui.label":"California"
+cn "California"  "ui.style":"size:6px; fill-color:white; "
+an "United States"
+cn "United States"  "ui.label":"United States"
+cn "United States"  "ui.style":"size:6px; fill-color:white; "
+an "federal government"
+cn "federal government"  "ui.label":"federal government"
+cn "federal government"  "ui.style":"size:6px; fill-color:white; "
+an "government"
+cn "government"  "ui.label":"government"
+cn "government"  "ui.style":"size:6px; fill-color:white; "
+an "polity"
+cn "polity"  "ui.label":"polity"
+cn "polity"  "ui.style":"size:6px; fill-color:white; "
+an "order"
+cn "order"  "ui.label":"order"
+cn "order"  "ui.style":"size:6px; fill-color:white; "
+an "command"
+cn "command"  "ui.label":"command"
+cn "command"  "ui.style":"size:6px; fill-color:white; "
+an "speech act"
+cn "speech act"  "ui.label":"speech act"
+cn "speech act"  "ui.style":"size:6px; fill-color:white; "
+an "congratulation"
+cn "congratulation"  "ui.label":"congratulation"
+cn "congratulation"  "ui.style":"size:6px; fill-color:white; "
+an "expression"
+cn "expression"  "ui.label":"expression"
+cn "expression"  "ui.style":"size:6px; fill-color:white; "
+an "countenance"
+cn "countenance"  "ui.label":"countenance"
+cn "countenance"  "ui.style":"size:6px; fill-color:white; "
+an "appearance"
+cn "appearance"  "ui.label":"appearance"
+cn "appearance"  "ui.style":"size:6px; fill-color:white; "
+an "quality"
+cn "quality"  "ui.label":"quality"
+cn "quality"  "ui.style":"size:6px; fill-color:white; "
+an "attribute"
+cn "attribute"  "ui.label":"attribute"
+cn "attribute"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+ae "Laptop->portable computer" "Laptop"  "portable computer"
+ce "Laptop->portable computer"  "type":0
+ae "portable computer->personal computer" "portable computer"  "personal computer"
+ce "portable computer->personal computer"  "type":0
+ae "personal computer->digital computer" "personal computer"  "digital computer"
+ce "personal computer->digital computer"  "type":0
+ae "digital computer->computer" "digital computer"  "computer"
+ce "digital computer->computer"  "type":0
+ae "computer->machine" "computer"  "machine"
+ce "computer->machine"  "type":0
+ae "machine->device" "machine"  "device"
+ce "machine->device"  "type":0
+ae "device->instrumentality" "device"  "instrumentality"
+ce "device->instrumentality"  "type":0
+ae "instrumentality->unit" "instrumentality"  "unit"
+ce "instrumentality->unit"  "type":0
+ae "unit->definite quantity" "unit"  "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity"  "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "activity->state" "activity"  "state"
+ce "activity->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "Tablet computer->IPad" "Tablet computer"  "IPad"
+ce "Tablet computer->IPad"  "type":8
+ae "IPad->IPad Pro" "IPad"  "IPad Pro"
+ce "IPad->IPad Pro"  "type":8
+ae "IPad Pro->Apple Inc." "IPad Pro"  "Apple Inc."
+ce "IPad Pro->Apple Inc."  "type":8
+ae "Apple Inc.->Apple Park" "Apple Inc."  "Apple Park"
+ce "Apple Inc.->Apple Park"  "type":8
+ae "Apple Park->Cupertino, California" "Apple Park"  "Cupertino, California"
+ce "Apple Park->Cupertino, California"  "type":8
+ae "Cupertino, California->List of cities and towns in California" "Cupertino, California"  "List of cities and towns in California"
+ce "Cupertino, California->List of cities and towns in California"  "type":8
+ae "List of cities and towns in California->San Diego" "List of cities and towns in California"  "San Diego"
+ce "List of cities and towns in California->San Diego"  "type":8
+ae "San Diego->California" "San Diego"  "California"
+ce "San Diego->California"  "type":6
+ae "California->United States" "California"  "United States"
+ce "California->United States"  "type":6
+ae "United States->federal government" "United States"  "federal government"
+ce "United States->federal government"  "type":0
+ae "federal government->government" "federal government"  "government"
+ce "federal government->government"  "type":0
+ae "government->polity" "government"  "polity"
+ce "government->polity"  "type":0
+ae "polity->order" "polity"  "order"
+ce "polity->order"  "type":0
+ae "order->command" "order"  "command"
+ce "order->command"  "type":0
+ae "command->speech act" "command"  "speech act"
+ce "command->speech act"  "type":0
+ae "speech act->act" "speech act"  "act"
+ce "speech act->act"  "type":0
+ae "speech act->congratulation" "speech act"  "congratulation"
+ce "speech act->congratulation"  "type":1
+ae "congratulation->expression" "congratulation"  "expression"
+ce "congratulation->expression"  "type":0
+ae "expression->countenance" "expression"  "countenance"
+ce "expression->countenance"  "type":0
+ae "countenance->appearance" "countenance"  "appearance"
+ce "countenance->appearance"  "type":0
+ae "appearance->quality" "appearance"  "quality"
+ce "appearance->quality"  "type":0
+ae "quality->attribute" "quality"  "attribute"
+ce "quality->attribute"  "type":0
+ae "attribute->concept" "attribute"  "concept"
+ce "attribute->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0

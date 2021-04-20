@@ -1,0 +1,348 @@
+DGS004
+null 0 0
+an "Transport"
+cn "Transport"  "ui.label":"Transport"
+cn "Transport"  "ui.style":"size-mode:fit;"
+an "instrumentality"
+cn "instrumentality"  "ui.label":"instrumentality"
+cn "instrumentality"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "definite quantity"
+cn "definite quantity"  "ui.label":"definite quantity"
+cn "definite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "Car"
+cn "Car"  "ui.label":"Car"
+cn "Car"  "ui.style":"size-mode:fit;"
+an "motor vehicle"
+cn "motor vehicle"  "ui.label":"motor vehicle"
+cn "motor vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "self-propelled vehicle"
+cn "self-propelled vehicle"  "ui.label":"self-propelled vehicle"
+cn "self-propelled vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "wheeled vehicle"
+cn "wheeled vehicle"  "ui.label":"wheeled vehicle"
+cn "wheeled vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "vehicle"
+cn "vehicle"  "ui.label":"vehicle"
+cn "vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "conveyance"
+cn "conveyance"  "ui.label":"conveyance"
+cn "conveyance"  "ui.style":"size:6px; fill-color:white; "
+an "Transportation_in_Carbon_County,_Wyoming"
+cn "Transportation_in_Carbon_County,_Wyoming"  "ui.label":"Transportation_in_Carbon_County,_Wyoming"
+cn "Transportation_in_Carbon_County,_Wyoming"  "ui.style":"size:6px; fill-color:white; "
+an "Transport_in_the_Caribbean-related_lists"
+cn "Transport_in_the_Caribbean-related_lists"  "ui.label":"Transport_in_the_Caribbean-related_lists"
+cn "Transport_in_the_Caribbean-related_lists"  "ui.style":"size:6px; fill-color:white; "
+an "Transportation_in_Carson_County,_Texas"
+cn "Transportation_in_Carson_County,_Texas"  "ui.label":"Transportation_in_Carson_County,_Texas"
+cn "Transportation_in_Carson_County,_Texas"  "ui.style":"size:6px; fill-color:white; "
+an "container"
+cn "container"  "ui.label":"container"
+cn "container"  "ui.style":"size:6px; fill-color:white; "
+an "Cargo_airlines_of_Italy"
+cn "Cargo_airlines_of_Italy"  "ui.label":"Cargo_airlines_of_Italy"
+cn "Cargo_airlines_of_Italy"  "ui.style":"size:6px; fill-color:white; "
+an "connection"
+cn "connection"  "ui.label":"connection"
+cn "connection"  "ui.style":"size:6px; fill-color:white; "
+an "Cargo_airlines_of_Japan"
+cn "Cargo_airlines_of_Japan"  "ui.label":"Cargo_airlines_of_Japan"
+cn "Cargo_airlines_of_Japan"  "ui.style":"size:6px; fill-color:white; "
+an "trailer"
+cn "trailer"  "ui.label":"trailer"
+cn "trailer"  "ui.style":"size:6px; fill-color:white; "
+an "Cargo"
+cn "Cargo"  "ui.label":"Cargo"
+cn "Cargo"  "ui.style":"size:6px; fill-color:white; "
+an "play"
+cn "play"  "ui.label":"play"
+cn "play"  "ui.style":"size:6px; fill-color:white; "
+an "Carriage_museums_in_the_United_Kingdom"
+cn "Carriage_museums_in_the_United_Kingdom"  "ui.label":"Carriage_museums_in_the_United_Kingdom"
+cn "Carriage_museums_in_the_United_Kingdom"  "ui.style":"size:6px; fill-color:white; "
+an "Transportation_in_Carter_County,_Missouri"
+cn "Transportation_in_Carter_County,_Missouri"  "ui.label":"Transportation_in_Carter_County,_Missouri"
+cn "Transportation_in_Carter_County,_Missouri"  "ui.style":"size:6px; fill-color:white; "
+an "Gasoline"
+cn "Gasoline"  "ui.label":"Gasoline"
+cn "Gasoline"  "ui.style":"size:6px; fill-color:white; "
+an "Natural gas"
+cn "Natural gas"  "ui.label":"Natural gas"
+cn "Natural gas"  "ui.style":"size:6px; fill-color:white; "
+an "sink"
+cn "sink"  "ui.label":"sink"
+cn "sink"  "ui.style":"size:6px; fill-color:white; "
+an "List of countries by motor vehicle production"
+cn "List of countries by motor vehicle production"  "ui.label":"List of countries by motor vehicle production"
+cn "List of countries by motor vehicle production"  "ui.style":"size:6px; fill-color:white; "
+an "hardening"
+cn "hardening"  "ui.label":"hardening"
+cn "hardening"  "ui.style":"size:6px; fill-color:white; "
+an "Transportation_in_Carter_County,_Tennessee"
+cn "Transportation_in_Carter_County,_Tennessee"  "ui.label":"Transportation_in_Carter_County,_Tennessee"
+cn "Transportation_in_Carter_County,_Tennessee"  "ui.style":"size:6px; fill-color:white; "
+an "busyness"
+cn "busyness"  "ui.label":"busyness"
+cn "busyness"  "ui.style":"size:6px; fill-color:white; "
+an "Flexible-fuel vehicle"
+cn "Flexible-fuel vehicle"  "ui.label":"Flexible-fuel vehicle"
+cn "Flexible-fuel vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "behavior"
+cn "behavior"  "ui.label":"behavior"
+cn "behavior"  "ui.style":"size:6px; fill-color:white; "
+an "Transport_in_Carmarthenshire"
+cn "Transport_in_Carmarthenshire"  "ui.label":"Transport_in_Carmarthenshire"
+cn "Transport_in_Carmarthenshire"  "ui.style":"size:6px; fill-color:white; "
+an "antiredeposition"
+cn "antiredeposition"  "ui.label":"antiredeposition"
+cn "antiredeposition"  "ui.style":"size:6px; fill-color:white; "
+an "Motor vehicle"
+cn "Motor vehicle"  "ui.label":"Motor vehicle"
+cn "Motor vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "Author"
+cn "Author"  "ui.label":"Author"
+cn "Author"  "ui.style":"size:6px; fill-color:white; "
+an "magnetization"
+cn "magnetization"  "ui.label":"magnetization"
+cn "magnetization"  "ui.style":"size:6px; fill-color:white; "
+an "Bus"
+cn "Bus"  "ui.label":"Bus"
+cn "Bus"  "ui.style":"size:6px; fill-color:white; "
+an "Electric car"
+cn "Electric car"  "ui.label":"Electric car"
+cn "Electric car"  "ui.style":"size:6px; fill-color:white; "
+an "Wheel"
+cn "Wheel"  "ui.label":"Wheel"
+cn "Wheel"  "ui.style":"size:6px; fill-color:white; "
+an "Automobile_associations"
+cn "Automobile_associations"  "ui.label":"Automobile_associations"
+cn "Automobile_associations"  "ui.style":"size:6px; fill-color:white; "
+an "Internal combustion engine"
+cn "Internal combustion engine"  "ui.label":"Internal combustion engine"
+cn "Internal combustion engine"  "ui.style":"size:6px; fill-color:white; "
+an "Car_and_truck_bombings_in_the_Israeli���Palestinian_conflict"
+cn "Car_and_truck_bombings_in_the_Israeli���Palestinian_conflict"  "ui.label":"Car_and_truck_bombings_in_the_Israeli���Palestinian_conflict"
+cn "Car_and_truck_bombings_in_the_Israeli���Palestinian_conflict"  "ui.style":"size:6px; fill-color:white; "
+ae "Transport->instrumentality" "Transport"  "instrumentality"
+ce "Transport->instrumentality"  "type":0
+ae "instrumentality->unit" "instrumentality"  "unit"
+ce "instrumentality->unit"  "type":0
+ae "unit->definite quantity" "unit"  "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity"  "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "Car->motor vehicle" "Car"  "motor vehicle"
+ce "Car->motor vehicle"  "type":0
+ae "motor vehicle->self-propelled vehicle" "motor vehicle"  "self-propelled vehicle"
+ce "motor vehicle->self-propelled vehicle"  "type":0
+ae "self-propelled vehicle->wheeled vehicle" "self-propelled vehicle"  "wheeled vehicle"
+ce "self-propelled vehicle->wheeled vehicle"  "type":0
+ae "wheeled vehicle->vehicle" "wheeled vehicle"  "vehicle"
+ce "wheeled vehicle->vehicle"  "type":0
+ae "vehicle->conveyance" "vehicle"  "conveyance"
+ce "vehicle->conveyance"  "type":0
+ae "conveyance->legal document" "conveyance"  "legal document"
+ce "conveyance->legal document"  "type":0
+ae "Car->Gasoline" "Car" > "Gasoline"
+ce "Car->Gasoline"  "type":8
+ae "Car->Carriage_museums_in_the_United_Kingdom" "Car" > "Carriage_museums_in_the_United_Kingdom"
+ce "Car->Carriage_museums_in_the_United_Kingdom"  "type":8
+ae "conveyance->connection" "conveyance" > "connection"
+ce "conveyance->connection"  "type":1
+ae "motor vehicle->Gasoline" "motor vehicle" > "Gasoline"
+ce "motor vehicle->Gasoline"  "type":8
+ae "conveyance->trailer" "conveyance" > "trailer"
+ce "conveyance->trailer"  "type":1
+ae "document->Author" "document" > "Author"
+ce "document->Author"  "type":8
+ae "Car->List of countries by motor vehicle production" "Car" > "List of countries by motor vehicle production"
+ce "Car->List of countries by motor vehicle production"  "type":8
+ae "activity->antiredeposition" "activity" > "antiredeposition"
+ce "activity->antiredeposition"  "type":1
+ae "Transport->Cargo" "Transport" > "Cargo"
+ce "Transport->Cargo"  "type":8
+ae "Car->Transport_in_the_Caribbean-related_lists" "Car" > "Transport_in_the_Caribbean-related_lists"
+ce "Car->Transport_in_the_Caribbean-related_lists"  "type":8
+ae "conveyance->instrumentality" "conveyance" > "instrumentality"
+ce "conveyance->instrumentality"  "type":0
+ae "vehicle->Wheel" "vehicle" > "Wheel"
+ce "vehicle->Wheel"  "type":8
+ae "Transport->Cargo_airlines_of_Italy" "Transport" > "Cargo_airlines_of_Italy"
+ce "Transport->Cargo_airlines_of_Italy"  "type":8
+ae "measure->container" "measure" > "container"
+ce "measure->container"  "type":0
+ae "motor vehicle->Electric car" "motor vehicle" > "Electric car"
+ce "motor vehicle->Electric car"  "type":8
+ae "Transport->Cargo_airlines_of_Japan" "Transport" > "Cargo_airlines_of_Japan"
+ce "Transport->Cargo_airlines_of_Japan"  "type":8
+ae "Transport->Transportation_in_Carter_County,_Missouri" "Transport" > "Transportation_in_Carter_County,_Missouri"
+ce "Transport->Transportation_in_Carter_County,_Missouri"  "type":8
+ae "vehicle->Bus" "vehicle" > "Bus"
+ce "vehicle->Bus"  "type":8
+ae "Transport->Car" "Transport" > "Car"
+ce "Transport->Car"  "type":8
+ae "activity->hardening" "activity" > "hardening"
+ce "activity->hardening"  "type":1
+ae "Transport->Car_and_truck_bombings_in_the_Israeli���Palestinian_conflict" "Transport" > "Car_and_truck_bombings_in_the_Israeli���Palestinian_conflict"
+ce "Transport->Car_and_truck_bombings_in_the_Israeli���Palestinian_conflict"  "type":8
+ae "activity->magnetization" "activity" > "magnetization"
+ce "activity->magnetization"  "type":1
+ae "Car->Transportation_in_Carter_County,_Tennessee" "Car" > "Transportation_in_Carter_County,_Tennessee"
+ce "Car->Transportation_in_Carter_County,_Tennessee"  "type":8
+ae "motor vehicle->Flexible-fuel vehicle" "motor vehicle" > "Flexible-fuel vehicle"
+ce "motor vehicle->Flexible-fuel vehicle"  "type":8
+ae "action->magnetization" "action" > "magnetization"
+ce "action->magnetization"  "type":1
+ae "action->hardening" "action" > "hardening"
+ce "action->hardening"  "type":1
+ae "measure->activity" "measure" > "activity"
+ce "measure->activity"  "type":0
+ae "Car->Automobile_associations" "Car" > "Automobile_associations"
+ce "Car->Automobile_associations"  "type":8
+ae "Transport->Transportation_in_Carter_County,_Tennessee" "Transport" > "Transportation_in_Carter_County,_Tennessee"
+ce "Transport->Transportation_in_Carter_County,_Tennessee"  "type":8
+ae "Car->Transportation_in_Carson_County,_Texas" "Car" > "Transportation_in_Carson_County,_Texas"
+ce "Car->Transportation_in_Carson_County,_Texas"  "type":8
+ae "Transport->Automobile_associations" "Transport" > "Automobile_associations"
+ce "Transport->Automobile_associations"  "type":8
+ae "Transport->Internal combustion engine" "Transport" > "Internal combustion engine"
+ce "Transport->Internal combustion engine"  "type":8
+ae "Car->Transportation_in_Carbon_County,_Wyoming" "Car" > "Transportation_in_Carbon_County,_Wyoming"
+ce "Car->Transportation_in_Carbon_County,_Wyoming"  "type":8
+ae "activity->operation" "activity" > "operation"
+ce "activity->operation"  "type":1
+ae "motor vehicle->Wheel" "motor vehicle" > "Wheel"
+ce "motor vehicle->Wheel"  "type":8
+ae "motor vehicle->Cargo" "motor vehicle" > "Cargo"
+ce "motor vehicle->Cargo"  "type":8
+ae "vehicle->Motor vehicle" "vehicle" > "Motor vehicle"
+ce "vehicle->Motor vehicle"  "type":8
+ae "motor vehicle->Bus" "motor vehicle" > "Bus"
+ce "motor vehicle->Bus"  "type":8
+ae "activity->sink" "activity" > "sink"
+ce "activity->sink"  "type":1
+ae "action->antiredeposition" "action" > "antiredeposition"
+ce "action->antiredeposition"  "type":1
+ae "operation->activity" "operation" > "activity"
+ce "operation->activity"  "type":0
+ae "Transport->Transportation_in_Carbon_County,_Wyoming" "Transport" > "Transportation_in_Carbon_County,_Wyoming"
+ce "Transport->Transportation_in_Carbon_County,_Wyoming"  "type":8
+ae "Car->Natural gas" "Car" > "Natural gas"
+ce "Car->Natural gas"  "type":8
+ae "Car->Electric car" "Car" > "Electric car"
+ce "Car->Electric car"  "type":8
+ae "Transport->Transportation_in_Carson_County,_Texas" "Transport" > "Transportation_in_Carson_County,_Texas"
+ce "Transport->Transportation_in_Carson_County,_Texas"  "type":8
+ae "Car->Motor vehicle" "Car" > "Motor vehicle"
+ce "Car->Motor vehicle"  "type":8
+ae "activity->play" "activity" > "play"
+ce "activity->play"  "type":1
+ae "motor vehicle->List of countries by motor vehicle production" "motor vehicle" > "List of countries by motor vehicle production"
+ce "motor vehicle->List of countries by motor vehicle production"  "type":8
+ae "activity->busyness" "activity" > "busyness"
+ce "activity->busyness"  "type":1
+ae "activity->behavior" "activity" > "behavior"
+ce "activity->behavior"  "type":1
+ae "writing->Author" "writing" > "Author"
+ce "writing->Author"  "type":8
+ae "Car->Transportation_in_Carter_County,_Missouri" "Car" > "Transportation_in_Carter_County,_Missouri"
+ce "Car->Transportation_in_Carter_County,_Missouri"  "type":8
+ae "Transport->Carriage_museums_in_the_United_Kingdom" "Transport" > "Carriage_museums_in_the_United_Kingdom"
+ce "Transport->Carriage_museums_in_the_United_Kingdom"  "type":8
+ae "Car->Flexible-fuel vehicle" "Car" > "Flexible-fuel vehicle"
+ce "Car->Flexible-fuel vehicle"  "type":8
+ae "action->play" "action" > "play"
+ce "action->play"  "type":1
+ae "action->behavior" "action" > "behavior"
+ce "action->behavior"  "type":1
+ae "action->busyness" "action" > "busyness"
+ce "action->busyness"  "type":1
+ae "Car->Transport_in_Carmarthenshire" "Car" > "Transport_in_Carmarthenshire"
+ce "Car->Transport_in_Carmarthenshire"  "type":8
+ae "wheeled vehicle->trailer" "wheeled vehicle" > "trailer"
+ce "wheeled vehicle->trailer"  "type":1
+ae "Transport->Transport_in_the_Caribbean-related_lists" "Transport" > "Transport_in_the_Caribbean-related_lists"
+ce "Transport->Transport_in_the_Caribbean-related_lists"  "type":8
+ae "vehicle->Internal combustion engine" "vehicle" > "Internal combustion engine"
+ce "vehicle->Internal combustion engine"  "type":8
+ae "instrumentality->container" "instrumentality" > "container"
+ce "instrumentality->container"  "type":1
+ae "Car->Cargo_airlines_of_Japan" "Car" > "Cargo_airlines_of_Japan"
+ce "Car->Cargo_airlines_of_Japan"  "type":8
+ae "Car->Cargo_airlines_of_Italy" "Car" > "Cargo_airlines_of_Italy"
+ce "Car->Cargo_airlines_of_Italy"  "type":8
+ae "instrumentality->connection" "instrumentality" > "connection"
+ce "instrumentality->connection"  "type":1
+ae "Car->Car_and_truck_bombings_in_the_Israeli���Palestinian_conflict" "Car" > "Car_and_truck_bombings_in_the_Israeli���Palestinian_conflict"
+ce "Car->Car_and_truck_bombings_in_the_Israeli���Palestinian_conflict"  "type":8
+ae "vehicle->Car" "vehicle" > "Car"
+ce "vehicle->Car"  "type":8
+ae "Transport->Transport_in_Carmarthenshire" "Transport" > "Transport_in_Carmarthenshire"
+ce "Transport->Transport_in_Carmarthenshire"  "type":8
+ae "Transport->Natural gas" "Transport" > "Natural gas"
+ce "Transport->Natural gas"  "type":8
+ae "action->sink" "action" > "sink"
+ce "action->sink"  "type":1

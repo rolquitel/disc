@@ -1,0 +1,245 @@
+DGS004
+null 0 0
+an "Scholar"
+cn "Scholar"  "ui.label":"Scholar"
+cn "Scholar"  "ui.style":"size-mode:fit;"
+an "intellectual"
+cn "intellectual"  "ui.label":"intellectual"
+cn "intellectual"  "ui.style":"size:6px; fill-color:white; "
+an "person"
+cn "person"  "ui.label":"person"
+cn "person"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "Ethnic group"
+cn "Ethnic group"  "ui.label":"Ethnic group"
+cn "Ethnic group"  "ui.style":"size:6px; fill-color:white; "
+an "Academic"
+cn "Academic"  "ui.label":"Academic"
+cn "Academic"  "ui.style":"size-mode:fit;"
+an "educator"
+cn "educator"  "ui.label":"educator"
+cn "educator"  "ui.style":"size:6px; fill-color:white; "
+an "professional"
+cn "professional"  "ui.label":"professional"
+cn "professional"  "ui.style":"size:6px; fill-color:white; "
+an "adult"
+cn "adult"  "ui.label":"adult"
+cn "adult"  "ui.style":"size:6px; fill-color:white; "
+an "system"
+cn "system"  "ui.label":"system"
+cn "system"  "ui.style":"size:6px; fill-color:white; "
+an "Humanities"
+cn "Humanities"  "ui.label":"Humanities"
+cn "Humanities"  "ui.style":"size:6px; fill-color:white; "
+an "Category:Concepts"
+cn "Category:Concepts"  "ui.label":"Category:Concepts"
+cn "Category:Concepts"  "ui.style":"size:6px; fill-color:white; "
+an "Ancient Greek"
+cn "Ancient Greek"  "ui.label":"Ancient Greek"
+cn "Ancient Greek"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "Biology"
+cn "Biology"  "ui.label":"Biology"
+cn "Biology"  "ui.style":"size:6px; fill-color:white; "
+an "Animal"
+cn "Animal"  "ui.label":"Animal"
+cn "Animal"  "ui.style":"size:6px; fill-color:white; "
+an "Immanuel Kant"
+cn "Immanuel Kant"  "ui.label":"Immanuel Kant"
+cn "Immanuel Kant"  "ui.style":"size:6px; fill-color:white; "
+an "part"
+cn "part"  "ui.label":"part"
+cn "part"  "ui.style":"size:6px; fill-color:white; "
+an "man"
+cn "man"  "ui.label":"man"
+cn "man"  "ui.style":"size:6px; fill-color:white; "
+an "Platonism"
+cn "Platonism"  "ui.label":"Platonism"
+cn "Platonism"  "ui.style":"size:6px; fill-color:white; "
+an "Profession"
+cn "Profession"  "ui.label":"Profession"
+cn "Profession"  "ui.style":"size:6px; fill-color:white; "
+an "Gottlob Frege"
+cn "Gottlob Frege"  "ui.label":"Gottlob Frege"
+cn "Gottlob Frege"  "ui.style":"size:6px; fill-color:white; "
+an "Human"
+cn "Human"  "ui.label":"Human"
+cn "Human"  "ui.style":"size:6px; fill-color:white; "
+an "notion"
+cn "notion"  "ui.label":"notion"
+cn "notion"  "ui.style":"size:6px; fill-color:white; "
+an "Swedish_scholars_and_academics"
+cn "Swedish_scholars_and_academics"  "ui.label":"Swedish_scholars_and_academics"
+cn "Swedish_scholars_and_academics"  "ui.style":"size:6px; fill-color:white; "
+an "Irish_scholars_and_academics"
+cn "Irish_scholars_and_academics"  "ui.label":"Irish_scholars_and_academics"
+cn "Irish_scholars_and_academics"  "ui.style":"size:6px; fill-color:white; "
+an "Gene"
+cn "Gene"  "ui.label":"Gene"
+cn "Gene"  "ui.style":"size:6px; fill-color:white; "
+an "preoccupation"
+cn "preoccupation"  "ui.label":"preoccupation"
+cn "preoccupation"  "ui.style":"size:6px; fill-color:white; "
+an "Academic_literature"
+cn "Academic_literature"  "ui.label":"Academic_literature"
+cn "Academic_literature"  "ui.style":"size:6px; fill-color:white; "
+an "Property"
+cn "Property"  "ui.label":"Property"
+cn "Property"  "ui.style":"size:6px; fill-color:white; "
+an "Confucianism"
+cn "Confucianism"  "ui.label":"Confucianism"
+cn "Confucianism"  "ui.style":"size:6px; fill-color:white; "
+ae "Scholar->intellectual" "Scholar"  "intellectual"
+ce "Scholar->intellectual"  "type":0
+ae "intellectual->person" "intellectual"  "person"
+ce "intellectual->person"  "type":0
+ae "person->organism" "person"  "organism"
+ce "person->organism"  "type":0
+ae "organism->living thing" "organism"  "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing"  "whole"
+ce "living thing->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "Academic->Academic_literature" "Academic" > "Academic_literature"
+ce "Academic->Academic_literature"  "type":8
+ae "Academic->educator" "Academic"  "educator"
+ce "Academic->educator"  "type":0
+ae "educator->professional" "educator"  "professional"
+ce "educator->professional"  "type":0
+ae "professional->adult" "professional"  "adult"
+ce "professional->adult"  "type":0
+ae "adult->person" "adult"  "person"
+ce "adult->person"  "type":0
+ae "whole->part" "whole" > "part"
+ce "whole->part"  "type":7
+ae "intellectual->Platonism" "intellectual" > "Platonism"
+ce "intellectual->Platonism"  "type":8
+ae "person->Ethnic group" "person" > "Ethnic group"
+ce "person->Ethnic group"  "type":8
+ae "idea->Ancient Greek" "idea" > "Ancient Greek"
+ce "idea->Ancient Greek"  "type":8
+ae "idea->preoccupation" "idea" > "preoccupation"
+ce "idea->preoccupation"  "type":1
+ae "group->Ethnic group" "group" > "Ethnic group"
+ce "group->Ethnic group"  "type":8
+ae "concept->notion" "concept" > "notion"
+ce "concept->notion"  "type":1
+ae "intellectual->Profession" "intellectual" > "Profession"
+ce "intellectual->Profession"  "type":8
+ae "idea->notion" "idea" > "notion"
+ce "idea->notion"  "type":1
+ae "organism->Gene" "organism" > "Gene"
+ce "organism->Gene"  "type":8
+ae "abstraction->Gottlob Frege" "abstraction" > "Gottlob Frege"
+ce "abstraction->Gottlob Frege"  "type":8
+ae "Scholar->Swedish_scholars_and_academics" "Scholar" > "Swedish_scholars_and_academics"
+ce "Scholar->Swedish_scholars_and_academics"  "type":8
+ae "intellectual->Confucianism" "intellectual" > "Confucianism"
+ce "intellectual->Confucianism"  "type":8
+ae "whole->object" "whole" > "object"
+ce "whole->object"  "type":0
+ae "person->man" "person" > "man"
+ce "person->man"  "type":1
+ae "idea->Category:Concepts" "idea" > "Category:Concepts"
+ce "idea->Category:Concepts"  "type":8
+ae "person->Property" "person" > "Property"
+ce "person->Property"  "type":8
+ae "abstraction->preoccupation" "abstraction" > "preoccupation"
+ce "abstraction->preoccupation"  "type":0
+ae "Academic->Swedish_scholars_and_academics" "Academic" > "Swedish_scholars_and_academics"
+ce "Academic->Swedish_scholars_and_academics"  "type":8
+ae "group->system" "group" > "system"
+ce "group->system"  "type":1
+ae "concept->part" "concept" > "part"
+ce "concept->part"  "type":1
+ae "Scholar->Confucianism" "Scholar" > "Confucianism"
+ce "Scholar->Confucianism"  "type":8
+ae "content->object" "content" > "object"
+ce "content->object"  "type":1
+ae "organism->Biology" "organism" > "Biology"
+ce "organism->Biology"  "type":8
+ae "organism->Ancient Greek" "organism" > "Ancient Greek"
+ce "organism->Ancient Greek"  "type":8
+ae "concept->Gottlob Frege" "concept" > "Gottlob Frege"
+ce "concept->Gottlob Frege"  "type":8
+ae "idea->Human" "idea" > "Human"
+ce "idea->Human"  "type":8
+ae "idea->Property" "idea" > "Property"
+ce "idea->Property"  "type":8
+ae "Scholar->Academic_literature" "Scholar" > "Academic_literature"
+ce "Scholar->Academic_literature"  "type":8
+ae "organism->Animal" "organism" > "Animal"
+ce "organism->Animal"  "type":8
+ae "idea->Gene" "idea" > "Gene"
+ce "idea->Gene"  "type":8
+ae "concept->Category:Concepts" "concept" > "Category:Concepts"
+ce "concept->Category:Concepts"  "type":8
+ae "professional->Profession" "professional" > "Profession"
+ce "professional->Profession"  "type":8
+ae "organism->system" "organism" > "system"
+ce "organism->system"  "type":0
+ae "adult->Human" "adult" > "Human"
+ce "adult->Human"  "type":8
+ae "adult->Biology" "adult" > "Biology"
+ce "adult->Biology"  "type":8
+ae "concept->Platonism" "concept" > "Platonism"
+ce "concept->Platonism"  "type":8
+ae "Academic->Irish_scholars_and_academics" "Academic" > "Irish_scholars_and_academics"
+ce "Academic->Irish_scholars_and_academics"  "type":8
+ae "concept->Immanuel Kant" "concept" > "Immanuel Kant"
+ce "concept->Immanuel Kant"  "type":8
+ae "person->Human" "person" > "Human"
+ce "person->Human"  "type":8
+ae "person->Animal" "person" > "Animal"
+ce "person->Animal"  "type":8
+ae "organism->Human" "organism" > "Human"
+ce "organism->Human"  "type":8
+ae "adult->man" "adult" > "man"
+ce "adult->man"  "type":1
+ae "intellectual->Humanities" "intellectual" > "Humanities"
+ce "intellectual->Humanities"  "type":8
+ae "person->Immanuel Kant" "person" > "Immanuel Kant"
+ce "person->Immanuel Kant"  "type":8
+ae "Academic->Humanities" "Academic" > "Humanities"
+ce "Academic->Humanities"  "type":8
+ae "Scholar->Irish_scholars_and_academics" "Scholar" > "Irish_scholars_and_academics"
+ce "Scholar->Irish_scholars_and_academics"  "type":8

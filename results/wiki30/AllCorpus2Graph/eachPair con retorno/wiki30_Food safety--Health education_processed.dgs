@@ -1,0 +1,395 @@
+DGS004
+null 0 0
+an "Food safety"
+cn "Food safety"  "ui.label":"Food safety"
+cn "Food safety"  "ui.style":"size-mode:fit;"
+an "Food processing"
+cn "Food processing"  "ui.label":"Food processing"
+cn "Food processing"  "ui.style":"size:6px; fill-color:white; "
+an "Food"
+cn "Food"  "ui.label":"Food"
+cn "Food"  "ui.style":"size:6px; fill-color:white; "
+an "substance"
+cn "substance"  "ui.label":"substance"
+cn "substance"  "ui.style":"size:6px; fill-color:white; "
+an "matter"
+cn "matter"  "ui.label":"matter"
+cn "matter"  "ui.style":"size:6px; fill-color:white; "
+an "concern"
+cn "concern"  "ui.label":"concern"
+cn "concern"  "ui.style":"size:6px; fill-color:white; "
+an "interest"
+cn "interest"  "ui.label":"interest"
+cn "interest"  "ui.style":"size:6px; fill-color:white; "
+an "curiosity"
+cn "curiosity"  "ui.label":"curiosity"
+cn "curiosity"  "ui.style":"size:6px; fill-color:white; "
+an "cognitive state"
+cn "cognitive state"  "ui.label":"cognitive state"
+cn "cognitive state"  "ui.style":"size:6px; fill-color:white; "
+an "psychological state"
+cn "psychological state"  "ui.label":"psychological state"
+cn "psychological state"  "ui.style":"size:6px; fill-color:white; "
+an "condition"
+cn "condition"  "ui.label":"condition"
+cn "condition"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Health education"
+cn "Health education"  "ui.label":"Health education"
+cn "Health education"  "ui.style":"size-mode:fit;"
+an "Reproductive health"
+cn "Reproductive health"  "ui.label":"Reproductive health"
+cn "Reproductive health"  "ui.style":"size:6px; fill-color:white; "
+an "HIV/AIDS"
+cn "HIV/AIDS"  "ui.label":"HIV/AIDS"
+cn "HIV/AIDS"  "ui.style":"size:6px; fill-color:white; "
+an "Solidarity"
+cn "Solidarity"  "ui.label":"Solidarity"
+cn "Solidarity"  "ui.style":"size:6px; fill-color:white; "
+an "commonality"
+cn "commonality"  "ui.label":"commonality"
+cn "commonality"  "ui.style":"size:6px; fill-color:white; "
+an "class"
+cn "class"  "ui.label":"class"
+cn "class"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "Army group"
+cn "Army group"  "ui.label":"Army group"
+cn "Army group"  "ui.style":"size:6px; fill-color:white; "
+an "DNA"
+cn "DNA"  "ui.label":"DNA"
+cn "DNA"  "ui.style":"size:6px; fill-color:white; "
+an "World War II"
+cn "World War II"  "ui.label":"World War II"
+cn "World War II"  "ui.style":"size:6px; fill-color:white; "
+an "Catholic Church"
+cn "Catholic Church"  "ui.label":"Catholic Church"
+cn "Catholic Church"  "ui.style":"size:6px; fill-color:white; "
+an "Thales of Miletus"
+cn "Thales of Miletus"  "ui.label":"Thales of Miletus"
+cn "Thales of Miletus"  "ui.style":"size:6px; fill-color:white; "
+an "World Health Organization"
+cn "World Health Organization"  "ui.label":"World Health Organization"
+cn "World Health Organization"  "ui.style":"size:6px; fill-color:white; "
+an "Category:Virtue"
+cn "Category:Virtue"  "ui.label":"Category:Virtue"
+cn "Category:Virtue"  "ui.style":"size:6px; fill-color:white; "
+an "Salt_industry_in_Pakistan"
+cn "Salt_industry_in_Pakistan"  "ui.label":"Salt_industry_in_Pakistan"
+cn "Salt_industry_in_Pakistan"  "ui.style":"size:6px; fill-color:white; "
+an "Muslim world"
+cn "Muslim world"  "ui.label":"Muslim world"
+cn "Muslim world"  "ui.style":"size:6px; fill-color:white; "
+an "information"
+cn "information"  "ui.label":"information"
+cn "information"  "ui.style":"size:6px; fill-color:white; "
+an "Foodborne_illnesses"
+cn "Foodborne_illnesses"  "ui.label":"Foodborne_illnesses"
+cn "Foodborne_illnesses"  "ui.style":"size:6px; fill-color:white; "
+an "Deaths_from_food_poisoning"
+cn "Deaths_from_food_poisoning"  "ui.label":"Deaths_from_food_poisoning"
+cn "Deaths_from_food_poisoning"  "ui.style":"size:6px; fill-color:white; "
+an "Russia"
+cn "Russia"  "ui.label":"Russia"
+cn "Russia"  "ui.style":"size:6px; fill-color:white; "
+an "Parasitism"
+cn "Parasitism"  "ui.label":"Parasitism"
+cn "Parasitism"  "ui.style":"size:6px; fill-color:white; "
+an "Food_safety_by_country"
+cn "Food_safety_by_country"  "ui.label":"Food_safety_by_country"
+cn "Food_safety_by_country"  "ui.style":"size:6px; fill-color:white; "
+an "Sexually transmitted infection"
+cn "Sexually transmitted infection"  "ui.label":"Sexually transmitted infection"
+cn "Sexually transmitted infection"  "ui.style":"size:6px; fill-color:white; "
+an "Diarrhea"
+cn "Diarrhea"  "ui.label":"Diarrhea"
+cn "Diarrhea"  "ui.style":"size:6px; fill-color:white; "
+an "Food and Bioprocess Technology"
+cn "Food and Bioprocess Technology"  "ui.label":"Food and Bioprocess Technology"
+cn "Food and Bioprocess Technology"  "ui.style":"size:6px; fill-color:white; "
+an "people"
+cn "people"  "ui.label":"people"
+cn "people"  "ui.style":"size:6px; fill-color:white; "
+an "right"
+cn "right"  "ui.label":"right"
+cn "right"  "ui.style":"size:6px; fill-color:white; "
+an "Food_safety_in_the_European_Union"
+cn "Food_safety_in_the_European_Union"  "ui.label":"Food_safety_in_the_European_Union"
+cn "Food_safety_in_the_European_Union"  "ui.style":"size:6px; fill-color:white; "
+an "Apple"
+cn "Apple"  "ui.label":"Apple"
+cn "Apple"  "ui.style":"size:6px; fill-color:white; "
+an "world"
+cn "world"  "ui.label":"world"
+cn "world"  "ui.style":"size:6px; fill-color:white; "
+an "Demography"
+cn "Demography"  "ui.label":"Demography"
+cn "Demography"  "ui.style":"size:6px; fill-color:white; "
+an "Diabetes"
+cn "Diabetes"  "ui.label":"Diabetes"
+cn "Diabetes"  "ui.style":"size:6px; fill-color:white; "
+an "system"
+cn "system"  "ui.label":"system"
+cn "system"  "ui.style":"size:6px; fill-color:white; "
+an "anxiety"
+cn "anxiety"  "ui.label":"anxiety"
+cn "anxiety"  "ui.style":"size:6px; fill-color:white; "
+an "Isaac Newton"
+cn "Isaac Newton"  "ui.label":"Isaac Newton"
+cn "Isaac Newton"  "ui.style":"size:6px; fill-color:white; "
+an "Shelf life"
+cn "Shelf life"  "ui.label":"Shelf life"
+cn "Shelf life"  "ui.style":"size:6px; fill-color:white; "
+an "Bacteria"
+cn "Bacteria"  "ui.label":"Bacteria"
+cn "Bacteria"  "ui.style":"size:6px; fill-color:white; "
+an "atmosphere"
+cn "atmosphere"  "ui.label":"atmosphere"
+cn "atmosphere"  "ui.style":"size:6px; fill-color:white; "
+an "stuff"
+cn "stuff"  "ui.label":"stuff"
+cn "stuff"  "ui.style":"size:6px; fill-color:white; "
+an "Rash"
+cn "Rash"  "ui.label":"Rash"
+cn "Rash"  "ui.style":"size:6px; fill-color:white; "
+an "Habitability"
+cn "Habitability"  "ui.label":"Habitability"
+cn "Habitability"  "ui.style":"size:6px; fill-color:white; "
+an "Milk"
+cn "Milk"  "ui.label":"Milk"
+cn "Milk"  "ui.style":"size:6px; fill-color:white; "
+ae "Food safety->Food processing" "Food safety"  "Food processing"
+ce "Food safety->Food processing"  "type":8
+ae "Food processing->Food" "Food processing"  "Food"
+ce "Food processing->Food"  "type":8
+ae "Food->substance" "Food"  "substance"
+ce "Food->substance"  "type":0
+ae "substance->matter" "substance"  "matter"
+ce "substance->matter"  "type":0
+ae "matter->concern" "matter"  "concern"
+ce "matter->concern"  "type":0
+ae "concern->interest" "concern"  "interest"
+ce "concern->interest"  "type":0
+ae "interest->curiosity" "interest"  "curiosity"
+ce "interest->curiosity"  "type":0
+ae "curiosity->cognitive state" "curiosity"  "cognitive state"
+ce "curiosity->cognitive state"  "type":0
+ae "cognitive state->psychological state" "cognitive state"  "psychological state"
+ce "cognitive state->psychological state"  "type":0
+ae "psychological state->condition" "psychological state"  "condition"
+ce "psychological state->condition"  "type":0
+ae "condition->state" "condition"  "state"
+ce "condition->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "Health education->Reproductive health" "Health education"  "Reproductive health"
+ce "Health education->Reproductive health"  "type":8
+ae "Reproductive health->HIV/AIDS" "Reproductive health"  "HIV/AIDS"
+ce "Reproductive health->HIV/AIDS"  "type":8
+ae "HIV/AIDS->Solidarity" "HIV/AIDS"  "Solidarity"
+ce "HIV/AIDS->Solidarity"  "type":8
+ae "Solidarity->commonality" "Solidarity"  "commonality"
+ce "Solidarity->commonality"  "type":0
+ae "commonality->class" "commonality"  "class"
+ce "commonality->class"  "type":0
+ae "class->collection" "class"  "collection"
+ce "class->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Food->Bacteria" "Food" > "Bacteria"
+ce "Food->Bacteria"  "type":8
+ae "interest->Catholic Church" "interest" > "Catholic Church"
+ce "interest->Catholic Church"  "type":8
+ae "psychological state->anxiety" "psychological state" > "anxiety"
+ce "psychological state->anxiety"  "type":1
+ae "HIV/AIDS->DNA" "HIV/AIDS" > "DNA"
+ce "HIV/AIDS->DNA"  "type":8
+ae "curiosity->object" "curiosity" > "object"
+ce "curiosity->object"  "type":0
+ae "Food->Milk" "Food" > "Milk"
+ce "Food->Milk"  "type":8
+ae "Food->Food and Bioprocess Technology" "Food" > "Food and Bioprocess Technology"
+ce "Food->Food and Bioprocess Technology"  "type":8
+ae "Food->Food_safety_by_country" "Food" > "Food_safety_by_country"
+ce "Food->Food_safety_by_country"  "type":8
+ae "Food->Deaths_from_food_poisoning" "Food" > "Deaths_from_food_poisoning"
+ce "Food->Deaths_from_food_poisoning"  "type":8
+ae "Food->Shelf life" "Food" > "Shelf life"
+ce "Food->Shelf life"  "type":8
+ae "Food->Foodborne_illnesses" "Food" > "Foodborne_illnesses"
+ce "Food->Foodborne_illnesses"  "type":8
+ae "group->people" "group" > "people"
+ce "group->people"  "type":1
+ae "curiosity->Category:Virtue" "curiosity" > "Category:Virtue"
+ce "curiosity->Category:Virtue"  "type":8
+ae "Food safety->Parasitism" "Food safety" > "Parasitism"
+ce "Food safety->Parasitism"  "type":8
+ae "substance->stuff" "substance" > "stuff"
+ce "substance->stuff"  "type":1
+ae "Food->Food_safety_in_the_European_Union" "Food" > "Food_safety_in_the_European_Union"
+ce "Food->Food_safety_in_the_European_Union"  "type":8
+ae "Food safety->Diarrhea" "Food safety" > "Diarrhea"
+ce "Food safety->Diarrhea"  "type":8
+ae "Food->Parasitism" "Food" > "Parasitism"
+ce "Food->Parasitism"  "type":8
+ae "concern->anxiety" "concern" > "anxiety"
+ce "concern->anxiety"  "type":0
+ae "matter->DNA" "matter" > "DNA"
+ce "matter->DNA"  "type":8
+ae "HIV/AIDS->Sexually transmitted infection" "HIV/AIDS" > "Sexually transmitted infection"
+ce "HIV/AIDS->Sexually transmitted infection"  "type":8
+ae "region->Army group" "region" > "Army group"
+ce "region->Army group"  "type":8
+ae "Health education->Sexually transmitted infection" "Health education" > "Sexually transmitted infection"
+ce "Health education->Sexually transmitted infection"  "type":8
+ae "Food->Salt_industry_in_Pakistan" "Food" > "Salt_industry_in_Pakistan"
+ce "Food->Salt_industry_in_Pakistan"  "type":8
+ae "region->Catholic Church" "region" > "Catholic Church"
+ce "region->Catholic Church"  "type":8
+ae "Food->Rash" "Food" > "Rash"
+ce "Food->Rash"  "type":8
+ae "interest->Muslim world" "interest" > "Muslim world"
+ce "interest->Muslim world"  "type":8
+ae "region->World War II" "region" > "World War II"
+ce "region->World War II"  "type":8
+ae "Health education->Habitability" "Health education" > "Habitability"
+ce "Health education->Habitability"  "type":8
+ae "group->world" "group" > "world"
+ce "group->world"  "type":1
+ae "HIV/AIDS->Rash" "HIV/AIDS" > "Rash"
+ce "HIV/AIDS->Rash"  "type":8
+ae "HIV/AIDS->Diarrhea" "HIV/AIDS" > "Diarrhea"
+ce "HIV/AIDS->Diarrhea"  "type":8
+ae "condition->Habitability" "condition" > "Habitability"
+ce "condition->Habitability"  "type":8
+ae "region->Muslim world" "region" > "Muslim world"
+ce "region->Muslim world"  "type":8
+ae "Food->Apple" "Food" > "Apple"
+ce "Food->Apple"  "type":8
+ae "Food safety->Milk" "Food safety" > "Milk"
+ce "Food safety->Milk"  "type":8
+ae "abstraction->Apple" "abstraction" > "Apple"
+ce "abstraction->Apple"  "type":8
+ae "HIV/AIDS->Bacteria" "HIV/AIDS" > "Bacteria"
+ce "HIV/AIDS->Bacteria"  "type":8
+ae "Food processing->Salt_industry_in_Pakistan" "Food processing" > "Salt_industry_in_Pakistan"
+ce "Food processing->Salt_industry_in_Pakistan"  "type":8
+ae "class->world" "class" > "world"
+ce "class->world"  "type":1
+ae "Reproductive health->Demography" "Reproductive health" > "Demography"
+ce "Reproductive health->Demography"  "type":8
+ae "group->system" "group" > "system"
+ce "group->system"  "type":1
+ae "condition->information" "condition" > "information"
+ce "condition->information"  "type":0
+ae "Health education->Food" "Health education" > "Food"
+ce "Health education->Food"  "type":8
+ae "abstraction->Isaac Newton" "abstraction" > "Isaac Newton"
+ce "abstraction->Isaac Newton"  "type":8
+ae "matter->system" "matter" > "system"
+ce "matter->system"  "type":1
+ae "abstraction->Thales of Miletus" "abstraction" > "Thales of Miletus"
+ce "abstraction->Thales of Miletus"  "type":8
+ae "Food processing->Food and Bioprocess Technology" "Food processing" > "Food and Bioprocess Technology"
+ce "Food processing->Food and Bioprocess Technology"  "type":8
+ae "matter->Thales of Miletus" "matter" > "Thales of Miletus"
+ce "matter->Thales of Miletus"  "type":8
+ae "Reproductive health->World Health Organization" "Reproductive health" > "World Health Organization"
+ce "Reproductive health->World Health Organization"  "type":8
+ae "condition->atmosphere" "condition" > "atmosphere"
+ce "condition->atmosphere"  "type":1
+ae "substance->physical entity" "substance" > "physical entity"
+ce "substance->physical entity"  "type":0
+ae "HIV/AIDS->Russia" "HIV/AIDS" > "Russia"
+ce "HIV/AIDS->Russia"  "type":8
+ae "Food->World War II" "Food" > "World War II"
+ce "Food->World War II"  "type":8
+ae "Food safety->Food_safety_by_country" "Food safety" > "Food_safety_by_country"
+ce "Food safety->Food_safety_by_country"  "type":8
+ae "district->Russia" "district" > "Russia"
+ce "district->Russia"  "type":8
+ae "Food safety->Deaths_from_food_poisoning" "Food safety" > "Deaths_from_food_poisoning"
+ce "Food safety->Deaths_from_food_poisoning"  "type":8
+ae "Food safety->Foodborne_illnesses" "Food safety" > "Foodborne_illnesses"
+ce "Food safety->Foodborne_illnesses"  "type":8
+ae "Food->Diabetes" "Food" > "Diabetes"
+ce "Food->Diabetes"  "type":8
+ae "abstraction->right" "abstraction" > "right"
+ce "abstraction->right"  "type":1
+ae "matter->Isaac Newton" "matter" > "Isaac Newton"
+ce "matter->Isaac Newton"  "type":8
+ae "matter->physical entity" "matter" > "physical entity"
+ce "matter->physical entity"  "type":0
+ae "Food safety->Food_safety_in_the_European_Union" "Food safety" > "Food_safety_in_the_European_Union"
+ce "Food safety->Food_safety_in_the_European_Union"  "type":8
+ae "class->people" "class" > "people"
+ce "class->people"  "type":0
+ae "substance->information" "substance" > "information"
+ce "substance->information"  "type":1
+ae "group->Army group" "group" > "Army group"
+ce "group->Army group"  "type":8
+ae "region->atmosphere" "region" > "atmosphere"
+ce "region->atmosphere"  "type":1
+ae "Food processing->Shelf life" "Food processing" > "Shelf life"
+ce "Food processing->Shelf life"  "type":8
+ae "Food->World Health Organization" "Food" > "World Health Organization"
+ce "Food->World Health Organization"  "type":8
+ae "Solidarity->Category:Virtue" "Solidarity" > "Category:Virtue"
+ce "Solidarity->Category:Virtue"  "type":8
+ae "object->stuff" "object" > "stuff"
+ce "object->stuff"  "type":1
+ae "Food processing->Diabetes" "Food processing" > "Diabetes"
+ce "Food processing->Diabetes"  "type":8
+ae "HIV/AIDS->Diabetes" "HIV/AIDS" > "Diabetes"
+ce "HIV/AIDS->Diabetes"  "type":8
+ae "region->Demography" "region" > "Demography"
+ce "region->Demography"  "type":8
+ae "interest->right" "interest" > "right"
+ce "interest->right"  "type":1

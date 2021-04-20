@@ -1,0 +1,24 @@
+graph {
+    fill-color: white;
+}
+node {
+    size: 25px, 15px;
+    shape: rounded-box;
+    fill-color: #ffffaa;
+    stroke-mode: plain;
+    stroke-color: blue;
+    text-alignment: above;
+}
+
+node.clicked {
+    fill-color: blue;
+}
+
+node.marked {
+    fill-color : red;
+}
+
+edge {
+    shape: cubic-curve;
+    fill-color: black;
+}

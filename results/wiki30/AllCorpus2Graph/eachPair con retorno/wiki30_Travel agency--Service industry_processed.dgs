@@ -1,0 +1,262 @@
+DGS004
+null 0 0
+an "Travel agency"
+cn "Travel agency"  "ui.label":"Travel agency"
+cn "Travel agency"  "ui.style":"size-mode:fit;"
+an "agency"
+cn "agency"  "ui.label":"agency"
+cn "agency"  "ui.style":"size:6px; fill-color:white; "
+an "administrative unit"
+cn "administrative unit"  "ui.label":"administrative unit"
+cn "administrative unit"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "definite quantity"
+cn "definite quantity"  "ui.label":"definite quantity"
+cn "definite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "Service industry"
+cn "Service industry"  "ui.label":"Service industry"
+cn "Service industry"  "ui.style":"size-mode:fit;"
+an "industry"
+cn "industry"  "ui.label":"industry"
+cn "industry"  "ui.style":"size:6px; fill-color:white; "
+an "commercial enterprise"
+cn "commercial enterprise"  "ui.label":"commercial enterprise"
+cn "commercial enterprise"  "ui.style":"size:6px; fill-color:white; "
+an "enterprise"
+cn "enterprise"  "ui.label":"enterprise"
+cn "enterprise"  "ui.style":"size:6px; fill-color:white; "
+an "undertaking"
+cn "undertaking"  "ui.label":"undertaking"
+cn "undertaking"  "ui.style":"size:6px; fill-color:white; "
+an "work"
+cn "work"  "ui.label":"work"
+cn "work"  "ui.style":"size:6px; fill-color:white; "
+an "curdling"
+cn "curdling"  "ui.label":"curdling"
+cn "curdling"  "ui.style":"size:6px; fill-color:white; "
+an "section"
+cn "section"  "ui.label":"section"
+cn "section"  "ui.style":"size:6px; fill-color:white; "
+an "business activity"
+cn "business activity"  "ui.label":"business activity"
+cn "business activity"  "ui.style":"size:6px; fill-color:white; "
+an "product"
+cn "product"  "ui.label":"product"
+cn "product"  "ui.style":"size:6px; fill-color:white; "
+an "business"
+cn "business"  "ui.label":"business"
+cn "business"  "ui.style":"size:6px; fill-color:white; "
+an "overdrive"
+cn "overdrive"  "ui.label":"overdrive"
+cn "overdrive"  "ui.style":"size:6px; fill-color:white; "
+an "production"
+cn "production"  "ui.label":"production"
+cn "production"  "ui.style":"size:6px; fill-color:white; "
+an "drift"
+cn "drift"  "ui.label":"drift"
+cn "drift"  "ui.style":"size:6px; fill-color:white; "
+an "transpiration"
+cn "transpiration"  "ui.label":"transpiration"
+cn "transpiration"  "ui.style":"size:6px; fill-color:white; "
+an "support"
+cn "support"  "ui.label":"support"
+cn "support"  "ui.style":"size:6px; fill-color:white; "
+an "capture"
+cn "capture"  "ui.label":"capture"
+cn "capture"  "ui.style":"size:6px; fill-color:white; "
+an "Typography"
+cn "Typography"  "ui.label":"Typography"
+cn "Typography"  "ui.style":"size:6px; fill-color:white; "
+an "succession"
+cn "succession"  "ui.label":"succession"
+cn "succession"  "ui.style":"size:6px; fill-color:white; "
+an "antiredeposition"
+cn "antiredeposition"  "ui.label":"antiredeposition"
+cn "antiredeposition"  "ui.style":"size:6px; fill-color:white; "
+an "soak"
+cn "soak"  "ui.label":"soak"
+cn "soak"  "ui.style":"size:6px; fill-color:white; "
+an "source"
+cn "source"  "ui.label":"source"
+cn "source"  "ui.style":"size:6px; fill-color:white; "
+an "release"
+cn "release"  "ui.label":"release"
+cn "release"  "ui.style":"size:6px; fill-color:white; "
+an "precession of the equinoxes"
+cn "precession of the equinoxes"  "ui.label":"precession of the equinoxes"
+cn "precession of the equinoxes"  "ui.style":"size:6px; fill-color:white; "
+an "extraction"
+cn "extraction"  "ui.label":"extraction"
+cn "extraction"  "ui.style":"size:6px; fill-color:white; "
+ae "Travel agency->agency" "Travel agency"  "agency"
+ce "Travel agency->agency"  "type":0
+ae "agency->administrative unit" "agency"  "administrative unit"
+ce "agency->administrative unit"  "type":0
+ae "administrative unit->unit" "administrative unit"  "unit"
+ce "administrative unit->unit"  "type":0
+ae "unit->definite quantity" "unit"  "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity"  "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "Service industry->industry" "Service industry"  "industry"
+ce "Service industry->industry"  "type":0
+ae "industry->commercial enterprise" "industry"  "commercial enterprise"
+ce "industry->commercial enterprise"  "type":0
+ae "commercial enterprise->enterprise" "commercial enterprise"  "enterprise"
+ce "commercial enterprise->enterprise"  "type":0
+ae "enterprise->undertaking" "enterprise"  "undertaking"
+ce "enterprise->undertaking"  "type":0
+ae "undertaking->work" "undertaking"  "work"
+ce "undertaking->work"  "type":0
+ae "work->activity" "work"  "activity"
+ce "work->activity"  "type":0
+ae "activity->extraction" "activity" > "extraction"
+ce "activity->extraction"  "type":1
+ae "activity->support" "activity" > "support"
+ce "activity->support"  "type":1
+ae "creation->product" "creation" > "product"
+ce "creation->product"  "type":1
+ae "industry->production" "industry" > "production"
+ce "industry->production"  "type":1
+ae "action->drift" "action" > "drift"
+ce "action->drift"  "type":1
+ae "enterprise->business" "enterprise" > "business"
+ce "enterprise->business"  "type":1
+ae "enterprise->business activity" "enterprise" > "business activity"
+ce "enterprise->business activity"  "type":1
+ae "operation->support" "operation" > "support"
+ce "operation->support"  "type":1
+ae "activity->drift" "activity" > "drift"
+ce "activity->drift"  "type":1
+ae "commercial enterprise->business activity" "commercial enterprise" > "business activity"
+ce "commercial enterprise->business activity"  "type":7
+ae "document->Typography" "document" > "Typography"
+ce "document->Typography"  "type":8
+ae "activity->curdling" "activity" > "curdling"
+ce "activity->curdling"  "type":1
+ae "action->precession of the equinoxes" "action" > "precession of the equinoxes"
+ce "action->precession of the equinoxes"  "type":1
+ae "activity->transpiration" "activity" > "transpiration"
+ce "activity->transpiration"  "type":1
+ae "activity->succession" "activity" > "succession"
+ce "activity->succession"  "type":1
+ae "activity->source" "activity" > "source"
+ce "activity->source"  "type":1
+ae "work->product" "work" > "product"
+ce "work->product"  "type":0
+ae "activity->soak" "activity" > "soak"
+ce "activity->soak"  "type":1
+ae "activity->precession of the equinoxes" "activity" > "precession of the equinoxes"
+ce "activity->precession of the equinoxes"  "type":1
+ae "action->curdling" "action" > "curdling"
+ce "action->curdling"  "type":1
+ae "action->soak" "action" > "soak"
+ce "action->soak"  "type":1
+ae "action->release" "action" > "release"
+ce "action->release"  "type":1
+ae "action->extraction" "action" > "extraction"
+ce "action->extraction"  "type":1
+ae "action->capture" "action" > "capture"
+ce "action->capture"  "type":1
+ae "action->antiredeposition" "action" > "antiredeposition"
+ce "action->antiredeposition"  "type":1
+ae "unit->section" "unit" > "section"
+ce "unit->section"  "type":7
+ae "operation->work" "operation" > "work"
+ce "operation->work"  "type":0
+ae "operation->business activity" "operation" > "business activity"
+ce "operation->business activity"  "type":0
+ae "action->transpiration" "action" > "transpiration"
+ce "action->transpiration"  "type":1
+ae "agency->business" "agency" > "business"
+ce "agency->business"  "type":0
+ae "agency->action" "agency" > "action"
+ce "agency->action"  "type":0
+ae "activity->capture" "activity" > "capture"
+ce "activity->capture"  "type":1
+ae "activity->antiredeposition" "activity" > "antiredeposition"
+ce "activity->antiredeposition"  "type":1
+ae "writing->section" "writing" > "section"
+ce "writing->section"  "type":1
+ae "activity->release" "activity" > "release"
+ce "activity->release"  "type":1
+ae "action->succession" "action" > "succession"
+ce "action->succession"  "type":1
+ae "act->production" "act" > "production"
+ce "act->production"  "type":1
+ae "activity->operation" "activity" > "operation"
+ce "activity->operation"  "type":1
+ae "activity->overdrive" "activity" > "overdrive"
+ce "activity->overdrive"  "type":1
+ae "document->source" "document" > "source"
+ce "document->source"  "type":1
+ae "action->agency" "action" > "agency"
+ce "action->agency"  "type":1
+ae "writing->activity" "writing" > "activity"
+ce "writing->activity"  "type":0
+ae "action->overdrive" "action" > "overdrive"
+ce "action->overdrive"  "type":1
+ae "writing->Typography" "writing" > "Typography"
+ce "writing->Typography"  "type":8

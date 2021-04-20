@@ -1,0 +1,492 @@
+DGS004
+null 0 0
+an "Scholar"
+cn "Scholar"  "ui.label":"Scholar"
+cn "Scholar"  "ui.style":"size-mode:fit;"
+an "intellectual"
+cn "intellectual"  "ui.label":"intellectual"
+cn "intellectual"  "ui.style":"size:6px; fill-color:white; "
+an "person"
+cn "person"  "ui.label":"person"
+cn "person"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Academic"
+cn "Academic"  "ui.label":"Academic"
+cn "Academic"  "ui.style":"size-mode:fit;"
+an "educator"
+cn "educator"  "ui.label":"educator"
+cn "educator"  "ui.style":"size:6px; fill-color:white; "
+an "professional"
+cn "professional"  "ui.label":"professional"
+cn "professional"  "ui.style":"size:6px; fill-color:white; "
+an "adult"
+cn "adult"  "ui.label":"adult"
+cn "adult"  "ui.style":"size:6px; fill-color:white; "
+an "animal"
+cn "animal"  "ui.label":"animal"
+cn "animal"  "ui.style":"size:6px; fill-color:white; "
+an "pest"
+cn "pest"  "ui.label":"pest"
+cn "pest"  "ui.style":"size:6px; fill-color:white; "
+an "epidemic disease"
+cn "epidemic disease"  "ui.label":"epidemic disease"
+cn "epidemic disease"  "ui.style":"size:6px; fill-color:white; "
+an "infectious disease"
+cn "infectious disease"  "ui.label":"infectious disease"
+cn "infectious disease"  "ui.style":"size:6px; fill-color:white; "
+an "communicable disease"
+cn "communicable disease"  "ui.label":"communicable disease"
+cn "communicable disease"  "ui.style":"size:6px; fill-color:white; "
+an "disease"
+cn "disease"  "ui.label":"disease"
+cn "disease"  "ui.style":"size:6px; fill-color:white; "
+an "illness"
+cn "illness"  "ui.label":"illness"
+cn "illness"  "ui.style":"size:6px; fill-color:white; "
+an "ill health"
+cn "ill health"  "ui.label":"ill health"
+cn "ill health"  "ui.style":"size:6px; fill-color:white; "
+an "pathological state"
+cn "pathological state"  "ui.label":"pathological state"
+cn "pathological state"  "ui.style":"size:6px; fill-color:white; "
+an "physical condition"
+cn "physical condition"  "ui.label":"physical condition"
+cn "physical condition"  "ui.style":"size:6px; fill-color:white; "
+an "condition"
+cn "condition"  "ui.label":"condition"
+cn "condition"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "Stromatolite"
+cn "Stromatolite"  "ui.label":"Stromatolite"
+cn "Stromatolite"  "ui.style":"size:6px; fill-color:white; "
+an "growth"
+cn "growth"  "ui.label":"growth"
+cn "growth"  "ui.style":"size:6px; fill-color:white; "
+an "Northwest Territories"
+cn "Northwest Territories"  "ui.label":"Northwest Territories"
+cn "Northwest Territories"  "ui.style":"size:6px; fill-color:white; "
+an "philosopher"
+cn "philosopher"  "ui.label":"philosopher"
+cn "philosopher"  "ui.style":"size:6px; fill-color:white; "
+an "preoccupation"
+cn "preoccupation"  "ui.label":"preoccupation"
+cn "preoccupation"  "ui.style":"size:6px; fill-color:white; "
+an "Yukon"
+cn "Yukon"  "ui.label":"Yukon"
+cn "Yukon"  "ui.style":"size:6px; fill-color:white; "
+an "Ontology"
+cn "Ontology"  "ui.label":"Ontology"
+cn "Ontology"  "ui.style":"size:6px; fill-color:white; "
+an "set"
+cn "set"  "ui.label":"set"
+cn "set"  "ui.style":"size:6px; fill-color:white; "
+an "Class (set theory)"
+cn "Class (set theory)"  "ui.label":"Class (set theory)"
+cn "Class (set theory)"  "ui.style":"size:6px; fill-color:white; "
+an "Infection"
+cn "Infection"  "ui.label":"Infection"
+cn "Infection"  "ui.style":"size:6px; fill-color:white; "
+an "notion"
+cn "notion"  "ui.label":"notion"
+cn "notion"  "ui.style":"size:6px; fill-color:white; "
+an "Bertrand Russell"
+cn "Bertrand Russell"  "ui.label":"Bertrand Russell"
+cn "Bertrand Russell"  "ui.style":"size:6px; fill-color:white; "
+an "Scholarly method"
+cn "Scholarly method"  "ui.label":"Scholarly method"
+cn "Scholarly method"  "ui.style":"size:6px; fill-color:white; "
+an "Clade"
+cn "Clade"  "ui.label":"Clade"
+cn "Clade"  "ui.style":"size:6px; fill-color:white; "
+an "Philosophy"
+cn "Philosophy"  "ui.label":"Philosophy"
+cn "Philosophy"  "ui.style":"size:6px; fill-color:white; "
+an "Autotroph"
+cn "Autotroph"  "ui.label":"Autotroph"
+cn "Autotroph"  "ui.style":"size:6px; fill-color:white; "
+an "Elsevier"
+cn "Elsevier"  "ui.label":"Elsevier"
+cn "Elsevier"  "ui.style":"size:6px; fill-color:white; "
+an "Chungin"
+cn "Chungin"  "ui.label":"Chungin"
+cn "Chungin"  "ui.style":"size:6px; fill-color:white; "
+an "United Kingdom"
+cn "United Kingdom"  "ui.label":"United Kingdom"
+cn "United Kingdom"  "ui.style":"size:6px; fill-color:white; "
+an "Sovereign state"
+cn "Sovereign state"  "ui.label":"Sovereign state"
+cn "Sovereign state"  "ui.style":"size:6px; fill-color:white; "
+an "Plato"
+cn "Plato"  "ui.label":"Plato"
+cn "Plato"  "ui.style":"size:6px; fill-color:white; "
+an "Evolution"
+cn "Evolution"  "ui.label":"Evolution"
+cn "Evolution"  "ui.style":"size:6px; fill-color:white; "
+an "attribute"
+cn "attribute"  "ui.label":"attribute"
+cn "attribute"  "ui.style":"size:6px; fill-color:white; "
+an "Library_publishing"
+cn "Library_publishing"  "ui.label":"Library_publishing"
+cn "Library_publishing"  "ui.style":"size:6px; fill-color:white; "
+an "Concept"
+cn "Concept"  "ui.label":"Concept"
+cn "Concept"  "ui.style":"size:6px; fill-color:white; "
+an "Scholarly_databases"
+cn "Scholarly_databases"  "ui.label":"Scholarly_databases"
+cn "Scholarly_databases"  "ui.style":"size:6px; fill-color:white; "
+an "atmosphere"
+cn "atmosphere"  "ui.label":"atmosphere"
+cn "atmosphere"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "The New York Times"
+cn "The New York Times"  "ui.label":"The New York Times"
+cn "The New York Times"  "ui.style":"size:6px; fill-color:white; "
+an "catch"
+cn "catch"  "ui.label":"catch"
+cn "catch"  "ui.style":"size:6px; fill-color:white; "
+an "Social status"
+cn "Social status"  "ui.label":"Social status"
+cn "Social status"  "ui.style":"size:6px; fill-color:white; "
+an "Perception"
+cn "Perception"  "ui.label":"Perception"
+cn "Perception"  "ui.style":"size:6px; fill-color:white; "
+an "Human"
+cn "Human"  "ui.label":"Human"
+cn "Human"  "ui.style":"size:6px; fill-color:white; "
+an "Law"
+cn "Law"  "ui.label":"Law"
+cn "Law"  "ui.style":"size:6px; fill-color:white; "
+an "Chile"
+cn "Chile"  "ui.label":"Chile"
+cn "Chile"  "ui.style":"size:6px; fill-color:white; "
+an "The Guardian"
+cn "The Guardian"  "ui.label":"The Guardian"
+cn "The Guardian"  "ui.style":"size:6px; fill-color:white; "
+an "Academics_by_nationality"
+cn "Academics_by_nationality"  "ui.label":"Academics_by_nationality"
+cn "Academics_by_nationality"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "disorder"
+cn "disorder"  "ui.label":"disorder"
+cn "disorder"  "ui.style":"size:6px; fill-color:white; "
+an "statement"
+cn "statement"  "ui.label":"statement"
+cn "statement"  "ui.style":"size:6px; fill-color:white; "
+an "Liberty"
+cn "Liberty"  "ui.label":"Liberty"
+cn "Liberty"  "ui.style":"size:6px; fill-color:white; "
+an "Cura��ao_scholars_and_academics"
+cn "Cura��ao_scholars_and_academics"  "ui.label":"Cura��ao_scholars_and_academics"
+cn "Cura��ao_scholars_and_academics"  "ui.style":"size:6px; fill-color:white; "
+an "Animal rights"
+cn "Animal rights"  "ui.label":"Animal rights"
+cn "Animal rights"  "ui.style":"size:6px; fill-color:white; "
+ae "Scholar->intellectual" "Scholar"  "intellectual"
+ce "Scholar->intellectual"  "type":0
+ae "intellectual->person" "intellectual"  "person"
+ce "intellectual->person"  "type":0
+ae "person->organism" "person"  "organism"
+ce "person->organism"  "type":0
+ae "organism->living thing" "organism"  "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing"  "whole"
+ce "living thing->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Academic->educator" "Academic"  "educator"
+ce "Academic->educator"  "type":0
+ae "educator->professional" "educator"  "professional"
+ce "educator->professional"  "type":0
+ae "professional->adult" "professional"  "adult"
+ce "professional->adult"  "type":0
+ae "adult->person" "adult"  "person"
+ce "adult->person"  "type":0
+ae "adult->animal" "adult"  "animal"
+ce "adult->animal"  "type":0
+ae "animal->organism" "animal"  "organism"
+ce "animal->organism"  "type":0
+ae "animal->pest" "animal"  "pest"
+ce "animal->pest"  "type":1
+ae "pest->epidemic disease" "pest"  "epidemic disease"
+ce "pest->epidemic disease"  "type":0
+ae "epidemic disease->infectious disease" "epidemic disease"  "infectious disease"
+ce "epidemic disease->infectious disease"  "type":0
+ae "infectious disease->communicable disease" "infectious disease"  "communicable disease"
+ce "infectious disease->communicable disease"  "type":0
+ae "communicable disease->disease" "communicable disease"  "disease"
+ce "communicable disease->disease"  "type":0
+ae "disease->illness" "disease"  "illness"
+ce "disease->illness"  "type":0
+ae "illness->ill health" "illness"  "ill health"
+ce "illness->ill health"  "type":0
+ae "ill health->pathological state" "ill health"  "pathological state"
+ce "ill health->pathological state"  "type":0
+ae "pathological state->physical condition" "pathological state"  "physical condition"
+ce "pathological state->physical condition"  "type":0
+ae "physical condition->condition" "physical condition"  "condition"
+ce "physical condition->condition"  "type":0
+ae "condition->state" "condition"  "state"
+ce "condition->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "animal->The Guardian" "animal" > "The Guardian"
+ce "animal->The Guardian"  "type":8
+ae "disease->Infection" "disease" > "Infection"
+ce "disease->Infection"  "type":8
+ae "state->disorder" "state" > "disorder"
+ce "state->disorder"  "type":1
+ae "Scholar->philosopher" "Scholar" > "philosopher"
+ce "Scholar->philosopher"  "type":1
+ae "abstraction->Ontology" "abstraction" > "Ontology"
+ce "abstraction->Ontology"  "type":8
+ae "living thing->The Guardian" "living thing" > "The Guardian"
+ce "living thing->The Guardian"  "type":8
+ae "intellectual->Bertrand Russell" "intellectual" > "Bertrand Russell"
+ce "intellectual->Bertrand Russell"  "type":8
+ae "region->United Kingdom" "region" > "United Kingdom"
+ce "region->United Kingdom"  "type":8
+ae "person->philosopher" "person" > "philosopher"
+ce "person->philosopher"  "type":1
+ae "animal->Animal rights" "animal" > "Animal rights"
+ce "animal->Animal rights"  "type":8
+ae "idea->Human" "idea" > "Human"
+ce "idea->Human"  "type":8
+ae "Academic->Elsevier" "Academic" > "Elsevier"
+ce "Academic->Elsevier"  "type":8
+ae "Scholar->Scholarly method" "Scholar" > "Scholarly method"
+ce "Scholar->Scholarly method"  "type":8
+ae "adult->Yukon" "adult" > "Yukon"
+ce "adult->Yukon"  "type":8
+ae "idea->Evolution" "idea" > "Evolution"
+ce "idea->Evolution"  "type":8
+ae "Academic->Scholarly_databases" "Academic" > "Scholarly_databases"
+ce "Academic->Scholarly_databases"  "type":8
+ae "object->thing" "object" > "thing"
+ce "object->thing"  "type":1
+ae "Scholar->Chungin" "Scholar" > "Chungin"
+ce "Scholar->Chungin"  "type":8
+ae "adult->Northwest Territories" "adult" > "Northwest Territories"
+ce "adult->Northwest Territories"  "type":8
+ae "Academic->Library_publishing" "Academic" > "Library_publishing"
+ce "Academic->Library_publishing"  "type":8
+ae "animal->Clade" "animal" > "Clade"
+ce "animal->Clade"  "type":8
+ae "Academic->Academics_by_nationality" "Academic" > "Academics_by_nationality"
+ce "Academic->Academics_by_nationality"  "type":8
+ae "intellectual->Scholarly method" "intellectual" > "Scholarly method"
+ce "intellectual->Scholarly method"  "type":8
+ae "Scholar->Library_publishing" "Scholar" > "Library_publishing"
+ce "Scholar->Library_publishing"  "type":8
+ae "object->growth" "object" > "growth"
+ce "object->growth"  "type":1
+ae "Scholar->Scholarly_databases" "Scholar" > "Scholarly_databases"
+ce "Scholar->Scholarly_databases"  "type":8
+ae "concept->notion" "concept" > "notion"
+ce "concept->notion"  "type":1
+ae "object->catch" "object" > "catch"
+ce "object->catch"  "type":1
+ae "region->atmosphere" "region" > "atmosphere"
+ce "region->atmosphere"  "type":1
+ae "concept->abstraction" "concept" > "abstraction"
+ce "concept->abstraction"  "type":1
+ae "person->Philosophy" "person" > "Philosophy"
+ce "person->Philosophy"  "type":8
+ae "person->Law" "person" > "Law"
+ce "person->Law"  "type":8
+ae "adult->Elsevier" "adult" > "Elsevier"
+ce "adult->Elsevier"  "type":8
+ae "Academic->Cura��ao_scholars_and_academics" "Academic" > "Cura��ao_scholars_and_academics"
+ce "Academic->Cura��ao_scholars_and_academics"  "type":8
+ae "condition->atmosphere" "condition" > "atmosphere"
+ce "condition->atmosphere"  "type":1
+ae "intellectual->United Kingdom" "intellectual" > "United Kingdom"
+ce "intellectual->United Kingdom"  "type":8
+ae "Scholar->Academics_by_nationality" "Scholar" > "Academics_by_nationality"
+ce "Scholar->Academics_by_nationality"  "type":8
+ae "adult->catch" "adult" > "catch"
+ce "adult->catch"  "type":1
+ae "disease->Social status" "disease" > "Social status"
+ce "disease->Social status"  "type":8
+ae "person->Liberty" "person" > "Liberty"
+ce "person->Liberty"  "type":8
+ae "collection->set" "collection" > "set"
+ce "collection->set"  "type":1
+ae "Scholar->Cura��ao_scholars_and_academics" "Scholar" > "Cura��ao_scholars_and_academics"
+ce "Scholar->Cura��ao_scholars_and_academics"  "type":8
+ae "adult->Law" "adult" > "Law"
+ce "adult->Law"  "type":8
+ae "concept->Philosophy" "concept" > "Philosophy"
+ce "concept->Philosophy"  "type":8
+ae "region->Human" "region" > "Human"
+ce "region->Human"  "type":8
+ae "intellectual->Chile" "intellectual" > "Chile"
+ce "intellectual->Chile"  "type":8
+ae "organism->Clade" "organism" > "Clade"
+ce "organism->Clade"  "type":8
+ae "concept->Class (set theory)" "concept" > "Class (set theory)"
+ce "concept->Class (set theory)"  "type":8
+ae "illness->growth" "illness" > "growth"
+ce "illness->growth"  "type":1
+ae "concept->Ontology" "concept" > "Ontology"
+ce "concept->Ontology"  "type":8
+ae "pest->Infection" "pest" > "Infection"
+ce "pest->Infection"  "type":8
+ae "group->set" "group" > "set"
+ce "group->set"  "type":0
+ae "intellectual->Social status" "intellectual" > "Social status"
+ce "intellectual->Social status"  "type":8
+ae "concept->Plato" "concept" > "Plato"
+ce "concept->Plato"  "type":8
+ae "person->Animal rights" "person" > "Animal rights"
+ce "person->Animal rights"  "type":8
+ae "intellectual->Philosophy" "intellectual" > "Philosophy"
+ce "intellectual->Philosophy"  "type":8
+ae "organism->Stromatolite" "organism" > "Stromatolite"
+ce "organism->Stromatolite"  "type":8
+ae "animal->The New York Times" "animal" > "The New York Times"
+ce "animal->The New York Times"  "type":8
+ae "abstraction->Perception" "abstraction" > "Perception"
+ce "abstraction->Perception"  "type":8
+ae "idea->Concept" "idea" > "Concept"
+ce "idea->Concept"  "type":8
+ae "region->Sovereign state" "region" > "Sovereign state"
+ce "region->Sovereign state"  "type":8
+ae "animal->Stromatolite" "animal" > "Stromatolite"
+ce "animal->Stromatolite"  "type":8
+ae "idea->Perception" "idea" > "Perception"
+ce "idea->Perception"  "type":8
+ae "idea->Liberty" "idea" > "Liberty"
+ce "idea->Liberty"  "type":8
+ae "physical condition->disorder" "physical condition" > "disorder"
+ce "physical condition->disorder"  "type":1
+ae "idea->Bertrand Russell" "idea" > "Bertrand Russell"
+ce "idea->Bertrand Russell"  "type":8
+ae "idea->Philosophy" "idea" > "Philosophy"
+ce "idea->Philosophy"  "type":8
+ae "abstraction->Concept" "abstraction" > "Concept"
+ce "abstraction->Concept"  "type":8
+ae "abstraction->communication" "abstraction" > "communication"
+ce "abstraction->communication"  "type":1
+ae "state->attribute" "state" > "attribute"
+ce "state->attribute"  "type":0
+ae "abstraction->attribute" "abstraction" > "attribute"
+ce "abstraction->attribute"  "type":1
+ae "organism->Autotroph" "organism" > "Autotroph"
+ce "organism->Autotroph"  "type":8
+ae "animal->Autotroph" "animal" > "Autotroph"
+ce "animal->Autotroph"  "type":8
+ae "content->communication" "content" > "communication"
+ce "content->communication"  "type":0
+ae "abstraction->thing" "abstraction" > "thing"
+ce "abstraction->thing"  "type":1
+ae "organism->Evolution" "organism" > "Evolution"
+ce "organism->Evolution"  "type":8
+ae "state->Sovereign state" "state" > "Sovereign state"
+ce "state->Sovereign state"  "type":8
+ae "idea->Plato" "idea" > "Plato"
+ce "idea->Plato"  "type":8
+ae "abstraction->preoccupation" "abstraction" > "preoccupation"
+ce "abstraction->preoccupation"  "type":0
+ae "condition->illness" "condition" > "illness"
+ce "condition->illness"  "type":0
+ae "organism->The New York Times" "organism" > "The New York Times"
+ce "organism->The New York Times"  "type":8
+ae "content->statement" "content" > "statement"
+ce "content->statement"  "type":1
+ae "intellectual->Chungin" "intellectual" > "Chungin"
+ce "intellectual->Chungin"  "type":8
+ae "idea->preoccupation" "idea" > "preoccupation"
+ce "idea->preoccupation"  "type":1
+ae "organism->Human" "organism" > "Human"
+ce "organism->Human"  "type":8
+ae "district->Yukon" "district" > "Yukon"
+ce "district->Yukon"  "type":8
+ae "district->Northwest Territories" "district" > "Northwest Territories"
+ce "district->Northwest Territories"  "type":8
+ae "region->Chile" "region" > "Chile"
+ce "region->Chile"  "type":8
+ae "collection->Class (set theory)" "collection" > "Class (set theory)"
+ce "collection->Class (set theory)"  "type":8
+ae "content->object" "content" > "object"
+ce "content->object"  "type":1
+ae "idea->notion" "idea" > "notion"
+ce "idea->notion"  "type":1
+ae "idea->statement" "idea" > "statement"
+ce "idea->statement"  "type":1

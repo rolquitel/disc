@@ -1,0 +1,84 @@
+DGS004
+null 0 0
+an "National Basketball Association"
+an "Basketball Association of America"
+cn "Basketball Association of America"  "ui.label":"Basketball Association of America"
+cn "Basketball Association of America"  "ui.style":"size:6px; fill-color:white; "
+an "Los Angeles Lakers"
+cn "Los Angeles Lakers"  "ui.label":"Los Angeles Lakers"
+cn "Los Angeles Lakers"  "ui.style":"size:6px; fill-color:white; "
+an "Western Conference (NBA)"
+cn "Western Conference (NBA)"  "ui.label":"Western Conference (NBA)"
+cn "Western Conference (NBA)"  "ui.style":"size:6px; fill-color:white; "
+an "Athletic sport"
+an "Aquathlon"
+cn "Aquathlon"  "ui.label":"Aquathlon"
+cn "Aquathlon"  "ui.style":"size:6px; fill-color:white; "
+an "International Triathlon Union"
+cn "International Triathlon Union"  "ui.label":"International Triathlon Union"
+cn "International Triathlon Union"  "ui.style":"size:6px; fill-color:white; "
+an "Lausanne"
+cn "Lausanne"  "ui.label":"Lausanne"
+cn "Lausanne"  "ui.style":"size:6px; fill-color:white; "
+an "Switzerland"
+cn "Switzerland"  "ui.label":"Switzerland"
+cn "Switzerland"  "ui.style":"size:6px; fill-color:white; "
+an "Europe"
+cn "Europe"  "ui.label":"Europe"
+cn "Europe"  "ui.style":"size:6px; fill-color:white; "
+an "world organization"
+cn "world organization"  "ui.label":"world organization"
+cn "world organization"  "ui.style":"size:6px; fill-color:white; "
+an "alliance"
+cn "alliance"  "ui.label":"alliance"
+cn "alliance"  "ui.style":"size:6px; fill-color:white; "
+an "coalition"
+cn "coalition"  "ui.label":"coalition"
+cn "coalition"  "ui.style":"size:6px; fill-color:white; "
+an "organization"
+cn "organization"  "ui.label":"organization"
+cn "organization"  "ui.style":"size:6px; fill-color:white; "
+an "social group"
+cn "social group"  "ui.label":"social group"
+cn "social group"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+ae "National Basketball Association->Basketball Association of America" "National Basketball Association"  "Basketball Association of America"
+ce "National Basketball Association->Basketball Association of America"  "type":8
+ae "Basketball Association of America->Los Angeles Lakers" "Basketball Association of America"  "Los Angeles Lakers"
+ce "Basketball Association of America->Los Angeles Lakers"  "type":8
+ae "Los Angeles Lakers->Western Conference (NBA)" "Los Angeles Lakers"  "Western Conference (NBA)"
+ce "Los Angeles Lakers->Western Conference (NBA)"  "type":8
+ae "Western Conference (NBA)->National Basketball Association" "Western Conference (NBA)"  "National Basketball Association"
+ce "Western Conference (NBA)->National Basketball Association"  "type":8
+ae "Athletic sport->Aquathlon" "Athletic sport"  "Aquathlon"
+ce "Athletic sport->Aquathlon"  "type":8
+ae "Aquathlon->International Triathlon Union" "Aquathlon"  "International Triathlon Union"
+ce "Aquathlon->International Triathlon Union"  "type":8
+ae "International Triathlon Union->Lausanne" "International Triathlon Union"  "Lausanne"
+ce "International Triathlon Union->Lausanne"  "type":8
+ae "Lausanne->Switzerland" "Lausanne"  "Switzerland"
+ce "Lausanne->Switzerland"  "type":6
+ae "Switzerland->Europe" "Switzerland"  "Europe"
+ce "Switzerland->Europe"  "type":6
+ae "Europe->world organization" "Europe"  "world organization"
+ce "Europe->world organization"  "type":0
+ae "world organization->alliance" "world organization"  "alliance"
+ce "world organization->alliance"  "type":0
+ae "alliance->coalition" "alliance"  "coalition"
+ce "alliance->coalition"  "type":0
+ae "coalition->organization" "coalition"  "organization"
+ce "coalition->organization"  "type":0
+ae "organization->social group" "organization"  "social group"
+ce "organization->social group"  "type":0
+ae "social group->group" "social group"  "group"
+ce "social group->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0

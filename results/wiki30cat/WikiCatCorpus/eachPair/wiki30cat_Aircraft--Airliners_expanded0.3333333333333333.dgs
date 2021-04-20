@@ -1,0 +1,98 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Aircraft"
+cn "Aircraft"  "ui.label":"Aircraft"
+cn "Aircraft"  "ui.style":"size-mode:fit;"
+an "Aviation"
+cn "Aviation"  "ui.label":"Aviation"
+cn "Aviation"  "ui.style":"size:6px; fill-color:white; "
+an "Aeronautics"
+cn "Aeronautics"  "ui.label":"Aeronautics"
+cn "Aeronautics"  "ui.style":"size:6px; fill-color:white; "
+an "Aerospace"
+cn "Aerospace"  "ui.label":"Aerospace"
+cn "Aerospace"  "ui.style":"size:6px; fill-color:white; "
+an "Atmosphere_of_Earth"
+cn "Atmosphere_of_Earth"  "ui.label":"Atmosphere_of_Earth"
+cn "Atmosphere_of_Earth"  "ui.style":"size:6px; fill-color:white; "
+an "Atmospheric_thermodynamics"
+cn "Atmospheric_thermodynamics"  "ui.label":"Atmospheric_thermodynamics"
+cn "Atmospheric_thermodynamics"  "ui.style":"size:6px; fill-color:white; "
+an "Branches_of_thermodynamics"
+cn "Branches_of_thermodynamics"  "ui.label":"Branches_of_thermodynamics"
+cn "Branches_of_thermodynamics"  "ui.style":"size:6px; fill-color:white; "
+an "Subfields_by_academic_discipline"
+cn "Subfields_by_academic_discipline"  "ui.label":"Subfields_by_academic_discipline"
+cn "Subfields_by_academic_discipline"  "ui.style":"size:6px; fill-color:white; "
+an "Academic_disciplines"
+cn "Academic_disciplines"  "ui.label":"Academic_disciplines"
+cn "Academic_disciplines"  "ui.style":"size:6px; fill-color:white; "
+an "Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.label":"Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.style":"size:6px; fill-color:white; "
+an "Airliners"
+cn "Airliners"  "ui.label":"Airliners"
+cn "Airliners"  "ui.style":"size-mode:fit;"
+an "Civil_aircraft_by_type"
+cn "Civil_aircraft_by_type"  "ui.label":"Civil_aircraft_by_type"
+cn "Civil_aircraft_by_type"  "ui.style":"size:6px; fill-color:white; "
+an "Aircraft_by_type"
+cn "Aircraft_by_type"  "ui.label":"Aircraft_by_type"
+cn "Aircraft_by_type"  "ui.style":"size:6px; fill-color:white; "
+an "Breathing_gases"
+cn "Breathing_gases"  "ui.label":"Breathing_gases"
+cn "Breathing_gases"  "ui.style":"size:6px; fill-color:white; "
+an "Environments"
+cn "Environments"  "ui.label":"Environments"
+cn "Environments"  "ui.style":"size:6px; fill-color:white; "
+an "Sky"
+cn "Sky"  "ui.label":"Sky"
+cn "Sky"  "ui.style":"size:6px; fill-color:white; "
+an "Container_categories"
+cn "Container_categories"  "ui.label":"Container_categories"
+cn "Container_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Civil_aircraft"
+cn "Civil_aircraft"  "ui.label":"Civil_aircraft"
+cn "Civil_aircraft"  "ui.style":"size:6px; fill-color:white; "
+an "Vehicles_by_type"
+cn "Vehicles_by_type"  "ui.label":"Vehicles_by_type"
+cn "Vehicles_by_type"  "ui.style":"size:6px; fill-color:white; "
+ae "Aircraft->Aviation" "Aircraft"  "Aviation"
+ce "Aircraft->Aviation"  "type":0
+ae "Aviation->Aeronautics" "Aviation"  "Aeronautics"
+ce "Aviation->Aeronautics"  "type":0
+ae "Aeronautics->Aerospace" "Aeronautics"  "Aerospace"
+ce "Aeronautics->Aerospace"  "type":0
+ae "Aerospace->Atmosphere_of_Earth" "Aerospace"  "Atmosphere_of_Earth"
+ce "Aerospace->Atmosphere_of_Earth"  "type":0
+ae "Atmosphere_of_Earth->Atmospheric_thermodynamics" "Atmosphere_of_Earth"  "Atmospheric_thermodynamics"
+ce "Atmosphere_of_Earth->Atmospheric_thermodynamics"  "type":0
+ae "Atmospheric_thermodynamics->Branches_of_thermodynamics" "Atmospheric_thermodynamics"  "Branches_of_thermodynamics"
+ce "Atmospheric_thermodynamics->Branches_of_thermodynamics"  "type":0
+ae "Branches_of_thermodynamics->Subfields_by_academic_discipline" "Branches_of_thermodynamics"  "Subfields_by_academic_discipline"
+ce "Branches_of_thermodynamics->Subfields_by_academic_discipline"  "type":0
+ae "Subfields_by_academic_discipline->Academic_disciplines" "Subfields_by_academic_discipline"  "Academic_disciplines"
+ce "Subfields_by_academic_discipline->Academic_disciplines"  "type":0
+ae "Academic_disciplines->Main_topic_classifications" "Academic_disciplines"  "Main_topic_classifications"
+ce "Academic_disciplines->Main_topic_classifications"  "type":0
+ae "Airliners->Civil_aircraft_by_type" "Airliners"  "Civil_aircraft_by_type"
+ce "Airliners->Civil_aircraft_by_type"  "type":0
+ae "Civil_aircraft_by_type->Aircraft_by_type" "Civil_aircraft_by_type"  "Aircraft_by_type"
+ce "Civil_aircraft_by_type->Aircraft_by_type"  "type":0
+ae "Aircraft_by_type->Aircraft" "Aircraft_by_type"  "Aircraft"
+ce "Aircraft_by_type->Aircraft"  "type":0
+ae "Atmosphere_of_Earth->Breathing_gases" "Atmosphere_of_Earth" > "Breathing_gases"
+ce "Atmosphere_of_Earth->Breathing_gases"  "type":0
+ae "Atmosphere_of_Earth->Environments" "Atmosphere_of_Earth" > "Environments"
+ce "Atmosphere_of_Earth->Environments"  "type":0
+ae "Atmosphere_of_Earth->Sky" "Atmosphere_of_Earth" > "Sky"
+ce "Atmosphere_of_Earth->Sky"  "type":0
+ae "Subfields_by_academic_discipline->Container_categories" "Subfields_by_academic_discipline" > "Container_categories"
+ce "Subfields_by_academic_discipline->Container_categories"  "type":0
+ae "Civil_aircraft_by_type->Civil_aircraft" "Civil_aircraft_by_type" > "Civil_aircraft"
+ce "Civil_aircraft_by_type->Civil_aircraft"  "type":0
+ae "Civil_aircraft_by_type->Container_categories" "Civil_aircraft_by_type" > "Container_categories"
+ce "Civil_aircraft_by_type->Container_categories"  "type":0
+ae "Aircraft_by_type->Vehicles_by_type" "Aircraft_by_type" > "Vehicles_by_type"
+ce "Aircraft_by_type->Vehicles_by_type"  "type":0

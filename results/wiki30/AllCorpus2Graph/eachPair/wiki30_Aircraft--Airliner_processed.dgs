@@ -1,0 +1,657 @@
+DGS004
+null 0 0
+an "Aircraft"
+cn "Aircraft"  "ui.label":"Aircraft"
+cn "Aircraft"  "ui.style":"size-mode:fit;"
+an "craft"
+cn "craft"  "ui.label":"craft"
+cn "craft"  "ui.style":"size:6px; fill-color:white; "
+an "occupation"
+cn "occupation"  "ui.label":"occupation"
+cn "occupation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "artifact"
+cn "artifact"  "ui.label":"artifact"
+cn "artifact"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Airliner"
+cn "Airliner"  "ui.label":"Airliner"
+cn "Airliner"  "ui.style":"size-mode:fit;"
+an "airplane"
+cn "airplane"  "ui.label":"airplane"
+cn "airplane"  "ui.style":"size:6px; fill-color:white; "
+an "heavier-than-air craft"
+cn "heavier-than-air craft"  "ui.label":"heavier-than-air craft"
+cn "heavier-than-air craft"  "ui.style":"size:6px; fill-color:white; "
+an "aircraft"
+cn "aircraft"  "ui.label":"aircraft"
+cn "aircraft"  "ui.style":"size:6px; fill-color:white; "
+an "bogy"
+cn "bogy"  "ui.label":"bogy"
+cn "bogy"  "ui.style":"size:6px; fill-color:white; "
+an "evil spirit"
+cn "evil spirit"  "ui.label":"evil spirit"
+cn "evil spirit"  "ui.style":"size:6px; fill-color:white; "
+an "spirit"
+cn "spirit"  "ui.label":"spirit"
+cn "spirit"  "ui.style":"size:6px; fill-color:white; "
+an "vital principle"
+cn "vital principle"  "ui.label":"vital principle"
+cn "vital principle"  "ui.style":"size:6px; fill-color:white; "
+an "causal agent"
+cn "causal agent"  "ui.label":"causal agent"
+cn "causal agent"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "Author"
+cn "Author"  "ui.label":"Author"
+cn "Author"  "ui.style":"size:6px; fill-color:white; "
+an "Norwegian_airliners"
+cn "Norwegian_airliners"  "ui.label":"Norwegian_airliners"
+cn "Norwegian_airliners"  "ui.style":"size:6px; fill-color:white; "
+an "cockpit"
+cn "cockpit"  "ui.label":"cockpit"
+cn "cockpit"  "ui.style":"size:6px; fill-color:white; "
+an "Italian_airliners"
+cn "Italian_airliners"  "ui.label":"Italian_airliners"
+cn "Italian_airliners"  "ui.style":"size:6px; fill-color:white; "
+an "nose"
+cn "nose"  "ui.label":"nose"
+cn "nose"  "ui.style":"size:6px; fill-color:white; "
+an "Jet airliner"
+cn "Jet airliner"  "ui.label":"Jet airliner"
+cn "Jet airliner"  "ui.style":"size:6px; fill-color:white; "
+an "List of most-produced aircraft"
+cn "List of most-produced aircraft"  "ui.label":"List of most-produced aircraft"
+cn "List of most-produced aircraft"  "ui.style":"size:6px; fill-color:white; "
+an "Parchment"
+cn "Parchment"  "ui.label":"Parchment"
+cn "Parchment"  "ui.style":"size:6px; fill-color:white; "
+an "Information"
+cn "Information"  "ui.label":"Information"
+cn "Information"  "ui.style":"size:6px; fill-color:white; "
+an "Hot air balloon"
+cn "Hot air balloon"  "ui.label":"Hot air balloon"
+cn "Hot air balloon"  "ui.style":"size:6px; fill-color:white; "
+an "Carl Jung"
+cn "Carl Jung"  "ui.label":"Carl Jung"
+cn "Carl Jung"  "ui.style":"size:6px; fill-color:white; "
+an "Post-war"
+cn "Post-war"  "ui.label":"Post-war"
+cn "Post-war"  "ui.style":"size:6px; fill-color:white; "
+an "Helium"
+cn "Helium"  "ui.label":"Helium"
+cn "Helium"  "ui.style":"size:6px; fill-color:white; "
+an "Hydrogen"
+cn "Hydrogen"  "ui.label":"Hydrogen"
+cn "Hydrogen"  "ui.style":"size:6px; fill-color:white; "
+an "Aerial refueling"
+cn "Aerial refueling"  "ui.label":"Aerial refueling"
+cn "Aerial refueling"  "ui.style":"size:6px; fill-color:white; "
+an "Perception"
+cn "Perception"  "ui.label":"Perception"
+cn "Perception"  "ui.style":"size:6px; fill-color:white; "
+an "Man"
+cn "Man"  "ui.label":"Man"
+cn "Man"  "ui.style":"size:6px; fill-color:white; "
+an "Profession"
+cn "Profession"  "ui.label":"Profession"
+cn "Profession"  "ui.style":"size:6px; fill-color:white; "
+an "Bomber"
+cn "Bomber"  "ui.label":"Bomber"
+cn "Bomber"  "ui.style":"size:6px; fill-color:white; "
+an "NASA X-43"
+cn "NASA X-43"  "ui.label":"NASA X-43"
+cn "NASA X-43"  "ui.style":"size:6px; fill-color:white; "
+an "Wing configuration"
+cn "Wing configuration"  "ui.label":"Wing configuration"
+cn "Wing configuration"  "ui.style":"size:6px; fill-color:white; "
+an "Aspect ratio"
+cn "Aspect ratio"  "ui.label":"Aspect ratio"
+cn "Aspect ratio"  "ui.style":"size:6px; fill-color:white; "
+an "Flying wing"
+cn "Flying wing"  "ui.label":"Flying wing"
+cn "Flying wing"  "ui.style":"size:6px; fill-color:white; "
+an "Lifting body"
+cn "Lifting body"  "ui.label":"Lifting body"
+cn "Lifting body"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "Rotor kite"
+cn "Rotor kite"  "ui.label":"Rotor kite"
+cn "Rotor kite"  "ui.style":"size:6px; fill-color:white; "
+an "Landing gear"
+cn "Landing gear"  "ui.label":"Landing gear"
+cn "Landing gear"  "ui.style":"size:6px; fill-color:white; "
+an "education"
+cn "education"  "ui.label":"education"
+cn "education"  "ui.style":"size:6px; fill-color:white; "
+an "Iranian_airliners"
+cn "Iranian_airliners"  "ui.label":"Iranian_airliners"
+cn "Iranian_airliners"  "ui.style":"size:6px; fill-color:white; "
+an "Ukrainian_airliners"
+cn "Ukrainian_airliners"  "ui.label":"Ukrainian_airliners"
+cn "Ukrainian_airliners"  "ui.style":"size:6px; fill-color:white; "
+an "Landing"
+cn "Landing"  "ui.label":"Landing"
+cn "Landing"  "ui.style":"size:6px; fill-color:white; "
+an "Life (magazine)"
+cn "Life (magazine)"  "ui.label":"Life (magazine)"
+cn "Life (magazine)"  "ui.style":"size:6px; fill-color:white; "
+an "Ornithopter"
+cn "Ornithopter"  "ui.label":"Ornithopter"
+cn "Ornithopter"  "ui.style":"size:6px; fill-color:white; "
+an "Australian_airliners"
+cn "Australian_airliners"  "ui.label":"Australian_airliners"
+cn "Australian_airliners"  "ui.style":"size:6px; fill-color:white; "
+an "Flying car"
+cn "Flying car"  "ui.label":"Flying car"
+cn "Flying car"  "ui.style":"size:6px; fill-color:white; "
+an "Aircraft spotting"
+cn "Aircraft spotting"  "ui.label":"Aircraft spotting"
+cn "Aircraft spotting"  "ui.style":"size:6px; fill-color:white; "
+an "Hughes H-4 Hercules"
+cn "Hughes H-4 Hercules"  "ui.label":"Hughes H-4 Hercules"
+cn "Hughes H-4 Hercules"  "ui.style":"size:6px; fill-color:white; "
+an "World War II"
+cn "World War II"  "ui.label":"World War II"
+cn "World War II"  "ui.style":"size:6px; fill-color:white; "
+an "Airbus A300"
+cn "Airbus A300"  "ui.label":"Airbus A300"
+cn "Airbus A300"  "ui.style":"size:6px; fill-color:white; "
+an "Mach number"
+cn "Mach number"  "ui.label":"Mach number"
+cn "Mach number"  "ui.style":"size:6px; fill-color:white; "
+an "French_airliners"
+cn "French_airliners"  "ui.label":"French_airliners"
+cn "French_airliners"  "ui.style":"size:6px; fill-color:white; "
+an "Lockheed SR-71 Blackbird"
+cn "Lockheed SR-71 Blackbird"  "ui.label":"Lockheed SR-71 Blackbird"
+cn "Lockheed SR-71 Blackbird"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "Tupolev Tu-144"
+cn "Tupolev Tu-144"  "ui.label":"Tupolev Tu-144"
+cn "Tupolev Tu-144"  "ui.style":"size:6px; fill-color:white; "
+an "Cockpit"
+cn "Cockpit"  "ui.label":"Cockpit"
+cn "Cockpit"  "ui.style":"size:6px; fill-color:white; "
+an "invention"
+cn "invention"  "ui.label":"invention"
+cn "invention"  "ui.style":"size:6px; fill-color:white; "
+an "Fuselage"
+cn "Fuselage"  "ui.label":"Fuselage"
+cn "Fuselage"  "ui.style":"size:6px; fill-color:white; "
+an "De Havilland Canada DHC-6 Twin Otter"
+cn "De Havilland Canada DHC-6 Twin Otter"  "ui.label":"De Havilland Canada DHC-6 Twin Otter"
+cn "De Havilland Canada DHC-6 Twin Otter"  "ui.style":"size:6px; fill-color:white; "
+an "Tractor configuration"
+cn "Tractor configuration"  "ui.label":"Tractor configuration"
+cn "Tractor configuration"  "ui.style":"size:6px; fill-color:white; "
+an "Pusher configuration"
+cn "Pusher configuration"  "ui.label":"Pusher configuration"
+cn "Pusher configuration"  "ui.style":"size:6px; fill-color:white; "
+an "De Havilland Comet"
+cn "De Havilland Comet"  "ui.label":"De Havilland Comet"
+cn "De Havilland Comet"  "ui.style":"size:6px; fill-color:white; "
+an "Internal combustion engine"
+cn "Internal combustion engine"  "ui.label":"Internal combustion engine"
+cn "Internal combustion engine"  "ui.style":"size:6px; fill-color:white; "
+an "article"
+cn "article"  "ui.label":"article"
+cn "article"  "ui.style":"size:6px; fill-color:white; "
+an "Aircraft design process"
+cn "Aircraft design process"  "ui.label":"Aircraft design process"
+cn "Aircraft design process"  "ui.style":"size:6px; fill-color:white; "
+an "Brazilian_airliners"
+cn "Brazilian_airliners"  "ui.label":"Brazilian_airliners"
+cn "Brazilian_airliners"  "ui.style":"size:6px; fill-color:white; "
+an "Business jet"
+cn "Business jet"  "ui.label":"Business jet"
+cn "Business jet"  "ui.style":"size:6px; fill-color:white; "
+an "Rocket-powered aircraft"
+cn "Rocket-powered aircraft"  "ui.label":"Rocket-powered aircraft"
+cn "Rocket-powered aircraft"  "ui.style":"size:6px; fill-color:white; "
+an "Antonov"
+cn "Antonov"  "ui.label":"Antonov"
+cn "Antonov"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "Lift (force)"
+cn "Lift (force)"  "ui.label":"Lift (force)"
+cn "Lift (force)"  "ui.style":"size:6px; fill-color:white; "
+an "Takeoff"
+cn "Takeoff"  "ui.label":"Takeoff"
+cn "Takeoff"  "ui.style":"size:6px; fill-color:white; "
+an "Angle of attack"
+cn "Angle of attack"  "ui.label":"Angle of attack"
+cn "Angle of attack"  "ui.style":"size:6px; fill-color:white; "
+an "Ilyushin"
+cn "Ilyushin"  "ui.label":"Ilyushin"
+cn "Ilyushin"  "ui.style":"size:6px; fill-color:white; "
+an "Fighter aircraft"
+cn "Fighter aircraft"  "ui.label":"Fighter aircraft"
+cn "Fighter aircraft"  "ui.style":"size:6px; fill-color:white; "
+an "Embraer"
+cn "Embraer"  "ui.label":"Embraer"
+cn "Embraer"  "ui.style":"size:6px; fill-color:white; "
+an "Rega (air rescue)"
+cn "Rega (air rescue)"  "ui.label":"Rega (air rescue)"
+cn "Rega (air rescue)"  "ui.style":"size:6px; fill-color:white; "
+an "Environmental impact of aviation"
+cn "Environmental impact of aviation"  "ui.label":"Environmental impact of aviation"
+cn "Environmental impact of aviation"  "ui.style":"size:6px; fill-color:white; "
+an "American Civil War"
+cn "American Civil War"  "ui.label":"American Civil War"
+cn "American Civil War"  "ui.style":"size:6px; fill-color:white; "
+an "Civil aviation"
+cn "Civil aviation"  "ui.label":"Civil aviation"
+cn "Civil aviation"  "ui.style":"size:6px; fill-color:white; "
+ae "Aircraft->craft" "Aircraft"  "craft"
+ce "Aircraft->craft"  "type":0
+ae "craft->occupation" "craft"  "occupation"
+ce "craft->occupation"  "type":0
+ae "occupation->activity" "occupation"  "activity"
+ce "occupation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "creation->artifact" "creation"  "artifact"
+ce "creation->artifact"  "type":0
+ae "artifact->whole" "artifact"  "whole"
+ce "artifact->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Airliner->airplane" "Airliner"  "airplane"
+ce "Airliner->airplane"  "type":0
+ae "airplane->heavier-than-air craft" "airplane"  "heavier-than-air craft"
+ce "airplane->heavier-than-air craft"  "type":0
+ae "heavier-than-air craft->aircraft" "heavier-than-air craft"  "aircraft"
+ce "heavier-than-air craft->aircraft"  "type":0
+ae "aircraft->craft" "aircraft"  "craft"
+ce "aircraft->craft"  "type":0
+ae "aircraft->bogy" "aircraft"  "bogy"
+ce "aircraft->bogy"  "type":1
+ae "bogy->evil spirit" "bogy"  "evil spirit"
+ce "bogy->evil spirit"  "type":0
+ae "evil spirit->spirit" "evil spirit"  "spirit"
+ce "evil spirit->spirit"  "type":0
+ae "spirit->vital principle" "spirit"  "vital principle"
+ce "spirit->vital principle"  "type":0
+ae "vital principle->causal agent" "vital principle"  "causal agent"
+ce "vital principle->causal agent"  "type":0
+ae "causal agent->physical entity" "causal agent"  "physical entity"
+ce "causal agent->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "airplane->Fighter aircraft" "airplane" > "Fighter aircraft"
+ce "airplane->Fighter aircraft"  "type":8
+ae "document->representation" "document" > "representation"
+ce "document->representation"  "type":0
+ae "Aircraft->cockpit" "Aircraft" > "cockpit"
+ce "Aircraft->cockpit"  "type":7
+ae "Airliner->Airbus A300" "Airliner" > "Airbus A300"
+ce "Airliner->Airbus A300"  "type":8
+ae "Aircraft->nose" "Aircraft" > "nose"
+ce "Aircraft->nose"  "type":7
+ae "whole->unit" "whole" > "unit"
+ce "whole->unit"  "type":1
+ae "Aircraft->List of most-produced aircraft" "Aircraft" > "List of most-produced aircraft"
+ce "Aircraft->List of most-produced aircraft"  "type":8
+ae "Aircraft->Brazilian_airliners" "Aircraft" > "Brazilian_airliners"
+ce "Aircraft->Brazilian_airliners"  "type":8
+ae "idea->Man" "idea" > "Man"
+ce "idea->Man"  "type":8
+ae "Aircraft->Hot air balloon" "Aircraft" > "Hot air balloon"
+ce "Aircraft->Hot air balloon"  "type":8
+ae "aircraft->List of most-produced aircraft" "aircraft" > "List of most-produced aircraft"
+ce "aircraft->List of most-produced aircraft"  "type":8
+ae "Aircraft->Post-war" "Aircraft" > "Post-war"
+ce "Aircraft->Post-war"  "type":8
+ae "Aircraft->Helium" "Aircraft" > "Helium"
+ce "Aircraft->Helium"  "type":8
+ae "Aircraft->Hydrogen" "Aircraft" > "Hydrogen"
+ce "Aircraft->Hydrogen"  "type":8
+ae "document->Author" "document" > "Author"
+ce "document->Author"  "type":8
+ae "aircraft->nose" "aircraft" > "nose"
+ce "aircraft->nose"  "type":7
+ae "Aircraft->Embraer" "Aircraft" > "Embraer"
+ce "Aircraft->Embraer"  "type":8
+ae "activity->representation" "activity" > "representation"
+ce "activity->representation"  "type":1
+ae "activity->education" "activity" > "education"
+ce "activity->education"  "type":1
+ae "aircraft->cockpit" "aircraft" > "cockpit"
+ce "aircraft->cockpit"  "type":7
+ae "Aircraft->Wing configuration" "Aircraft" > "Wing configuration"
+ce "Aircraft->Wing configuration"  "type":8
+ae "Aircraft->Aspect ratio" "Aircraft" > "Aspect ratio"
+ce "Aircraft->Aspect ratio"  "type":8
+ae "Aircraft->Flying wing" "Aircraft" > "Flying wing"
+ce "Aircraft->Flying wing"  "type":8
+ae "Aircraft->Lifting body" "Aircraft" > "Lifting body"
+ce "Aircraft->Lifting body"  "type":8
+ae "abstraction->concept" "abstraction" > "concept"
+ce "abstraction->concept"  "type":0
+ae "Aircraft->Rotor kite" "Aircraft" > "Rotor kite"
+ce "Aircraft->Rotor kite"  "type":8
+ae "Airliner->De Havilland Comet" "Airliner" > "De Havilland Comet"
+ce "Airliner->De Havilland Comet"  "type":8
+ae "Airliner->Aerial refueling" "Airliner" > "Aerial refueling"
+ce "Airliner->Aerial refueling"  "type":8
+ae "document->Information" "document" > "Information"
+ce "document->Information"  "type":8
+ae "Airliner->Business jet" "Airliner" > "Business jet"
+ce "Airliner->Business jet"  "type":8
+ae "idea->Perception" "idea" > "Perception"
+ce "idea->Perception"  "type":8
+ae "abstraction->communication" "abstraction" > "communication"
+ce "abstraction->communication"  "type":1
+ae "Aircraft->Ornithopter" "Aircraft" > "Ornithopter"
+ce "Aircraft->Ornithopter"  "type":8
+ae "spirit->Carl Jung" "spirit" > "Carl Jung"
+ce "spirit->Carl Jung"  "type":8
+ae "aircraft->Airliner" "aircraft" > "Airliner"
+ce "aircraft->Airliner"  "type":8
+ae "aircraft->Hydrogen" "aircraft" > "Hydrogen"
+ce "aircraft->Hydrogen"  "type":8
+ae "Aircraft->Hughes H-4 Hercules" "Aircraft" > "Hughes H-4 Hercules"
+ce "Aircraft->Hughes H-4 Hercules"  "type":8
+ae "Aircraft->World War II" "Aircraft" > "World War II"
+ce "Aircraft->World War II"  "type":8
+ae "Aircraft->Airbus A300" "Aircraft" > "Airbus A300"
+ce "Aircraft->Airbus A300"  "type":8
+ae "Aircraft->Mach number" "Aircraft" > "Mach number"
+ce "Aircraft->Mach number"  "type":8
+ae "airplane->De Havilland Comet" "airplane" > "De Havilland Comet"
+ce "airplane->De Havilland Comet"  "type":8
+ae "Aircraft->Lockheed SR-71 Blackbird" "Aircraft" > "Lockheed SR-71 Blackbird"
+ce "Aircraft->Lockheed SR-71 Blackbird"  "type":8
+ae "airplane->Jet airliner" "airplane" > "Jet airliner"
+ce "airplane->Jet airliner"  "type":8
+ae "Aircraft->Tupolev Tu-144" "Aircraft" > "Tupolev Tu-144"
+ce "Aircraft->Tupolev Tu-144"  "type":8
+ae "concept->Man" "concept" > "Man"
+ce "concept->Man"  "type":8
+ae "occupation->Profession" "occupation" > "Profession"
+ce "occupation->Profession"  "type":8
+ae "Aircraft->Fuselage" "Aircraft" > "Fuselage"
+ce "Aircraft->Fuselage"  "type":8
+ae "Aircraft->De Havilland Canada DHC-6 Twin Otter" "Aircraft" > "De Havilland Canada DHC-6 Twin Otter"
+ce "Aircraft->De Havilland Canada DHC-6 Twin Otter"  "type":8
+ae "Aircraft->Tractor configuration" "Aircraft" > "Tractor configuration"
+ce "Aircraft->Tractor configuration"  "type":8
+ae "Aircraft->Pusher configuration" "Aircraft" > "Pusher configuration"
+ce "Aircraft->Pusher configuration"  "type":8
+ae "airplane->Takeoff" "airplane" > "Takeoff"
+ce "airplane->Takeoff"  "type":8
+ae "Aircraft->Internal combustion engine" "Aircraft" > "Internal combustion engine"
+ce "Aircraft->Internal combustion engine"  "type":8
+ae "artifact->article" "artifact" > "article"
+ce "artifact->article"  "type":1
+ae "abstraction->Information" "abstraction" > "Information"
+ce "abstraction->Information"  "type":8
+ae "Airliner->Antonov" "Airliner" > "Antonov"
+ce "Airliner->Antonov"  "type":8
+ae "Airliner->Embraer" "Airliner" > "Embraer"
+ce "Airliner->Embraer"  "type":8
+ae "Aircraft->Rocket-powered aircraft" "Aircraft" > "Rocket-powered aircraft"
+ce "Aircraft->Rocket-powered aircraft"  "type":8
+ae "group->unit" "group" > "unit"
+ce "group->unit"  "type":0
+ae "content->communication" "content" > "communication"
+ce "content->communication"  "type":0
+ae "Airliner->Cockpit" "Airliner" > "Cockpit"
+ce "Airliner->Cockpit"  "type":8
+ae "Aircraft->Takeoff" "Aircraft" > "Takeoff"
+ce "Aircraft->Takeoff"  "type":8
+ae "Aircraft->Angle of attack" "Aircraft" > "Angle of attack"
+ce "Aircraft->Angle of attack"  "type":8
+ae "airplane->Flying wing" "airplane" > "Flying wing"
+ce "airplane->Flying wing"  "type":8
+ae "Aircraft->Australian_airliners" "Aircraft" > "Australian_airliners"
+ce "Aircraft->Australian_airliners"  "type":8
+ae "abstraction->Perception" "abstraction" > "Perception"
+ce "abstraction->Perception"  "type":8
+ae "Aircraft->Norwegian_airliners" "Aircraft" > "Norwegian_airliners"
+ce "Aircraft->Norwegian_airliners"  "type":8
+ae "Aircraft->Environmental impact of aviation" "Aircraft" > "Environmental impact of aviation"
+ce "Aircraft->Environmental impact of aviation"  "type":8
+ae "airplane->Landing" "airplane" > "Landing"
+ce "airplane->Landing"  "type":8
+ae "Aircraft->Civil aviation" "Aircraft" > "Civil aviation"
+ce "Aircraft->Civil aviation"  "type":8
+ae "Aircraft->Fighter aircraft" "Aircraft" > "Fighter aircraft"
+ce "Aircraft->Fighter aircraft"  "type":8
+ae "Aircraft->Bomber" "Aircraft" > "Bomber"
+ce "Aircraft->Bomber"  "type":8
+ae "writing->Parchment" "writing" > "Parchment"
+ce "writing->Parchment"  "type":8
+ae "Aircraft->Aerial refueling" "Aircraft" > "Aerial refueling"
+ce "Aircraft->Aerial refueling"  "type":8
+ae "Aircraft->American Civil War" "Aircraft" > "American Civil War"
+ce "Aircraft->American Civil War"  "type":8
+ae "Aircraft->Rega (air rescue)" "Aircraft" > "Rega (air rescue)"
+ce "Aircraft->Rega (air rescue)"  "type":8
+ae "Airliner->Ilyushin" "Airliner" > "Ilyushin"
+ce "Airliner->Ilyushin"  "type":8
+ae "creation->invention" "creation" > "invention"
+ce "creation->invention"  "type":1
+ae "Aircraft->Business jet" "Aircraft" > "Business jet"
+ce "Aircraft->Business jet"  "type":8
+ae "Airliner->Bomber" "Airliner" > "Bomber"
+ce "Airliner->Bomber"  "type":8
+ae "aircraft->Lift (force)" "aircraft" > "Lift (force)"
+ce "aircraft->Lift (force)"  "type":8
+ae "Airliner->Landing gear" "Airliner" > "Landing gear"
+ce "Airliner->Landing gear"  "type":8
+ae "Aircraft->Aircraft spotting" "Aircraft" > "Aircraft spotting"
+ce "Aircraft->Aircraft spotting"  "type":8
+ae "Aircraft->Flying car" "Aircraft" > "Flying car"
+ce "Aircraft->Flying car"  "type":8
+ae "Aircraft->Life (magazine)" "Aircraft" > "Life (magazine)"
+ce "Aircraft->Life (magazine)"  "type":8
+ae "airplane->Cockpit" "airplane" > "Cockpit"
+ce "airplane->Cockpit"  "type":8
+ae "Airliner->World War II" "Airliner" > "World War II"
+ce "Airliner->World War II"  "type":8
+ae "creating by mental acts->invention" "creating by mental acts" > "invention"
+ce "creating by mental acts->invention"  "type":1
+ae "aircraft->Wing configuration" "aircraft" > "Wing configuration"
+ce "aircraft->Wing configuration"  "type":8
+ae "document->Parchment" "document" > "Parchment"
+ce "document->Parchment"  "type":8
+ae "aircraft->Helium" "aircraft" > "Helium"
+ce "aircraft->Helium"  "type":8
+ae "Airliner->Norwegian_airliners" "Airliner" > "Norwegian_airliners"
+ce "Airliner->Norwegian_airliners"  "type":8
+ae "aircraft->Life (magazine)" "aircraft" > "Life (magazine)"
+ce "aircraft->Life (magazine)"  "type":8
+ae "airplane->Mach number" "airplane" > "Mach number"
+ce "airplane->Mach number"  "type":8
+ae "airplane->NASA X-43" "airplane" > "NASA X-43"
+ce "airplane->NASA X-43"  "type":8
+ae "aircraft->Flying car" "aircraft" > "Flying car"
+ce "aircraft->Flying car"  "type":8
+ae "aircraft->Aircraft spotting" "aircraft" > "Aircraft spotting"
+ce "aircraft->Aircraft spotting"  "type":8
+ae "Airliner->French_airliners" "Airliner" > "French_airliners"
+ce "Airliner->French_airliners"  "type":8
+ae "content->representation" "content" > "representation"
+ce "content->representation"  "type":1
+ae "Aircraft->Italian_airliners" "Aircraft" > "Italian_airliners"
+ce "Aircraft->Italian_airliners"  "type":8
+ae "aircraft->Post-war" "aircraft" > "Post-war"
+ce "aircraft->Post-war"  "type":8
+ae "document->article" "document" > "article"
+ce "document->article"  "type":7
+ae "aircraft->Rega (air rescue)" "aircraft" > "Rega (air rescue)"
+ce "aircraft->Rega (air rescue)"  "type":8
+ae "content->education" "content" > "education"
+ce "content->education"  "type":1
+ae "aircraft->American Civil War" "aircraft" > "American Civil War"
+ce "aircraft->American Civil War"  "type":8
+ae "aircraft->Aerial refueling" "aircraft" > "Aerial refueling"
+ce "aircraft->Aerial refueling"  "type":8
+ae "aircraft->Bomber" "aircraft" > "Bomber"
+ce "aircraft->Bomber"  "type":8
+ae "aircraft->Fighter aircraft" "aircraft" > "Fighter aircraft"
+ce "aircraft->Fighter aircraft"  "type":8
+ae "aircraft->Civil aviation" "aircraft" > "Civil aviation"
+ce "aircraft->Civil aviation"  "type":8
+ae "Airliner->Ukrainian_airliners" "Airliner" > "Ukrainian_airliners"
+ce "Airliner->Ukrainian_airliners"  "type":8
+ae "aircraft->Environmental impact of aviation" "aircraft" > "Environmental impact of aviation"
+ce "aircraft->Environmental impact of aviation"  "type":8
+ae "Aircraft->Ilyushin" "Aircraft" > "Ilyushin"
+ce "Aircraft->Ilyushin"  "type":8
+ae "airplane->Landing gear" "airplane" > "Landing gear"
+ce "airplane->Landing gear"  "type":8
+ae "Airliner->Tupolev Tu-144" "Airliner" > "Tupolev Tu-144"
+ce "Airliner->Tupolev Tu-144"  "type":8
+ae "Aircraft->Iranian_airliners" "Aircraft" > "Iranian_airliners"
+ce "Aircraft->Iranian_airliners"  "type":8
+ae "aircraft->Angle of attack" "aircraft" > "Angle of attack"
+ce "aircraft->Angle of attack"  "type":8
+ae "Aircraft->French_airliners" "Aircraft" > "French_airliners"
+ce "Aircraft->French_airliners"  "type":8
+ae "aircraft->Landing" "aircraft" > "Landing"
+ce "aircraft->Landing"  "type":8
+ae "aircraft->Aircraft design process" "aircraft" > "Aircraft design process"
+ce "aircraft->Aircraft design process"  "type":8
+ae "aircraft->Rocket-powered aircraft" "aircraft" > "Rocket-powered aircraft"
+ce "aircraft->Rocket-powered aircraft"  "type":8
+ae "airplane->Fuselage" "airplane" > "Fuselage"
+ce "airplane->Fuselage"  "type":8
+ae "airplane->Lift (force)" "airplane" > "Lift (force)"
+ce "airplane->Lift (force)"  "type":8
+ae "Airliner->Australian_airliners" "Airliner" > "Australian_airliners"
+ce "Airliner->Australian_airliners"  "type":8
+ae "abstraction->Carl Jung" "abstraction" > "Carl Jung"
+ce "abstraction->Carl Jung"  "type":8
+ae "aircraft->Internal combustion engine" "aircraft" > "Internal combustion engine"
+ce "aircraft->Internal combustion engine"  "type":8
+ae "aircraft->Pusher configuration" "aircraft" > "Pusher configuration"
+ce "aircraft->Pusher configuration"  "type":8
+ae "aircraft->Tractor configuration" "aircraft" > "Tractor configuration"
+ce "aircraft->Tractor configuration"  "type":8
+ae "aircraft->De Havilland Canada DHC-6 Twin Otter" "aircraft" > "De Havilland Canada DHC-6 Twin Otter"
+ce "aircraft->De Havilland Canada DHC-6 Twin Otter"  "type":8
+ae "aircraft->Hot air balloon" "aircraft" > "Hot air balloon"
+ce "aircraft->Hot air balloon"  "type":8
+ae "Airliner->Brazilian_airliners" "Airliner" > "Brazilian_airliners"
+ce "Airliner->Brazilian_airliners"  "type":8
+ae "aircraft->Tupolev Tu-144" "aircraft" > "Tupolev Tu-144"
+ce "aircraft->Tupolev Tu-144"  "type":8
+ae "writing->Author" "writing" > "Author"
+ce "writing->Author"  "type":8
+ae "aircraft->Lockheed SR-71 Blackbird" "aircraft" > "Lockheed SR-71 Blackbird"
+ce "aircraft->Lockheed SR-71 Blackbird"  "type":8
+ae "Aircraft->Antonov" "Aircraft" > "Antonov"
+ce "Aircraft->Antonov"  "type":8
+ae "aircraft->NASA X-43" "aircraft" > "NASA X-43"
+ce "aircraft->NASA X-43"  "type":8
+ae "craft->Profession" "craft" > "Profession"
+ce "craft->Profession"  "type":8
+ae "Airliner->Italian_airliners" "Airliner" > "Italian_airliners"
+ce "Airliner->Italian_airliners"  "type":8
+ae "aircraft->Hughes H-4 Hercules" "aircraft" > "Hughes H-4 Hercules"
+ce "aircraft->Hughes H-4 Hercules"  "type":8
+ae "Airliner->Iranian_airliners" "Airliner" > "Iranian_airliners"
+ce "Airliner->Iranian_airliners"  "type":8
+ae "Airliner->Jet airliner" "Airliner" > "Jet airliner"
+ce "Airliner->Jet airliner"  "type":8
+ae "aircraft->Ornithopter" "aircraft" > "Ornithopter"
+ce "aircraft->Ornithopter"  "type":8
+ae "Aircraft->Ukrainian_airliners" "Aircraft" > "Ukrainian_airliners"
+ce "Aircraft->Ukrainian_airliners"  "type":8
+ae "aircraft->Aspect ratio" "aircraft" > "Aspect ratio"
+ce "aircraft->Aspect ratio"  "type":8
+ae "writing->activity" "writing" > "activity"
+ce "writing->activity"  "type":0
+ae "Airliner->Aircraft spotting" "Airliner" > "Aircraft spotting"
+ce "Airliner->Aircraft spotting"  "type":8
+ae "Airliner->Aircraft design process" "Airliner" > "Aircraft design process"
+ce "Airliner->Aircraft design process"  "type":8
+ae "aircraft->Rotor kite" "aircraft" > "Rotor kite"
+ce "aircraft->Rotor kite"  "type":8
+ae "aircraft->Lifting body" "aircraft" > "Lifting body"
+ce "aircraft->Lifting body"  "type":8
+ae "aircraft->Flying wing" "aircraft" > "Flying wing"
+ce "aircraft->Flying wing"  "type":8

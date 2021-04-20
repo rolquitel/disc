@@ -1,0 +1,464 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "furnace"
+cn "furnace"  "ui.label":"furnace"
+cn "furnace"  "ui.style":"size-mode:fit;"
+an "chamber"
+cn "chamber"  "ui.label":"chamber"
+cn "chamber"  "ui.style":"size:6px; fill-color:white; "
+an "enclosure"
+cn "enclosure"  "ui.label":"enclosure"
+cn "enclosure"  "ui.style":"size:6px; fill-color:white; "
+an "area"
+cn "area"  "ui.label":"area"
+cn "area"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "stove"
+cn "stove"  "ui.label":"stove"
+cn "stove"  "ui.style":"size-mode:fit;"
+an "kitchen appliance"
+cn "kitchen appliance"  "ui.label":"kitchen appliance"
+cn "kitchen appliance"  "ui.style":"size:6px; fill-color:white; "
+an "home appliance"
+cn "home appliance"  "ui.label":"home appliance"
+cn "home appliance"  "ui.style":"size:6px; fill-color:white; "
+an "appliance"
+cn "appliance"  "ui.label":"appliance"
+cn "appliance"  "ui.style":"size:6px; fill-color:white; "
+an "device"
+cn "device"  "ui.label":"device"
+cn "device"  "ui.style":"size:6px; fill-color:white; "
+an "instrumentality"
+cn "instrumentality"  "ui.label":"instrumentality"
+cn "instrumentality"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "definite quantity"
+cn "definite quantity"  "ui.label":"definite quantity"
+cn "definite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "borderland"
+cn "borderland"  "ui.label":"borderland"
+cn "borderland"  "ui.style":"size:6px; fill-color:white; "
+an "city district"
+cn "city district"  "ui.label":"city district"
+cn "city district"  "ui.style":"size:6px; fill-color:white; "
+an "Barbary Coast"
+cn "Barbary Coast"  "ui.label":"Barbary Coast"
+cn "Barbary Coast"  "ui.style":"size:6px; fill-color:white; "
+an "Barbary"
+cn "Barbary"  "ui.label":"Barbary"
+cn "Barbary"  "ui.style":"size:6px; fill-color:white; "
+an "Africa"
+cn "Africa"  "ui.label":"Africa"
+cn "Africa"  "ui.style":"size:6px; fill-color:white; "
+an "eastern hemisphere"
+cn "eastern hemisphere"  "ui.label":"eastern hemisphere"
+cn "eastern hemisphere"  "ui.style":"size:6px; fill-color:white; "
+an "hemisphere"
+cn "hemisphere"  "ui.label":"hemisphere"
+cn "hemisphere"  "ui.style":"size:6px; fill-color:white; "
+an "geographical area"
+cn "geographical area"  "ui.label":"geographical area"
+cn "geographical area"  "ui.style":"size:6px; fill-color:white; "
+an "territory"
+cn "territory"  "ui.label":"territory"
+cn "territory"  "ui.style":"size:6px; fill-color:white; "
+an "congressional district"
+cn "congressional district"  "ui.label":"congressional district"
+cn "congressional district"  "ui.style":"size:6px; fill-color:white; "
+an "American state"
+cn "American state"  "ui.label":"American state"
+cn "American state"  "ui.style":"size:6px; fill-color:white; "
+an "slave state"
+cn "slave state"  "ui.label":"slave state"
+cn "slave state"  "ui.style":"size:6px; fill-color:white; "
+an "Confederacy"
+cn "Confederacy"  "ui.label":"Confederacy"
+cn "Confederacy"  "ui.style":"size:6px; fill-color:white; "
+an "union"
+cn "union"  "ui.label":"union"
+cn "union"  "ui.style":"size:6px; fill-color:white; "
+an "organization"
+cn "organization"  "ui.label":"organization"
+cn "organization"  "ui.style":"size:6px; fill-color:white; "
+an "social group"
+cn "social group"  "ui.label":"social group"
+cn "social group"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "drift"
+cn "drift"  "ui.label":"drift"
+cn "drift"  "ui.style":"size:6px; fill-color:white; "
+an "healing"
+cn "healing"  "ui.label":"healing"
+cn "healing"  "ui.style":"size:6px; fill-color:white; "
+an "political unit"
+cn "political unit"  "ui.label":"political unit"
+cn "political unit"  "ui.style":"size:6px; fill-color:white; "
+an "condensation"
+cn "condensation"  "ui.label":"condensation"
+cn "condensation"  "ui.style":"size:6px; fill-color:white; "
+an "concretion"
+cn "concretion"  "ui.label":"concretion"
+cn "concretion"  "ui.style":"size:6px; fill-color:white; "
+an "nuclear reaction"
+cn "nuclear reaction"  "ui.label":"nuclear reaction"
+cn "nuclear reaction"  "ui.style":"size:6px; fill-color:white; "
+an "erogenous zone"
+cn "erogenous zone"  "ui.label":"erogenous zone"
+cn "erogenous zone"  "ui.style":"size:6px; fill-color:white; "
+an "side"
+cn "side"  "ui.label":"side"
+cn "side"  "ui.style":"size:6px; fill-color:white; "
+an "implantation"
+cn "implantation"  "ui.label":"implantation"
+cn "implantation"  "ui.style":"size:6px; fill-color:white; "
+an "overdrive"
+cn "overdrive"  "ui.label":"overdrive"
+cn "overdrive"  "ui.style":"size:6px; fill-color:white; "
+an "mechanism"
+cn "mechanism"  "ui.label":"mechanism"
+cn "mechanism"  "ui.style":"size:6px; fill-color:white; "
+an "stimulation"
+cn "stimulation"  "ui.label":"stimulation"
+cn "stimulation"  "ui.style":"size:6px; fill-color:white; "
+an "support"
+cn "support"  "ui.label":"support"
+cn "support"  "ui.style":"size:6px; fill-color:white; "
+an "waist"
+cn "waist"  "ui.label":"waist"
+cn "waist"  "ui.style":"size:6px; fill-color:white; "
+an "perineum"
+cn "perineum"  "ui.label":"perineum"
+cn "perineum"  "ui.style":"size:6px; fill-color:white; "
+an "British West Africa"
+cn "British West Africa"  "ui.label":"British West Africa"
+cn "British West Africa"  "ui.style":"size:6px; fill-color:white; "
+an "natural object"
+cn "natural object"  "ui.label":"natural object"
+cn "natural object"  "ui.style":"size:6px; fill-color:white; "
+an "possession"
+cn "possession"  "ui.label":"possession"
+cn "possession"  "ui.style":"size:6px; fill-color:white; "
+an "pit"
+cn "pit"  "ui.label":"pit"
+cn "pit"  "ui.style":"size:6px; fill-color:white; "
+an "mandate"
+cn "mandate"  "ui.label":"mandate"
+cn "mandate"  "ui.style":"size:6px; fill-color:white; "
+an "force"
+cn "force"  "ui.label":"force"
+cn "force"  "ui.style":"size:6px; fill-color:white; "
+an "distribution"
+cn "distribution"  "ui.label":"distribution"
+cn "distribution"  "ui.style":"size:6px; fill-color:white; "
+an "environment"
+cn "environment"  "ui.label":"environment"
+cn "environment"  "ui.style":"size:6px; fill-color:white; "
+an "palm"
+cn "palm"  "ui.label":"palm"
+cn "palm"  "ui.style":"size:6px; fill-color:white; "
+ae "furnace->chamber" "furnace"  "chamber"
+ce "furnace->chamber"  "type":0
+ae "chamber->enclosure" "chamber"  "enclosure"
+ce "chamber->enclosure"  "type":0
+ae "enclosure->area" "enclosure"  "area"
+ce "enclosure->area"  "type":0
+ae "area->region" "area"  "region"
+ce "area->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "stove->kitchen appliance" "stove"  "kitchen appliance"
+ce "stove->kitchen appliance"  "type":0
+ae "kitchen appliance->home appliance" "kitchen appliance"  "home appliance"
+ce "kitchen appliance->home appliance"  "type":0
+ae "home appliance->appliance" "home appliance"  "appliance"
+ce "home appliance->appliance"  "type":0
+ae "appliance->device" "appliance"  "device"
+ce "appliance->device"  "type":0
+ae "device->instrumentality" "device"  "instrumentality"
+ce "device->instrumentality"  "type":0
+ae "instrumentality->unit" "instrumentality"  "unit"
+ce "instrumentality->unit"  "type":0
+ae "unit->definite quantity" "unit"  "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity"  "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "activity->state" "activity"  "state"
+ce "activity->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "district->borderland" "district"  "borderland"
+ce "district->borderland"  "type":1
+ae "district->city district" "district"  "city district"
+ce "district->city district"  "type":1
+ae "city district->Barbary Coast" "city district"  "Barbary Coast"
+ce "city district->Barbary Coast"  "type":1
+ae "Barbary Coast->Barbary" "Barbary Coast"  "Barbary"
+ce "Barbary Coast->Barbary"  "type":6
+ae "Barbary->Africa" "Barbary"  "Africa"
+ce "Barbary->Africa"  "type":6
+ae "Africa->eastern hemisphere" "Africa"  "eastern hemisphere"
+ce "Africa->eastern hemisphere"  "type":6
+ae "eastern hemisphere->hemisphere" "eastern hemisphere"  "hemisphere"
+ce "eastern hemisphere->hemisphere"  "type":0
+ae "hemisphere->geographical area" "hemisphere"  "geographical area"
+ce "hemisphere->geographical area"  "type":0
+ae "geographical area->region" "geographical area"  "region"
+ce "geographical area->region"  "type":0
+ae "geographical area->territory" "geographical area"  "territory"
+ce "geographical area->territory"  "type":1
+ae "territory->region" "territory"  "region"
+ce "territory->region"  "type":0
+ae "territory->area" "territory"  "area"
+ce "territory->area"  "type":0
+ae "territory->administrative district" "territory"  "administrative district"
+ce "territory->administrative district"  "type":1
+ae "territory->borderland" "territory"  "borderland"
+ce "territory->borderland"  "type":1
+ae "territory->city district" "territory"  "city district"
+ce "territory->city district"  "type":1
+ae "territory->congressional district" "territory"  "congressional district"
+ce "territory->congressional district"  "type":1
+ae "congressional district->district" "congressional district"  "district"
+ce "congressional district->district"  "type":0
+ae "congressional district->American state" "congressional district"  "American state"
+ce "congressional district->American state"  "type":6
+ae "American state->state" "American state"  "state"
+ce "American state->state"  "type":0
+ae "American state->slave state" "American state"  "slave state"
+ce "American state->slave state"  "type":1
+ae "slave state->Confederacy" "slave state"  "Confederacy"
+ce "slave state->Confederacy"  "type":6
+ae "Confederacy->union" "Confederacy"  "union"
+ce "Confederacy->union"  "type":0
+ae "union->organization" "union"  "organization"
+ce "union->organization"  "type":0
+ae "organization->social group" "organization"  "social group"
+ce "organization->social group"  "type":0
+ae "social group->group" "social group"  "group"
+ce "social group->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "activity->condensation" "activity" > "condensation"
+ce "activity->condensation"  "type":1
+ae "abstraction->measure" "abstraction" > "measure"
+ce "abstraction->measure"  "type":1
+ae "abstraction->communication" "abstraction" > "communication"
+ce "abstraction->communication"  "type":1
+ae "state->political unit" "state" > "political unit"
+ce "state->political unit"  "type":0
+ae "territory->possession" "territory" > "possession"
+ce "territory->possession"  "type":1
+ae "territory->mandate" "territory" > "mandate"
+ce "territory->mandate"  "type":1
+ae "document->communication" "document" > "communication"
+ce "document->communication"  "type":0
+ae "region->perineum" "region" > "perineum"
+ce "region->perineum"  "type":1
+ae "area->pit" "area" > "pit"
+ce "area->pit"  "type":1
+ae "operation->implantation" "operation" > "implantation"
+ce "operation->implantation"  "type":1
+ae "operation->activity" "operation" > "activity"
+ce "operation->activity"  "type":0
+ae "organization->distribution" "organization" > "distribution"
+ce "organization->distribution"  "type":1
+ae "activity->operation" "activity" > "operation"
+ce "activity->operation"  "type":1
+ae "unit->object" "unit" > "object"
+ce "unit->object"  "type":0
+ae "geographical area->environment" "geographical area" > "environment"
+ce "geographical area->environment"  "type":1
+ae "action->stimulation" "action" > "stimulation"
+ce "action->stimulation"  "type":1
+ae "region->waist" "region" > "waist"
+ce "region->waist"  "type":1
+ae "region->palm" "region" > "palm"
+ce "region->palm"  "type":1
+ae "activity->healing" "activity" > "healing"
+ce "activity->healing"  "type":1
+ae "enclosure->pit" "enclosure" > "pit"
+ce "enclosure->pit"  "type":1
+ae "activity->support" "activity" > "support"
+ce "activity->support"  "type":1
+ae "action->nuclear reaction" "action" > "nuclear reaction"
+ce "action->nuclear reaction"  "type":1
+ae "district->mandate" "district" > "mandate"
+ce "district->mandate"  "type":1
+ae "area->environment" "area" > "environment"
+ce "area->environment"  "type":0
+ae "maneuver->device" "maneuver" > "device"
+ce "maneuver->device"  "type":1
+ae "creation->natural object" "creation" > "natural object"
+ce "creation->natural object"  "type":0
+ae "territory->British West Africa" "territory" > "British West Africa"
+ce "territory->British West Africa"  "type":1
+ae "activity->stimulation" "activity" > "stimulation"
+ce "activity->stimulation"  "type":1
+ae "action->drift" "action" > "drift"
+ce "action->drift"  "type":1
+ae "device->support" "device" > "support"
+ce "device->support"  "type":1
+ae "activity->overdrive" "activity" > "overdrive"
+ce "activity->overdrive"  "type":1
+ae "action->condensation" "action" > "condensation"
+ce "action->condensation"  "type":1
+ae "group->unit" "group" > "unit"
+ce "group->unit"  "type":0
+ae "action->concretion" "action" > "concretion"
+ce "action->concretion"  "type":1
+ae "region->erogenous zone" "region" > "erogenous zone"
+ce "region->erogenous zone"  "type":1
+ae "area->erogenous zone" "area" > "erogenous zone"
+ce "area->erogenous zone"  "type":1
+ae "activity->concretion" "activity" > "concretion"
+ce "activity->concretion"  "type":1
+ae "location->implantation" "location" > "implantation"
+ce "location->implantation"  "type":1
+ae "area->perineum" "area" > "perineum"
+ce "area->perineum"  "type":1
+ae "area->side" "area" > "side"
+ce "area->side"  "type":1
+ae "area->waist" "area" > "waist"
+ce "area->waist"  "type":1
+ae "area->palm" "area" > "palm"
+ce "area->palm"  "type":1
+ae "union->state" "union" > "state"
+ce "union->state"  "type":0
+ae "action->overdrive" "action" > "overdrive"
+ce "action->overdrive"  "type":1
+ae "union->healing" "union" > "healing"
+ce "union->healing"  "type":0
+ae "social group->force" "social group" > "force"
+ce "social group->force"  "type":1
+ae "act->distribution" "act" > "distribution"
+ce "act->distribution"  "type":1
+ae "unit->side" "unit" > "side"
+ce "unit->side"  "type":1
+ae "union->political unit" "union" > "political unit"
+ce "union->political unit"  "type":0
+ae "activity->nuclear reaction" "activity" > "nuclear reaction"
+ce "activity->nuclear reaction"  "type":1
+ae "unit->natural object" "unit" > "natural object"
+ce "unit->natural object"  "type":1
+ae "union->device" "union" > "device"
+ce "union->device"  "type":0
+ae "activity->organization" "activity" > "organization"
+ce "activity->organization"  "type":1
+ae "device->mechanism" "device" > "mechanism"
+ce "device->mechanism"  "type":1
+ae "district->possession" "district" > "possession"
+ce "district->possession"  "type":1
+ae "action->mechanism" "action" > "mechanism"
+ce "action->mechanism"  "type":0
+ae "activity->drift" "activity" > "drift"
+ce "activity->drift"  "type":1
+ae "organization->force" "organization" > "force"
+ce "organization->force"  "type":1
+ae "district->British West Africa" "district" > "British West Africa"
+ce "district->British West Africa"  "type":1

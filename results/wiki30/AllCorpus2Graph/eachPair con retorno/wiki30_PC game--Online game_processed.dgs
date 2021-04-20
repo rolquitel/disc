@@ -1,0 +1,250 @@
+DGS004
+null 0 0
+an "PC game"
+cn "PC game"  "ui.label":"PC game"
+cn "PC game"  "ui.style":"size-mode:fit;"
+an "Video game"
+cn "Video game"  "ui.label":"Video game"
+cn "Video game"  "ui.style":"size:6px; fill-color:white; "
+an "game"
+cn "game"  "ui.label":"game"
+cn "game"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "Online game"
+cn "Online game"  "ui.label":"Online game"
+cn "Online game"  "ui.style":"size-mode:fit;"
+an "Gameplay"
+cn "Gameplay"  "ui.label":"Gameplay"
+cn "Gameplay"  "ui.style":"size:6px; fill-color:white; "
+an "Potentiality and actuality"
+cn "Potentiality and actuality"  "ui.label":"Potentiality and actuality"
+cn "Potentiality and actuality"  "ui.style":"size:6px; fill-color:white; "
+an "Politics"
+cn "Politics"  "ui.label":"Politics"
+cn "Politics"  "ui.style":"size:6px; fill-color:white; "
+an "Thesis"
+cn "Thesis"  "ui.label":"Thesis"
+cn "Thesis"  "ui.style":"size:6px; fill-color:white; "
+an "Next Generation (magazine)"
+cn "Next Generation (magazine)"  "ui.label":"Next Generation (magazine)"
+cn "Next Generation (magazine)"  "ui.style":"size:6px; fill-color:white; "
+an "Online_game_stubs"
+cn "Online_game_stubs"  "ui.label":"Online_game_stubs"
+cn "Online_game_stubs"  "ui.style":"size:6px; fill-color:white; "
+an "Tic-tac-toe"
+cn "Tic-tac-toe"  "ui.label":"Tic-tac-toe"
+cn "Tic-tac-toe"  "ui.style":"size:6px; fill-color:white; "
+an "Linux_games"
+cn "Linux_games"  "ui.label":"Linux_games"
+cn "Linux_games"  "ui.style":"size:6px; fill-color:white; "
+an "Mod (video gaming)"
+cn "Mod (video gaming)"  "ui.label":"Mod (video gaming)"
+cn "Mod (video gaming)"  "ui.style":"size:6px; fill-color:white; "
+an "PlayStation"
+cn "PlayStation"  "ui.label":"PlayStation"
+cn "PlayStation"  "ui.style":"size:6px; fill-color:white; "
+an "SimCity"
+cn "SimCity"  "ui.label":"SimCity"
+cn "SimCity"  "ui.style":"size:6px; fill-color:white; "
+an "Xbox Live"
+cn "Xbox Live"  "ui.label":"Xbox Live"
+cn "Xbox Live"  "ui.style":"size:6px; fill-color:white; "
+an "Frogger"
+cn "Frogger"  "ui.label":"Frogger"
+cn "Frogger"  "ui.style":"size:6px; fill-color:white; "
+an "Computer monitor"
+cn "Computer monitor"  "ui.label":"Computer monitor"
+cn "Computer monitor"  "ui.style":"size:6px; fill-color:white; "
+an "Paper"
+cn "Paper"  "ui.label":"Paper"
+cn "Paper"  "ui.style":"size:6px; fill-color:white; "
+an "Id Software"
+cn "Id Software"  "ui.label":"Id Software"
+cn "Id Software"  "ui.style":"size:6px; fill-color:white; "
+an "Namco"
+cn "Namco"  "ui.label":"Namco"
+cn "Namco"  "ui.style":"size:6px; fill-color:white; "
+an "American Psychological Association"
+cn "American Psychological Association"  "ui.label":"American Psychological Association"
+cn "American Psychological Association"  "ui.style":"size:6px; fill-color:white; "
+an "StarCraft"
+cn "StarCraft"  "ui.label":"StarCraft"
+cn "StarCraft"  "ui.style":"size:6px; fill-color:white; "
+an "Blizzard Entertainment"
+cn "Blizzard Entertainment"  "ui.label":"Blizzard Entertainment"
+cn "Blizzard Entertainment"  "ui.style":"size:6px; fill-color:white; "
+an "PlayStation 2"
+cn "PlayStation 2"  "ui.label":"PlayStation 2"
+cn "PlayStation 2"  "ui.style":"size:6px; fill-color:white; "
+an "Wii"
+cn "Wii"  "ui.label":"Wii"
+cn "Wii"  "ui.style":"size:6px; fill-color:white; "
+an "Nintendo"
+cn "Nintendo"  "ui.label":"Nintendo"
+cn "Nintendo"  "ui.style":"size:6px; fill-color:white; "
+an "Inactive_online_games"
+cn "Inactive_online_games"  "ui.label":"Inactive_online_games"
+cn "Inactive_online_games"  "ui.style":"size:6px; fill-color:white; "
+an "Action_video_game_characters"
+cn "Action_video_game_characters"  "ui.label":"Action_video_game_characters"
+cn "Action_video_game_characters"  "ui.style":"size:6px; fill-color:white; "
+an "Mobile game"
+cn "Mobile game"  "ui.label":"Mobile game"
+cn "Mobile game"  "ui.style":"size:6px; fill-color:white; "
+ae "PC game->Video game" "PC game"  "Video game"
+ce "PC game->Video game"  "type":8
+ae "Video game->game" "Video game"  "game"
+ce "Video game->game"  "type":0
+ae "game->activity" "game"  "activity"
+ce "game->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "Online game->Video game" "Online game"  "Video game"
+ce "Online game->Video game"  "type":8
+ae "Online game->Online_game_stubs" "Online game" > "Online_game_stubs"
+ce "Online game->Online_game_stubs"  "type":8
+ae "Video game->SimCity" "Video game" > "SimCity"
+ce "Video game->SimCity"  "type":8
+ae "game->Politics" "game" > "Politics"
+ce "game->Politics"  "type":8
+ae "Online game->Inactive_online_games" "Online game" > "Inactive_online_games"
+ce "Online game->Inactive_online_games"  "type":8
+ae "Video game->Online_game_stubs" "Video game" > "Online_game_stubs"
+ce "Video game->Online_game_stubs"  "type":8
+ae "Video game->Id Software" "Video game" > "Id Software"
+ce "Video game->Id Software"  "type":8
+ae "document->Politics" "document" > "Politics"
+ce "document->Politics"  "type":8
+ae "PC game->Computer monitor" "PC game" > "Computer monitor"
+ce "PC game->Computer monitor"  "type":8
+ae "Video game->Blizzard Entertainment" "Video game" > "Blizzard Entertainment"
+ce "Video game->Blizzard Entertainment"  "type":8
+ae "Online game->Action_video_game_characters" "Online game" > "Action_video_game_characters"
+ce "Online game->Action_video_game_characters"  "type":8
+ae "writing->Paper" "writing" > "Paper"
+ce "writing->Paper"  "type":8
+ae "Video game->Namco" "Video game" > "Namco"
+ce "Video game->Namco"  "type":8
+ae "PC game->Frogger" "PC game" > "Frogger"
+ce "PC game->Frogger"  "type":8
+ae "game->Tic-tac-toe" "game" > "Tic-tac-toe"
+ce "game->Tic-tac-toe"  "type":8
+ae "Video game->PlayStation" "Video game" > "PlayStation"
+ce "Video game->PlayStation"  "type":8
+ae "activity->Potentiality and actuality" "activity" > "Potentiality and actuality"
+ce "activity->Potentiality and actuality"  "type":8
+ae "PC game->Namco" "PC game" > "Namco"
+ce "PC game->Namco"  "type":8
+ae "act->Thesis" "act" > "Thesis"
+ce "act->Thesis"  "type":8
+ae "Video game->PlayStation 2" "Video game" > "PlayStation 2"
+ce "Video game->PlayStation 2"  "type":8
+ae "PC game->Blizzard Entertainment" "PC game" > "Blizzard Entertainment"
+ce "PC game->Blizzard Entertainment"  "type":8
+ae "PC game->Linux_games" "PC game" > "Linux_games"
+ce "PC game->Linux_games"  "type":8
+ae "game->SimCity" "game" > "SimCity"
+ce "game->SimCity"  "type":8
+ae "PC game->Nintendo" "PC game" > "Nintendo"
+ce "PC game->Nintendo"  "type":8
+ae "Video game->Action_video_game_characters" "Video game" > "Action_video_game_characters"
+ce "Video game->Action_video_game_characters"  "type":8
+ae "Online game->Wii" "Online game" > "Wii"
+ce "Online game->Wii"  "type":8
+ae "Video game->Frogger" "Video game" > "Frogger"
+ce "Video game->Frogger"  "type":8
+ae "Online game->Xbox Live" "Online game" > "Xbox Live"
+ce "Online game->Xbox Live"  "type":8
+ae "Video game->Wii" "Video game" > "Wii"
+ce "Video game->Wii"  "type":8
+ae "Video game->Mod (video gaming)" "Video game" > "Mod (video gaming)"
+ce "Video game->Mod (video gaming)"  "type":8
+ae "Video game->Mobile game" "Video game" > "Mobile game"
+ce "Video game->Mobile game"  "type":8
+ae "PC game->Mobile game" "PC game" > "Mobile game"
+ce "PC game->Mobile game"  "type":8
+ae "Video game->Inactive_online_games" "Video game" > "Inactive_online_games"
+ce "Video game->Inactive_online_games"  "type":8
+ae "Video game->StarCraft" "Video game" > "StarCraft"
+ce "Video game->StarCraft"  "type":8
+ae "Online game->PlayStation 2" "Online game" > "PlayStation 2"
+ce "Online game->PlayStation 2"  "type":8
+ae "document->Thesis" "document" > "Thesis"
+ce "document->Thesis"  "type":8
+ae "Online game->StarCraft" "Online game" > "StarCraft"
+ce "Online game->StarCraft"  "type":8
+ae "Video game->Linux_games" "Video game" > "Linux_games"
+ce "Video game->Linux_games"  "type":8
+ae "PC game->American Psychological Association" "PC game" > "American Psychological Association"
+ce "PC game->American Psychological Association"  "type":8
+ae "PC game->Id Software" "PC game" > "Id Software"
+ce "PC game->Id Software"  "type":8
+ae "document->Computer monitor" "document" > "Computer monitor"
+ce "document->Computer monitor"  "type":8
+ae "Video game->Xbox Live" "Video game" > "Xbox Live"
+ce "Video game->Xbox Live"  "type":8
+ae "act->Potentiality and actuality" "act" > "Potentiality and actuality"
+ce "act->Potentiality and actuality"  "type":8
+ae "Video game->American Psychological Association" "Video game" > "American Psychological Association"
+ce "Video game->American Psychological Association"  "type":8
+ae "PC game->PlayStation" "PC game" > "PlayStation"
+ce "PC game->PlayStation"  "type":8
+ae "Online game->Next Generation (magazine)" "Online game" > "Next Generation (magazine)"
+ce "Online game->Next Generation (magazine)"  "type":8
+ae "document->Paper" "document" > "Paper"
+ce "document->Paper"  "type":8
+ae "Video game->Tic-tac-toe" "Video game" > "Tic-tac-toe"
+ce "Video game->Tic-tac-toe"  "type":8
+ae "PC game->Mod (video gaming)" "PC game" > "Mod (video gaming)"
+ce "PC game->Mod (video gaming)"  "type":8
+ae "Video game->Nintendo" "Video game" > "Nintendo"
+ce "Video game->Nintendo"  "type":8
+ae "Online game->Gameplay" "Online game" > "Gameplay"
+ce "Online game->Gameplay"  "type":8
+ae "game->PC game" "game" > "PC game"
+ce "game->PC game"  "type":8
+ae "PC game->Next Generation (magazine)" "PC game" > "Next Generation (magazine)"
+ce "PC game->Next Generation (magazine)"  "type":8
+ae "Online game->Mobile game" "Online game" > "Mobile game"
+ce "Online game->Mobile game"  "type":8
+ae "game->Online game" "game" > "Online game"
+ce "game->Online game"  "type":8
+ae "game->Gameplay" "game" > "Gameplay"
+ce "game->Gameplay"  "type":8

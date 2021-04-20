@@ -1,0 +1,11 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "coast"
+cn "coast"  "ui.label":"coast"
+cn "coast"  "ui.style":"size-mode:fit;"
+an "shore"
+cn "shore"  "ui.label":"shore"
+cn "shore"  "ui.style":"size-mode:fit;"
+ae "coast->shore" "coast"  "shore"
+ce "coast->shore"  "type":0

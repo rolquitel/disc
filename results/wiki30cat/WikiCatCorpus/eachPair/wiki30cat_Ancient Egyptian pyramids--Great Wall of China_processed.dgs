@@ -1,0 +1,126 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Ancient Egyptian pyramids"
+cn "Ancient Egyptian pyramids"  "ui.label":"Ancient Egyptian pyramids"
+cn "Ancient Egyptian pyramids"  "ui.style":"size-mode:fit;"
+an "Ancient_Egyptian_architecture"
+cn "Ancient_Egyptian_architecture"  "ui.label":"Ancient_Egyptian_architecture"
+cn "Ancient_Egyptian_architecture"  "ui.style":"size:6px; fill-color:white; "
+an "Ancient_Egypt"
+cn "Ancient_Egypt"  "ui.label":"Ancient_Egypt"
+cn "Ancient_Egypt"  "ui.style":"size:6px; fill-color:white; "
+an "African_civilizations"
+cn "African_civilizations"  "ui.label":"African_civilizations"
+cn "African_civilizations"  "ui.style":"size:6px; fill-color:white; "
+an "Civilizations"
+cn "Civilizations"  "ui.label":"Civilizations"
+cn "Civilizations"  "ui.style":"size:6px; fill-color:white; "
+an "Anthropological_categories_of_peoples"
+cn "Anthropological_categories_of_peoples"  "ui.label":"Anthropological_categories_of_peoples"
+cn "Anthropological_categories_of_peoples"  "ui.style":"size:6px; fill-color:white; "
+an "Anthropology"
+cn "Anthropology"  "ui.label":"Anthropology"
+cn "Anthropology"  "ui.style":"size:6px; fill-color:white; "
+an "Humanities"
+cn "Humanities"  "ui.label":"Humanities"
+cn "Humanities"  "ui.style":"size:6px; fill-color:white; "
+an "Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.label":"Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.style":"size:6px; fill-color:white; "
+an "Great Wall of China"
+cn "Great Wall of China"  "ui.label":"Great Wall of China"
+cn "Great Wall of China"  "ui.style":"size-mode:fit;"
+an "Mind"
+cn "Mind"  "ui.label":"Mind"
+cn "Mind"  "ui.style":"size:6px; fill-color:white; "
+an "Fortifications_in_China"
+cn "Fortifications_in_China"  "ui.label":"Fortifications_in_China"
+cn "Fortifications_in_China"  "ui.style":"size:6px; fill-color:white; "
+an "Buildings_and_structures_in_China_by_type"
+cn "Buildings_and_structures_in_China_by_type"  "ui.label":"Buildings_and_structures_in_China_by_type"
+cn "Buildings_and_structures_in_China_by_type"  "ui.style":"size:6px; fill-color:white; "
+an "Buildings_and_structures_by_country_and_type"
+cn "Buildings_and_structures_by_country_and_type"  "ui.label":"Buildings_and_structures_by_country_and_type"
+cn "Buildings_and_structures_by_country_and_type"  "ui.style":"size:6px; fill-color:white; "
+an "Buildings_and_structures_by_country"
+cn "Buildings_and_structures_by_country"  "ui.label":"Buildings_and_structures_by_country"
+cn "Buildings_and_structures_by_country"  "ui.style":"size:6px; fill-color:white; "
+an "Buildings_and_structures_by_location"
+cn "Buildings_and_structures_by_location"  "ui.label":"Buildings_and_structures_by_location"
+cn "Buildings_and_structures_by_location"  "ui.style":"size:6px; fill-color:white; "
+an "Architecture_by_country"
+cn "Architecture_by_country"  "ui.label":"Architecture_by_country"
+cn "Architecture_by_country"  "ui.style":"size:6px; fill-color:white; "
+an "Architecture"
+cn "Architecture"  "ui.label":"Architecture"
+cn "Architecture"  "ui.style":"size:6px; fill-color:white; "
+an "Art_media"
+cn "Art_media"  "ui.label":"Art_media"
+cn "Art_media"  "ui.style":"size:6px; fill-color:white; "
+an "Visual_arts"
+cn "Visual_arts"  "ui.label":"Visual_arts"
+cn "Visual_arts"  "ui.style":"size:6px; fill-color:white; "
+an "Arts_by_type"
+cn "Arts_by_type"  "ui.label":"Arts_by_type"
+cn "Arts_by_type"  "ui.style":"size:6px; fill-color:white; "
+an "Arts"
+cn "Arts"  "ui.label":"Arts"
+cn "Arts"  "ui.style":"size:6px; fill-color:white; "
+an "Creativity"
+cn "Creativity"  "ui.label":"Creativity"
+cn "Creativity"  "ui.style":"size:6px; fill-color:white; "
+an "Cognition"
+cn "Cognition"  "ui.label":"Cognition"
+cn "Cognition"  "ui.style":"size:6px; fill-color:white; "
+an "Consciousness"
+cn "Consciousness"  "ui.label":"Consciousness"
+cn "Consciousness"  "ui.style":"size:6px; fill-color:white; "
+ae "Ancient Egyptian pyramids->Ancient_Egyptian_architecture" "Ancient Egyptian pyramids"  "Ancient_Egyptian_architecture"
+ce "Ancient Egyptian pyramids->Ancient_Egyptian_architecture"  "type":0
+ae "Ancient_Egyptian_architecture->Ancient_Egypt" "Ancient_Egyptian_architecture"  "Ancient_Egypt"
+ce "Ancient_Egyptian_architecture->Ancient_Egypt"  "type":0
+ae "Ancient_Egypt->African_civilizations" "Ancient_Egypt"  "African_civilizations"
+ce "Ancient_Egypt->African_civilizations"  "type":0
+ae "African_civilizations->Civilizations" "African_civilizations"  "Civilizations"
+ce "African_civilizations->Civilizations"  "type":0
+ae "Civilizations->Anthropological_categories_of_peoples" "Civilizations"  "Anthropological_categories_of_peoples"
+ce "Civilizations->Anthropological_categories_of_peoples"  "type":0
+ae "Anthropological_categories_of_peoples->Anthropology" "Anthropological_categories_of_peoples"  "Anthropology"
+ce "Anthropological_categories_of_peoples->Anthropology"  "type":0
+ae "Anthropology->Humanities" "Anthropology"  "Humanities"
+ce "Anthropology->Humanities"  "type":0
+ae "Humanities->Main_topic_classifications" "Humanities"  "Main_topic_classifications"
+ce "Humanities->Main_topic_classifications"  "type":0
+ae "Mind->Main_topic_classifications" "Mind"  "Main_topic_classifications"
+ce "Mind->Main_topic_classifications"  "type":0
+ae "Great Wall of China->Fortifications_in_China" "Great Wall of China"  "Fortifications_in_China"
+ce "Great Wall of China->Fortifications_in_China"  "type":0
+ae "Fortifications_in_China->Buildings_and_structures_in_China_by_type" "Fortifications_in_China"  "Buildings_and_structures_in_China_by_type"
+ce "Fortifications_in_China->Buildings_and_structures_in_China_by_type"  "type":0
+ae "Buildings_and_structures_in_China_by_type->Buildings_and_structures_by_country_and_type" "Buildings_and_structures_in_China_by_type"  "Buildings_and_structures_by_country_and_type"
+ce "Buildings_and_structures_in_China_by_type->Buildings_and_structures_by_country_and_type"  "type":0
+ae "Buildings_and_structures_by_country_and_type->Buildings_and_structures_by_country" "Buildings_and_structures_by_country_and_type"  "Buildings_and_structures_by_country"
+ce "Buildings_and_structures_by_country_and_type->Buildings_and_structures_by_country"  "type":0
+ae "Buildings_and_structures_by_country->Buildings_and_structures_by_location" "Buildings_and_structures_by_country"  "Buildings_and_structures_by_location"
+ce "Buildings_and_structures_by_country->Buildings_and_structures_by_location"  "type":0
+ae "Buildings_and_structures_by_location->Architecture_by_country" "Buildings_and_structures_by_location"  "Architecture_by_country"
+ce "Buildings_and_structures_by_location->Architecture_by_country"  "type":0
+ae "Architecture_by_country->Architecture" "Architecture_by_country"  "Architecture"
+ce "Architecture_by_country->Architecture"  "type":0
+ae "Architecture->Art_media" "Architecture"  "Art_media"
+ce "Architecture->Art_media"  "type":0
+ae "Art_media->Visual_arts" "Art_media"  "Visual_arts"
+ce "Art_media->Visual_arts"  "type":0
+ae "Visual_arts->Arts_by_type" "Visual_arts"  "Arts_by_type"
+ce "Visual_arts->Arts_by_type"  "type":0
+ae "Arts_by_type->Arts" "Arts_by_type"  "Arts"
+ce "Arts_by_type->Arts"  "type":0
+ae "Arts->Creativity" "Arts"  "Creativity"
+ce "Arts->Creativity"  "type":0
+ae "Creativity->Cognition" "Creativity"  "Cognition"
+ce "Creativity->Cognition"  "type":0
+ae "Cognition->Consciousness" "Cognition"  "Consciousness"
+ce "Cognition->Consciousness"  "type":0
+ae "Consciousness->Mind" "Consciousness"  "Mind"
+ce "Consciousness->Mind"  "type":0

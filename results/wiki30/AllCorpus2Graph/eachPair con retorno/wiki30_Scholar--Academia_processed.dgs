@@ -1,0 +1,214 @@
+DGS004
+null 0 0
+an "Scholar"
+cn "Scholar"  "ui.label":"Scholar"
+cn "Scholar"  "ui.style":"size-mode:fit;"
+an "intellectual"
+cn "intellectual"  "ui.label":"intellectual"
+cn "intellectual"  "ui.style":"size:6px; fill-color:white; "
+an "person"
+cn "person"  "ui.label":"person"
+cn "person"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Academia"
+cn "Academia"  "ui.label":"Academia"
+cn "Academia"  "ui.style":"size-mode:fit;"
+an "world"
+cn "world"  "ui.label":"world"
+cn "world"  "ui.style":"size:6px; fill-color:white; "
+an "natural object"
+cn "natural object"  "ui.label":"natural object"
+cn "natural object"  "ui.style":"size:6px; fill-color:white; "
+an "Plato"
+cn "Plato"  "ui.label":"Plato"
+cn "Plato"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "Qualia"
+cn "Qualia"  "ui.label":"Qualia"
+cn "Qualia"  "ui.style":"size:6px; fill-color:white; "
+an "Latin"
+cn "Latin"  "ui.label":"Latin"
+cn "Latin"  "ui.style":"size:6px; fill-color:white; "
+an "Object (philosophy)"
+cn "Object (philosophy)"  "ui.label":"Object (philosophy)"
+cn "Object (philosophy)"  "ui.style":"size:6px; fill-color:white; "
+an "Empirical evidence"
+cn "Empirical evidence"  "ui.label":"Empirical evidence"
+cn "Empirical evidence"  "ui.style":"size:6px; fill-color:white; "
+an "Immanuel Kant"
+cn "Immanuel Kant"  "ui.label":"Immanuel Kant"
+cn "Immanuel Kant"  "ui.style":"size:6px; fill-color:white; "
+an "sum"
+cn "sum"  "ui.label":"sum"
+cn "sum"  "ui.style":"size:6px; fill-color:white; "
+an "Ideology"
+cn "Ideology"  "ui.label":"Ideology"
+cn "Ideology"  "ui.style":"size:6px; fill-color:white; "
+an "Welsh_scholars_and_academics"
+cn "Welsh_scholars_and_academics"  "ui.label":"Welsh_scholars_and_academics"
+cn "Welsh_scholars_and_academics"  "ui.style":"size:6px; fill-color:white; "
+an "Reason"
+cn "Reason"  "ui.label":"Reason"
+cn "Reason"  "ui.style":"size:6px; fill-color:white; "
+an "cell"
+cn "cell"  "ui.label":"cell"
+cn "cell"  "ui.style":"size:6px; fill-color:white; "
+an "body"
+cn "body"  "ui.label":"body"
+cn "body"  "ui.style":"size:6px; fill-color:white; "
+an "Ontology"
+cn "Ontology"  "ui.label":"Ontology"
+cn "Ontology"  "ui.style":"size:6px; fill-color:white; "
+an "Computer science"
+cn "Computer science"  "ui.label":"Computer science"
+cn "Computer science"  "ui.style":"size:6px; fill-color:white; "
+an "Emperor of China"
+cn "Emperor of China"  "ui.label":"Emperor of China"
+cn "Emperor of China"  "ui.style":"size:6px; fill-color:white; "
+an "Category:Main topic articles"
+cn "Category:Main topic articles"  "ui.label":"Category:Main topic articles"
+cn "Category:Main topic articles"  "ui.style":"size:6px; fill-color:white; "
+an "United Kingdom"
+cn "United Kingdom"  "ui.label":"United Kingdom"
+cn "United Kingdom"  "ui.style":"size:6px; fill-color:white; "
+ae "Scholar->intellectual" "Scholar"  "intellectual"
+ce "Scholar->intellectual"  "type":0
+ae "intellectual->person" "intellectual"  "person"
+ce "intellectual->person"  "type":0
+ae "person->organism" "person"  "organism"
+ce "person->organism"  "type":0
+ae "organism->living thing" "organism"  "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing"  "whole"
+ce "living thing->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Academia->world" "Academia"  "world"
+ce "Academia->world"  "type":0
+ae "world->natural object" "world"  "natural object"
+ce "world->natural object"  "type":0
+ae "natural object->whole" "natural object"  "whole"
+ce "natural object->whole"  "type":0
+ae "world->group" "world" > "group"
+ce "world->group"  "type":0
+ae "abstraction->concept" "abstraction" > "concept"
+ce "abstraction->concept"  "type":0
+ae "intellectual->Latin" "intellectual" > "Latin"
+ce "intellectual->Latin"  "type":8
+ae "natural object->body" "natural object" > "body"
+ce "natural object->body"  "type":1
+ae "world->Category:Main topic articles" "world" > "Category:Main topic articles"
+ce "world->Category:Main topic articles"  "type":8
+ae "idea->Object (philosophy)" "idea" > "Object (philosophy)"
+ce "idea->Object (philosophy)"  "type":8
+ae "abstraction->Qualia" "abstraction" > "Qualia"
+ce "abstraction->Qualia"  "type":8
+ae "concept->Qualia" "concept" > "Qualia"
+ce "concept->Qualia"  "type":8
+ae "idea->Ideology" "idea" > "Ideology"
+ce "idea->Ideology"  "type":8
+ae "Academia->Welsh_scholars_and_academics" "Academia" > "Welsh_scholars_and_academics"
+ce "Academia->Welsh_scholars_and_academics"  "type":8
+ae "whole->sum" "whole" > "sum"
+ce "whole->sum"  "type":1
+ae "intellectual->Emperor of China" "intellectual" > "Emperor of China"
+ce "intellectual->Emperor of China"  "type":8
+ae "concept->Category:Main topic articles" "concept" > "Category:Main topic articles"
+ce "concept->Category:Main topic articles"  "type":8
+ae "abstraction->Computer science" "abstraction" > "Computer science"
+ce "abstraction->Computer science"  "type":8
+ae "intellectual->Reason" "intellectual" > "Reason"
+ce "intellectual->Reason"  "type":8
+ae "Scholar->Emperor of China" "Scholar" > "Emperor of China"
+ce "Scholar->Emperor of China"  "type":8
+ae "intellectual->United Kingdom" "intellectual" > "United Kingdom"
+ce "intellectual->United Kingdom"  "type":8
+ae "Scholar->United Kingdom" "Scholar" > "United Kingdom"
+ce "Scholar->United Kingdom"  "type":8
+ae "intellectual->Ideology" "intellectual" > "Ideology"
+ce "intellectual->Ideology"  "type":8
+ae "group->world" "group" > "world"
+ce "group->world"  "type":1
+ae "world->Ontology" "world" > "Ontology"
+ce "world->Ontology"  "type":8
+ae "person->Latin" "person" > "Latin"
+ce "person->Latin"  "type":1
+ae "concept->Computer science" "concept" > "Computer science"
+ce "concept->Computer science"  "type":8
+ae "organism->cell" "organism" > "cell"
+ce "organism->cell"  "type":7
+ae "collection->sum" "collection" > "sum"
+ce "collection->sum"  "type":1
+ae "living thing->cell" "living thing" > "cell"
+ce "living thing->cell"  "type":1
+ae "concept->Immanuel Kant" "concept" > "Immanuel Kant"
+ce "concept->Immanuel Kant"  "type":8
+ae "concept->Empirical evidence" "concept" > "Empirical evidence"
+ce "concept->Empirical evidence"  "type":8
+ae "idea->Empirical evidence" "idea" > "Empirical evidence"
+ce "idea->Empirical evidence"  "type":8
+ae "idea->Ontology" "idea" > "Ontology"
+ce "idea->Ontology"  "type":8
+ae "idea->Immanuel Kant" "idea" > "Immanuel Kant"
+ce "idea->Immanuel Kant"  "type":8
+ae "concept->Plato" "concept" > "Plato"
+ce "concept->Plato"  "type":8
+ae "concept->Object (philosophy)" "concept" > "Object (philosophy)"
+ce "concept->Object (philosophy)"  "type":8
+ae "content->thing" "content" > "thing"
+ce "content->thing"  "type":0
+ae "content->body" "content" > "body"
+ce "content->body"  "type":1
+ae "entity->thing" "entity" > "thing"
+ce "entity->thing"  "type":1
+ae "idea->Plato" "idea" > "Plato"
+ce "idea->Plato"  "type":8
+ae "Scholar->Welsh_scholars_and_academics" "Scholar" > "Welsh_scholars_and_academics"
+ce "Scholar->Welsh_scholars_and_academics"  "type":8
+ae "person->Reason" "person" > "Reason"
+ce "person->Reason"  "type":8
+ae "world->Latin" "world" > "Latin"
+ce "world->Latin"  "type":8

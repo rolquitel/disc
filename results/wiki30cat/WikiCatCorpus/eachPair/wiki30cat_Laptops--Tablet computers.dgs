@@ -1,0 +1,199 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Laptops"
+cn "Laptops"  "ui.label":"Laptops"
+cn "Laptops"  "ui.style":"size-mode:fit;"
+an "Mobile_computers"
+cn "Mobile_computers"  "ui.label":"Mobile_computers"
+cn "Mobile_computers"  "ui.style":"size:6px; fill-color:white; "
+an "Classes_of_computers"
+cn "Classes_of_computers"  "ui.label":"Classes_of_computers"
+cn "Classes_of_computers"  "ui.style":"size:6px; fill-color:white; "
+an "Classification_systems_by_subject"
+cn "Classification_systems_by_subject"  "ui.label":"Classification_systems_by_subject"
+cn "Classification_systems_by_subject"  "ui.style":"size:6px; fill-color:white; "
+an "Categories_by_topic"
+cn "Categories_by_topic"  "ui.label":"Categories_by_topic"
+cn "Categories_by_topic"  "ui.style":"size:6px; fill-color:white; "
+an "Categories_by_parameter"
+cn "Categories_by_parameter"  "ui.label":"Categories_by_parameter"
+cn "Categories_by_parameter"  "ui.style":"size:6px; fill-color:white; "
+an "Commons_category_link_is_on_Wikidata_using_P373"
+cn "Commons_category_link_is_on_Wikidata_using_P373"  "ui.label":"Commons_category_link_is_on_Wikidata_using_P373"
+cn "Commons_category_link_is_on_Wikidata_using_P373"  "ui.style":"size:6px; fill-color:white; "
+an "Commons_category_Wikidata_tracking_categories"
+cn "Commons_category_Wikidata_tracking_categories"  "ui.label":"Commons_category_Wikidata_tracking_categories"
+cn "Commons_category_Wikidata_tracking_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Wikidata_tracking_categories"
+cn "Wikidata_tracking_categories"  "ui.label":"Wikidata_tracking_categories"
+cn "Wikidata_tracking_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Tracking_categories"
+cn "Tracking_categories"  "ui.label":"Tracking_categories"
+cn "Tracking_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_categories"
+cn "Wikipedia_categories"  "ui.label":"Wikipedia_categories"
+cn "Wikipedia_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_categorization"
+cn "Wikipedia_categorization"  "ui.label":"Wikipedia_categorization"
+cn "Wikipedia_categorization"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_administration"
+cn "Wikipedia_administration"  "ui.label":"Wikipedia_administration"
+cn "Wikipedia_administration"  "ui.style":"size:6px; fill-color:white; "
+an "Contents"
+cn "Contents"  "ui.label":"Contents"
+cn "Contents"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_navigation"
+cn "Wikipedia_navigation"  "ui.label":"Wikipedia_navigation"
+cn "Wikipedia_navigation"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_namespaces"
+cn "Wikipedia_namespaces"  "ui.label":"Wikipedia_namespaces"
+cn "Wikipedia_namespaces"  "ui.style":"size:6px; fill-color:white; "
+an "Namespace"
+cn "Namespace"  "ui.label":"Namespace"
+cn "Namespace"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_maintenance"
+cn "Wikipedia_maintenance"  "ui.label":"Wikipedia_maintenance"
+cn "Wikipedia_maintenance"  "ui.style":"size:6px; fill-color:white; "
+an "Wikidata"
+cn "Wikidata"  "ui.label":"Wikidata"
+cn "Wikidata"  "ui.style":"size:6px; fill-color:white; "
+an "Wikimedia_Commons"
+cn "Wikimedia_Commons"  "ui.label":"Wikimedia_Commons"
+cn "Wikimedia_Commons"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_copyright"
+cn "Wikipedia_copyright"  "ui.label":"Wikipedia_copyright"
+cn "Wikipedia_copyright"  "ui.style":"size:6px; fill-color:white; "
+an "Hidden_categories"
+cn "Hidden_categories"  "ui.label":"Hidden_categories"
+cn "Hidden_categories"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_pages_under_30-500_editing_restriction"
+cn "Wikipedia_pages_under_30-500_editing_restriction"  "ui.label":"Wikipedia_pages_under_30-500_editing_restriction"
+cn "Wikipedia_pages_under_30-500_editing_restriction"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_page_protection"
+cn "Wikipedia_page_protection"  "ui.label":"Wikipedia_page_protection"
+cn "Wikipedia_page_protection"  "ui.style":"size:6px; fill-color:white; "
+an "Wikipedia_categories_tracking_Wikidata_differences"
+cn "Wikipedia_categories_tracking_Wikidata_differences"  "ui.label":"Wikipedia_categories_tracking_Wikidata_differences"
+cn "Wikipedia_categories_tracking_Wikidata_differences"  "ui.style":"size:6px; fill-color:white; "
+an "Classification_systems"
+cn "Classification_systems"  "ui.label":"Classification_systems"
+cn "Classification_systems"  "ui.style":"size:6px; fill-color:white; "
+an "Classification"
+cn "Classification"  "ui.label":"Classification"
+cn "Classification"  "ui.style":"size:6px; fill-color:white; "
+an "Abstraction"
+cn "Abstraction"  "ui.label":"Abstraction"
+cn "Abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "Creativity"
+cn "Creativity"  "ui.label":"Creativity"
+cn "Creativity"  "ui.style":"size:6px; fill-color:white; "
+an "Cognition"
+cn "Cognition"  "ui.label":"Cognition"
+cn "Cognition"  "ui.style":"size:6px; fill-color:white; "
+an "Consciousness"
+cn "Consciousness"  "ui.label":"Consciousness"
+cn "Consciousness"  "ui.style":"size:6px; fill-color:white; "
+an "Mind"
+cn "Mind"  "ui.label":"Mind"
+cn "Mind"  "ui.style":"size:6px; fill-color:white; "
+an "Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.label":"Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.style":"size:6px; fill-color:white; "
+an "Tablet computers"
+cn "Tablet computers"  "ui.label":"Tablet computers"
+cn "Tablet computers"  "ui.style":"size-mode:fit;"
+ae "Laptops->Mobile_computers" "Laptops"  "Mobile_computers"
+ce "Laptops->Mobile_computers"  "type":0
+ae "Mobile_computers->Classes_of_computers" "Mobile_computers"  "Classes_of_computers"
+ce "Mobile_computers->Classes_of_computers"  "type":0
+ae "Classes_of_computers->Classification_systems_by_subject" "Classes_of_computers"  "Classification_systems_by_subject"
+ce "Classes_of_computers->Classification_systems_by_subject"  "type":0
+ae "Classification_systems_by_subject->Categories_by_topic" "Classification_systems_by_subject"  "Categories_by_topic"
+ce "Classification_systems_by_subject->Categories_by_topic"  "type":0
+ae "Categories_by_topic->Categories_by_parameter" "Categories_by_topic"  "Categories_by_parameter"
+ce "Categories_by_topic->Categories_by_parameter"  "type":0
+ae "Categories_by_parameter->Commons_category_link_is_on_Wikidata_using_P373" "Categories_by_parameter"  "Commons_category_link_is_on_Wikidata_using_P373"
+ce "Categories_by_parameter->Commons_category_link_is_on_Wikidata_using_P373"  "type":0
+ae "Commons_category_link_is_on_Wikidata_using_P373->Commons_category_Wikidata_tracking_categories" "Commons_category_link_is_on_Wikidata_using_P373"  "Commons_category_Wikidata_tracking_categories"
+ce "Commons_category_link_is_on_Wikidata_using_P373->Commons_category_Wikidata_tracking_categories"  "type":0
+ae "Commons_category_Wikidata_tracking_categories->Wikidata_tracking_categories" "Commons_category_Wikidata_tracking_categories"  "Wikidata_tracking_categories"
+ce "Commons_category_Wikidata_tracking_categories->Wikidata_tracking_categories"  "type":0
+ae "Wikidata_tracking_categories->Tracking_categories" "Wikidata_tracking_categories"  "Tracking_categories"
+ce "Wikidata_tracking_categories->Tracking_categories"  "type":0
+ae "Tracking_categories->Wikipedia_categories" "Tracking_categories"  "Wikipedia_categories"
+ce "Tracking_categories->Wikipedia_categories"  "type":0
+ae "Wikipedia_categories->Wikipedia_categorization" "Wikipedia_categories"  "Wikipedia_categorization"
+ce "Wikipedia_categories->Wikipedia_categorization"  "type":0
+ae "Wikipedia_categorization->Wikipedia_administration" "Wikipedia_categorization"  "Wikipedia_administration"
+ce "Wikipedia_categorization->Wikipedia_administration"  "type":0
+ae "Wikipedia_administration->Contents" "Wikipedia_administration"  "Contents"
+ce "Wikipedia_administration->Contents"  "type":0
+ae "Wikipedia_categorization->Wikipedia_navigation" "Wikipedia_categorization"  "Wikipedia_navigation"
+ce "Wikipedia_categorization->Wikipedia_navigation"  "type":0
+ae "Wikipedia_navigation->Contents" "Wikipedia_navigation"  "Contents"
+ce "Wikipedia_navigation->Contents"  "type":0
+ae "Wikipedia_categories->Wikipedia_namespaces" "Wikipedia_categories"  "Wikipedia_namespaces"
+ce "Wikipedia_categories->Wikipedia_namespaces"  "type":0
+ae "Wikipedia_namespaces->Namespace" "Wikipedia_namespaces"  "Namespace"
+ce "Wikipedia_namespaces->Namespace"  "type":0
+ae "Namespace->Wikipedia_administration" "Namespace"  "Wikipedia_administration"
+ce "Namespace->Wikipedia_administration"  "type":0
+ae "Tracking_categories->Wikipedia_maintenance" "Tracking_categories"  "Wikipedia_maintenance"
+ce "Tracking_categories->Wikipedia_maintenance"  "type":0
+ae "Wikipedia_maintenance->Wikipedia_administration" "Wikipedia_maintenance"  "Wikipedia_administration"
+ce "Wikipedia_maintenance->Wikipedia_administration"  "type":0
+ae "Wikidata_tracking_categories->Wikidata" "Wikidata_tracking_categories"  "Wikidata"
+ce "Wikidata_tracking_categories->Wikidata"  "type":0
+ae "Wikidata->Wikipedia_administration" "Wikidata"  "Wikipedia_administration"
+ce "Wikidata->Wikipedia_administration"  "type":0
+ae "Commons_category_Wikidata_tracking_categories->Wikimedia_Commons" "Commons_category_Wikidata_tracking_categories"  "Wikimedia_Commons"
+ce "Commons_category_Wikidata_tracking_categories->Wikimedia_Commons"  "type":0
+ae "Wikimedia_Commons->Wikipedia_administration" "Wikimedia_Commons"  "Wikipedia_administration"
+ce "Wikimedia_Commons->Wikipedia_administration"  "type":0
+ae "Wikimedia_Commons->Wikipedia_copyright" "Wikimedia_Commons"  "Wikipedia_copyright"
+ce "Wikimedia_Commons->Wikipedia_copyright"  "type":0
+ae "Wikipedia_copyright->Wikipedia_administration" "Wikipedia_copyright"  "Wikipedia_administration"
+ce "Wikipedia_copyright->Wikipedia_administration"  "type":0
+ae "Commons_category_link_is_on_Wikidata_using_P373->Hidden_categories" "Commons_category_link_is_on_Wikidata_using_P373"  "Hidden_categories"
+ce "Commons_category_link_is_on_Wikidata_using_P373->Hidden_categories"  "type":0
+ae "Hidden_categories->Hidden_categories" "Hidden_categories"  "Hidden_categories"
+ce "Hidden_categories->Hidden_categories"  "type":0
+ae "Hidden_categories->Tracking_categories" "Hidden_categories"  "Tracking_categories"
+ce "Hidden_categories->Tracking_categories"  "type":0
+ae "Hidden_categories->Wikipedia_categories" "Hidden_categories"  "Wikipedia_categories"
+ce "Hidden_categories->Wikipedia_categories"  "type":0
+ae "Hidden_categories->Wikipedia_pages_under_30-500_editing_restriction" "Hidden_categories"  "Wikipedia_pages_under_30-500_editing_restriction"
+ce "Hidden_categories->Wikipedia_pages_under_30-500_editing_restriction"  "type":0
+ae "Wikipedia_pages_under_30-500_editing_restriction->Wikipedia_page_protection" "Wikipedia_pages_under_30-500_editing_restriction"  "Wikipedia_page_protection"
+ce "Wikipedia_pages_under_30-500_editing_restriction->Wikipedia_page_protection"  "type":0
+ae "Wikipedia_page_protection->Wikipedia_administration" "Wikipedia_page_protection"  "Wikipedia_administration"
+ce "Wikipedia_page_protection->Wikipedia_administration"  "type":0
+ae "Commons_category_link_is_on_Wikidata_using_P373->Tracking_categories" "Commons_category_link_is_on_Wikidata_using_P373"  "Tracking_categories"
+ce "Commons_category_link_is_on_Wikidata_using_P373->Tracking_categories"  "type":0
+ae "Commons_category_link_is_on_Wikidata_using_P373->Wikipedia_categories_tracking_Wikidata_differences" "Commons_category_link_is_on_Wikidata_using_P373"  "Wikipedia_categories_tracking_Wikidata_differences"
+ce "Commons_category_link_is_on_Wikidata_using_P373->Wikipedia_categories_tracking_Wikidata_differences"  "type":0
+ae "Wikipedia_categories_tracking_Wikidata_differences->Tracking_categories" "Wikipedia_categories_tracking_Wikidata_differences"  "Tracking_categories"
+ce "Wikipedia_categories_tracking_Wikidata_differences->Tracking_categories"  "type":0
+ae "Wikipedia_categories_tracking_Wikidata_differences->Wikidata_tracking_categories" "Wikipedia_categories_tracking_Wikidata_differences"  "Wikidata_tracking_categories"
+ce "Wikipedia_categories_tracking_Wikidata_differences->Wikidata_tracking_categories"  "type":0
+ae "Categories_by_parameter->Wikipedia_categories" "Categories_by_parameter"  "Wikipedia_categories"
+ce "Categories_by_parameter->Wikipedia_categories"  "type":0
+ae "Classification_systems_by_subject->Classification_systems" "Classification_systems_by_subject"  "Classification_systems"
+ce "Classification_systems_by_subject->Classification_systems"  "type":0
+ae "Classification_systems->Classification" "Classification_systems"  "Classification"
+ce "Classification_systems->Classification"  "type":0
+ae "Classification->Abstraction" "Classification"  "Abstraction"
+ce "Classification->Abstraction"  "type":0
+ae "Abstraction->Creativity" "Abstraction"  "Creativity"
+ce "Abstraction->Creativity"  "type":0
+ae "Creativity->Cognition" "Creativity"  "Cognition"
+ce "Creativity->Cognition"  "type":0
+ae "Cognition->Consciousness" "Cognition"  "Consciousness"
+ce "Cognition->Consciousness"  "type":0
+ae "Consciousness->Mind" "Consciousness"  "Mind"
+ce "Consciousness->Mind"  "type":0
+ae "Mind->Main_topic_classifications" "Mind"  "Main_topic_classifications"
+ce "Mind->Main_topic_classifications"  "type":0
+ae "Tablet computers->Mobile_computers" "Tablet computers"  "Mobile_computers"
+ce "Tablet computers->Mobile_computers"  "type":0

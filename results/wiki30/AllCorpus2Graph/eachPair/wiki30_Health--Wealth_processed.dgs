@@ -1,0 +1,458 @@
+DGS004
+null 0 0
+an "Health"
+cn "Health"  "ui.label":"Health"
+cn "Health"  "ui.style":"size-mode:fit;"
+an "wellbeing"
+cn "wellbeing"  "ui.label":"wellbeing"
+cn "wellbeing"  "ui.style":"size:6px; fill-color:white; "
+an "prosperity"
+cn "prosperity"  "ui.label":"prosperity"
+cn "prosperity"  "ui.style":"size:6px; fill-color:white; "
+an "economic condition"
+cn "economic condition"  "ui.label":"economic condition"
+cn "economic condition"  "ui.style":"size:6px; fill-color:white; "
+an "condition"
+cn "condition"  "ui.label":"condition"
+cn "condition"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Wealth"
+cn "Wealth"  "ui.label":"Wealth"
+cn "Wealth"  "ui.style":"size-mode:fit;"
+an "financial condition"
+cn "financial condition"  "ui.label":"financial condition"
+cn "financial condition"  "ui.style":"size:6px; fill-color:white; "
+an "easy money"
+cn "easy money"  "ui.label":"easy money"
+cn "easy money"  "ui.style":"size:6px; fill-color:white; "
+an "income"
+cn "income"  "ui.label":"income"
+cn "income"  "ui.style":"size:6px; fill-color:white; "
+an "financial gain"
+cn "financial gain"  "ui.label":"financial gain"
+cn "financial gain"  "ui.style":"size:6px; fill-color:white; "
+an "gain"
+cn "gain"  "ui.label":"gain"
+cn "gain"  "ui.style":"size:6px; fill-color:white; "
+an "indefinite quantity"
+cn "indefinite quantity"  "ui.label":"indefinite quantity"
+cn "indefinite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "organic process"
+cn "organic process"  "ui.label":"organic process"
+cn "organic process"  "ui.style":"size:6px; fill-color:white; "
+an "process"
+cn "process"  "ui.label":"process"
+cn "process"  "ui.style":"size:6px; fill-color:white; "
+an "cognition"
+cn "cognition"  "ui.label":"cognition"
+cn "cognition"  "ui.style":"size:6px; fill-color:white; "
+an "psychological feature"
+cn "psychological feature"  "ui.label":"psychological feature"
+cn "psychological feature"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "motivation"
+cn "motivation"  "ui.label":"motivation"
+cn "motivation"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "Language"
+cn "Language"  "ui.label":"Language"
+cn "Language"  "ui.style":"size:6px; fill-color:white; "
+an "Economics"
+cn "Economics"  "ui.label":"Economics"
+cn "Economics"  "ui.style":"size:6px; fill-color:white; "
+an "property"
+cn "property"  "ui.label":"property"
+cn "property"  "ui.style":"size:6px; fill-color:white; "
+an "antiredeposition"
+cn "antiredeposition"  "ui.label":"antiredeposition"
+cn "antiredeposition"  "ui.style":"size:6px; fill-color:white; "
+an "Literacy"
+cn "Literacy"  "ui.label":"Literacy"
+cn "Literacy"  "ui.style":"size:6px; fill-color:white; "
+an "U.S. state"
+cn "U.S. state"  "ui.label":"U.S. state"
+cn "U.S. state"  "ui.style":"size:6px; fill-color:white; "
+an "radiation"
+cn "radiation"  "ui.label":"radiation"
+cn "radiation"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "Anthropology"
+cn "Anthropology"  "ui.label":"Anthropology"
+cn "Anthropology"  "ui.style":"size:6px; fill-color:white; "
+an "demagnetization"
+cn "demagnetization"  "ui.label":"demagnetization"
+cn "demagnetization"  "ui.style":"size:6px; fill-color:white; "
+an "opacification"
+cn "opacification"  "ui.label":"opacification"
+cn "opacification"  "ui.style":"size:6px; fill-color:white; "
+an "Emotion"
+cn "Emotion"  "ui.label":"Emotion"
+cn "Emotion"  "ui.style":"size:6px; fill-color:white; "
+an "higher cognitive process"
+cn "higher cognitive process"  "ui.label":"higher cognitive process"
+cn "higher cognitive process"  "ui.style":"size:6px; fill-color:white; "
+an "oscillation"
+cn "oscillation"  "ui.label":"oscillation"
+cn "oscillation"  "ui.style":"size:6px; fill-color:white; "
+an "effervescence"
+cn "effervescence"  "ui.label":"effervescence"
+cn "effervescence"  "ui.style":"size:6px; fill-color:white; "
+an "extinction"
+cn "extinction"  "ui.label":"extinction"
+cn "extinction"  "ui.style":"size:6px; fill-color:white; "
+an "Bill of lading"
+cn "Bill of lading"  "ui.label":"Bill of lading"
+cn "Bill of lading"  "ui.style":"size:6px; fill-color:white; "
+an "Earth"
+cn "Earth"  "ui.label":"Earth"
+cn "Earth"  "ui.style":"size:6px; fill-color:white; "
+an "stratification"
+cn "stratification"  "ui.label":"stratification"
+cn "stratification"  "ui.style":"size:6px; fill-color:white; "
+an "hardening"
+cn "hardening"  "ui.label":"hardening"
+cn "hardening"  "ui.style":"size:6px; fill-color:white; "
+an "temperature change"
+cn "temperature change"  "ui.label":"temperature change"
+cn "temperature change"  "ui.style":"size:6px; fill-color:white; "
+an "survival"
+cn "survival"  "ui.label":"survival"
+cn "survival"  "ui.style":"size:6px; fill-color:white; "
+an "implantation"
+cn "implantation"  "ui.label":"implantation"
+cn "implantation"  "ui.style":"size:6px; fill-color:white; "
+an "source"
+cn "source"  "ui.label":"source"
+cn "source"  "ui.style":"size:6px; fill-color:white; "
+an "Education"
+cn "Education"  "ui.label":"Education"
+cn "Education"  "ui.style":"size:6px; fill-color:white; "
+an "Parchment"
+cn "Parchment"  "ui.label":"Parchment"
+cn "Parchment"  "ui.style":"size:6px; fill-color:white; "
+an "body part"
+cn "body part"  "ui.label":"body part"
+cn "body part"  "ui.style":"size:6px; fill-color:white; "
+an "Mesopotamia"
+cn "Mesopotamia"  "ui.label":"Mesopotamia"
+cn "Mesopotamia"  "ui.style":"size:6px; fill-color:white; "
+an "practice"
+cn "practice"  "ui.label":"practice"
+cn "practice"  "ui.style":"size:6px; fill-color:white; "
+an "release"
+cn "release"  "ui.label":"release"
+cn "release"  "ui.style":"size:6px; fill-color:white; "
+an "phase change"
+cn "phase change"  "ui.label":"phase change"
+cn "phase change"  "ui.style":"size:6px; fill-color:white; "
+an "group action"
+cn "group action"  "ui.label":"group action"
+cn "group action"  "ui.style":"size:6px; fill-color:white; "
+an "Water"
+cn "Water"  "ui.label":"Water"
+cn "Water"  "ui.style":"size:6px; fill-color:white; "
+ae "Health->wellbeing" "Health"  "wellbeing"
+ce "Health->wellbeing"  "type":0
+ae "wellbeing->prosperity" "wellbeing"  "prosperity"
+ce "wellbeing->prosperity"  "type":0
+ae "prosperity->economic condition" "prosperity"  "economic condition"
+ce "prosperity->economic condition"  "type":0
+ae "economic condition->condition" "economic condition"  "condition"
+ce "economic condition->condition"  "type":0
+ae "condition->state" "condition"  "state"
+ce "condition->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "Wealth->financial condition" "Wealth"  "financial condition"
+ce "Wealth->financial condition"  "type":0
+ae "financial condition->condition" "financial condition"  "condition"
+ce "financial condition->condition"  "type":0
+ae "financial condition->easy money" "financial condition"  "easy money"
+ce "financial condition->easy money"  "type":1
+ae "easy money->income" "easy money"  "income"
+ce "easy money->income"  "type":0
+ae "income->financial gain" "income"  "financial gain"
+ce "income->financial gain"  "type":0
+ae "financial gain->gain" "financial gain"  "gain"
+ce "financial gain->gain"  "type":0
+ae "gain->indefinite quantity" "gain"  "indefinite quantity"
+ce "gain->indefinite quantity"  "type":0
+ae "indefinite quantity->measure" "indefinite quantity"  "measure"
+ce "indefinite quantity->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "activity->state" "activity"  "state"
+ce "activity->state"  "type":0
+ae "activity->organic process" "activity"  "organic process"
+ce "activity->organic process"  "type":0
+ae "organic process->process" "organic process"  "process"
+ce "organic process->process"  "type":0
+ae "process->activity" "process"  "activity"
+ce "process->activity"  "type":0
+ae "process->cognition" "process"  "cognition"
+ce "process->cognition"  "type":0
+ae "cognition->psychological feature" "cognition"  "psychological feature"
+ce "cognition->psychological feature"  "type":0
+ae "psychological feature->abstraction" "psychological feature"  "abstraction"
+ce "psychological feature->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "action->hardening" "action" > "hardening"
+ce "action->hardening"  "type":1
+ae "action->antiredeposition" "action" > "antiredeposition"
+ce "action->antiredeposition"  "type":1
+ae "document->Mesopotamia" "document" > "Mesopotamia"
+ce "document->Mesopotamia"  "type":8
+ae "writing->Literacy" "writing" > "Literacy"
+ce "writing->Literacy"  "type":8
+ae "document->Parchment" "document" > "Parchment"
+ce "document->Parchment"  "type":8
+ae "writing->Parchment" "writing" > "Parchment"
+ce "writing->Parchment"  "type":8
+ae "Health->Literacy" "Health" > "Literacy"
+ce "Health->Literacy"  "type":8
+ae "location->implantation" "location" > "implantation"
+ce "location->implantation"  "type":1
+ae "state->action" "state" > "action"
+ce "state->action"  "type":1
+ae "abstraction->Economics" "abstraction" > "Economics"
+ce "abstraction->Economics"  "type":8
+ae "action->demagnetization" "action" > "demagnetization"
+ce "action->demagnetization"  "type":1
+ae "income->Education" "income" > "Education"
+ce "income->Education"  "type":8
+ae "district->Water" "district" > "Water"
+ce "district->Water"  "type":8
+ae "location->stratification" "location" > "stratification"
+ce "location->stratification"  "type":1
+ae "Wealth->property" "Wealth" > "property"
+ce "Wealth->property"  "type":0
+ae "document->Bill of lading" "document" > "Bill of lading"
+ce "document->Bill of lading"  "type":8
+ae "region->Earth" "region" > "Earth"
+ce "region->Earth"  "type":8
+ae "cognition->Language" "cognition" > "Language"
+ce "cognition->Language"  "type":8
+ae "state->U.S. state" "state" > "U.S. state"
+ce "state->U.S. state"  "type":8
+ae "Wealth->Anthropology" "Wealth" > "Anthropology"
+ce "Wealth->Anthropology"  "type":8
+ae "region->U.S. state" "region" > "U.S. state"
+ce "region->U.S. state"  "type":8
+ae "operation->higher cognitive process" "operation" > "higher cognitive process"
+ce "operation->higher cognitive process"  "type":1
+ae "activity->release" "activity" > "release"
+ce "activity->release"  "type":1
+ae "activity->operation" "activity" > "operation"
+ce "activity->operation"  "type":1
+ae "region->Water" "region" > "Water"
+ce "region->Water"  "type":8
+ae "activity->practice" "activity" > "practice"
+ce "activity->practice"  "type":1
+ae "abstraction->Emotion" "abstraction" > "Emotion"
+ce "abstraction->Emotion"  "type":8
+ae "action->temperature change" "action" > "temperature change"
+ce "action->temperature change"  "type":1
+ae "action->survival" "action" > "survival"
+ce "action->survival"  "type":1
+ae "action->source" "action" > "source"
+ce "action->source"  "type":1
+ae "abstraction->Bill of lading" "abstraction" > "Bill of lading"
+ce "abstraction->Bill of lading"  "type":8
+ae "writing->Mesopotamia" "writing" > "Mesopotamia"
+ce "writing->Mesopotamia"  "type":8
+ae "process->body part" "process" > "body part"
+ce "process->body part"  "type":0
+ae "document->source" "document" > "source"
+ce "document->source"  "type":1
+ae "region->Economics" "region" > "Economics"
+ce "region->Economics"  "type":8
+ae "action->radiation" "action" > "radiation"
+ce "action->radiation"  "type":1
+ae "operation->implantation" "operation" > "implantation"
+ce "operation->implantation"  "type":1
+ae "cognition->practice" "cognition" > "practice"
+ce "cognition->practice"  "type":1
+ae "document->representation" "document" > "representation"
+ce "document->representation"  "type":0
+ae "action->opacification" "action" > "opacification"
+ce "action->opacification"  "type":1
+ae "condition->stratification" "condition" > "stratification"
+ce "condition->stratification"  "type":1
+ae "action->oscillation" "action" > "oscillation"
+ce "action->oscillation"  "type":1
+ae "abstraction->Language" "abstraction" > "Language"
+ce "abstraction->Language"  "type":8
+ae "action->phase change" "action" > "phase change"
+ce "action->phase change"  "type":1
+ae "action->release" "action" > "release"
+ce "action->release"  "type":1
+ae "process->condition" "process" > "condition"
+ce "process->condition"  "type":1
+ae "abstraction->measure" "abstraction" > "measure"
+ce "abstraction->measure"  "type":1
+ae "process->higher cognitive process" "process" > "higher cognitive process"
+ce "process->higher cognitive process"  "type":1
+ae "cognition->Education" "cognition" > "Education"
+ce "cognition->Education"  "type":8
+ae "abstraction->thing" "abstraction" > "thing"
+ce "abstraction->thing"  "type":1
+ae "location->Earth" "location" > "Earth"
+ce "location->Earth"  "type":1
+ae "object->property" "object" > "property"
+ce "object->property"  "type":1
+ae "activity->radiation" "activity" > "radiation"
+ce "activity->radiation"  "type":1
+ae "psychological feature->motivation" "psychological feature" > "motivation"
+ce "psychological feature->motivation"  "type":1
+ae "income->Economics" "income" > "Economics"
+ce "income->Economics"  "type":8
+ae "activity->antiredeposition" "activity" > "antiredeposition"
+ce "activity->antiredeposition"  "type":1
+ae "action->group action" "action" > "group action"
+ce "action->group action"  "type":0
+ae "activity->demagnetization" "activity" > "demagnetization"
+ce "activity->demagnetization"  "type":1
+ae "operation->activity" "operation" > "activity"
+ce "operation->activity"  "type":0
+ae "activity->effervescence" "activity" > "effervescence"
+ce "activity->effervescence"  "type":1
+ae "activity->extinction" "activity" > "extinction"
+ce "activity->extinction"  "type":1
+ae "operation->cognition" "operation" > "cognition"
+ce "operation->cognition"  "type":0
+ae "action->thing" "action" > "thing"
+ce "action->thing"  "type":1
+ae "region->body part" "region" > "body part"
+ce "region->body part"  "type":0
+ae "activity->hardening" "activity" > "hardening"
+ce "activity->hardening"  "type":1
+ae "activity->opacification" "activity" > "opacification"
+ce "activity->opacification"  "type":1
+ae "activity->oscillation" "activity" > "oscillation"
+ce "activity->oscillation"  "type":1
+ae "activity->phase change" "activity" > "phase change"
+ce "activity->phase change"  "type":1
+ae "action->extinction" "action" > "extinction"
+ce "action->extinction"  "type":1
+ae "action->effervescence" "action" > "effervescence"
+ce "action->effervescence"  "type":1
+ae "cognition->Emotion" "cognition" > "Emotion"
+ce "cognition->Emotion"  "type":8
+ae "activity->source" "activity" > "source"
+ce "activity->source"  "type":1
+ae "act->group action" "act" > "group action"
+ce "act->group action"  "type":1
+ae "creation->representation" "creation" > "representation"
+ce "creation->representation"  "type":1
+ae "activity->survival" "activity" > "survival"
+ce "activity->survival"  "type":1
+ae "cognition->Anthropology" "cognition" > "Anthropology"
+ce "cognition->Anthropology"  "type":8
+ae "activity->temperature change" "activity" > "temperature change"
+ce "activity->temperature change"  "type":1
+ae "act->motivation" "act" > "motivation"
+ce "act->motivation"  "type":1
+ae "writing->Language" "writing" > "Language"
+ce "writing->Language"  "type":8
+ae "physical entity->process" "physical entity" > "process"
+ce "physical entity->process"  "type":1

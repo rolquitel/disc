@@ -1,0 +1,940 @@
+DGS004
+null 0 0
+an "Public transport"
+cn "Public transport"  "ui.label":"Public transport"
+cn "Public transport"  "ui.style":"size-mode:fit;"
+an "conveyance"
+cn "conveyance"  "ui.label":"conveyance"
+cn "conveyance"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "event"
+cn "event"  "ui.label":"event"
+cn "event"  "ui.style":"size:6px; fill-color:white; "
+an "psychological feature"
+cn "psychological feature"  "ui.label":"psychological feature"
+cn "psychological feature"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Train"
+cn "Train"  "ui.label":"Train"
+cn "Train"  "ui.style":"size-mode:fit;"
+an "public transport"
+cn "public transport"  "ui.label":"public transport"
+cn "public transport"  "ui.style":"size:6px; fill-color:white; "
+an "bus"
+cn "bus"  "ui.label":"bus"
+cn "bus"  "ui.style":"size:6px; fill-color:white; "
+an "topology"
+cn "topology"  "ui.label":"topology"
+cn "topology"  "ui.style":"size:6px; fill-color:white; "
+an "topography"
+cn "topography"  "ui.label":"topography"
+cn "topography"  "ui.style":"size:6px; fill-color:white; "
+an "shape"
+cn "shape"  "ui.label":"shape"
+cn "shape"  "ui.style":"size:6px; fill-color:white; "
+an "spatial property"
+cn "spatial property"  "ui.label":"spatial property"
+cn "spatial property"  "ui.style":"size:6px; fill-color:white; "
+an "property"
+cn "property"  "ui.label":"property"
+cn "property"  "ui.style":"size:6px; fill-color:white; "
+an "possession"
+cn "possession"  "ui.label":"possession"
+cn "possession"  "ui.style":"size:6px; fill-color:white; "
+an "control"
+cn "control"  "ui.label":"control"
+cn "control"  "ui.style":"size:6px; fill-color:white; "
+an "power"
+cn "power"  "ui.label":"power"
+cn "power"  "ui.style":"size:6px; fill-color:white; "
+an "quality"
+cn "quality"  "ui.label":"quality"
+cn "quality"  "ui.style":"size:6px; fill-color:white; "
+an "attribute"
+cn "attribute"  "ui.label":"attribute"
+cn "attribute"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "definite quantity"
+cn "definite quantity"  "ui.label":"definite quantity"
+cn "definite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "Category:Cartography"
+cn "Category:Cartography"  "ui.label":"Category:Cartography"
+cn "Category:Cartography"  "ui.style":"size:6px; fill-color:white; "
+an "Rapid transit"
+cn "Rapid transit"  "ui.label":"Rapid transit"
+cn "Rapid transit"  "ui.style":"size:6px; fill-color:white; "
+an "Public transport timetable"
+cn "Public transport timetable"  "ui.label":"Public transport timetable"
+cn "Public transport timetable"  "ui.style":"size:6px; fill-color:white; "
+an "Transport"
+cn "Transport"  "ui.label":"Transport"
+cn "Transport"  "ui.style":"size:6px; fill-color:white; "
+an "Water taxi"
+cn "Water taxi"  "ui.label":"Water taxi"
+cn "Water taxi"  "ui.style":"size:6px; fill-color:white; "
+an "Manuscript"
+cn "Manuscript"  "ui.label":"Manuscript"
+cn "Manuscript"  "ui.style":"size:6px; fill-color:white; "
+an "Maglev"
+cn "Maglev"  "ui.label":"Maglev"
+cn "Maglev"  "ui.style":"size:6px; fill-color:white; "
+an "Subsidy"
+cn "Subsidy"  "ui.label":"Subsidy"
+cn "Subsidy"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "Tax"
+cn "Tax"  "ui.label":"Tax"
+cn "Tax"  "ui.style":"size:6px; fill-color:white; "
+an "center"
+cn "center"  "ui.label":"center"
+cn "center"  "ui.style":"size:6px; fill-color:white; "
+an "Family of sets"
+cn "Family of sets"  "ui.label":"Family of sets"
+cn "Family of sets"  "ui.style":"size:6px; fill-color:white; "
+an "cognition"
+cn "cognition"  "ui.label":"cognition"
+cn "cognition"  "ui.style":"size:6px; fill-color:white; "
+an "volume"
+cn "volume"  "ui.label":"volume"
+cn "volume"  "ui.style":"size:6px; fill-color:white; "
+an "eruption"
+cn "eruption"  "ui.label":"eruption"
+cn "eruption"  "ui.style":"size:6px; fill-color:white; "
+an "Nantes"
+cn "Nantes"  "ui.label":"Nantes"
+cn "Nantes"  "ui.style":"size:6px; fill-color:white; "
+an "London"
+cn "London"  "ui.label":"London"
+cn "London"  "ui.style":"size:6px; fill-color:white; "
+an "South West Wales"
+cn "South West Wales"  "ui.label":"South West Wales"
+cn "South West Wales"  "ui.style":"size:6px; fill-color:white; "
+an "North East England"
+cn "North East England"  "ui.label":"North East England"
+cn "North East England"  "ui.style":"size:6px; fill-color:white; "
+an "Aerial lift"
+cn "Aerial lift"  "ui.label":"Aerial lift"
+cn "Aerial lift"  "ui.style":"size:6px; fill-color:white; "
+an "Latin"
+cn "Latin"  "ui.label":"Latin"
+cn "Latin"  "ui.style":"size:6px; fill-color:white; "
+an "Reaction ferry"
+cn "Reaction ferry"  "ui.label":"Reaction ferry"
+cn "Reaction ferry"  "ui.style":"size:6px; fill-color:white; "
+an "artifact"
+cn "artifact"  "ui.label":"artifact"
+cn "artifact"  "ui.style":"size:6px; fill-color:white; "
+an "Commuter rail"
+cn "Commuter rail"  "ui.label":"Commuter rail"
+cn "Commuter rail"  "ui.style":"size:6px; fill-color:white; "
+an "Cable railway"
+cn "Cable railway"  "ui.label":"Cable railway"
+cn "Cable railway"  "ui.style":"size:6px; fill-color:white; "
+an "Monorail"
+cn "Monorail"  "ui.label":"Monorail"
+cn "Monorail"  "ui.style":"size:6px; fill-color:white; "
+an "Road transport"
+cn "Road transport"  "ui.label":"Road transport"
+cn "Road transport"  "ui.style":"size:6px; fill-color:white; "
+an "Transit bus"
+cn "Transit bus"  "ui.label":"Transit bus"
+cn "Transit bus"  "ui.style":"size:6px; fill-color:white; "
+an "Track (rail transport)"
+cn "Track (rail transport)"  "ui.label":"Track (rail transport)"
+cn "Track (rail transport)"  "ui.style":"size:6px; fill-color:white; "
+an "implantation"
+cn "implantation"  "ui.label":"implantation"
+cn "implantation"  "ui.style":"size:6px; fill-color:white; "
+an "Coach (bus)"
+cn "Coach (bus)"  "ui.label":"Coach (bus)"
+cn "Coach (bus)"  "ui.style":"size:6px; fill-color:white; "
+an "Ancient Egypt"
+cn "Ancient Egypt"  "ui.label":"Ancient Egypt"
+cn "Ancient Egypt"  "ui.style":"size:6px; fill-color:white; "
+an "List of national legal systems"
+cn "List of national legal systems"  "ui.label":"List of national legal systems"
+cn "List of national legal systems"  "ui.style":"size:6px; fill-color:white; "
+an "Regions of New Zealand"
+cn "Regions of New Zealand"  "ui.label":"Regions of New Zealand"
+cn "Regions of New Zealand"  "ui.style":"size:6px; fill-color:white; "
+an "law"
+cn "law"  "ui.label":"law"
+cn "law"  "ui.style":"size:6px; fill-color:white; "
+an "Overcrowding"
+cn "Overcrowding"  "ui.label":"Overcrowding"
+cn "Overcrowding"  "ui.style":"size:6px; fill-color:white; "
+an "Electric bus"
+cn "Electric bus"  "ui.label":"Electric bus"
+cn "Electric bus"  "ui.style":"size:6px; fill-color:white; "
+an "Overhead line"
+cn "Overhead line"  "ui.label":"Overhead line"
+cn "Overhead line"  "ui.style":"size:6px; fill-color:white; "
+an "S-train"
+cn "S-train"  "ui.label":"S-train"
+cn "S-train"  "ui.style":"size:6px; fill-color:white; "
+an "Hamburg"
+cn "Hamburg"  "ui.label":"Hamburg"
+cn "Hamburg"  "ui.style":"size:6px; fill-color:white; "
+an "mail"
+cn "mail"  "ui.label":"mail"
+cn "mail"  "ui.style":"size:6px; fill-color:white; "
+an "College Park–University of Maryland station"
+cn "College Park–University of Maryland station"  "ui.label":"College Park–University of Maryland station"
+cn "College Park–University of Maryland station"  "ui.style":"size:6px; fill-color:white; "
+an "part"
+cn "part"  "ui.label":"part"
+cn "part"  "ui.style":"size:6px; fill-color:white; "
+an "List of regional districts of British Columbia"
+cn "List of regional districts of British Columbia"  "ui.label":"List of regional districts of British Columbia"
+cn "List of regional districts of British Columbia"  "ui.style":"size:6px; fill-color:white; "
+an "Brown Line (CTA)"
+cn "Brown Line (CTA)"  "ui.label":"Brown Line (CTA)"
+cn "Brown Line (CTA)"  "ui.style":"size:6px; fill-color:white; "
+an "Orange Line (CTA)"
+cn "Orange Line (CTA)"  "ui.label":"Orange Line (CTA)"
+cn "Orange Line (CTA)"  "ui.style":"size:6px; fill-color:white; "
+an "Wells Street (Chicago)"
+cn "Wells Street (Chicago)"  "ui.label":"Wells Street (Chicago)"
+cn "Wells Street (Chicago)"  "ui.style":"size:6px; fill-color:white; "
+an "Oxford University Press"
+cn "Oxford University Press"  "ui.label":"Oxford University Press"
+cn "Oxford University Press"  "ui.style":"size:6px; fill-color:white; "
+an "Pennsylvania"
+cn "Pennsylvania"  "ui.label":"Pennsylvania"
+cn "Pennsylvania"  "ui.style":"size:6px; fill-color:white; "
+an "procession"
+cn "procession"  "ui.label":"procession"
+cn "procession"  "ui.style":"size:6px; fill-color:white; "
+an "Interurban"
+cn "Interurban"  "ui.label":"Interurban"
+cn "Interurban"  "ui.style":"size:6px; fill-color:white; "
+an "political unit"
+cn "political unit"  "ui.label":"political unit"
+cn "political unit"  "ui.style":"size:6px; fill-color:white; "
+an "Vehicle"
+cn "Vehicle"  "ui.label":"Vehicle"
+cn "Vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "vitrification"
+cn "vitrification"  "ui.label":"vitrification"
+cn "vitrification"  "ui.style":"size:6px; fill-color:white; "
+an "sound property"
+cn "sound property"  "ui.label":"sound property"
+cn "sound property"  "ui.style":"size:6px; fill-color:white; "
+an "source"
+cn "source"  "ui.label":"source"
+cn "source"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "Geographical pricing"
+cn "Geographical pricing"  "ui.label":"Geographical pricing"
+cn "Geographical pricing"  "ui.style":"size:6px; fill-color:white; "
+an "Circle"
+cn "Circle"  "ui.label":"Circle"
+cn "Circle"  "ui.style":"size:6px; fill-color:white; "
+an "Los Angeles County Metropolitan Transportation Authority"
+cn "Los Angeles County Metropolitan Transportation Authority"  "ui.label":"Los Angeles County Metropolitan Transportation Authority"
+cn "Los Angeles County Metropolitan Transportation Authority"  "ui.style":"size:6px; fill-color:white; "
+an "magnetization"
+cn "magnetization"  "ui.label":"magnetization"
+cn "magnetization"  "ui.style":"size:6px; fill-color:white; "
+an "Hybrid vehicle"
+cn "Hybrid vehicle"  "ui.label":"Hybrid vehicle"
+cn "Hybrid vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "American Enterprise Institute"
+cn "American Enterprise Institute"  "ui.label":"American Enterprise Institute"
+cn "American Enterprise Institute"  "ui.style":"size:6px; fill-color:white; "
+an "License"
+cn "License"  "ui.label":"License"
+cn "License"  "ui.style":"size:6px; fill-color:white; "
+an "agency"
+cn "agency"  "ui.label":"agency"
+cn "agency"  "ui.style":"size:6px; fill-color:white; "
+an "formation"
+cn "formation"  "ui.label":"formation"
+cn "formation"  "ui.style":"size:6px; fill-color:white; "
+an "Intellectual property"
+cn "Intellectual property"  "ui.label":"Intellectual property"
+cn "Intellectual property"  "ui.style":"size:6px; fill-color:white; "
+an "preoccupation"
+cn "preoccupation"  "ui.label":"preoccupation"
+cn "preoccupation"  "ui.style":"size:6px; fill-color:white; "
+an "Inca Empire"
+cn "Inca Empire"  "ui.label":"Inca Empire"
+cn "Inca Empire"  "ui.style":"size:6px; fill-color:white; "
+an "indefinite quantity"
+cn "indefinite quantity"  "ui.label":"indefinite quantity"
+cn "indefinite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "Washington Metro"
+cn "Washington Metro"  "ui.label":"Washington Metro"
+cn "Washington Metro"  "ui.style":"size:6px; fill-color:white; "
+an "MTR"
+cn "MTR"  "ui.label":"MTR"
+cn "MTR"  "ui.style":"size:6px; fill-color:white; "
+an "Eminent domain"
+cn "Eminent domain"  "ui.label":"Eminent domain"
+cn "Eminent domain"  "ui.style":"size:6px; fill-color:white; "
+an "Aristotle"
+cn "Aristotle"  "ui.label":"Aristotle"
+cn "Aristotle"  "ui.style":"size:6px; fill-color:white; "
+an "kingdom"
+cn "kingdom"  "ui.label":"kingdom"
+cn "kingdom"  "ui.style":"size:6px; fill-color:white; "
+an "degree"
+cn "degree"  "ui.label":"degree"
+cn "degree"  "ui.style":"size:6px; fill-color:white; "
+an "support"
+cn "support"  "ui.label":"support"
+cn "support"  "ui.style":"size:6px; fill-color:white; "
+an "domain"
+cn "domain"  "ui.label":"domain"
+cn "domain"  "ui.style":"size:6px; fill-color:white; "
+an "Concept"
+cn "Concept"  "ui.label":"Concept"
+cn "Concept"  "ui.style":"size:6px; fill-color:white; "
+an "demagnetization"
+cn "demagnetization"  "ui.label":"demagnetization"
+cn "demagnetization"  "ui.style":"size:6px; fill-color:white; "
+an "Empiricism"
+cn "Empiricism"  "ui.label":"Empiricism"
+cn "Empiricism"  "ui.style":"size:6px; fill-color:white; "
+an "curdling"
+cn "curdling"  "ui.label":"curdling"
+cn "curdling"  "ui.style":"size:6px; fill-color:white; "
+an "Abstract and concrete"
+cn "Abstract and concrete"  "ui.label":"Abstract and concrete"
+cn "Abstract and concrete"  "ui.style":"size:6px; fill-color:white; "
+an "absorption"
+cn "absorption"  "ui.label":"absorption"
+cn "absorption"  "ui.style":"size:6px; fill-color:white; "
+an "Evolutionary biology"
+cn "Evolutionary biology"  "ui.label":"Evolutionary biology"
+cn "Evolutionary biology"  "ui.style":"size:6px; fill-color:white; "
+an "Idea"
+cn "Idea"  "ui.label":"Idea"
+cn "Idea"  "ui.style":"size:6px; fill-color:white; "
+an "Group action (mathematics)"
+cn "Group action (mathematics)"  "ui.label":"Group action (mathematics)"
+cn "Group action (mathematics)"  "ui.style":"size:6px; fill-color:white; "
+an "Sovereign state"
+cn "Sovereign state"  "ui.label":"Sovereign state"
+cn "Sovereign state"  "ui.style":"size:6px; fill-color:white; "
+an "change"
+cn "change"  "ui.label":"change"
+cn "change"  "ui.style":"size:6px; fill-color:white; "
+an "Computer science"
+cn "Computer science"  "ui.label":"Computer science"
+cn "Computer science"  "ui.style":"size:6px; fill-color:white; "
+an "Typography"
+cn "Typography"  "ui.label":"Typography"
+cn "Typography"  "ui.style":"size:6px; fill-color:white; "
+an "Runes"
+cn "Runes"  "ui.label":"Runes"
+cn "Runes"  "ui.style":"size:6px; fill-color:white; "
+an "Papyrus"
+cn "Papyrus"  "ui.label":"Papyrus"
+cn "Papyrus"  "ui.style":"size:6px; fill-color:white; "
+an "Tourism"
+cn "Tourism"  "ui.label":"Tourism"
+cn "Tourism"  "ui.style":"size:6px; fill-color:white; "
+an "Body politic"
+cn "Body politic"  "ui.label":"Body politic"
+cn "Body politic"  "ui.style":"size:6px; fill-color:white; "
+ae "Public transport->conveyance" "Public transport"  "conveyance"
+ce "Public transport->conveyance"  "type":0
+ae "conveyance->legal document" "conveyance"  "legal document"
+ce "conveyance->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "act->event" "act"  "event"
+ce "act->event"  "type":0
+ae "event->psychological feature" "event"  "psychological feature"
+ce "event->psychological feature"  "type":0
+ae "psychological feature->abstraction" "psychological feature"  "abstraction"
+ce "psychological feature->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Train->public transport" "Train"  "public transport"
+ce "Train->public transport"  "type":0
+ae "public transport->conveyance" "public transport"  "conveyance"
+ce "public transport->conveyance"  "type":0
+ae "public transport->bus" "public transport"  "bus"
+ce "public transport->bus"  "type":1
+ae "bus->topology" "bus"  "topology"
+ce "bus->topology"  "type":0
+ae "topology->topography" "topology"  "topography"
+ce "topology->topography"  "type":0
+ae "topography->shape" "topography"  "shape"
+ce "topography->shape"  "type":0
+ae "shape->spatial property" "shape"  "spatial property"
+ce "shape->spatial property"  "type":0
+ae "spatial property->property" "spatial property"  "property"
+ce "spatial property->property"  "type":0
+ae "property->possession" "property"  "possession"
+ce "property->possession"  "type":0
+ae "possession->control" "possession"  "control"
+ce "possession->control"  "type":0
+ae "control->power" "control"  "power"
+ce "control->power"  "type":0
+ae "power->quality" "power"  "quality"
+ce "power->quality"  "type":0
+ae "quality->attribute" "quality"  "attribute"
+ce "quality->attribute"  "type":0
+ae "attribute->concept" "attribute"  "concept"
+ce "attribute->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "group->unit" "group"  "unit"
+ce "group->unit"  "type":0
+ae "unit->definite quantity" "unit"  "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity"  "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "action->state" "action"  "state"
+ce "action->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "Public transport->bus" "Public transport" > "bus"
+ce "Public transport->bus"  "type":1
+ae "bus->Tourism" "bus" > "Tourism"
+ce "bus->Tourism"  "type":8
+ae "Public transport->Rapid transit" "Public transport" > "Rapid transit"
+ce "Public transport->Rapid transit"  "type":8
+ae "bus->Public transport timetable" "bus" > "Public transport timetable"
+ce "bus->Public transport timetable"  "type":8
+ae "attribute->thing" "attribute" > "thing"
+ce "attribute->thing"  "type":1
+ae "property->License" "property" > "License"
+ce "property->License"  "type":8
+ae "quality->sound property" "quality" > "sound property"
+ce "quality->sound property"  "type":0
+ae "content->cognition" "content" > "cognition"
+ce "content->cognition"  "type":0
+ae "Public transport->Subsidy" "Public transport" > "Subsidy"
+ce "Public transport->Subsidy"  "type":8
+ae "writing->Manuscript" "writing" > "Manuscript"
+ce "writing->Manuscript"  "type":8
+ae "content->volume" "content" > "volume"
+ce "content->volume"  "type":0
+ae "abstraction->preoccupation" "abstraction" > "preoccupation"
+ce "abstraction->preoccupation"  "type":0
+ae "idea->Aristotle" "idea" > "Aristotle"
+ce "idea->Aristotle"  "type":8
+ae "bus->Transit bus" "bus" > "Transit bus"
+ce "bus->Transit bus"  "type":8
+ae "object->Abstract and concrete" "object" > "Abstract and concrete"
+ce "object->Abstract and concrete"  "type":8
+ae "writing->Typography" "writing" > "Typography"
+ce "writing->Typography"  "type":8
+ae "Public transport->Nantes" "Public transport" > "Nantes"
+ce "Public transport->Nantes"  "type":8
+ae "Public transport->London" "Public transport" > "London"
+ce "Public transport->London"  "type":8
+ae "Public transport->South West Wales" "Public transport" > "South West Wales"
+ce "Public transport->South West Wales"  "type":8
+ae "Public transport->North East England" "Public transport" > "North East England"
+ce "Public transport->North East England"  "type":8
+ae "Public transport->Aerial lift" "Public transport" > "Aerial lift"
+ce "Public transport->Aerial lift"  "type":8
+ae "object->center" "object" > "center"
+ce "object->center"  "type":1
+ae "Public transport->Reaction ferry" "Public transport" > "Reaction ferry"
+ce "Public transport->Reaction ferry"  "type":8
+ae "quality->degree" "quality" > "degree"
+ce "quality->degree"  "type":0
+ae "document->representation" "document" > "representation"
+ce "document->representation"  "type":0
+ae "Public transport->Cable railway" "Public transport" > "Cable railway"
+ce "Public transport->Cable railway"  "type":8
+ae "Public transport->Monorail" "Public transport" > "Monorail"
+ce "Public transport->Monorail"  "type":8
+ae "Public transport->Road transport" "Public transport" > "Road transport"
+ce "Public transport->Road transport"  "type":8
+ae "Public transport->Transit bus" "Public transport" > "Transit bus"
+ce "Public transport->Transit bus"  "type":8
+ae "concept->part" "concept" > "part"
+ce "concept->part"  "type":1
+ae "power->degree" "power" > "degree"
+ce "power->degree"  "type":1
+ae "Public transport->Coach (bus)" "Public transport" > "Coach (bus)"
+ce "Public transport->Coach (bus)"  "type":8
+ae "abstraction->Concept" "abstraction" > "Concept"
+ce "abstraction->Concept"  "type":8
+ae "idea->Intellectual property" "idea" > "Intellectual property"
+ce "idea->Intellectual property"  "type":8
+ae "abstraction->Abstract and concrete" "abstraction" > "Abstract and concrete"
+ce "abstraction->Abstract and concrete"  "type":8
+ae "document->Runes" "document" > "Runes"
+ce "document->Runes"  "type":8
+ae "Public transport->Overcrowding" "Public transport" > "Overcrowding"
+ce "Public transport->Overcrowding"  "type":8
+ae "Public transport->Electric bus" "Public transport" > "Electric bus"
+ce "Public transport->Electric bus"  "type":8
+ae "Public transport->Overhead line" "Public transport" > "Overhead line"
+ce "Public transport->Overhead line"  "type":8
+ae "Public transport->S-train" "Public transport" > "S-train"
+ce "Public transport->S-train"  "type":8
+ae "Public transport->Hamburg" "Public transport" > "Hamburg"
+ce "Public transport->Hamburg"  "type":8
+ae "Train->Overhead line" "Train" > "Overhead line"
+ce "Train->Overhead line"  "type":8
+ae "Public transport->College Park–University of Maryland station" "Public transport" > "College Park–University of Maryland station"
+ce "Public transport->College Park–University of Maryland station"  "type":8
+ae "idea->Evolutionary biology" "idea" > "Evolutionary biology"
+ce "idea->Evolutionary biology"  "type":8
+ae "creation->artifact" "creation" > "artifact"
+ce "creation->artifact"  "type":0
+ae "Public transport->Brown Line (CTA)" "Public transport" > "Brown Line (CTA)"
+ce "Public transport->Brown Line (CTA)"  "type":8
+ae "Public transport->Orange Line (CTA)" "Public transport" > "Orange Line (CTA)"
+ce "Public transport->Orange Line (CTA)"  "type":8
+ae "Public transport->Wells Street (Chicago)" "Public transport" > "Wells Street (Chicago)"
+ce "Public transport->Wells Street (Chicago)"  "type":8
+ae "Train->Road transport" "Train" > "Road transport"
+ce "Train->Road transport"  "type":8
+ae "Public transport->Pennsylvania" "Public transport" > "Pennsylvania"
+ce "Public transport->Pennsylvania"  "type":8
+ae "bus->Overhead line" "bus" > "Overhead line"
+ce "bus->Overhead line"  "type":8
+ae "Public transport->Interurban" "Public transport" > "Interurban"
+ce "Public transport->Interurban"  "type":8
+ae "legal document->law" "legal document" > "law"
+ce "legal document->law"  "type":1
+ae "state->degree" "state" > "degree"
+ce "state->degree"  "type":1
+ae "topology->Evolutionary biology" "topology" > "Evolutionary biology"
+ce "topology->Evolutionary biology"  "type":8
+ae "location->Category:Cartography" "location" > "Category:Cartography"
+ce "location->Category:Cartography"  "type":8
+ae "topology->Group action (mathematics)" "topology" > "Group action (mathematics)"
+ce "topology->Group action (mathematics)"  "type":8
+ae "property->Aristotle" "property" > "Aristotle"
+ce "property->Aristotle"  "type":8
+ae "Public transport->Geographical pricing" "Public transport" > "Geographical pricing"
+ce "Public transport->Geographical pricing"  "type":8
+ae "measure->activity" "measure" > "activity"
+ce "measure->activity"  "type":0
+ae "Public transport->Los Angeles County Metropolitan Transportation Authority" "Public transport" > "Los Angeles County Metropolitan Transportation Authority"
+ce "Public transport->Los Angeles County Metropolitan Transportation Authority"  "type":8
+ae "bus->Electric bus" "bus" > "Electric bus"
+ce "bus->Electric bus"  "type":8
+ae "Public transport->Hybrid vehicle" "Public transport" > "Hybrid vehicle"
+ce "Public transport->Hybrid vehicle"  "type":8
+ae "Public transport->American Enterprise Institute" "Public transport" > "American Enterprise Institute"
+ce "Public transport->American Enterprise Institute"  "type":8
+ae "abstraction->Empiricism" "abstraction" > "Empiricism"
+ce "abstraction->Empiricism"  "type":8
+ae "location->London" "location" > "London"
+ce "location->London"  "type":8
+ae "conveyance->Water taxi" "conveyance" > "Water taxi"
+ce "conveyance->Water taxi"  "type":8
+ae "property->sound property" "property" > "sound property"
+ce "property->sound property"  "type":1
+ae "conveyance->Transport" "conveyance" > "Transport"
+ce "conveyance->Transport"  "type":8
+ae "bus->Coach (bus)" "bus" > "Coach (bus)"
+ce "bus->Coach (bus)"  "type":8
+ae "property->Idea" "property" > "Idea"
+ce "property->Idea"  "type":8
+ae "Public transport->Washington Metro" "Public transport" > "Washington Metro"
+ce "Public transport->Washington Metro"  "type":8
+ae "Public transport->MTR" "Public transport" > "MTR"
+ce "Public transport->MTR"  "type":8
+ae "Public transport->Eminent domain" "Public transport" > "Eminent domain"
+ce "Public transport->Eminent domain"  "type":8
+ae "location->implantation" "location" > "implantation"
+ce "location->implantation"  "type":1
+ae "state->Sovereign state" "state" > "Sovereign state"
+ce "state->Sovereign state"  "type":8
+ae "action->change" "action" > "change"
+ce "action->change"  "type":1
+ae "attribute->property" "attribute" > "property"
+ce "attribute->property"  "type":1
+ae "bus->Vehicle" "bus" > "Vehicle"
+ce "bus->Vehicle"  "type":8
+ae "Train->Latin" "Train" > "Latin"
+ce "Train->Latin"  "type":8
+ae "state->political unit" "state" > "political unit"
+ce "state->political unit"  "type":0
+ae "unit->thing" "unit" > "thing"
+ce "unit->thing"  "type":0
+ae "conveyance->mail" "conveyance" > "mail"
+ce "conveyance->mail"  "type":1
+ae "activity->state" "activity" > "state"
+ce "activity->state"  "type":0
+ae "idea->Abstract and concrete" "idea" > "Abstract and concrete"
+ce "idea->Abstract and concrete"  "type":8
+ae "property->center" "property" > "center"
+ce "property->center"  "type":1
+ae "measure->indefinite quantity" "measure" > "indefinite quantity"
+ce "measure->indefinite quantity"  "type":1
+ae "activity->operation" "activity" > "operation"
+ce "activity->operation"  "type":1
+ae "operation->implantation" "operation" > "implantation"
+ce "operation->implantation"  "type":1
+ae "idea->Oxford University Press" "idea" > "Oxford University Press"
+ce "idea->Oxford University Press"  "type":8
+ae "state->domain" "state" > "domain"
+ce "state->domain"  "type":7
+ae "region->List of regional districts of British Columbia" "region" > "List of regional districts of British Columbia"
+ce "region->List of regional districts of British Columbia"  "type":8
+ae "activity->writing" "activity" > "writing"
+ce "activity->writing"  "type":1
+ae "measure->magnetization" "measure" > "magnetization"
+ce "measure->magnetization"  "type":1
+ae "idea->Concept" "idea" > "Concept"
+ce "idea->Concept"  "type":8
+ae "activity->representation" "activity" > "representation"
+ce "activity->representation"  "type":1
+ae "unit->artifact" "unit" > "artifact"
+ce "unit->artifact"  "type":1
+ae "public transport->Eminent domain" "public transport" > "Eminent domain"
+ce "public transport->Eminent domain"  "type":8
+ae "public transport->MTR" "public transport" > "MTR"
+ce "public transport->MTR"  "type":8
+ae "public transport->Washington Metro" "public transport" > "Washington Metro"
+ce "public transport->Washington Metro"  "type":8
+ae "action->agency" "action" > "agency"
+ce "action->agency"  "type":1
+ae "action->eruption" "action" > "eruption"
+ce "action->eruption"  "type":1
+ae "possession->district" "possession" > "district"
+ce "possession->district"  "type":0
+ae "public transport->American Enterprise Institute" "public transport" > "American Enterprise Institute"
+ce "public transport->American Enterprise Institute"  "type":8
+ae "public transport->Hybrid vehicle" "public transport" > "Hybrid vehicle"
+ce "public transport->Hybrid vehicle"  "type":8
+ae "shape->Circle" "shape" > "Circle"
+ce "shape->Circle"  "type":8
+ae "public transport->Los Angeles County Metropolitan Transportation Authority" "public transport" > "Los Angeles County Metropolitan Transportation Authority"
+ce "public transport->Los Angeles County Metropolitan Transportation Authority"  "type":8
+ae "measure->volume" "measure" > "volume"
+ce "measure->volume"  "type":1
+ae "region->Regions of New Zealand" "region" > "Regions of New Zealand"
+ce "region->Regions of New Zealand"  "type":8
+ae "action->absorption" "action" > "absorption"
+ce "action->absorption"  "type":1
+ae "action->curdling" "action" > "curdling"
+ce "action->curdling"  "type":1
+ae "action->demagnetization" "action" > "demagnetization"
+ce "action->demagnetization"  "type":1
+ae "Train->Commuter rail" "Train" > "Commuter rail"
+ce "Train->Commuter rail"  "type":8
+ae "public transport->Geographical pricing" "public transport" > "Geographical pricing"
+ce "public transport->Geographical pricing"  "type":8
+ae "idea->preoccupation" "idea" > "preoccupation"
+ce "idea->preoccupation"  "type":1
+ae "region->Latin" "region" > "Latin"
+ce "region->Latin"  "type":8
+ae "region->Sovereign state" "region" > "Sovereign state"
+ce "region->Sovereign state"  "type":8
+ae "writing->Ancient Egypt" "writing" > "Ancient Egypt"
+ce "writing->Ancient Egypt"  "type":8
+ae "Train->Vehicle" "Train" > "Vehicle"
+ce "Train->Vehicle"  "type":8
+ae "district->Tax" "district" > "Tax"
+ce "district->Tax"  "type":8
+ae "content->object" "content" > "object"
+ce "content->object"  "type":1
+ae "property->List of national legal systems" "property" > "List of national legal systems"
+ce "property->List of national legal systems"  "type":8
+ae "writing->List of national legal systems" "writing" > "List of national legal systems"
+ce "writing->List of national legal systems"  "type":8
+ae "region->Body politic" "region" > "Body politic"
+ce "region->Body politic"  "type":8
+ae "property->quality" "property" > "quality"
+ce "property->quality"  "type":1
+ae "state->attribute" "state" > "attribute"
+ce "state->attribute"  "type":0
+ae "district->Regions of New Zealand" "district" > "Regions of New Zealand"
+ce "district->Regions of New Zealand"  "type":8
+ae "public transport->Interurban" "public transport" > "Interurban"
+ce "public transport->Interurban"  "type":8
+ae "action->formation" "action" > "formation"
+ce "action->formation"  "type":1
+ae "public transport->Pennsylvania" "public transport" > "Pennsylvania"
+ce "public transport->Pennsylvania"  "type":8
+ae "public transport->Track (rail transport)" "public transport" > "Track (rail transport)"
+ce "public transport->Track (rail transport)"  "type":8
+ae "region->Tourism" "region" > "Tourism"
+ce "region->Tourism"  "type":8
+ae "public transport->Wells Street (Chicago)" "public transport" > "Wells Street (Chicago)"
+ce "public transport->Wells Street (Chicago)"  "type":8
+ae "public transport->Orange Line (CTA)" "public transport" > "Orange Line (CTA)"
+ce "public transport->Orange Line (CTA)"  "type":8
+ae "property->Tax" "property" > "Tax"
+ce "property->Tax"  "type":8
+ae "public transport->Brown Line (CTA)" "public transport" > "Brown Line (CTA)"
+ce "public transport->Brown Line (CTA)"  "type":8
+ae "public transport->College Park–University of Maryland station" "public transport" > "College Park–University of Maryland station"
+ce "public transport->College Park–University of Maryland station"  "type":8
+ae "public transport->Hamburg" "public transport" > "Hamburg"
+ce "public transport->Hamburg"  "type":8
+ae "public transport->S-train" "public transport" > "S-train"
+ce "public transport->S-train"  "type":8
+ae "writing->Inca Empire" "writing" > "Inca Empire"
+ce "writing->Inca Empire"  "type":8
+ae "public transport->Overhead line" "public transport" > "Overhead line"
+ce "public transport->Overhead line"  "type":8
+ae "public transport->Electric bus" "public transport" > "Electric bus"
+ce "public transport->Electric bus"  "type":8
+ae "activity->support" "activity" > "support"
+ce "activity->support"  "type":1
+ae "unit->political unit" "unit" > "political unit"
+ce "unit->political unit"  "type":1
+ae "action->magnetization" "action" > "magnetization"
+ce "action->magnetization"  "type":1
+ae "public transport->Overcrowding" "public transport" > "Overcrowding"
+ce "public transport->Overcrowding"  "type":8
+ae "abstraction->Idea" "abstraction" > "Idea"
+ce "abstraction->Idea"  "type":8
+ae "document->Manuscript" "document" > "Manuscript"
+ce "document->Manuscript"  "type":8
+ae "concept->Oxford University Press" "concept" > "Oxford University Press"
+ce "concept->Oxford University Press"  "type":8
+ae "activity->agency" "activity" > "agency"
+ce "activity->agency"  "type":1
+ae "Train->procession" "Train" > "procession"
+ce "Train->procession"  "type":0
+ae "collection->procession" "collection" > "procession"
+ce "collection->procession"  "type":1
+ae "public transport->Monorail" "public transport" > "Monorail"
+ce "public transport->Monorail"  "type":8
+ae "activity->eruption" "activity" > "eruption"
+ce "activity->eruption"  "type":1
+ae "writing->Runes" "writing" > "Runes"
+ce "writing->Runes"  "type":8
+ae "public transport->Commuter rail" "public transport" > "Commuter rail"
+ce "public transport->Commuter rail"  "type":8
+ae "public transport->Cable railway" "public transport" > "Cable railway"
+ce "public transport->Cable railway"  "type":8
+ae "state->kingdom" "state" > "kingdom"
+ce "state->kingdom"  "type":1
+ae "public transport->Maglev" "public transport" > "Maglev"
+ce "public transport->Maglev"  "type":8
+ae "activity->control" "activity" > "control"
+ce "activity->control"  "type":1
+ae "public transport->Water taxi" "public transport" > "Water taxi"
+ce "public transport->Water taxi"  "type":8
+ae "public transport->Reaction ferry" "public transport" > "Reaction ferry"
+ce "public transport->Reaction ferry"  "type":8
+ae "abstraction->Computer science" "abstraction" > "Computer science"
+ce "abstraction->Computer science"  "type":8
+ae "action->source" "action" > "source"
+ce "action->source"  "type":1
+ae "Train->Track (rail transport)" "Train" > "Track (rail transport)"
+ce "Train->Track (rail transport)"  "type":8
+ae "public transport->Aerial lift" "public transport" > "Aerial lift"
+ce "public transport->Aerial lift"  "type":8
+ae "region->domain" "region" > "domain"
+ce "region->domain"  "type":1
+ae "public transport->North East England" "public transport" > "North East England"
+ce "public transport->North East England"  "type":8
+ae "public transport->South West Wales" "public transport" > "South West Wales"
+ce "public transport->South West Wales"  "type":8
+ae "public transport->Nantes" "public transport" > "Nantes"
+ce "public transport->Nantes"  "type":8
+ae "activity->absorption" "activity" > "absorption"
+ce "activity->absorption"  "type":1
+ae "document->License" "document" > "License"
+ce "document->License"  "type":8
+ae "public transport->Ancient Egypt" "public transport" > "Ancient Egypt"
+ce "public transport->Ancient Egypt"  "type":8
+ae "action->vitrification" "action" > "vitrification"
+ce "action->vitrification"  "type":1
+ae "topology->Circle" "topology" > "Circle"
+ce "topology->Circle"  "type":8
+ae "district->List of regional districts of British Columbia" "district" > "List of regional districts of British Columbia"
+ce "district->List of regional districts of British Columbia"  "type":8
+ae "public transport->Inca Empire" "public transport" > "Inca Empire"
+ce "public transport->Inca Empire"  "type":8
+ae "operation->support" "operation" > "support"
+ce "operation->support"  "type":1
+ae "property->Body politic" "property" > "Body politic"
+ce "property->Body politic"  "type":8
+ae "property->Intellectual property" "property" > "Intellectual property"
+ce "property->Intellectual property"  "type":8
+ae "activity->curdling" "activity" > "curdling"
+ce "activity->curdling"  "type":1
+ae "public transport->Subsidy" "public transport" > "Subsidy"
+ce "public transport->Subsidy"  "type":8
+ae "activity->demagnetization" "activity" > "demagnetization"
+ce "activity->demagnetization"  "type":1
+ae "group->kingdom" "group" > "kingdom"
+ce "group->kingdom"  "type":1
+ae "attribute->abstraction" "attribute" > "abstraction"
+ce "attribute->abstraction"  "type":0
+ae "event->change" "event" > "change"
+ce "event->change"  "type":1
+ae "topology->Typography" "topology" > "Typography"
+ce "topology->Typography"  "type":8
+ae "Train->Public transport timetable" "Train" > "Public transport timetable"
+ce "Train->Public transport timetable"  "type":8
+ae "region->indefinite quantity" "region" > "indefinite quantity"
+ce "region->indefinite quantity"  "type":0
+ae "public transport->Transport" "public transport" > "Transport"
+ce "public transport->Transport"  "type":8
+ae "collection->mail" "collection" > "mail"
+ce "collection->mail"  "type":1
+ae "public transport->Rapid transit" "public transport" > "Rapid transit"
+ce "public transport->Rapid transit"  "type":8
+ae "topology->Family of sets" "topology" > "Family of sets"
+ce "topology->Family of sets"  "type":8
+ae "action->Group action (mathematics)" "action" > "Group action (mathematics)"
+ce "action->Group action (mathematics)"  "type":8
+ae "property->Empiricism" "property" > "Empiricism"
+ce "property->Empiricism"  "type":8
+ae "activity->formation" "activity" > "formation"
+ce "activity->formation"  "type":1
+ae "unit->part" "unit" > "part"
+ce "unit->part"  "type":7
+ae "topography->Category:Cartography" "topography" > "Category:Cartography"
+ce "topography->Category:Cartography"  "type":8
+ae "activity->magnetization" "activity" > "magnetization"
+ce "activity->magnetization"  "type":1
+ae "concept->Computer science" "concept" > "Computer science"
+ce "concept->Computer science"  "type":8
+ae "concept->Idea" "concept" > "Idea"
+ce "concept->Idea"  "type":8
+ae "activity->source" "activity" > "source"
+ce "activity->source"  "type":1
+ae "operation->cognition" "operation" > "cognition"
+ce "operation->cognition"  "type":0
+ae "activity->vitrification" "activity" > "vitrification"
+ce "activity->vitrification"  "type":1
+ae "writing->Papyrus" "writing" > "Papyrus"
+ce "writing->Papyrus"  "type":8
+ae "Train->Rapid transit" "Train" > "Rapid transit"
+ce "Train->Rapid transit"  "type":8
+ae "operation->activity" "operation" > "activity"
+ce "operation->activity"  "type":0
+ae "Train->Maglev" "Train" > "Maglev"
+ce "Train->Maglev"  "type":8
+ae "document->Papyrus" "document" > "Papyrus"
+ce "document->Papyrus"  "type":8
+ae "collection->Family of sets" "collection" > "Family of sets"
+ce "collection->Family of sets"  "type":8
+ae "concept->law" "concept" > "law"
+ce "concept->law"  "type":1

@@ -1,0 +1,138 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "coast"
+cn "coast"  "ui.label":"coast"
+cn "coast"  "ui.style":"size-mode:fit;"
+an "shore"
+cn "shore"  "ui.label":"shore"
+cn "shore"  "ui.style":"size:6px; fill-color:white; "
+an "geological formation"
+cn "geological formation"  "ui.label":"geological formation"
+cn "geological formation"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "hill"
+cn "hill"  "ui.label":"hill"
+cn "hill"  "ui.style":"size-mode:fit;"
+an "natural elevation"
+cn "natural elevation"  "ui.label":"natural elevation"
+cn "natural elevation"  "ui.style":"size:6px; fill-color:white; "
+an "highland"
+cn "highland"  "ui.label":"highland"
+cn "highland"  "ui.style":"size:6px; fill-color:white; "
+an "down"
+cn "down"  "ui.label":"down"
+cn "down"  "ui.style":"size:6px; fill-color:white; "
+an "feather"
+cn "feather"  "ui.label":"feather"
+cn "feather"  "ui.style":"size:6px; fill-color:white; "
+an "body covering"
+cn "body covering"  "ui.label":"body covering"
+cn "body covering"  "ui.style":"size:6px; fill-color:white; "
+an "covering"
+cn "covering"  "ui.label":"covering"
+cn "covering"  "ui.style":"size:6px; fill-color:white; "
+an "natural object"
+cn "natural object"  "ui.label":"natural object"
+cn "natural object"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "body"
+cn "body"  "ui.label":"body"
+cn "body"  "ui.style":"size:6px; fill-color:white; "
+an "thing"
+cn "thing"  "ui.label":"thing"
+cn "thing"  "ui.style":"size:6px; fill-color:white; "
+an "foreshore"
+cn "foreshore"  "ui.label":"foreshore"
+cn "foreshore"  "ui.style":"size:6px; fill-color:white; "
+an "hair"
+cn "hair"  "ui.label":"hair"
+cn "hair"  "ui.style":"size:6px; fill-color:white; "
+ae "coast->shore" "coast"  "shore"
+ce "coast->shore"  "type":0
+ae "shore->geological formation" "shore"  "geological formation"
+ce "shore->geological formation"  "type":0
+ae "geological formation->object" "geological formation"  "object"
+ce "geological formation->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "hill->natural elevation" "hill"  "natural elevation"
+ce "hill->natural elevation"  "type":0
+ae "natural elevation->geological formation" "natural elevation"  "geological formation"
+ce "natural elevation->geological formation"  "type":0
+ae "natural elevation->highland" "natural elevation"  "highland"
+ce "natural elevation->highland"  "type":1
+ae "highland->down" "highland"  "down"
+ce "highland->down"  "type":1
+ae "down->feather" "down"  "feather"
+ce "down->feather"  "type":0
+ae "feather->body covering" "feather"  "body covering"
+ce "feather->body covering"  "type":0
+ae "body covering->covering" "body covering"  "covering"
+ce "body covering->covering"  "type":0
+ae "covering->natural object" "covering"  "natural object"
+ce "covering->natural object"  "type":0
+ae "natural object->whole" "natural object"  "whole"
+ce "natural object->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "body covering->hair" "body covering" > "hair"
+ce "body covering->hair"  "type":1
+ae "down->hair" "down" > "hair"
+ce "down->hair"  "type":0
+ae "coast->foreshore" "coast" > "foreshore"
+ce "coast->foreshore"  "type":7
+ae "object->thing" "object" > "thing"
+ce "object->thing"  "type":1
+ae "content->object" "content" > "object"
+ce "content->object"  "type":1
+ae "natural object->body" "natural object" > "body"
+ce "natural object->body"  "type":1
+ae "content->thing" "content" > "thing"
+ce "content->thing"  "type":0
+ae "geological formation->foreshore" "geological formation" > "foreshore"
+ce "geological formation->foreshore"  "type":1
+ae "content->body" "content" > "body"
+ce "content->body"  "type":1

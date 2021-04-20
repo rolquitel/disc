@@ -1,0 +1,444 @@
+DGS004
+null 0 0
+an "Aircraft"
+cn "Aircraft"  "ui.label":"Aircraft"
+cn "Aircraft"  "ui.style":"size-mode:fit;"
+an "craft"
+cn "craft"  "ui.label":"craft"
+cn "craft"  "ui.style":"size:6px; fill-color:white; "
+an "occupation"
+cn "occupation"  "ui.label":"occupation"
+cn "occupation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "Airliner"
+cn "Airliner"  "ui.label":"Airliner"
+cn "Airliner"  "ui.style":"size-mode:fit;"
+an "airplane"
+cn "airplane"  "ui.label":"airplane"
+cn "airplane"  "ui.style":"size:6px; fill-color:white; "
+an "heavier-than-air craft"
+cn "heavier-than-air craft"  "ui.label":"heavier-than-air craft"
+cn "heavier-than-air craft"  "ui.style":"size:6px; fill-color:white; "
+an "aircraft"
+cn "aircraft"  "ui.label":"aircraft"
+cn "aircraft"  "ui.style":"size:6px; fill-color:white; "
+an "Scramjet"
+cn "Scramjet"  "ui.label":"Scramjet"
+cn "Scramjet"  "ui.style":"size:6px; fill-color:white; "
+an "Mesopotamia"
+cn "Mesopotamia"  "ui.label":"Mesopotamia"
+cn "Mesopotamia"  "ui.style":"size:6px; fill-color:white; "
+an "Czech_and_Czechoslovakian_airliners"
+cn "Czech_and_Czechoslovakian_airliners"  "ui.label":"Czech_and_Czechoslovakian_airliners"
+cn "Czech_and_Czechoslovakian_airliners"  "ui.style":"size:6px; fill-color:white; "
+an "List of individual aircraft"
+cn "List of individual aircraft"  "ui.label":"List of individual aircraft"
+cn "List of individual aircraft"  "ui.style":"size:6px; fill-color:white; "
+an "skeleton"
+cn "skeleton"  "ui.label":"skeleton"
+cn "skeleton"  "ui.style":"size:6px; fill-color:white; "
+an "Flight"
+cn "Flight"  "ui.label":"Flight"
+cn "Flight"  "ui.style":"size:6px; fill-color:white; "
+an "Jet engine"
+cn "Jet engine"  "ui.label":"Jet engine"
+cn "Jet engine"  "ui.style":"size:6px; fill-color:white; "
+an "List of large aircraft"
+cn "List of large aircraft"  "ui.label":"List of large aircraft"
+cn "List of large aircraft"  "ui.style":"size:6px; fill-color:white; "
+an "Glider (aircraft)"
+cn "Glider (aircraft)"  "ui.label":"Glider (aircraft)"
+cn "Glider (aircraft)"  "ui.style":"size:6px; fill-color:white; "
+an "Aircrew"
+cn "Aircrew"  "ui.label":"Aircrew"
+cn "Aircrew"  "ui.style":"size:6px; fill-color:white; "
+an "Airmail"
+cn "Airmail"  "ui.label":"Airmail"
+cn "Airmail"  "ui.style":"size:6px; fill-color:white; "
+an "Aircraft spotting"
+cn "Aircraft spotting"  "ui.label":"Aircraft spotting"
+cn "Aircraft spotting"  "ui.style":"size:6px; fill-color:white; "
+an "Author"
+cn "Author"  "ui.label":"Author"
+cn "Author"  "ui.style":"size:6px; fill-color:white; "
+an "Airbreathing jet engine"
+cn "Airbreathing jet engine"  "ui.label":"Airbreathing jet engine"
+cn "Airbreathing jet engine"  "ui.style":"size:6px; fill-color:white; "
+an "Spaceplane"
+cn "Spaceplane"  "ui.label":"Spaceplane"
+cn "Spaceplane"  "ui.style":"size:6px; fill-color:white; "
+an "Zeppelin"
+cn "Zeppelin"  "ui.label":"Zeppelin"
+cn "Zeppelin"  "ui.style":"size:6px; fill-color:white; "
+an "Attack helicopter"
+cn "Attack helicopter"  "ui.label":"Attack helicopter"
+cn "Attack helicopter"  "ui.style":"size:6px; fill-color:white; "
+an "Fighter aircraft"
+cn "Fighter aircraft"  "ui.label":"Fighter aircraft"
+cn "Fighter aircraft"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "Swept wing"
+cn "Swept wing"  "ui.label":"Swept wing"
+cn "Swept wing"  "ui.style":"size:6px; fill-color:white; "
+an "Delta wing"
+cn "Delta wing"  "ui.label":"Delta wing"
+cn "Delta wing"  "ui.style":"size:6px; fill-color:white; "
+an "Flying wing"
+cn "Flying wing"  "ui.label":"Flying wing"
+cn "Flying wing"  "ui.style":"size:6px; fill-color:white; "
+an "Bulgarian_airliners"
+cn "Bulgarian_airliners"  "ui.label":"Bulgarian_airliners"
+cn "Bulgarian_airliners"  "ui.style":"size:6px; fill-color:white; "
+an "Lift (force)"
+cn "Lift (force)"  "ui.label":"Lift (force)"
+cn "Lift (force)"  "ui.style":"size:6px; fill-color:white; "
+an "Indonesian_airliners"
+cn "Indonesian_airliners"  "ui.label":"Indonesian_airliners"
+cn "Indonesian_airliners"  "ui.style":"size:6px; fill-color:white; "
+an "Ground effect (aerodynamics)"
+cn "Ground effect (aerodynamics)"  "ui.label":"Ground effect (aerodynamics)"
+cn "Ground effect (aerodynamics)"  "ui.style":"size:6px; fill-color:white; "
+an "Tiltrotor"
+cn "Tiltrotor"  "ui.label":"Tiltrotor"
+cn "Tiltrotor"  "ui.style":"size:6px; fill-color:white; "
+an "Martin Marietta X-24"
+cn "Martin Marietta X-24"  "ui.label":"Martin Marietta X-24"
+cn "Martin Marietta X-24"  "ui.style":"size:6px; fill-color:white; "
+an "Military aircraft"
+cn "Military aircraft"  "ui.label":"Military aircraft"
+cn "Military aircraft"  "ui.style":"size:6px; fill-color:white; "
+an "Supersonic speed"
+cn "Supersonic speed"  "ui.label":"Supersonic speed"
+cn "Supersonic speed"  "ui.style":"size:6px; fill-color:white; "
+an "Tractor configuration"
+cn "Tractor configuration"  "ui.label":"Tractor configuration"
+cn "Tractor configuration"  "ui.style":"size:6px; fill-color:white; "
+an "Turbofan"
+cn "Turbofan"  "ui.label":"Turbofan"
+cn "Turbofan"  "ui.style":"size:6px; fill-color:white; "
+an "Antonov An-124 Ruslan"
+cn "Antonov An-124 Ruslan"  "ui.label":"Antonov An-124 Ruslan"
+cn "Antonov An-124 Ruslan"  "ui.style":"size:6px; fill-color:white; "
+an "World War II"
+cn "World War II"  "ui.label":"World War II"
+cn "World War II"  "ui.style":"size:6px; fill-color:white; "
+an "Japanese_airliners"
+cn "Japanese_airliners"  "ui.label":"Japanese_airliners"
+cn "Japanese_airliners"  "ui.style":"size:6px; fill-color:white; "
+an "Boeing 747"
+cn "Boeing 747"  "ui.label":"Boeing 747"
+cn "Boeing 747"  "ui.style":"size:6px; fill-color:white; "
+an "Airbus A380"
+cn "Airbus A380"  "ui.label":"Airbus A380"
+cn "Airbus A380"  "ui.style":"size:6px; fill-color:white; "
+an "The New York Times"
+cn "The New York Times"  "ui.label":"The New York Times"
+cn "The New York Times"  "ui.style":"size:6px; fill-color:white; "
+an "Airbus"
+cn "Airbus"  "ui.label":"Airbus"
+cn "Airbus"  "ui.style":"size:6px; fill-color:white; "
+an "Flight control surfaces"
+cn "Flight control surfaces"  "ui.label":"Flight control surfaces"
+cn "Flight control surfaces"  "ui.style":"size:6px; fill-color:white; "
+an "Landing gear"
+cn "Landing gear"  "ui.label":"Landing gear"
+cn "Landing gear"  "ui.style":"size:6px; fill-color:white; "
+an "Takeoff"
+cn "Takeoff"  "ui.label":"Takeoff"
+cn "Takeoff"  "ui.style":"size:6px; fill-color:white; "
+an "British_airliners"
+cn "British_airliners"  "ui.label":"British_airliners"
+cn "British_airliners"  "ui.style":"size:6px; fill-color:white; "
+an "Double-deck_aircraft"
+cn "Double-deck_aircraft"  "ui.label":"Double-deck_aircraft"
+cn "Double-deck_aircraft"  "ui.style":"size:6px; fill-color:white; "
+an "Spacecraft"
+cn "Spacecraft"  "ui.label":"Spacecraft"
+cn "Spacecraft"  "ui.style":"size:6px; fill-color:white; "
+an "Boeing"
+cn "Boeing"  "ui.label":"Boeing"
+cn "Boeing"  "ui.style":"size:6px; fill-color:white; "
+an "Turbojet"
+cn "Turbojet"  "ui.label":"Turbojet"
+cn "Turbojet"  "ui.style":"size:6px; fill-color:white; "
+an "Ducted fan"
+cn "Ducted fan"  "ui.label":"Ducted fan"
+cn "Ducted fan"  "ui.style":"size:6px; fill-color:white; "
+an "Steam aircraft"
+cn "Steam aircraft"  "ui.label":"Steam aircraft"
+cn "Steam aircraft"  "ui.style":"size:6px; fill-color:white; "
+an "Radar"
+cn "Radar"  "ui.label":"Radar"
+cn "Radar"  "ui.style":"size:6px; fill-color:white; "
+an "Electric aircraft"
+cn "Electric aircraft"  "ui.label":"Electric aircraft"
+cn "Electric aircraft"  "ui.style":"size:6px; fill-color:white; "
+ae "Aircraft->craft" "Aircraft"  "craft"
+ce "Aircraft->craft"  "type":0
+ae "craft->occupation" "craft"  "occupation"
+ce "craft->occupation"  "type":0
+ae "occupation->activity" "occupation"  "activity"
+ce "occupation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "Airliner->airplane" "Airliner"  "airplane"
+ce "Airliner->airplane"  "type":0
+ae "airplane->heavier-than-air craft" "airplane"  "heavier-than-air craft"
+ce "airplane->heavier-than-air craft"  "type":0
+ae "heavier-than-air craft->aircraft" "heavier-than-air craft"  "aircraft"
+ce "heavier-than-air craft->aircraft"  "type":0
+ae "aircraft->craft" "aircraft"  "craft"
+ce "aircraft->craft"  "type":0
+ae "aircraft->Spaceplane" "aircraft" > "Spaceplane"
+ce "aircraft->Spaceplane"  "type":8
+ae "aircraft->Spacecraft" "aircraft" > "Spacecraft"
+ce "aircraft->Spacecraft"  "type":8
+ae "Airliner->Aircrew" "Airliner" > "Aircrew"
+ce "Airliner->Aircrew"  "type":8
+ae "aircraft->List of large aircraft" "aircraft" > "List of large aircraft"
+ce "aircraft->List of large aircraft"  "type":8
+ae "Aircraft->skeleton" "Aircraft" > "skeleton"
+ce "Aircraft->skeleton"  "type":7
+ae "Aircraft->Flight" "Aircraft" > "Flight"
+ce "Aircraft->Flight"  "type":8
+ae "Aircraft->Jet engine" "Aircraft" > "Jet engine"
+ce "Aircraft->Jet engine"  "type":8
+ae "aircraft->List of individual aircraft" "aircraft" > "List of individual aircraft"
+ce "aircraft->List of individual aircraft"  "type":8
+ae "Aircraft->Glider (aircraft)" "Aircraft" > "Glider (aircraft)"
+ce "Aircraft->Glider (aircraft)"  "type":8
+ae "Aircraft->Aircrew" "Aircraft" > "Aircrew"
+ce "Aircraft->Aircrew"  "type":8
+ae "Aircraft->Double-deck_aircraft" "Aircraft" > "Double-deck_aircraft"
+ce "Aircraft->Double-deck_aircraft"  "type":8
+ae "Aircraft->Japanese_airliners" "Aircraft" > "Japanese_airliners"
+ce "Aircraft->Japanese_airliners"  "type":8
+ae "aircraft->Airmail" "aircraft" > "Airmail"
+ce "aircraft->Airmail"  "type":8
+ae "Airliner->Landing gear" "Airliner" > "Landing gear"
+ce "Airliner->Landing gear"  "type":8
+ae "aircraft->Attack helicopter" "aircraft" > "Attack helicopter"
+ce "aircraft->Attack helicopter"  "type":8
+ae "Aircraft->Zeppelin" "Aircraft" > "Zeppelin"
+ce "Aircraft->Zeppelin"  "type":8
+ae "writing->Mesopotamia" "writing" > "Mesopotamia"
+ce "writing->Mesopotamia"  "type":8
+ae "Aircraft->Airliner" "Aircraft" > "Airliner"
+ce "Aircraft->Airliner"  "type":8
+ae "aircraft->Fighter aircraft" "aircraft" > "Fighter aircraft"
+ce "aircraft->Fighter aircraft"  "type":8
+ae "aircraft->Military aircraft" "aircraft" > "Military aircraft"
+ce "aircraft->Military aircraft"  "type":8
+ae "Aircraft->Swept wing" "Aircraft" > "Swept wing"
+ce "Aircraft->Swept wing"  "type":8
+ae "Aircraft->Delta wing" "Aircraft" > "Delta wing"
+ce "Aircraft->Delta wing"  "type":8
+ae "Aircraft->Flying wing" "Aircraft" > "Flying wing"
+ce "Aircraft->Flying wing"  "type":8
+ae "aircraft->skeleton" "aircraft" > "skeleton"
+ce "aircraft->skeleton"  "type":7
+ae "aircraft->Flight control surfaces" "aircraft" > "Flight control surfaces"
+ce "aircraft->Flight control surfaces"  "type":8
+ae "airplane->Delta wing" "airplane" > "Delta wing"
+ce "airplane->Delta wing"  "type":8
+ae "Aircraft->Ground effect (aerodynamics)" "Aircraft" > "Ground effect (aerodynamics)"
+ce "Aircraft->Ground effect (aerodynamics)"  "type":8
+ae "Aircraft->Tiltrotor" "Aircraft" > "Tiltrotor"
+ce "Aircraft->Tiltrotor"  "type":8
+ae "Aircraft->Martin Marietta X-24" "Aircraft" > "Martin Marietta X-24"
+ce "Aircraft->Martin Marietta X-24"  "type":8
+ae "document->Author" "document" > "Author"
+ce "document->Author"  "type":8
+ae "Aircraft->Supersonic speed" "Aircraft" > "Supersonic speed"
+ce "Aircraft->Supersonic speed"  "type":8
+ae "aircraft->Takeoff" "aircraft" > "Takeoff"
+ce "aircraft->Takeoff"  "type":8
+ae "Airliner->Airbus" "Airliner" > "Airbus"
+ce "Airliner->Airbus"  "type":8
+ae "Aircraft->Antonov An-124 Ruslan" "Aircraft" > "Antonov An-124 Ruslan"
+ce "Aircraft->Antonov An-124 Ruslan"  "type":8
+ae "Aircraft->World War II" "Aircraft" > "World War II"
+ce "Aircraft->World War II"  "type":8
+ae "aircraft->Radar" "aircraft" > "Radar"
+ce "aircraft->Radar"  "type":8
+ae "Aircraft->Boeing 747" "Aircraft" > "Boeing 747"
+ce "Aircraft->Boeing 747"  "type":8
+ae "Aircraft->Airbus A380" "Aircraft" > "Airbus A380"
+ce "Aircraft->Airbus A380"  "type":8
+ae "Aircraft->The New York Times" "Aircraft" > "The New York Times"
+ce "Aircraft->The New York Times"  "type":8
+ae "activity->representation" "activity" > "representation"
+ce "activity->representation"  "type":1
+ae "airplane->Landing gear" "airplane" > "Landing gear"
+ce "airplane->Landing gear"  "type":8
+ae "airplane->Lift (force)" "airplane" > "Lift (force)"
+ce "airplane->Lift (force)"  "type":8
+ae "airplane->Supersonic speed" "airplane" > "Supersonic speed"
+ce "airplane->Supersonic speed"  "type":8
+ae "aircraft->Turbofan" "aircraft" > "Turbofan"
+ce "aircraft->Turbofan"  "type":8
+ae "aircraft->Airbreathing jet engine" "aircraft" > "Airbreathing jet engine"
+ce "aircraft->Airbreathing jet engine"  "type":8
+ae "aircraft->Electric aircraft" "aircraft" > "Electric aircraft"
+ce "aircraft->Electric aircraft"  "type":8
+ae "aircraft->Steam aircraft" "aircraft" > "Steam aircraft"
+ce "aircraft->Steam aircraft"  "type":8
+ae "aircraft->Ducted fan" "aircraft" > "Ducted fan"
+ce "aircraft->Ducted fan"  "type":8
+ae "Aircraft->Ducted fan" "Aircraft" > "Ducted fan"
+ce "Aircraft->Ducted fan"  "type":8
+ae "Aircraft->Steam aircraft" "Aircraft" > "Steam aircraft"
+ce "Aircraft->Steam aircraft"  "type":8
+ae "aircraft->Tractor configuration" "aircraft" > "Tractor configuration"
+ce "aircraft->Tractor configuration"  "type":8
+ae "Aircraft->Electric aircraft" "Aircraft" > "Electric aircraft"
+ce "Aircraft->Electric aircraft"  "type":8
+ae "Aircraft->Airbreathing jet engine" "Aircraft" > "Airbreathing jet engine"
+ce "Aircraft->Airbreathing jet engine"  "type":8
+ae "Aircraft->Turbojet" "Aircraft" > "Turbojet"
+ce "Aircraft->Turbojet"  "type":8
+ae "Aircraft->Turbofan" "Aircraft" > "Turbofan"
+ce "Aircraft->Turbofan"  "type":8
+ae "Airliner->Japanese_airliners" "Airliner" > "Japanese_airliners"
+ce "Airliner->Japanese_airliners"  "type":8
+ae "Airliner->Indonesian_airliners" "Airliner" > "Indonesian_airliners"
+ce "Airliner->Indonesian_airliners"  "type":8
+ae "Airliner->Boeing" "Airliner" > "Boeing"
+ce "Airliner->Boeing"  "type":8
+ae "Aircraft->Radar" "Aircraft" > "Radar"
+ce "Aircraft->Radar"  "type":8
+ae "airplane->Boeing" "airplane" > "Boeing"
+ce "airplane->Boeing"  "type":8
+ae "Aircraft->Takeoff" "Aircraft" > "Takeoff"
+ce "Aircraft->Takeoff"  "type":8
+ae "Airliner->Czech_and_Czechoslovakian_airliners" "Airliner" > "Czech_and_Czechoslovakian_airliners"
+ce "Airliner->Czech_and_Czechoslovakian_airliners"  "type":8
+ae "Aircraft->Flight control surfaces" "Aircraft" > "Flight control surfaces"
+ce "Aircraft->Flight control surfaces"  "type":8
+ae "Airliner->Bulgarian_airliners" "Airliner" > "Bulgarian_airliners"
+ce "Airliner->Bulgarian_airliners"  "type":8
+ae "Aircraft->Military aircraft" "Aircraft" > "Military aircraft"
+ce "Aircraft->Military aircraft"  "type":8
+ae "airplane->Airbus" "airplane" > "Airbus"
+ce "airplane->Airbus"  "type":8
+ae "Aircraft->Fighter aircraft" "Aircraft" > "Fighter aircraft"
+ce "Aircraft->Fighter aircraft"  "type":8
+ae "Aircraft->Attack helicopter" "Aircraft" > "Attack helicopter"
+ce "Aircraft->Attack helicopter"  "type":8
+ae "Aircraft->British_airliners" "Aircraft" > "British_airliners"
+ce "Aircraft->British_airliners"  "type":8
+ae "aircraft->Scramjet" "aircraft" > "Scramjet"
+ce "aircraft->Scramjet"  "type":8
+ae "Aircraft->Airmail" "Aircraft" > "Airmail"
+ce "Aircraft->Airmail"  "type":8
+ae "aircraft->The New York Times" "aircraft" > "The New York Times"
+ce "aircraft->The New York Times"  "type":8
+ae "aircraft->Airbus A380" "aircraft" > "Airbus A380"
+ce "aircraft->Airbus A380"  "type":8
+ae "aircraft->Boeing 747" "aircraft" > "Boeing 747"
+ce "aircraft->Boeing 747"  "type":8
+ae "Aircraft->List of individual aircraft" "Aircraft" > "List of individual aircraft"
+ce "Aircraft->List of individual aircraft"  "type":8
+ae "Aircraft->List of large aircraft" "Aircraft" > "List of large aircraft"
+ce "Aircraft->List of large aircraft"  "type":8
+ae "Aircraft->Aircraft spotting" "Aircraft" > "Aircraft spotting"
+ce "Aircraft->Aircraft spotting"  "type":8
+ae "aircraft->World War II" "aircraft" > "World War II"
+ce "aircraft->World War II"  "type":8
+ae "airplane->Spaceplane" "airplane" > "Spaceplane"
+ce "airplane->Spaceplane"  "type":8
+ae "aircraft->Antonov An-124 Ruslan" "aircraft" > "Antonov An-124 Ruslan"
+ce "aircraft->Antonov An-124 Ruslan"  "type":8
+ae "airplane->Airbus A380" "airplane" > "Airbus A380"
+ce "airplane->Airbus A380"  "type":8
+ae "Aircraft->Indonesian_airliners" "Aircraft" > "Indonesian_airliners"
+ce "Aircraft->Indonesian_airliners"  "type":8
+ae "aircraft->Supersonic speed" "aircraft" > "Supersonic speed"
+ce "aircraft->Supersonic speed"  "type":8
+ae "aircraft->Martin Marietta X-24" "aircraft" > "Martin Marietta X-24"
+ce "aircraft->Martin Marietta X-24"  "type":8
+ae "aircraft->Tiltrotor" "aircraft" > "Tiltrotor"
+ce "aircraft->Tiltrotor"  "type":8
+ae "Airliner->Aircraft spotting" "Airliner" > "Aircraft spotting"
+ce "Airliner->Aircraft spotting"  "type":8
+ae "aircraft->Ground effect (aerodynamics)" "aircraft" > "Ground effect (aerodynamics)"
+ce "aircraft->Ground effect (aerodynamics)"  "type":8
+ae "aircraft->Flying wing" "aircraft" > "Flying wing"
+ce "aircraft->Flying wing"  "type":8
+ae "Aircraft->Bulgarian_airliners" "Aircraft" > "Bulgarian_airliners"
+ce "Aircraft->Bulgarian_airliners"  "type":8
+ae "aircraft->Swept wing" "aircraft" > "Swept wing"
+ce "aircraft->Swept wing"  "type":8
+ae "Airliner->Double-deck_aircraft" "Airliner" > "Double-deck_aircraft"
+ce "Airliner->Double-deck_aircraft"  "type":8
+ae "document->Mesopotamia" "document" > "Mesopotamia"
+ce "document->Mesopotamia"  "type":8
+ae "writing->Author" "writing" > "Author"
+ce "writing->Author"  "type":8
+ae "Airliner->British_airliners" "Airliner" > "British_airliners"
+ce "Airliner->British_airliners"  "type":8
+ae "airplane->Turbojet" "airplane" > "Turbojet"
+ce "airplane->Turbojet"  "type":8
+ae "aircraft->Zeppelin" "aircraft" > "Zeppelin"
+ce "aircraft->Zeppelin"  "type":8
+ae "creation->representation" "creation" > "representation"
+ce "creation->representation"  "type":1
+ae "airplane->Spacecraft" "airplane" > "Spacecraft"
+ce "airplane->Spacecraft"  "type":8
+ae "aircraft->Glider (aircraft)" "aircraft" > "Glider (aircraft)"
+ce "aircraft->Glider (aircraft)"  "type":8
+ae "aircraft->Jet engine" "aircraft" > "Jet engine"
+ce "aircraft->Jet engine"  "type":8
+ae "airplane->Tractor configuration" "airplane" > "Tractor configuration"
+ce "airplane->Tractor configuration"  "type":8
+ae "aircraft->Lift (force)" "aircraft" > "Lift (force)"
+ce "aircraft->Lift (force)"  "type":8
+ae "airplane->Scramjet" "airplane" > "Scramjet"
+ce "airplane->Scramjet"  "type":8
+ae "airplane->Electric aircraft" "airplane" > "Electric aircraft"
+ce "airplane->Electric aircraft"  "type":8
+ae "aircraft->Flight" "aircraft" > "Flight"
+ce "aircraft->Flight"  "type":8
+ae "Airliner->Aircraft" "Airliner" > "Aircraft"
+ce "Airliner->Aircraft"  "type":8
+ae "Aircraft->Czech_and_Czechoslovakian_airliners" "Aircraft" > "Czech_and_Czechoslovakian_airliners"
+ce "Aircraft->Czech_and_Czechoslovakian_airliners"  "type":8

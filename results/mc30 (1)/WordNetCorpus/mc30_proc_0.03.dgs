@@ -1,0 +1,1321 @@
+DGS004
+null 0 0
+an "asylum"
+cn "asylum"  "__SUBGRAPH__":1
+cn "asylum"  "ui.label":"asylum"
+cn "asylum"  "ui.style":"size-mode:fit;"
+an "shelter"
+cn "shelter"  "__SUBGRAPH__":1
+cn "shelter"  "ui.label":"shelter"
+cn "shelter"  "ui.style":"size:6px; fill-color:white; "
+an "structure"
+cn "structure"  "__SUBGRAPH__":1
+cn "structure"  "ui.label":"structure"
+cn "structure"  "ui.style":"size:6px; fill-color:white; "
+an "artifact"
+cn "artifact"  "__SUBGRAPH__":1
+cn "artifact"  "ui.label":"artifact"
+cn "artifact"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "__SUBGRAPH__":1
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "__SUBGRAPH__":1
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "__SUBGRAPH__":1
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "__SUBGRAPH__":1
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "__SUBGRAPH__":1
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "__SUBGRAPH__":1
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "__SUBGRAPH__":1
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "madhouse"
+cn "madhouse"  "__SUBGRAPH__":1
+cn "madhouse"  "ui.label":"madhouse"
+cn "madhouse"  "ui.style":"size-mode:fit;"
+an "mental hospital"
+cn "mental hospital"  "__SUBGRAPH__":1
+cn "mental hospital"  "ui.label":"mental hospital"
+cn "mental hospital"  "ui.style":"size:6px; fill-color:white; "
+an "hospital"
+cn "hospital"  "__SUBGRAPH__":1
+cn "hospital"  "ui.label":"hospital"
+cn "hospital"  "ui.style":"size:6px; fill-color:white; "
+an "medical building"
+cn "medical building"  "__SUBGRAPH__":1
+cn "medical building"  "ui.label":"medical building"
+cn "medical building"  "ui.style":"size:6px; fill-color:white; "
+an "building"
+cn "building"  "__SUBGRAPH__":1
+cn "building"  "ui.label":"building"
+cn "building"  "ui.style":"size:6px; fill-color:white; "
+an "bird"
+cn "bird"  "__SUBGRAPH__":1
+cn "bird"  "ui.label":"bird"
+cn "bird"  "ui.style":"size-mode:fit;"
+an "vertebrate"
+cn "vertebrate"  "__SUBGRAPH__":1
+cn "vertebrate"  "ui.label":"vertebrate"
+cn "vertebrate"  "ui.style":"size:6px; fill-color:white; "
+an "chordate"
+cn "chordate"  "__SUBGRAPH__":1
+cn "chordate"  "ui.label":"chordate"
+cn "chordate"  "ui.style":"size:6px; fill-color:white; "
+an "animal"
+cn "animal"  "__SUBGRAPH__":1
+cn "animal"  "ui.label":"animal"
+cn "animal"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "__SUBGRAPH__":1
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "__SUBGRAPH__":1
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "cock"
+cn "cock"  "__SUBGRAPH__":1
+cn "cock"  "ui.label":"cock"
+cn "cock"  "ui.style":"size-mode:fit;"
+an "penis"
+cn "penis"  "__SUBGRAPH__":1
+cn "penis"  "ui.label":"penis"
+cn "penis"  "ui.style":"size:6px; fill-color:white; "
+an "erectile organ"
+cn "erectile organ"  "__SUBGRAPH__":1
+cn "erectile organ"  "ui.label":"erectile organ"
+cn "erectile organ"  "ui.style":"size:6px; fill-color:white; "
+an "organ"
+cn "organ"  "__SUBGRAPH__":1
+cn "organ"  "ui.label":"organ"
+cn "organ"  "ui.style":"size:6px; fill-color:white; "
+an "body part"
+cn "body part"  "__SUBGRAPH__":1
+cn "body part"  "ui.label":"body part"
+cn "body part"  "ui.style":"size:6px; fill-color:white; "
+an "part"
+cn "part"  "__SUBGRAPH__":1
+cn "part"  "ui.label":"part"
+cn "part"  "ui.style":"size:6px; fill-color:white; "
+an "relation"
+cn "relation"  "__SUBGRAPH__":1
+cn "relation"  "ui.label":"relation"
+cn "relation"  "ui.style":"size:6px; fill-color:white; "
+an "crane"
+cn "crane"  "__SUBGRAPH__":1
+cn "crane"  "ui.label":"crane"
+cn "crane"  "ui.style":"size-mode:fit;"
+an "lifting device"
+cn "lifting device"  "__SUBGRAPH__":1
+cn "lifting device"  "ui.label":"lifting device"
+cn "lifting device"  "ui.style":"size:6px; fill-color:white; "
+an "device"
+cn "device"  "__SUBGRAPH__":1
+cn "device"  "ui.label":"device"
+cn "device"  "ui.style":"size:6px; fill-color:white; "
+an "instrumentality"
+cn "instrumentality"  "__SUBGRAPH__":1
+cn "instrumentality"  "ui.label":"instrumentality"
+cn "instrumentality"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "__SUBGRAPH__":1
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "definite quantity"
+cn "definite quantity"  "__SUBGRAPH__":1
+cn "definite quantity"  "ui.label":"definite quantity"
+cn "definite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "__SUBGRAPH__":1
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "__SUBGRAPH__":1
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "__SUBGRAPH__":1
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "__SUBGRAPH__":1
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "__SUBGRAPH__":1
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "__SUBGRAPH__":1
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "__SUBGRAPH__":1
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "__SUBGRAPH__":1
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "__SUBGRAPH__":1
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "__SUBGRAPH__":1
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "__SUBGRAPH__":1
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "__SUBGRAPH__":1
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "__SUBGRAPH__":1
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "__SUBGRAPH__":1
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "__SUBGRAPH__":1
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "__SUBGRAPH__":1
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "__SUBGRAPH__":1
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "__SUBGRAPH__":1
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "__SUBGRAPH__":1
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "__SUBGRAPH__":1
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "boy"
+cn "boy"  "__SUBGRAPH__":1
+cn "boy"  "ui.label":"boy"
+cn "boy"  "ui.style":"size-mode:fit;"
+an "male"
+cn "male"  "__SUBGRAPH__":1
+cn "male"  "ui.label":"male"
+cn "male"  "ui.style":"size:6px; fill-color:white; "
+an "lad"
+cn "lad"  "__SUBGRAPH__":1
+cn "lad"  "ui.label":"lad"
+cn "lad"  "ui.style":"size-mode:fit;"
+an "brother"
+cn "brother"  "__SUBGRAPH__":1
+cn "brother"  "ui.label":"brother"
+cn "brother"  "ui.style":"size-mode:fit;"
+an "male sibling"
+cn "male sibling"  "__SUBGRAPH__":1
+cn "male sibling"  "ui.label":"male sibling"
+cn "male sibling"  "ui.style":"size:6px; fill-color:white; "
+an "kinsman"
+cn "kinsman"  "__SUBGRAPH__":1
+cn "kinsman"  "ui.label":"kinsman"
+cn "kinsman"  "ui.style":"size:6px; fill-color:white; "
+an "relative"
+cn "relative"  "__SUBGRAPH__":1
+cn "relative"  "ui.label":"relative"
+cn "relative"  "ui.style":"size:6px; fill-color:white; "
+an "person"
+cn "person"  "__SUBGRAPH__":1
+cn "person"  "ui.label":"person"
+cn "person"  "ui.style":"size:6px; fill-color:white; "
+an "monk"
+cn "monk"  "__SUBGRAPH__":1
+cn "monk"  "ui.label":"monk"
+cn "monk"  "ui.style":"size-mode:fit;"
+an "religious"
+cn "religious"  "__SUBGRAPH__":1
+cn "religious"  "ui.label":"religious"
+cn "religious"  "ui.style":"size:6px; fill-color:white; "
+an "religious person"
+cn "religious person"  "__SUBGRAPH__":1
+cn "religious person"  "ui.label":"religious person"
+cn "religious person"  "ui.style":"size:6px; fill-color:white; "
+an "car"
+cn "car"  "__SUBGRAPH__":1
+cn "car"  "ui.label":"car"
+cn "car"  "ui.style":"size-mode:fit;"
+an "motor vehicle"
+cn "motor vehicle"  "__SUBGRAPH__":1
+cn "motor vehicle"  "ui.label":"motor vehicle"
+cn "motor vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "self-propelled vehicle"
+cn "self-propelled vehicle"  "__SUBGRAPH__":1
+cn "self-propelled vehicle"  "ui.label":"self-propelled vehicle"
+cn "self-propelled vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "wheeled vehicle"
+cn "wheeled vehicle"  "__SUBGRAPH__":1
+cn "wheeled vehicle"  "ui.label":"wheeled vehicle"
+cn "wheeled vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "vehicle"
+cn "vehicle"  "__SUBGRAPH__":1
+cn "vehicle"  "ui.label":"vehicle"
+cn "vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "conveyance"
+cn "conveyance"  "__SUBGRAPH__":1
+cn "conveyance"  "ui.label":"conveyance"
+cn "conveyance"  "ui.style":"size:6px; fill-color:white; "
+an "automobile"
+cn "automobile"  "__SUBGRAPH__":1
+cn "automobile"  "ui.label":"automobile"
+cn "automobile"  "ui.style":"size-mode:fit;"
+an "cemetery"
+cn "cemetery"  "__SUBGRAPH__":1
+cn "cemetery"  "ui.label":"cemetery"
+cn "cemetery"  "ui.style":"size-mode:fit;"
+an "site"
+cn "site"  "__SUBGRAPH__":1
+cn "site"  "ui.label":"site"
+cn "site"  "ui.style":"size:6px; fill-color:white; "
+an "tract"
+cn "tract"  "__SUBGRAPH__":1
+cn "tract"  "ui.label":"tract"
+cn "tract"  "ui.style":"size:6px; fill-color:white; "
+an "geographical area"
+cn "geographical area"  "__SUBGRAPH__":1
+cn "geographical area"  "ui.label":"geographical area"
+cn "geographical area"  "ui.style":"size:6px; fill-color:white; "
+an "woodland"
+cn "woodland"  "__SUBGRAPH__":1
+cn "woodland"  "ui.label":"woodland"
+cn "woodland"  "ui.style":"size-mode:fit;"
+an "land"
+cn "land"  "__SUBGRAPH__":1
+cn "land"  "ui.label":"land"
+cn "land"  "ui.style":"size:6px; fill-color:white; "
+an "real property"
+cn "real property"  "__SUBGRAPH__":1
+cn "real property"  "ui.label":"real property"
+cn "real property"  "ui.style":"size:6px; fill-color:white; "
+an "property"
+cn "property"  "__SUBGRAPH__":1
+cn "property"  "ui.label":"property"
+cn "property"  "ui.style":"size:6px; fill-color:white; "
+an "possession"
+cn "possession"  "__SUBGRAPH__":1
+cn "possession"  "ui.label":"possession"
+cn "possession"  "ui.style":"size:6px; fill-color:white; "
+an "control"
+cn "control"  "__SUBGRAPH__":1
+cn "control"  "ui.label":"control"
+cn "control"  "ui.style":"size:6px; fill-color:white; "
+an "power"
+cn "power"  "__SUBGRAPH__":1
+cn "power"  "ui.label":"power"
+cn "power"  "ui.style":"size:6px; fill-color:white; "
+an "quality"
+cn "quality"  "__SUBGRAPH__":1
+cn "quality"  "ui.label":"quality"
+cn "quality"  "ui.style":"size:6px; fill-color:white; "
+an "attribute"
+cn "attribute"  "__SUBGRAPH__":1
+cn "attribute"  "ui.label":"attribute"
+cn "attribute"  "ui.style":"size:6px; fill-color:white; "
+an "chord"
+cn "chord"  "__SUBGRAPH__":1
+cn "chord"  "ui.label":"chord"
+cn "chord"  "ui.style":"size-mode:fit;"
+an "straight line"
+cn "straight line"  "__SUBGRAPH__":1
+cn "straight line"  "ui.label":"straight line"
+cn "straight line"  "ui.style":"size:6px; fill-color:white; "
+an "line"
+cn "line"  "__SUBGRAPH__":1
+cn "line"  "ui.label":"line"
+cn "line"  "ui.style":"size:6px; fill-color:white; "
+an "formation"
+cn "formation"  "__SUBGRAPH__":1
+cn "formation"  "ui.label":"formation"
+cn "formation"  "ui.style":"size:6px; fill-color:white; "
+an "arrangement"
+cn "arrangement"  "__SUBGRAPH__":1
+cn "arrangement"  "ui.label":"arrangement"
+cn "arrangement"  "ui.style":"size:6px; fill-color:white; "
+an "planning"
+cn "planning"  "__SUBGRAPH__":1
+cn "planning"  "ui.label":"planning"
+cn "planning"  "ui.style":"size:6px; fill-color:white; "
+an "preparation"
+cn "preparation"  "__SUBGRAPH__":1
+cn "preparation"  "ui.label":"preparation"
+cn "preparation"  "ui.style":"size:6px; fill-color:white; "
+an "smile"
+cn "smile"  "__SUBGRAPH__":1
+cn "smile"  "ui.label":"smile"
+cn "smile"  "ui.style":"size-mode:fit;"
+an "facial expression"
+cn "facial expression"  "__SUBGRAPH__":1
+cn "facial expression"  "ui.label":"facial expression"
+cn "facial expression"  "ui.style":"size:6px; fill-color:white; "
+an "gesture"
+cn "gesture"  "__SUBGRAPH__":1
+cn "gesture"  "ui.label":"gesture"
+cn "gesture"  "ui.style":"size:6px; fill-color:white; "
+an "motion"
+cn "motion"  "__SUBGRAPH__":1
+cn "motion"  "ui.label":"motion"
+cn "motion"  "ui.style":"size:6px; fill-color:white; "
+an "visual communication"
+cn "visual communication"  "__SUBGRAPH__":1
+cn "visual communication"  "ui.label":"visual communication"
+cn "visual communication"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "__SUBGRAPH__":1
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "coast"
+cn "coast"  "__SUBGRAPH__":1
+cn "coast"  "ui.label":"coast"
+cn "coast"  "ui.style":"size-mode:fit;"
+an "shore"
+cn "shore"  "__SUBGRAPH__":1
+cn "shore"  "ui.label":"shore"
+cn "shore"  "ui.style":"size-mode:fit;"
+an "geological formation"
+cn "geological formation"  "__SUBGRAPH__":1
+cn "geological formation"  "ui.label":"geological formation"
+cn "geological formation"  "ui.style":"size:6px; fill-color:white; "
+an "forest"
+cn "forest"  "__SUBGRAPH__":1
+cn "forest"  "ui.label":"forest"
+cn "forest"  "ui.style":"size-mode:fit;"
+an "vegetation"
+cn "vegetation"  "__SUBGRAPH__":1
+cn "vegetation"  "ui.label":"vegetation"
+cn "vegetation"  "ui.style":"size:6px; fill-color:white; "
+an "hill"
+cn "hill"  "__SUBGRAPH__":1
+cn "hill"  "ui.label":"hill"
+cn "hill"  "ui.style":"size-mode:fit;"
+an "natural elevation"
+cn "natural elevation"  "__SUBGRAPH__":1
+cn "natural elevation"  "ui.label":"natural elevation"
+cn "natural elevation"  "ui.style":"size:6px; fill-color:white; "
+an "implement"
+cn "implement"  "__SUBGRAPH__":1
+cn "implement"  "ui.label":"implement"
+cn "implement"  "ui.style":"size-mode:fit;"
+an "food"
+cn "food"  "__SUBGRAPH__":1
+cn "food"  "ui.label":"food"
+cn "food"  "ui.style":"size-mode:fit;"
+an "substance"
+cn "substance"  "__SUBGRAPH__":1
+cn "substance"  "ui.label":"substance"
+cn "substance"  "ui.style":"size:6px; fill-color:white; "
+an "matter"
+cn "matter"  "__SUBGRAPH__":1
+cn "matter"  "ui.label":"matter"
+cn "matter"  "ui.style":"size:6px; fill-color:white; "
+an "concern"
+cn "concern"  "__SUBGRAPH__":1
+cn "concern"  "ui.label":"concern"
+cn "concern"  "ui.style":"size:6px; fill-color:white; "
+an "interest"
+cn "interest"  "__SUBGRAPH__":1
+cn "interest"  "ui.label":"interest"
+cn "interest"  "ui.style":"size:6px; fill-color:white; "
+an "curiosity"
+cn "curiosity"  "__SUBGRAPH__":1
+cn "curiosity"  "ui.label":"curiosity"
+cn "curiosity"  "ui.style":"size:6px; fill-color:white; "
+an "cognitive state"
+cn "cognitive state"  "__SUBGRAPH__":1
+cn "cognitive state"  "ui.label":"cognitive state"
+cn "cognitive state"  "ui.style":"size:6px; fill-color:white; "
+an "psychological state"
+cn "psychological state"  "__SUBGRAPH__":1
+cn "psychological state"  "ui.label":"psychological state"
+cn "psychological state"  "ui.style":"size:6px; fill-color:white; "
+an "condition"
+cn "condition"  "__SUBGRAPH__":1
+cn "condition"  "ui.label":"condition"
+cn "condition"  "ui.style":"size:6px; fill-color:white; "
+an "fruit"
+cn "fruit"  "__SUBGRAPH__":1
+cn "fruit"  "ui.label":"fruit"
+cn "fruit"  "ui.style":"size-mode:fit;"
+an "reproductive structure"
+cn "reproductive structure"  "__SUBGRAPH__":1
+cn "reproductive structure"  "ui.label":"reproductive structure"
+cn "reproductive structure"  "ui.style":"size:6px; fill-color:white; "
+an "plant organ"
+cn "plant organ"  "__SUBGRAPH__":1
+cn "plant organ"  "ui.label":"plant organ"
+cn "plant organ"  "ui.style":"size:6px; fill-color:white; "
+an "plant part"
+cn "plant part"  "__SUBGRAPH__":1
+cn "plant part"  "ui.label":"plant part"
+cn "plant part"  "ui.style":"size:6px; fill-color:white; "
+an "natural object"
+cn "natural object"  "__SUBGRAPH__":1
+cn "natural object"  "ui.label":"natural object"
+cn "natural object"  "ui.style":"size:6px; fill-color:white; "
+an "rooster"
+cn "rooster"  "__SUBGRAPH__":1
+cn "rooster"  "ui.label":"rooster"
+cn "rooster"  "ui.style":"size-mode:fit;"
+an "chicken"
+cn "chicken"  "__SUBGRAPH__":1
+cn "chicken"  "ui.label":"chicken"
+cn "chicken"  "ui.style":"size:6px; fill-color:white; "
+an "poultry"
+cn "poultry"  "__SUBGRAPH__":1
+cn "poultry"  "ui.label":"poultry"
+cn "poultry"  "ui.style":"size:6px; fill-color:white; "
+an "gallinaceous bird"
+cn "gallinaceous bird"  "__SUBGRAPH__":1
+cn "gallinaceous bird"  "ui.label":"gallinaceous bird"
+cn "gallinaceous bird"  "ui.style":"size:6px; fill-color:white; "
+an "graveyard"
+cn "graveyard"  "__SUBGRAPH__":1
+cn "graveyard"  "ui.label":"graveyard"
+cn "graveyard"  "ui.style":"size-mode:fit;"
+an "furnace"
+cn "furnace"  "__SUBGRAPH__":1
+cn "furnace"  "ui.label":"furnace"
+cn "furnace"  "ui.style":"size-mode:fit;"
+an "chamber"
+cn "chamber"  "__SUBGRAPH__":1
+cn "chamber"  "ui.label":"chamber"
+cn "chamber"  "ui.style":"size:6px; fill-color:white; "
+an "enclosure"
+cn "enclosure"  "__SUBGRAPH__":1
+cn "enclosure"  "ui.label":"enclosure"
+cn "enclosure"  "ui.style":"size:6px; fill-color:white; "
+an "area"
+cn "area"  "__SUBGRAPH__":1
+cn "area"  "ui.label":"area"
+cn "area"  "ui.style":"size:6px; fill-color:white; "
+an "stove"
+cn "stove"  "__SUBGRAPH__":1
+cn "stove"  "ui.label":"stove"
+cn "stove"  "ui.style":"size-mode:fit;"
+an "kitchen appliance"
+cn "kitchen appliance"  "__SUBGRAPH__":1
+cn "kitchen appliance"  "ui.label":"kitchen appliance"
+cn "kitchen appliance"  "ui.style":"size:6px; fill-color:white; "
+an "home appliance"
+cn "home appliance"  "__SUBGRAPH__":1
+cn "home appliance"  "ui.label":"home appliance"
+cn "home appliance"  "ui.style":"size:6px; fill-color:white; "
+an "appliance"
+cn "appliance"  "__SUBGRAPH__":1
+cn "appliance"  "ui.label":"appliance"
+cn "appliance"  "ui.style":"size:6px; fill-color:white; "
+an "gem"
+cn "gem"  "__SUBGRAPH__":1
+cn "gem"  "ui.label":"gem"
+cn "gem"  "ui.style":"size-mode:fit;"
+an "art"
+cn "art"  "__SUBGRAPH__":1
+cn "art"  "ui.label":"art"
+cn "art"  "ui.style":"size:6px; fill-color:white; "
+an "jewel"
+cn "jewel"  "__SUBGRAPH__":1
+cn "jewel"  "ui.label":"jewel"
+cn "jewel"  "ui.style":"size-mode:fit;"
+an "jewelry"
+cn "jewelry"  "__SUBGRAPH__":1
+cn "jewelry"  "ui.label":"jewelry"
+cn "jewelry"  "ui.style":"size:6px; fill-color:white; "
+an "adornment"
+cn "adornment"  "__SUBGRAPH__":1
+cn "adornment"  "ui.label":"adornment"
+cn "adornment"  "ui.style":"size:6px; fill-color:white; "
+an "decoration"
+cn "decoration"  "__SUBGRAPH__":1
+cn "decoration"  "ui.label":"decoration"
+cn "decoration"  "ui.style":"size:6px; fill-color:white; "
+an "glass"
+cn "glass"  "__SUBGRAPH__":1
+cn "glass"  "ui.label":"glass"
+cn "glass"  "ui.style":"size-mode:fit;"
+an "solid"
+cn "solid"  "__SUBGRAPH__":1
+cn "solid"  "ui.label":"solid"
+cn "solid"  "ui.style":"size:6px; fill-color:white; "
+an "magician"
+cn "magician"  "__SUBGRAPH__":1
+cn "magician"  "ui.label":"magician"
+cn "magician"  "ui.style":"size-mode:fit;"
+an "performer"
+cn "performer"  "__SUBGRAPH__":1
+cn "performer"  "ui.label":"performer"
+cn "performer"  "ui.style":"size:6px; fill-color:white; "
+an "entertainer"
+cn "entertainer"  "__SUBGRAPH__":1
+cn "entertainer"  "ui.label":"entertainer"
+cn "entertainer"  "ui.style":"size:6px; fill-color:white; "
+an "journey"
+cn "journey"  "__SUBGRAPH__":1
+cn "journey"  "ui.label":"journey"
+cn "journey"  "ui.style":"size-mode:fit;"
+an "travel"
+cn "travel"  "__SUBGRAPH__":1
+cn "travel"  "ui.label":"travel"
+cn "travel"  "ui.style":"size:6px; fill-color:white; "
+an "voyage"
+cn "voyage"  "__SUBGRAPH__":1
+cn "voyage"  "ui.label":"voyage"
+cn "voyage"  "ui.style":"size-mode:fit;"
+an "water travel"
+cn "water travel"  "__SUBGRAPH__":1
+cn "water travel"  "ui.label":"water travel"
+cn "water travel"  "ui.style":"size:6px; fill-color:white; "
+an "wizard"
+cn "wizard"  "__SUBGRAPH__":1
+cn "wizard"  "ui.label":"wizard"
+cn "wizard"  "ui.style":"size-mode:fit;"
+an "expert"
+cn "expert"  "__SUBGRAPH__":1
+cn "expert"  "ui.label":"expert"
+cn "expert"  "ui.style":"size:6px; fill-color:white; "
+an "midday"
+cn "midday"  "__SUBGRAPH__":1
+cn "midday"  "ui.label":"midday"
+cn "midday"  "ui.style":"size-mode:fit;"
+an "hour"
+cn "hour"  "__SUBGRAPH__":1
+cn "hour"  "ui.label":"hour"
+cn "hour"  "ui.style":"size:6px; fill-color:white; "
+an "time unit"
+cn "time unit"  "__SUBGRAPH__":1
+cn "time unit"  "ui.label":"time unit"
+cn "time unit"  "ui.style":"size:6px; fill-color:white; "
+an "noon"
+cn "noon"  "__SUBGRAPH__":1
+cn "noon"  "ui.label":"noon"
+cn "noon"  "ui.style":"size-mode:fit;"
+an "oracle"
+cn "oracle"  "__SUBGRAPH__":1
+cn "oracle"  "ui.label":"oracle"
+cn "oracle"  "ui.style":"size-mode:fit;"
+an "diviner"
+cn "diviner"  "__SUBGRAPH__":1
+cn "diviner"  "ui.label":"diviner"
+cn "diviner"  "ui.style":"size:6px; fill-color:white; "
+an "visionary"
+cn "visionary"  "__SUBGRAPH__":1
+cn "visionary"  "ui.label":"visionary"
+cn "visionary"  "ui.style":"size:6px; fill-color:white; "
+an "slave"
+cn "slave"  "__SUBGRAPH__":1
+cn "slave"  "ui.label":"slave"
+cn "slave"  "ui.style":"size-mode:fit;"
+an "string"
+cn "string"  "__SUBGRAPH__":1
+cn "string"  "ui.label":"string"
+cn "string"  "ui.style":"size-mode:fit;"
+an "cord"
+cn "cord"  "__SUBGRAPH__":1
+cn "cord"  "ui.label":"cord"
+cn "cord"  "ui.style":"size:6px; fill-color:white; "
+an "tool"
+cn "tool"  "__SUBGRAPH__":1
+cn "tool"  "ui.label":"tool"
+cn "tool"  "ui.style":"size-mode:fit;"
+an "fiber"
+cn "fiber"  "__SUBGRAPH__":1
+cn "fiber"  "ui.label":"fiber"
+cn "fiber"  "ui.style":"size:6px; fill-color:white; "
+an "prophetess"
+cn "prophetess"  "__SUBGRAPH__":1
+cn "prophetess"  "ui.label":"prophetess"
+cn "prophetess"  "ui.style":"size:6px; fill-color:white; "
+an "prairie gourd"
+cn "prairie gourd"  "__SUBGRAPH__":1
+cn "prairie gourd"  "ui.label":"prairie gourd"
+cn "prairie gourd"  "ui.style":"size:6px; fill-color:white; "
+an "swatter"
+cn "swatter"  "__SUBGRAPH__":1
+cn "swatter"  "ui.label":"swatter"
+cn "swatter"  "ui.style":"size:6px; fill-color:white; "
+an "cabochon"
+cn "cabochon"  "__SUBGRAPH__":1
+cn "cabochon"  "ui.label":"cabochon"
+cn "cabochon"  "ui.style":"size:6px; fill-color:white; "
+an "agency"
+cn "agency"  "__SUBGRAPH__":1
+cn "agency"  "ui.label":"agency"
+cn "agency"  "ui.style":"size:6px; fill-color:white; "
+an "tank furnace"
+cn "tank furnace"  "__SUBGRAPH__":1
+cn "tank furnace"  "ui.label":"tank furnace"
+cn "tank furnace"  "ui.style":"size:6px; fill-color:white; "
+an "exorcist"
+cn "exorcist"  "__SUBGRAPH__":1
+cn "exorcist"  "ui.label":"exorcist"
+cn "exorcist"  "ui.style":"size:6px; fill-color:white; "
+an "occultist"
+cn "occultist"  "__SUBGRAPH__":1
+cn "occultist"  "ui.label":"occultist"
+cn "occultist"  "ui.style":"size:6px; fill-color:white; "
+an "Model T"
+cn "Model T"  "__SUBGRAPH__":1
+cn "Model T"  "ui.label":"Model T"
+cn "Model T"  "ui.style":"size:6px; fill-color:white; "
+an "ground glass"
+cn "ground glass"  "__SUBGRAPH__":1
+cn "ground glass"  "ui.label":"ground glass"
+cn "ground glass"  "ui.style":"size:6px; fill-color:white; "
+an "horseless carriage"
+cn "horseless carriage"  "__SUBGRAPH__":1
+cn "horseless carriage"  "ui.label":"horseless carriage"
+cn "horseless carriage"  "ui.style":"size:6px; fill-color:white; "
+an "electric"
+cn "electric"  "__SUBGRAPH__":1
+cn "electric"  "ui.label":"electric"
+cn "electric"  "ui.style":"size:6px; fill-color:white; "
+an "nester"
+cn "nester"  "__SUBGRAPH__":1
+cn "nester"  "ui.label":"nester"
+cn "nester"  "ui.style":"size:6px; fill-color:white; "
+an "Ibero-mesornis"
+cn "Ibero-mesornis"  "__SUBGRAPH__":1
+cn "Ibero-mesornis"  "ui.label":"Ibero-mesornis"
+cn "Ibero-mesornis"  "ui.style":"size:6px; fill-color:white; "
+an "ratite"
+cn "ratite"  "__SUBGRAPH__":1
+cn "ratite"  "ui.label":"ratite"
+cn "ratite"  "ui.style":"size:6px; fill-color:white; "
+an "compartment"
+cn "compartment"  "__SUBGRAPH__":1
+cn "compartment"  "ui.label":"compartment"
+cn "compartment"  "ui.style":"size:6px; fill-color:white; "
+an "cleaning implement"
+cn "cleaning implement"  "__SUBGRAPH__":1
+cn "cleaning implement"  "ui.label":"cleaning implement"
+cn "cleaning implement"  "ui.style":"size:6px; fill-color:white; "
+an "greenwood"
+cn "greenwood"  "__SUBGRAPH__":1
+cn "greenwood"  "ui.label":"greenwood"
+cn "greenwood"  "ui.style":"size:6px; fill-color:white; "
+an "ruby"
+cn "ruby"  "__SUBGRAPH__":1
+cn "ruby"  "ui.label":"ruby"
+cn "ruby"  "ui.style":"size:6px; fill-color:white; "
+ae "asylum->shelter" "asylum" > "shelter"
+ce "asylum->shelter"  "type":0
+ce "asylum->shelter"  "ui.style":"text-color:rgb(182,182,182);"
+ae "shelter->structure" "shelter" > "structure"
+ce "shelter->structure"  "type":0
+ce "shelter->structure"  "ui.style":"text-color:rgb(109,109,109);"
+ae "structure->artifact" "structure" > "artifact"
+ce "structure->artifact"  "type":0
+ce "structure->artifact"  "ui.style":"text-color:rgb(109,109,109);"
+ae "artifact->whole" "artifact" > "whole"
+ce "artifact->whole"  "type":0
+ce "artifact->whole"  "ui.style":"text-color:rgb(72,72,72);"
+ae "whole->concept" "whole" > "concept"
+ce "whole->concept"  "type":0
+ce "whole->concept"  "ui.style":"text-color:rgb(72,72,72);"
+ae "concept->idea" "concept" > "idea"
+ce "concept->idea"  "type":0
+ce "concept->idea"  "ui.style":"text-color:rgb(109,109,109);"
+ae "idea->content" "idea" > "content"
+ce "idea->content"  "type":0
+ce "idea->content"  "ui.style":"text-color:rgb(182,182,182);"
+ae "content->collection" "content" > "collection"
+ce "content->collection"  "type":0
+ce "content->collection"  "ui.style":"text-color:rgb(145,145,145);"
+ae "collection->group" "collection" > "group"
+ce "collection->group"  "type":0
+ce "collection->group"  "ui.style":"text-color:rgb(145,145,145);"
+ae "group->abstraction" "group" > "abstraction"
+ce "group->abstraction"  "type":0
+ce "group->abstraction"  "ui.style":"text-color:rgb(109,109,109);"
+ae "abstraction->concept" "abstraction" > "concept"
+ce "abstraction->concept"  "type":0
+ce "abstraction->concept"  "ui.style":"text-color:rgb(109,109,109);"
+ae "madhouse->mental hospital" "madhouse" > "mental hospital"
+ce "madhouse->mental hospital"  "type":0
+ce "madhouse->mental hospital"  "ui.style":"text-color:rgb(182,182,182);"
+ae "mental hospital->hospital" "mental hospital" > "hospital"
+ce "mental hospital->hospital"  "type":0
+ce "mental hospital->hospital"  "ui.style":"text-color:rgb(145,145,145);"
+ae "hospital->medical building" "hospital" > "medical building"
+ce "hospital->medical building"  "type":0
+ce "hospital->medical building"  "ui.style":"text-color:rgb(145,145,145);"
+ae "medical building->building" "medical building" > "building"
+ce "medical building->building"  "type":0
+ce "medical building->building"  "ui.style":"text-color:rgb(182,182,182);"
+ae "building->structure" "building" > "structure"
+ce "building->structure"  "type":0
+ce "building->structure"  "ui.style":"text-color:rgb(109,109,109);"
+ae "bird->vertebrate" "bird" > "vertebrate"
+ce "bird->vertebrate"  "type":0
+ce "bird->vertebrate"  "ui.style":"text-color:rgb(0,0,0);"
+ae "vertebrate->chordate" "vertebrate" > "chordate"
+ce "vertebrate->chordate"  "type":0
+ce "vertebrate->chordate"  "ui.style":"text-color:rgb(145,145,145);"
+ae "chordate->animal" "chordate" > "animal"
+ce "chordate->animal"  "type":0
+ce "chordate->animal"  "ui.style":"text-color:rgb(145,145,145);"
+ae "animal->organism" "animal" > "organism"
+ce "animal->organism"  "type":0
+ce "animal->organism"  "ui.style":"text-color:rgb(145,145,145);"
+ae "organism->living thing" "organism" > "living thing"
+ce "organism->living thing"  "type":0
+ce "organism->living thing"  "ui.style":"text-color:rgb(145,145,145);"
+ae "living thing->whole" "living thing" > "whole"
+ce "living thing->whole"  "type":0
+ce "living thing->whole"  "ui.style":"text-color:rgb(72,72,72);"
+ae "cock->penis" "cock" > "penis"
+ce "cock->penis"  "type":0
+ce "cock->penis"  "ui.style":"text-color:rgb(182,182,182);"
+ae "penis->erectile organ" "penis" > "erectile organ"
+ce "penis->erectile organ"  "type":0
+ce "penis->erectile organ"  "ui.style":"text-color:rgb(182,182,182);"
+ae "erectile organ->organ" "erectile organ" > "organ"
+ce "erectile organ->organ"  "type":0
+ce "erectile organ->organ"  "ui.style":"text-color:rgb(145,145,145);"
+ae "organ->body part" "organ" > "body part"
+ce "organ->body part"  "type":0
+ce "organ->body part"  "ui.style":"text-color:rgb(145,145,145);"
+ae "body part->part" "body part" > "part"
+ce "body part->part"  "type":0
+ce "body part->part"  "ui.style":"text-color:rgb(109,109,109);"
+ae "part->relation" "part" > "relation"
+ce "part->relation"  "type":0
+ce "part->relation"  "ui.style":"text-color:rgb(109,109,109);"
+ae "relation->abstraction" "relation" > "abstraction"
+ce "relation->abstraction"  "type":0
+ce "relation->abstraction"  "ui.style":"text-color:rgb(109,109,109);"
+ae "crane->lifting device" "crane" > "lifting device"
+ce "crane->lifting device"  "type":0
+ce "crane->lifting device"  "ui.style":"text-color:rgb(182,182,182);"
+ae "lifting device->device" "lifting device" > "device"
+ce "lifting device->device"  "type":0
+ce "lifting device->device"  "ui.style":"text-color:rgb(145,145,145);"
+ae "device->instrumentality" "device" > "instrumentality"
+ce "device->instrumentality"  "type":0
+ce "device->instrumentality"  "ui.style":"text-color:rgb(145,145,145);"
+ae "instrumentality->unit" "instrumentality" > "unit"
+ce "instrumentality->unit"  "type":0
+ce "instrumentality->unit"  "ui.style":"text-color:rgb(145,145,145);"
+ae "unit->definite quantity" "unit" > "definite quantity"
+ce "unit->definite quantity"  "type":0
+ce "unit->definite quantity"  "ui.style":"text-color:rgb(145,145,145);"
+ae "definite quantity->measure" "definite quantity" > "measure"
+ce "definite quantity->measure"  "type":0
+ce "definite quantity->measure"  "ui.style":"text-color:rgb(145,145,145);"
+ae "measure->maneuver" "measure" > "maneuver"
+ce "measure->maneuver"  "type":0
+ce "measure->maneuver"  "ui.style":"text-color:rgb(145,145,145);"
+ae "maneuver->operation" "maneuver" > "operation"
+ce "maneuver->operation"  "type":0
+ce "maneuver->operation"  "ui.style":"text-color:rgb(182,182,182);"
+ae "operation->action" "operation" > "action"
+ce "operation->action"  "type":0
+ce "operation->action"  "ui.style":"text-color:rgb(182,182,182);"
+ae "action->act" "action" > "act"
+ce "action->act"  "type":0
+ce "action->act"  "ui.style":"text-color:rgb(109,109,109);"
+ae "act->legal document" "act" > "legal document"
+ce "act->legal document"  "type":0
+ce "act->legal document"  "ui.style":"text-color:rgb(109,109,109);"
+ae "legal document->document" "legal document" > "document"
+ce "legal document->document"  "type":0
+ce "legal document->document"  "ui.style":"text-color:rgb(145,145,145);"
+ae "document->writing" "document" > "writing"
+ce "document->writing"  "type":0
+ce "document->writing"  "ui.style":"text-color:rgb(182,182,182);"
+ae "writing->verbal creation" "writing" > "verbal creation"
+ce "writing->verbal creation"  "type":0
+ce "writing->verbal creation"  "ui.style":"text-color:rgb(182,182,182);"
+ae "verbal creation->creating by mental acts" "verbal creation" > "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ce "verbal creation->creating by mental acts"  "ui.style":"text-color:rgb(145,145,145);"
+ae "creating by mental acts->creation" "creating by mental acts" > "creation"
+ce "creating by mental acts->creation"  "type":0
+ce "creating by mental acts->creation"  "ui.style":"text-color:rgb(145,145,145);"
+ae "creation->activity" "creation" > "activity"
+ce "creation->activity"  "type":0
+ce "creation->activity"  "ui.style":"text-color:rgb(72,72,72);"
+ae "activity->act" "activity" > "act"
+ce "activity->act"  "type":0
+ce "activity->act"  "ui.style":"text-color:rgb(72,72,72);"
+ae "activity->state" "activity" > "state"
+ce "activity->state"  "type":0
+ce "activity->state"  "ui.style":"text-color:rgb(72,72,72);"
+ae "state->administrative district" "state" > "administrative district"
+ce "state->administrative district"  "type":0
+ce "state->administrative district"  "ui.style":"text-color:rgb(145,145,145);"
+ae "administrative district->district" "administrative district" > "district"
+ce "administrative district->district"  "type":0
+ce "administrative district->district"  "ui.style":"text-color:rgb(182,182,182);"
+ae "district->region" "district" > "region"
+ce "district->region"  "type":0
+ce "district->region"  "ui.style":"text-color:rgb(109,109,109);"
+ae "region->location" "region" > "location"
+ce "region->location"  "type":0
+ce "region->location"  "ui.style":"text-color:rgb(109,109,109);"
+ae "location->object" "location" > "object"
+ce "location->object"  "type":0
+ce "location->object"  "ui.style":"text-color:rgb(145,145,145);"
+ae "object->physical entity" "object" > "physical entity"
+ce "object->physical entity"  "type":0
+ce "object->physical entity"  "ui.style":"text-color:rgb(145,145,145);"
+ae "physical entity->entity" "physical entity" > "entity"
+ce "physical entity->entity"  "type":0
+ce "physical entity->entity"  "ui.style":"text-color:rgb(145,145,145);"
+ae "entity->physical entity" "entity" > "physical entity"
+ce "entity->physical entity"  "type":1
+ce "entity->physical entity"  "ui.style":"text-color:rgb(231,231,231);"
+ae "entity->abstraction" "entity" > "abstraction"
+ce "entity->abstraction"  "type":1
+ce "entity->abstraction"  "ui.style":"text-color:rgb(223,223,223);"
+ae "boy->male" "boy" > "male"
+ce "boy->male"  "type":0
+ce "boy->male"  "ui.style":"text-color:rgb(145,145,145);"
+ae "male->animal" "male" > "animal"
+ce "male->animal"  "type":0
+ce "male->animal"  "ui.style":"text-color:rgb(145,145,145);"
+ae "lad->male" "lad" > "male"
+ce "lad->male"  "type":0
+ce "lad->male"  "ui.style":"text-color:rgb(145,145,145);"
+ae "brother->male sibling" "brother" > "male sibling"
+ce "brother->male sibling"  "type":0
+ce "brother->male sibling"  "ui.style":"text-color:rgb(182,182,182);"
+ae "male sibling->kinsman" "male sibling" > "kinsman"
+ce "male sibling->kinsman"  "type":0
+ce "male sibling->kinsman"  "ui.style":"text-color:rgb(182,182,182);"
+ae "kinsman->relative" "kinsman" > "relative"
+ce "kinsman->relative"  "type":0
+ce "kinsman->relative"  "ui.style":"text-color:rgb(182,182,182);"
+ae "relative->person" "relative" > "person"
+ce "relative->person"  "type":0
+ce "relative->person"  "ui.style":"text-color:rgb(0,0,0);"
+ae "person->organism" "person" > "organism"
+ce "person->organism"  "type":0
+ce "person->organism"  "ui.style":"text-color:rgb(0,0,0);"
+ae "monk->religious" "monk" > "religious"
+ce "monk->religious"  "type":0
+ce "monk->religious"  "ui.style":"text-color:rgb(182,182,182);"
+ae "religious->religious person" "religious" > "religious person"
+ce "religious->religious person"  "type":0
+ce "religious->religious person"  "ui.style":"text-color:rgb(182,182,182);"
+ae "religious person->person" "religious person" > "person"
+ce "religious person->person"  "type":0
+ce "religious person->person"  "ui.style":"text-color:rgb(0,0,0);"
+ae "car->motor vehicle" "car" > "motor vehicle"
+ce "car->motor vehicle"  "type":0
+ce "car->motor vehicle"  "ui.style":"text-color:rgb(72,72,72);"
+ae "motor vehicle->self-propelled vehicle" "motor vehicle" > "self-propelled vehicle"
+ce "motor vehicle->self-propelled vehicle"  "type":0
+ce "motor vehicle->self-propelled vehicle"  "ui.style":"text-color:rgb(145,145,145);"
+ae "self-propelled vehicle->wheeled vehicle" "self-propelled vehicle" > "wheeled vehicle"
+ce "self-propelled vehicle->wheeled vehicle"  "type":0
+ce "self-propelled vehicle->wheeled vehicle"  "ui.style":"text-color:rgb(182,182,182);"
+ae "wheeled vehicle->vehicle" "wheeled vehicle" > "vehicle"
+ce "wheeled vehicle->vehicle"  "type":0
+ce "wheeled vehicle->vehicle"  "ui.style":"text-color:rgb(182,182,182);"
+ae "vehicle->conveyance" "vehicle" > "conveyance"
+ce "vehicle->conveyance"  "type":0
+ce "vehicle->conveyance"  "ui.style":"text-color:rgb(182,182,182);"
+ae "conveyance->legal document" "conveyance" > "legal document"
+ce "conveyance->legal document"  "type":0
+ce "conveyance->legal document"  "ui.style":"text-color:rgb(145,145,145);"
+ae "automobile->motor vehicle" "automobile" > "motor vehicle"
+ce "automobile->motor vehicle"  "type":0
+ce "automobile->motor vehicle"  "ui.style":"text-color:rgb(145,145,145);"
+ae "cemetery->site" "cemetery" > "site"
+ce "cemetery->site"  "type":0
+ce "cemetery->site"  "ui.style":"text-color:rgb(145,145,145);"
+ae "site->tract" "site" > "tract"
+ce "site->tract"  "type":0
+ce "site->tract"  "ui.style":"text-color:rgb(145,145,145);"
+ae "tract->geographical area" "tract" > "geographical area"
+ce "tract->geographical area"  "type":0
+ce "tract->geographical area"  "ui.style":"text-color:rgb(182,182,182);"
+ae "geographical area->region" "geographical area" > "region"
+ce "geographical area->region"  "type":0
+ce "geographical area->region"  "ui.style":"text-color:rgb(109,109,109);"
+ae "woodland->land" "woodland" > "land"
+ce "woodland->land"  "type":0
+ce "woodland->land"  "ui.style":"text-color:rgb(145,145,145);"
+ae "land->real property" "land" > "real property"
+ce "land->real property"  "type":0
+ce "land->real property"  "ui.style":"text-color:rgb(145,145,145);"
+ae "real property->property" "real property" > "property"
+ce "real property->property"  "type":0
+ce "real property->property"  "ui.style":"text-color:rgb(145,145,145);"
+ae "property->possession" "property" > "possession"
+ce "property->possession"  "type":0
+ce "property->possession"  "ui.style":"text-color:rgb(182,182,182);"
+ae "possession->control" "possession" > "control"
+ce "possession->control"  "type":0
+ce "possession->control"  "ui.style":"text-color:rgb(182,182,182);"
+ae "control->power" "control" > "power"
+ce "control->power"  "type":0
+ce "control->power"  "ui.style":"text-color:rgb(182,182,182);"
+ae "power->quality" "power" > "quality"
+ce "power->quality"  "type":0
+ce "power->quality"  "ui.style":"text-color:rgb(182,182,182);"
+ae "quality->attribute" "quality" > "attribute"
+ce "quality->attribute"  "type":0
+ce "quality->attribute"  "ui.style":"text-color:rgb(182,182,182);"
+ae "attribute->concept" "attribute" > "concept"
+ce "attribute->concept"  "type":0
+ce "attribute->concept"  "ui.style":"text-color:rgb(109,109,109);"
+ae "chord->straight line" "chord" > "straight line"
+ce "chord->straight line"  "type":0
+ce "chord->straight line"  "ui.style":"text-color:rgb(182,182,182);"
+ae "straight line->line" "straight line" > "line"
+ce "straight line->line"  "type":0
+ce "straight line->line"  "ui.style":"text-color:rgb(145,145,145);"
+ae "line->formation" "line" > "formation"
+ce "line->formation"  "type":0
+ce "line->formation"  "ui.style":"text-color:rgb(109,109,109);"
+ae "formation->arrangement" "formation" > "arrangement"
+ce "formation->arrangement"  "type":0
+ce "formation->arrangement"  "ui.style":"text-color:rgb(109,109,109);"
+ae "arrangement->planning" "arrangement" > "planning"
+ce "arrangement->planning"  "type":0
+ce "arrangement->planning"  "ui.style":"text-color:rgb(182,182,182);"
+ae "planning->preparation" "planning" > "preparation"
+ce "planning->preparation"  "type":0
+ce "planning->preparation"  "ui.style":"text-color:rgb(182,182,182);"
+ae "preparation->activity" "preparation" > "activity"
+ce "preparation->activity"  "type":0
+ce "preparation->activity"  "ui.style":"text-color:rgb(72,72,72);"
+ae "smile->facial expression" "smile" > "facial expression"
+ce "smile->facial expression"  "type":0
+ce "smile->facial expression"  "ui.style":"text-color:rgb(182,182,182);"
+ae "facial expression->gesture" "facial expression" > "gesture"
+ce "facial expression->gesture"  "type":0
+ce "facial expression->gesture"  "ui.style":"text-color:rgb(182,182,182);"
+ae "gesture->motion" "gesture" > "motion"
+ce "gesture->motion"  "type":0
+ce "gesture->motion"  "ui.style":"text-color:rgb(145,145,145);"
+ae "motion->visual communication" "motion" > "visual communication"
+ce "motion->visual communication"  "type":0
+ce "motion->visual communication"  "ui.style":"text-color:rgb(145,145,145);"
+ae "visual communication->communication" "visual communication" > "communication"
+ce "visual communication->communication"  "type":0
+ce "visual communication->communication"  "ui.style":"text-color:rgb(182,182,182);"
+ae "communication->act" "communication" > "act"
+ce "communication->act"  "type":0
+ce "communication->act"  "ui.style":"text-color:rgb(109,109,109);"
+ae "coast->shore" "coast" > "shore"
+ce "coast->shore"  "type":0
+ce "coast->shore"  "ui.style":"text-color:rgb(109,109,109);"
+ae "shore->geological formation" "shore" > "geological formation"
+ce "shore->geological formation"  "type":0
+ce "shore->geological formation"  "ui.style":"text-color:rgb(109,109,109);"
+ae "geological formation->object" "geological formation" > "object"
+ce "geological formation->object"  "type":0
+ce "geological formation->object"  "ui.style":"text-color:rgb(109,109,109);"
+ae "forest->vegetation" "forest" > "vegetation"
+ce "forest->vegetation"  "type":0
+ce "forest->vegetation"  "ui.style":"text-color:rgb(182,182,182);"
+ae "vegetation->collection" "vegetation" > "collection"
+ce "vegetation->collection"  "type":0
+ce "vegetation->collection"  "ui.style":"text-color:rgb(145,145,145);"
+ae "hill->natural elevation" "hill" > "natural elevation"
+ce "hill->natural elevation"  "type":0
+ce "hill->natural elevation"  "ui.style":"text-color:rgb(182,182,182);"
+ae "natural elevation->geological formation" "natural elevation" > "geological formation"
+ce "natural elevation->geological formation"  "type":0
+ce "natural elevation->geological formation"  "ui.style":"text-color:rgb(109,109,109);"
+ae "implement->instrumentality" "implement" > "instrumentality"
+ce "implement->instrumentality"  "type":0
+ce "implement->instrumentality"  "ui.style":"text-color:rgb(109,109,109);"
+ae "food->substance" "food" > "substance"
+ce "food->substance"  "type":0
+ce "food->substance"  "ui.style":"text-color:rgb(182,182,182);"
+ae "substance->matter" "substance" > "matter"
+ce "substance->matter"  "type":0
+ce "substance->matter"  "ui.style":"text-color:rgb(145,145,145);"
+ae "matter->concern" "matter" > "concern"
+ce "matter->concern"  "type":0
+ce "matter->concern"  "ui.style":"text-color:rgb(145,145,145);"
+ae "concern->interest" "concern" > "interest"
+ce "concern->interest"  "type":0
+ce "concern->interest"  "ui.style":"text-color:rgb(182,182,182);"
+ae "interest->curiosity" "interest" > "curiosity"
+ce "interest->curiosity"  "type":0
+ce "interest->curiosity"  "ui.style":"text-color:rgb(182,182,182);"
+ae "curiosity->cognitive state" "curiosity" > "cognitive state"
+ce "curiosity->cognitive state"  "type":0
+ce "curiosity->cognitive state"  "ui.style":"text-color:rgb(182,182,182);"
+ae "cognitive state->psychological state" "cognitive state" > "psychological state"
+ce "cognitive state->psychological state"  "type":0
+ce "cognitive state->psychological state"  "ui.style":"text-color:rgb(182,182,182);"
+ae "psychological state->condition" "psychological state" > "condition"
+ce "psychological state->condition"  "type":0
+ce "psychological state->condition"  "ui.style":"text-color:rgb(182,182,182);"
+ae "condition->state" "condition" > "state"
+ce "condition->state"  "type":0
+ce "condition->state"  "ui.style":"text-color:rgb(145,145,145);"
+ae "fruit->reproductive structure" "fruit" > "reproductive structure"
+ce "fruit->reproductive structure"  "type":0
+ce "fruit->reproductive structure"  "ui.style":"text-color:rgb(145,145,145);"
+ae "reproductive structure->plant organ" "reproductive structure" > "plant organ"
+ce "reproductive structure->plant organ"  "type":0
+ce "reproductive structure->plant organ"  "ui.style":"text-color:rgb(145,145,145);"
+ae "plant organ->plant part" "plant organ" > "plant part"
+ce "plant organ->plant part"  "type":0
+ce "plant organ->plant part"  "ui.style":"text-color:rgb(182,182,182);"
+ae "plant part->natural object" "plant part" > "natural object"
+ce "plant part->natural object"  "type":0
+ce "plant part->natural object"  "ui.style":"text-color:rgb(182,182,182);"
+ae "natural object->whole" "natural object" > "whole"
+ce "natural object->whole"  "type":0
+ce "natural object->whole"  "ui.style":"text-color:rgb(72,72,72);"
+ae "rooster->chicken" "rooster" > "chicken"
+ce "rooster->chicken"  "type":0
+ce "rooster->chicken"  "ui.style":"text-color:rgb(145,145,145);"
+ae "chicken->poultry" "chicken" > "poultry"
+ce "chicken->poultry"  "type":0
+ce "chicken->poultry"  "ui.style":"text-color:rgb(145,145,145);"
+ae "poultry->gallinaceous bird" "poultry" > "gallinaceous bird"
+ce "poultry->gallinaceous bird"  "type":0
+ce "poultry->gallinaceous bird"  "ui.style":"text-color:rgb(145,145,145);"
+ae "gallinaceous bird->bird" "gallinaceous bird" > "bird"
+ce "gallinaceous bird->bird"  "type":0
+ce "gallinaceous bird->bird"  "ui.style":"text-color:rgb(0,0,0);"
+ae "graveyard->site" "graveyard" > "site"
+ce "graveyard->site"  "type":0
+ce "graveyard->site"  "ui.style":"text-color:rgb(145,145,145);"
+ae "furnace->chamber" "furnace" > "chamber"
+ce "furnace->chamber"  "type":0
+ce "furnace->chamber"  "ui.style":"text-color:rgb(182,182,182);"
+ae "chamber->enclosure" "chamber" > "enclosure"
+ce "chamber->enclosure"  "type":0
+ce "chamber->enclosure"  "ui.style":"text-color:rgb(182,182,182);"
+ae "enclosure->area" "enclosure" > "area"
+ce "enclosure->area"  "type":0
+ce "enclosure->area"  "ui.style":"text-color:rgb(182,182,182);"
+ae "area->region" "area" > "region"
+ce "area->region"  "type":0
+ce "area->region"  "ui.style":"text-color:rgb(109,109,109);"
+ae "stove->kitchen appliance" "stove" > "kitchen appliance"
+ce "stove->kitchen appliance"  "type":0
+ce "stove->kitchen appliance"  "ui.style":"text-color:rgb(182,182,182);"
+ae "kitchen appliance->home appliance" "kitchen appliance" > "home appliance"
+ce "kitchen appliance->home appliance"  "type":0
+ce "kitchen appliance->home appliance"  "ui.style":"text-color:rgb(182,182,182);"
+ae "home appliance->appliance" "home appliance" > "appliance"
+ce "home appliance->appliance"  "type":0
+ce "home appliance->appliance"  "ui.style":"text-color:rgb(182,182,182);"
+ae "appliance->device" "appliance" > "device"
+ce "appliance->device"  "type":0
+ce "appliance->device"  "ui.style":"text-color:rgb(145,145,145);"
+ae "gem->art" "gem" > "art"
+ce "gem->art"  "type":0
+ce "gem->art"  "ui.style":"text-color:rgb(182,182,182);"
+ae "art->creation" "art" > "creation"
+ce "art->creation"  "type":0
+ce "art->creation"  "ui.style":"text-color:rgb(145,145,145);"
+ae "jewel->jewelry" "jewel" > "jewelry"
+ce "jewel->jewelry"  "type":0
+ce "jewel->jewelry"  "ui.style":"text-color:rgb(182,182,182);"
+ae "jewelry->adornment" "jewelry" > "adornment"
+ce "jewelry->adornment"  "type":0
+ce "jewelry->adornment"  "ui.style":"text-color:rgb(182,182,182);"
+ae "adornment->decoration" "adornment" > "decoration"
+ce "adornment->decoration"  "type":0
+ce "adornment->decoration"  "ui.style":"text-color:rgb(182,182,182);"
+ae "decoration->artifact" "decoration" > "artifact"
+ce "decoration->artifact"  "type":0
+ce "decoration->artifact"  "ui.style":"text-color:rgb(145,145,145);"
+ae "glass->solid" "glass" > "solid"
+ce "glass->solid"  "type":0
+ce "glass->solid"  "ui.style":"text-color:rgb(182,182,182);"
+ae "solid->matter" "solid" > "matter"
+ce "solid->matter"  "type":0
+ce "solid->matter"  "ui.style":"text-color:rgb(145,145,145);"
+ae "magician->performer" "magician" > "performer"
+ce "magician->performer"  "type":0
+ce "magician->performer"  "ui.style":"text-color:rgb(145,145,145);"
+ae "performer->entertainer" "performer" > "entertainer"
+ce "performer->entertainer"  "type":0
+ce "performer->entertainer"  "ui.style":"text-color:rgb(182,182,182);"
+ae "entertainer->person" "entertainer" > "person"
+ce "entertainer->person"  "type":0
+ce "entertainer->person"  "ui.style":"text-color:rgb(0,0,0);"
+ae "journey->travel" "journey" > "travel"
+ce "journey->travel"  "type":0
+ce "journey->travel"  "ui.style":"text-color:rgb(145,145,145);"
+ae "travel->motion" "travel" > "motion"
+ce "travel->motion"  "type":0
+ce "travel->motion"  "ui.style":"text-color:rgb(145,145,145);"
+ae "voyage->water travel" "voyage" > "water travel"
+ce "voyage->water travel"  "type":0
+ce "voyage->water travel"  "ui.style":"text-color:rgb(182,182,182);"
+ae "water travel->travel" "water travel" > "travel"
+ce "water travel->travel"  "type":0
+ce "water travel->travel"  "ui.style":"text-color:rgb(145,145,145);"
+ae "wizard->expert" "wizard" > "expert"
+ce "wizard->expert"  "type":0
+ce "wizard->expert"  "ui.style":"text-color:rgb(182,182,182);"
+ae "expert->person" "expert" > "person"
+ce "expert->person"  "type":0
+ce "expert->person"  "ui.style":"text-color:rgb(0,0,0);"
+ae "midday->hour" "midday" > "hour"
+ce "midday->hour"  "type":0
+ce "midday->hour"  "ui.style":"text-color:rgb(145,145,145);"
+ae "hour->time unit" "hour" > "time unit"
+ce "hour->time unit"  "type":0
+ce "hour->time unit"  "ui.style":"text-color:rgb(145,145,145);"
+ae "time unit->measure" "time unit" > "measure"
+ce "time unit->measure"  "type":0
+ce "time unit->measure"  "ui.style":"text-color:rgb(145,145,145);"
+ae "noon->hour" "noon" > "hour"
+ce "noon->hour"  "type":0
+ce "noon->hour"  "ui.style":"text-color:rgb(145,145,145);"
+ae "oracle->diviner" "oracle" > "diviner"
+ce "oracle->diviner"  "type":0
+ce "oracle->diviner"  "ui.style":"text-color:rgb(182,182,182);"
+ae "diviner->visionary" "diviner" > "visionary"
+ce "diviner->visionary"  "type":0
+ce "diviner->visionary"  "ui.style":"text-color:rgb(182,182,182);"
+ae "visionary->person" "visionary" > "person"
+ce "visionary->person"  "type":0
+ce "visionary->person"  "ui.style":"text-color:rgb(0,0,0);"
+ae "slave->person" "slave" > "person"
+ce "slave->person"  "type":0
+ce "slave->person"  "ui.style":"text-color:rgb(0,0,0);"
+ae "string->cord" "string" > "cord"
+ce "string->cord"  "type":0
+ce "string->cord"  "ui.style":"text-color:rgb(182,182,182);"
+ae "cord->line" "cord" > "line"
+ce "cord->line"  "type":0
+ce "cord->line"  "ui.style":"text-color:rgb(145,145,145);"
+ae "tool->implement" "tool" > "implement"
+ce "tool->implement"  "type":0
+ce "tool->implement"  "ui.style":"text-color:rgb(109,109,109);"
+ae "asylum->hospital" "asylum" > "hospital"
+ce "asylum->hospital"  "type":0
+ce "asylum->hospital"  "ui.style":"text-color:rgb(145,145,145);"
+ae "string->fiber" "string" > "fiber"
+ce "string->fiber"  "type":0
+ce "string->fiber"  "ui.style":"text-color:rgb(182,182,182);"
+ae "oracle->prophetess" "oracle" > "prophetess"
+ce "oracle->prophetess"  "type":1
+ce "oracle->prophetess"  "ui.style":"text-color:rgb(239,239,239);"
+ae "creating by mental acts->formation" "creating by mental acts" > "formation"
+ce "creating by mental acts->formation"  "type":1
+ce "creating by mental acts->formation"  "ui.style":"text-color:rgb(223,223,223);"
+ae "formation->shore" "formation" > "shore"
+ce "formation->shore"  "type":1
+ce "formation->shore"  "ui.style":"text-color:rgb(223,223,223);"
+ae "activity->agency" "activity" > "agency"
+ce "activity->agency"  "type":1
+ce "activity->agency"  "ui.style":"text-color:rgb(215,215,215);"
+ae "whole->part" "whole" > "part"
+ce "whole->part"  "type":7
+ce "whole->part"  "ui.style":"text-color:rgb(247,176,247);"
+ae "reproductive structure->fruit" "reproductive structure" > "fruit"
+ce "reproductive structure->fruit"  "type":1
+ce "reproductive structure->fruit"  "ui.style":"text-color:rgb(231,231,231);"
+ae "poultry->chicken" "poultry" > "chicken"
+ce "poultry->chicken"  "type":1
+ce "poultry->chicken"  "ui.style":"text-color:rgb(231,231,231);"
+ae "magician->exorcist" "magician" > "exorcist"
+ce "magician->exorcist"  "type":1
+ce "magician->exorcist"  "ui.style":"text-color:rgb(231,231,231);"
+ae "magician->occultist" "magician" > "occultist"
+ce "magician->occultist"  "type":0
+ce "magician->occultist"  "ui.style":"text-color:rgb(145,145,145);"
+ae "hill->structure" "hill" > "structure"
+ce "hill->structure"  "type":0
+ce "hill->structure"  "ui.style":"text-color:rgb(109,109,109);"
+ae "glass->ground glass" "glass" > "ground glass"
+ce "glass->ground glass"  "type":1
+ce "glass->ground glass"  "ui.style":"text-color:rgb(239,239,239);"
+ae "real property->land" "real property" > "land"
+ce "real property->land"  "type":1
+ce "real property->land"  "ui.style":"text-color:rgb(231,231,231);"
+ae "unit->part" "unit" > "part"
+ce "unit->part"  "type":7
+ce "unit->part"  "ui.style":"text-color:rgb(249,192,249);"
+ae "bird->nester" "bird" > "nester"
+ce "bird->nester"  "type":1
+ce "bird->nester"  "ui.style":"text-color:rgb(200,200,200);"
+ae "bird->Ibero-mesornis" "bird" > "Ibero-mesornis"
+ce "bird->Ibero-mesornis"  "type":1
+ce "bird->Ibero-mesornis"  "ui.style":"text-color:rgb(200,200,200);"
+ae "bird->ratite" "bird" > "ratite"
+ce "bird->ratite"  "type":1
+ce "bird->ratite"  "ui.style":"text-color:rgb(200,200,200);"
+ae "bird->bird" "bird" > "bird"
+ce "bird->bird"  "type":6
+ce "bird->bird"  "ui.style":"text-color:rgb(245,66,66);"
+ae "implement->cleaning implement" "implement" > "cleaning implement"
+ce "implement->cleaning implement"  "type":1
+ce "implement->cleaning implement"  "ui.style":"text-color:rgb(223,223,223);"
+ae "vertebrate->bird" "vertebrate" > "bird"
+ce "vertebrate->bird"  "type":1
+ce "vertebrate->bird"  "ui.style":"text-color:rgb(200,200,200);"
+ae "forest->greenwood" "forest" > "greenwood"
+ce "forest->greenwood"  "type":1
+ce "forest->greenwood"  "ui.style":"text-color:rgb(239,239,239);"
+ae "implement->swatter" "implement" > "swatter"
+ce "implement->swatter"  "type":1
+ce "implement->swatter"  "ui.style":"text-color:rgb(223,223,223);"
+ae "jewel->ruby" "jewel" > "ruby"
+ce "jewel->ruby"  "type":1
+ce "jewel->ruby"  "ui.style":"text-color:rgb(239,239,239);"
+ae "car->Model T" "car" > "Model T"
+ce "car->Model T"  "type":1
+ce "car->Model T"  "ui.style":"text-color:rgb(215,215,215);"
+ae "car->horseless carriage" "car" > "horseless carriage"
+ce "car->horseless carriage"  "type":1
+ce "car->horseless carriage"  "ui.style":"text-color:rgb(215,215,215);"
+ae "organ->agency" "organ" > "agency"
+ce "organ->agency"  "type":0
+ce "organ->agency"  "ui.style":"text-color:rgb(145,145,145);"
+ae "gem->cabochon" "gem" > "cabochon"
+ce "gem->cabochon"  "type":1
+ce "gem->cabochon"  "ui.style":"text-color:rgb(239,239,239);"
+ae "car->electric" "car" > "electric"
+ce "car->electric"  "type":1
+ce "car->electric"  "ui.style":"text-color:rgb(215,215,215);"
+ae "car->compartment" "car" > "compartment"
+ce "car->compartment"  "type":0
+ce "car->compartment"  "ui.style":"text-color:rgb(72,72,72);"
+ae "fruit->prairie gourd" "fruit" > "prairie gourd"
+ce "fruit->prairie gourd"  "type":1
+ce "fruit->prairie gourd"  "ui.style":"text-color:rgb(231,231,231);"
+ae "geological formation->shore" "geological formation" > "shore"
+ce "geological formation->shore"  "type":1
+ce "geological formation->shore"  "ui.style":"text-color:rgb(223,223,223);"
+ae "furnace->tank furnace" "furnace" > "tank furnace"
+ce "furnace->tank furnace"  "type":1
+ce "furnace->tank furnace"  "ui.style":"text-color:rgb(239,239,239);"

@@ -1,0 +1,49 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Scholar"
+cn "Scholar"  "ui.label":"Scholar"
+cn "Scholar"  "ui.style":"size-mode:fit;"
+an "Academics"
+cn "Academics"  "ui.label":"Academics"
+cn "Academics"  "ui.style":"size-mode:fit;"
+an "Educators"
+cn "Educators"  "ui.label":"Educators"
+cn "Educators"  "ui.style":"size:6px; fill-color:white; "
+an "Educational_personnel"
+cn "Educational_personnel"  "ui.label":"Educational_personnel"
+cn "Educational_personnel"  "ui.style":"size:6px; fill-color:white; "
+an "Education"
+cn "Education"  "ui.label":"Education"
+cn "Education"  "ui.style":"size:6px; fill-color:white; "
+an "Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.label":"Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.style":"size:6px; fill-color:white; "
+an "Teaching"
+cn "Teaching"  "ui.label":"Teaching"
+cn "Teaching"  "ui.style":"size:6px; fill-color:white; "
+an "People_by_occupation"
+cn "People_by_occupation"  "ui.label":"People_by_occupation"
+cn "People_by_occupation"  "ui.style":"size:6px; fill-color:white; "
+an "Culture"
+cn "Culture"  "ui.label":"Culture"
+cn "Culture"  "ui.style":"size:6px; fill-color:white; "
+an "Articles"
+cn "Articles"  "ui.label":"Articles"
+cn "Articles"  "ui.style":"size:6px; fill-color:white; "
+ae "Academics->Educators" "Academics"  "Educators"
+ce "Academics->Educators"  "type":0
+ae "Educators->Educational_personnel" "Educators"  "Educational_personnel"
+ce "Educators->Educational_personnel"  "type":0
+ae "Educational_personnel->Education" "Educational_personnel"  "Education"
+ce "Educational_personnel->Education"  "type":0
+ae "Education->Main_topic_classifications" "Education"  "Main_topic_classifications"
+ce "Education->Main_topic_classifications"  "type":0
+ae "Educators->Teaching" "Educators" > "Teaching"
+ce "Educators->Teaching"  "type":0
+ae "Educational_personnel->People_by_occupation" "Educational_personnel" > "People_by_occupation"
+ce "Educational_personnel->People_by_occupation"  "type":0
+ae "Education->Culture" "Education" > "Culture"
+ce "Education->Culture"  "type":0
+ae "Main_topic_classifications->Articles" "Main_topic_classifications" > "Articles"
+ce "Main_topic_classifications->Articles"  "type":0

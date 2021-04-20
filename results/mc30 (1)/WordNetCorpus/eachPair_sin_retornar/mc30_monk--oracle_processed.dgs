@@ -1,0 +1,571 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "monk"
+cn "monk"  "ui.label":"monk"
+cn "monk"  "ui.style":"size-mode:fit;"
+an "religious"
+cn "religious"  "ui.label":"religious"
+cn "religious"  "ui.style":"size:6px; fill-color:white; "
+an "religious person"
+cn "religious person"  "ui.label":"religious person"
+cn "religious person"  "ui.style":"size:6px; fill-color:white; "
+an "person"
+cn "person"  "ui.label":"person"
+cn "person"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "oracle"
+cn "oracle"  "ui.label":"oracle"
+cn "oracle"  "ui.style":"size-mode:fit;"
+an "diviner"
+cn "diviner"  "ui.label":"diviner"
+cn "diviner"  "ui.style":"size:6px; fill-color:white; "
+an "visionary"
+cn "visionary"  "ui.label":"visionary"
+cn "visionary"  "ui.style":"size:6px; fill-color:white; "
+an "intellectual"
+cn "intellectual"  "ui.label":"intellectual"
+cn "intellectual"  "ui.style":"size:6px; fill-color:white; "
+an "disapproval"
+cn "disapproval"  "ui.label":"disapproval"
+cn "disapproval"  "ui.style":"size:6px; fill-color:white; "
+an "exponent"
+cn "exponent"  "ui.label":"exponent"
+cn "exponent"  "ui.style":"size:6px; fill-color:white; "
+an "mathematical notation"
+cn "mathematical notation"  "ui.label":"mathematical notation"
+cn "mathematical notation"  "ui.style":"size:6px; fill-color:white; "
+an "notation"
+cn "notation"  "ui.label":"notation"
+cn "notation"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "cooperation"
+cn "cooperation"  "ui.label":"cooperation"
+cn "cooperation"  "ui.style":"size:6px; fill-color:white; "
+an "group action"
+cn "group action"  "ui.label":"group action"
+cn "group action"  "ui.style":"size:6px; fill-color:white; "
+an "event"
+cn "event"  "ui.label":"event"
+cn "event"  "ui.style":"size:6px; fill-color:white; "
+an "psychological feature"
+cn "psychological feature"  "ui.label":"psychological feature"
+cn "psychological feature"  "ui.style":"size:6px; fill-color:white; "
+an "cognition"
+cn "cognition"  "ui.label":"cognition"
+cn "cognition"  "ui.style":"size:6px; fill-color:white; "
+an "mind"
+cn "mind"  "ui.label":"mind"
+cn "mind"  "ui.style":"size:6px; fill-color:white; "
+an "recall"
+cn "recall"  "ui.label":"recall"
+cn "recall"  "ui.style":"size:6px; fill-color:white; "
+an "request"
+cn "request"  "ui.label":"request"
+cn "request"  "ui.style":"size:6px; fill-color:white; "
+an "message"
+cn "message"  "ui.label":"message"
+cn "message"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "connection"
+cn "connection"  "ui.label":"connection"
+cn "connection"  "ui.style":"size:6px; fill-color:white; "
+an "relation"
+cn "relation"  "ui.label":"relation"
+cn "relation"  "ui.style":"size:6px; fill-color:white; "
+an "sexual activity"
+cn "sexual activity"  "ui.label":"sexual activity"
+cn "sexual activity"  "ui.style":"size:6px; fill-color:white; "
+an "bodily process"
+cn "bodily process"  "ui.label":"bodily process"
+cn "bodily process"  "ui.style":"size:6px; fill-color:white; "
+an "organic process"
+cn "organic process"  "ui.label":"organic process"
+cn "organic process"  "ui.style":"size:6px; fill-color:white; "
+an "process"
+cn "process"  "ui.label":"process"
+cn "process"  "ui.style":"size:6px; fill-color:white; "
+an "writ"
+cn "writ"  "ui.label":"writ"
+cn "writ"  "ui.style":"size:6px; fill-color:white; "
+an "court order"
+cn "court order"  "ui.label":"court order"
+cn "court order"  "ui.style":"size:6px; fill-color:white; "
+an "divestiture"
+cn "divestiture"  "ui.label":"divestiture"
+cn "divestiture"  "ui.style":"size:6px; fill-color:white; "
+an "sale"
+cn "sale"  "ui.label":"sale"
+cn "sale"  "ui.style":"size:6px; fill-color:white; "
+an "selling"
+cn "selling"  "ui.label":"selling"
+cn "selling"  "ui.style":"size:6px; fill-color:white; "
+an "commerce"
+cn "commerce"  "ui.label":"commerce"
+cn "commerce"  "ui.style":"size:6px; fill-color:white; "
+an "transaction"
+cn "transaction"  "ui.label":"transaction"
+cn "transaction"  "ui.style":"size:6px; fill-color:white; "
+an "affairs"
+cn "affairs"  "ui.label":"affairs"
+cn "affairs"  "ui.style":"size:6px; fill-color:white; "
+an "concern"
+cn "concern"  "ui.label":"concern"
+cn "concern"  "ui.style":"size:6px; fill-color:white; "
+an "interest"
+cn "interest"  "ui.label":"interest"
+cn "interest"  "ui.style":"size:6px; fill-color:white; "
+an "curiosity"
+cn "curiosity"  "ui.label":"curiosity"
+cn "curiosity"  "ui.style":"size:6px; fill-color:white; "
+an "cognitive state"
+cn "cognitive state"  "ui.label":"cognitive state"
+cn "cognitive state"  "ui.style":"size:6px; fill-color:white; "
+an "psychological state"
+cn "psychological state"  "ui.label":"psychological state"
+cn "psychological state"  "ui.style":"size:6px; fill-color:white; "
+an "condition"
+cn "condition"  "ui.label":"condition"
+cn "condition"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "statement"
+cn "statement"  "ui.label":"statement"
+cn "statement"  "ui.style":"size:6px; fill-color:white; "
+an "acknowledgment"
+cn "acknowledgment"  "ui.label":"acknowledgment"
+cn "acknowledgment"  "ui.style":"size:6px; fill-color:white; "
+an "realization"
+cn "realization"  "ui.label":"realization"
+cn "realization"  "ui.style":"size:6px; fill-color:white; "
+an "change"
+cn "change"  "ui.label":"change"
+cn "change"  "ui.style":"size:6px; fill-color:white; "
+an "submission"
+cn "submission"  "ui.label":"submission"
+cn "submission"  "ui.style":"size:6px; fill-color:white; "
+an "narrative"
+cn "narrative"  "ui.label":"narrative"
+cn "narrative"  "ui.style":"size:6px; fill-color:white; "
+an "stiffening"
+cn "stiffening"  "ui.label":"stiffening"
+cn "stiffening"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "implantation"
+cn "implantation"  "ui.label":"implantation"
+cn "implantation"  "ui.style":"size:6px; fill-color:white; "
+an "right"
+cn "right"  "ui.label":"right"
+cn "right"  "ui.style":"size:6px; fill-color:white; "
+an "prayer"
+cn "prayer"  "ui.label":"prayer"
+cn "prayer"  "ui.style":"size:6px; fill-color:white; "
+an "traffic"
+cn "traffic"  "ui.label":"traffic"
+cn "traffic"  "ui.style":"size:6px; fill-color:white; "
+an "burden"
+cn "burden"  "ui.label":"burden"
+cn "burden"  "ui.style":"size:6px; fill-color:white; "
+an "insemination"
+cn "insemination"  "ui.label":"insemination"
+cn "insemination"  "ui.style":"size:6px; fill-color:white; "
+an "social event"
+cn "social event"  "ui.label":"social event"
+cn "social event"  "ui.style":"size:6px; fill-color:white; "
+an "marketing"
+cn "marketing"  "ui.label":"marketing"
+cn "marketing"  "ui.style":"size:6px; fill-color:white; "
+an "population"
+cn "population"  "ui.label":"population"
+cn "population"  "ui.style":"size:6px; fill-color:white; "
+an "control"
+cn "control"  "ui.label":"control"
+cn "control"  "ui.style":"size:6px; fill-color:white; "
+an "knowledge domain"
+cn "knowledge domain"  "ui.label":"knowledge domain"
+cn "knowledge domain"  "ui.style":"size:6px; fill-color:white; "
+an "variation"
+cn "variation"  "ui.label":"variation"
+cn "variation"  "ui.style":"size:6px; fill-color:white; "
+an "publication"
+cn "publication"  "ui.label":"publication"
+cn "publication"  "ui.style":"size:6px; fill-color:white; "
+an "rule"
+cn "rule"  "ui.label":"rule"
+cn "rule"  "ui.style":"size:6px; fill-color:white; "
+an "procession"
+cn "procession"  "ui.label":"procession"
+cn "procession"  "ui.style":"size:6px; fill-color:white; "
+an "expectoration"
+cn "expectoration"  "ui.label":"expectoration"
+cn "expectoration"  "ui.style":"size:6px; fill-color:white; "
+an "phagocytosis"
+cn "phagocytosis"  "ui.label":"phagocytosis"
+cn "phagocytosis"  "ui.style":"size:6px; fill-color:white; "
+an "overactivity"
+cn "overactivity"  "ui.label":"overactivity"
+cn "overactivity"  "ui.style":"size:6px; fill-color:white; "
+ae "monk->religious" "monk"  "religious"
+ce "monk->religious"  "type":0
+ae "religious->religious person" "religious"  "religious person"
+ce "religious->religious person"  "type":0
+ae "religious person->person" "religious person"  "person"
+ce "religious person->person"  "type":0
+ae "person->organism" "person"  "organism"
+ce "person->organism"  "type":0
+ae "organism->living thing" "organism"  "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing"  "whole"
+ce "living thing->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "oracle->diviner" "oracle"  "diviner"
+ce "oracle->diviner"  "type":0
+ae "diviner->visionary" "diviner"  "visionary"
+ce "diviner->visionary"  "type":0
+ae "visionary->person" "visionary"  "person"
+ce "visionary->person"  "type":0
+ae "visionary->intellectual" "visionary"  "intellectual"
+ce "visionary->intellectual"  "type":0
+ae "intellectual->person" "intellectual"  "person"
+ce "intellectual->person"  "type":0
+ae "process->operation" "process" > "operation"
+ce "process->operation"  "type":1
+ae "intellectual->exponent" "intellectual"  "exponent"
+ce "intellectual->exponent"  "type":1
+ae "exponent->person" "exponent"  "person"
+ce "exponent->person"  "type":0
+ae "exponent->mathematical notation" "exponent"  "mathematical notation"
+ce "exponent->mathematical notation"  "type":0
+ae "mathematical notation->notation" "mathematical notation"  "notation"
+ce "mathematical notation->notation"  "type":0
+ae "notation->writing" "notation"  "writing"
+ce "notation->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "document->representation" "document"  "representation"
+ce "document->representation"  "type":0
+ae "representation->content" "representation"  "content"
+ce "representation->content"  "type":0
+ae "representation->creation" "representation"  "creation"
+ce "representation->creation"  "type":0
+ae "representation->cooperation" "representation"  "cooperation"
+ce "representation->cooperation"  "type":0
+ae "cooperation->group action" "cooperation"  "group action"
+ce "cooperation->group action"  "type":0
+ae "group action->act" "group action"  "act"
+ce "group action->act"  "type":0
+ae "group action->event" "group action"  "event"
+ce "group action->event"  "type":0
+ae "event->psychological feature" "event"  "psychological feature"
+ce "event->psychological feature"  "type":0
+ae "psychological feature->abstraction" "psychological feature"  "abstraction"
+ce "psychological feature->abstraction"  "type":0
+ae "psychological feature->cognition" "psychological feature"  "cognition"
+ce "psychological feature->cognition"  "type":1
+ae "cognition->mind" "cognition"  "mind"
+ce "cognition->mind"  "type":1
+ae "mind->recall" "mind"  "recall"
+ce "mind->recall"  "type":0
+ae "recall->request" "recall"  "request"
+ce "recall->request"  "type":0
+ae "request->message" "request"  "message"
+ce "request->message"  "type":0
+ae "message->communication" "message"  "communication"
+ce "message->communication"  "type":0
+ae "communication->act" "communication"  "act"
+ce "communication->act"  "type":0
+ae "communication->abstraction" "communication"  "abstraction"
+ce "communication->abstraction"  "type":0
+ae "communication->connection" "communication"  "connection"
+ce "communication->connection"  "type":0
+ae "connection->relation" "connection"  "relation"
+ce "connection->relation"  "type":0
+ae "relation->abstraction" "relation"  "abstraction"
+ce "relation->abstraction"  "type":0
+ae "relation->sexual activity" "relation"  "sexual activity"
+ce "relation->sexual activity"  "type":0
+ae "sexual activity->bodily process" "sexual activity"  "bodily process"
+ce "sexual activity->bodily process"  "type":0
+ae "bodily process->organic process" "bodily process"  "organic process"
+ce "bodily process->organic process"  "type":0
+ae "organic process->process" "organic process"  "process"
+ce "organic process->process"  "type":0
+ae "process->activity" "process"  "activity"
+ce "process->activity"  "type":0
+ae "process->cognition" "process"  "cognition"
+ce "process->cognition"  "type":0
+ae "process->writ" "process"  "writ"
+ce "process->writ"  "type":0
+ae "writ->legal document" "writ"  "legal document"
+ce "writ->legal document"  "type":0
+ae "writ->court order" "writ"  "court order"
+ce "writ->court order"  "type":1
+ae "court order->divestiture" "court order"  "divestiture"
+ce "court order->divestiture"  "type":1
+ae "divestiture->sale" "divestiture"  "sale"
+ce "divestiture->sale"  "type":0
+ae "sale->selling" "sale"  "selling"
+ce "sale->selling"  "type":0
+ae "selling->commerce" "selling"  "commerce"
+ce "selling->commerce"  "type":0
+ae "commerce->transaction" "commerce"  "transaction"
+ce "commerce->transaction"  "type":0
+ae "transaction->group action" "transaction"  "group action"
+ce "transaction->group action"  "type":0
+ae "transaction->affairs" "transaction"  "affairs"
+ce "transaction->affairs"  "type":1
+ae "affairs->concern" "affairs"  "concern"
+ce "affairs->concern"  "type":0
+ae "concern->interest" "concern"  "interest"
+ce "concern->interest"  "type":0
+ae "interest->curiosity" "interest"  "curiosity"
+ce "interest->curiosity"  "type":0
+ae "curiosity->cognitive state" "curiosity"  "cognitive state"
+ce "curiosity->cognitive state"  "type":0
+ae "cognitive state->psychological state" "cognitive state"  "psychological state"
+ce "cognitive state->psychological state"  "type":0
+ae "psychological state->condition" "psychological state"  "condition"
+ce "psychological state->condition"  "type":0
+ae "condition->state" "condition"  "state"
+ce "condition->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "representation->right" "representation" > "right"
+ce "representation->right"  "type":0
+ae "representation->statement" "representation" > "statement"
+ce "representation->statement"  "type":0
+ae "creating by mental acts->realization" "creating by mental acts" > "realization"
+ce "creating by mental acts->realization"  "type":1
+ae "bodily process->control" "bodily process" > "control"
+ce "bodily process->control"  "type":1
+ae "event->change" "event" > "change"
+ce "event->change"  "type":1
+ae "selling->marketing" "selling" > "marketing"
+ce "selling->marketing"  "type":6
+ae "process->stiffening" "process" > "stiffening"
+ce "process->stiffening"  "type":1
+ae "concern->burden" "concern" > "burden"
+ce "concern->burden"  "type":1
+ae "process->condition" "process" > "condition"
+ce "process->condition"  "type":1
+ae "content->knowledge domain" "content" > "knowledge domain"
+ce "content->knowledge domain"  "type":1
+ae "religious person->prayer" "religious person" > "prayer"
+ce "religious person->prayer"  "type":1
+ae "process->rule" "process" > "rule"
+ce "process->rule"  "type":1
+ae "collection->publication" "collection" > "publication"
+ce "collection->publication"  "type":0
+ae "collection->procession" "collection" > "procession"
+ce "collection->procession"  "type":1
+ae "commerce->traffic" "commerce" > "traffic"
+ce "commerce->traffic"  "type":1
+ae "relation->change" "relation" > "change"
+ce "relation->change"  "type":1
+ae "collection->population" "collection" > "population"
+ce "collection->population"  "type":1
+ae "affairs->social event" "affairs" > "social event"
+ce "affairs->social event"  "type":0
+ae "location->implantation" "location" > "implantation"
+ce "location->implantation"  "type":1
+ae "commerce->marketing" "commerce" > "marketing"
+ce "commerce->marketing"  "type":1
+ae "condition->statement" "condition" > "statement"
+ce "condition->statement"  "type":0
+ae "organic process->implantation" "organic process" > "implantation"
+ce "organic process->implantation"  "type":1
+ae "activity->operation" "activity" > "operation"
+ce "activity->operation"  "type":1
+ae "bodily process->insemination" "bodily process" > "insemination"
+ce "bodily process->insemination"  "type":1
+ae "activity->variation" "activity" > "variation"
+ce "activity->variation"  "type":1
+ae "activity->organic process" "activity" > "organic process"
+ce "activity->organic process"  "type":0
+ae "bodily process->phagocytosis" "bodily process" > "phagocytosis"
+ce "bodily process->phagocytosis"  "type":1
+ae "bodily process->overactivity" "bodily process" > "overactivity"
+ce "bodily process->overactivity"  "type":1
+ae "message->disapproval" "message" > "disapproval"
+ce "message->disapproval"  "type":1
+ae "bodily process->expectoration" "bodily process" > "expectoration"
+ce "bodily process->expectoration"  "type":1
+ae "request->prayer" "request" > "prayer"
+ce "request->prayer"  "type":1
+ae "content->object" "content" > "object"
+ce "content->object"  "type":1
+ae "process->variation" "process" > "variation"
+ce "process->variation"  "type":1
+ae "content->narrative" "content" > "narrative"
+ce "content->narrative"  "type":1
+ae "content->submission" "content" > "submission"
+ce "content->submission"  "type":1
+ae "activity->writing" "activity" > "writing"
+ce "activity->writing"  "type":1
+ae "group->population" "group" > "population"
+ce "group->population"  "type":1
+ae "content->statement" "content" > "statement"
+ce "content->statement"  "type":1
+ae "content->disapproval" "content" > "disapproval"
+ce "content->disapproval"  "type":1
+ae "activity->stiffening" "activity" > "stiffening"
+ce "activity->stiffening"  "type":1
+ae "activity->control" "activity" > "control"
+ce "activity->control"  "type":1
+ae "content->acknowledgment" "content" > "acknowledgment"
+ce "content->acknowledgment"  "type":1
+ae "condition->submission" "condition" > "submission"
+ce "condition->submission"  "type":1
+ae "abstraction->right" "abstraction" > "right"
+ce "abstraction->right"  "type":1
+ae "communication->publication" "communication" > "publication"
+ce "communication->publication"  "type":1
+ae "group action->procession" "group action" > "procession"
+ce "group action->procession"  "type":1
+ae "communication->traffic" "communication" > "traffic"
+ce "communication->traffic"  "type":1
+ae "message->acknowledgment" "message" > "acknowledgment"
+ce "message->acknowledgment"  "type":1
+ae "concept->rule" "concept" > "rule"
+ce "concept->rule"  "type":1
+ae "message->submission" "message" > "submission"
+ce "message->submission"  "type":1
+ae "message->narrative" "message" > "narrative"
+ce "message->narrative"  "type":1
+ae "idea->burden" "idea" > "burden"
+ce "idea->burden"  "type":1
+ae "event->act" "event" > "act"
+ce "event->act"  "type":1
+ae "curiosity->object" "curiosity" > "object"
+ce "curiosity->object"  "type":0
+ae "activity->insemination" "activity" > "insemination"
+ce "activity->insemination"  "type":1
+ae "sale->realization" "sale" > "realization"
+ce "sale->realization"  "type":1
+ae "region->knowledge domain" "region" > "knowledge domain"
+ce "region->knowledge domain"  "type":0
+ae "activity->phagocytosis" "activity" > "phagocytosis"
+ce "activity->phagocytosis"  "type":1
+ae "activity->overactivity" "activity" > "overactivity"
+ce "activity->overactivity"  "type":1
+ae "event->social event" "event" > "social event"
+ce "event->social event"  "type":1
+ae "activity->expectoration" "activity" > "expectoration"
+ce "activity->expectoration"  "type":1

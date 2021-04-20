@@ -1,0 +1,17 @@
+node {
+	size: 1px;
+	fill-color: #777;
+	text-mode: hidden;
+	z-index: 0;
+}
+
+edge {
+	shape: line;
+	fill-mode: dyn-plain;
+	fill-color: #222, #555, green, yellow;
+	arrow-size: 3px, 2px;
+}
+
+edge.tollway { size: 2px; fill-color: red; stroke-width: 1px; stroke-mode: plain; }
+edge.tunnel { fill-color: blue; stroke-width: 1px; stroke-mode: plain; }
+edge.bridge { fill-color: yellow; stroke-width: 1px; stroke-mode: plain; }

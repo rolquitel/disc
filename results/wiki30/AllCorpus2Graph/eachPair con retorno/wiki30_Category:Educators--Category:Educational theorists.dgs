@@ -1,0 +1,119 @@
+DGS004
+null 0 0
+an "Category:Educators"
+an "Education"
+cn "Education"  "ui.label":"Education"
+cn "Education"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "Category:Educational theorists"
+an "Educational sciences"
+cn "Educational sciences"  "ui.label":"Educational sciences"
+cn "Educational sciences"  "ui.style":"size:6px; fill-color:white; "
+an "Pedagogy"
+cn "Pedagogy"  "ui.label":"Pedagogy"
+cn "Pedagogy"  "ui.style":"size:6px; fill-color:white; "
+an "method"
+cn "method"  "ui.label":"method"
+cn "method"  "ui.style":"size:6px; fill-color:white; "
+an "know-how"
+cn "know-how"  "ui.label":"know-how"
+cn "know-how"  "ui.style":"size:6px; fill-color:white; "
+an "ability"
+cn "ability"  "ui.label":"ability"
+cn "ability"  "ui.style":"size:6px; fill-color:white; "
+an "quality"
+cn "quality"  "ui.label":"quality"
+cn "quality"  "ui.style":"size:6px; fill-color:white; "
+an "attribute"
+cn "attribute"  "ui.label":"attribute"
+cn "attribute"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+ae "Category:Educators->Education" "Category:Educators"  "Education"
+ce "Category:Educators->Education"  "type":8
+ae "Education->activity" "Education"  "activity"
+ce "Education->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "Category:Educational theorists->Educational sciences" "Category:Educational theorists"  "Educational sciences"
+ce "Category:Educational theorists->Educational sciences"  "type":8
+ae "Educational sciences->Pedagogy" "Educational sciences"  "Pedagogy"
+ce "Educational sciences->Pedagogy"  "type":8
+ae "Pedagogy->method" "Pedagogy"  "method"
+ce "Pedagogy->method"  "type":0
+ae "method->know-how" "method"  "know-how"
+ce "method->know-how"  "type":0
+ae "know-how->ability" "know-how"  "ability"
+ce "know-how->ability"  "type":0
+ae "ability->quality" "ability"  "quality"
+ce "ability->quality"  "type":0
+ae "quality->attribute" "quality"  "attribute"
+ce "quality->attribute"  "type":0
+ae "attribute->concept" "attribute"  "concept"
+ce "attribute->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0

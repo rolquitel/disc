@@ -1,0 +1,1176 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "automobile"
+cn "automobile"  "ui.label":"automobile"
+cn "automobile"  "ui.style":"size-mode:fit;"
+an "motor vehicle"
+cn "motor vehicle"  "ui.label":"motor vehicle"
+cn "motor vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "self-propelled vehicle"
+cn "self-propelled vehicle"  "ui.label":"self-propelled vehicle"
+cn "self-propelled vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "car mirror"
+cn "car mirror"  "ui.label":"car mirror"
+cn "car mirror"  "ui.style":"size:6px; fill-color:white; "
+an "cable railway"
+cn "cable railway"  "ui.label":"cable railway"
+cn "cable railway"  "ui.style":"size:6px; fill-color:white; "
+an "car"
+cn "car"  "ui.label":"car"
+cn "car"  "ui.style":"size-mode:fit;"
+an "airplane"
+cn "airplane"  "ui.label":"airplane"
+cn "airplane"  "ui.style":"size:6px; fill-color:white; "
+an "accelerator"
+cn "accelerator"  "ui.label":"accelerator"
+cn "accelerator"  "ui.style":"size:6px; fill-color:white; "
+an "used-car"
+cn "used-car"  "ui.label":"used-car"
+cn "used-car"  "ui.style":"size:6px; fill-color:white; "
+an "car seat"
+cn "car seat"  "ui.label":"car seat"
+cn "car seat"  "ui.style":"size:6px; fill-color:white; "
+an "tender"
+cn "tender"  "ui.label":"tender"
+cn "tender"  "ui.style":"size:6px; fill-color:white; "
+an "slip coach"
+cn "slip coach"  "ui.label":"slip coach"
+cn "slip coach"  "ui.style":"size:6px; fill-color:white; "
+an "elevator"
+cn "elevator"  "ui.label":"elevator"
+cn "elevator"  "ui.style":"size:6px; fill-color:white; "
+an "truck"
+cn "truck"  "ui.label":"truck"
+cn "truck"  "ui.style":"size:6px; fill-color:white; "
+an "touring car"
+cn "touring car"  "ui.label":"touring car"
+cn "touring car"  "ui.style":"size:6px; fill-color:white; "
+an "third gear"
+cn "third gear"  "ui.label":"third gear"
+cn "third gear"  "ui.style":"size:6px; fill-color:white; "
+an "bumper"
+cn "bumper"  "ui.label":"bumper"
+cn "bumper"  "ui.style":"size:6px; fill-color:white; "
+an "cab"
+cn "cab"  "ui.label":"cab"
+cn "cab"  "ui.style":"size:6px; fill-color:white; "
+an "airship"
+cn "airship"  "ui.label":"airship"
+cn "airship"  "ui.style":"size:6px; fill-color:white; "
+an "subcompact"
+cn "subcompact"  "ui.label":"subcompact"
+cn "subcompact"  "ui.style":"size:6px; fill-color:white; "
+an "device"
+cn "device"  "ui.label":"device"
+cn "device"  "ui.style":"size:6px; fill-color:white; "
+an "Stanley Steamer"
+cn "Stanley Steamer"  "ui.label":"Stanley Steamer"
+cn "Stanley Steamer"  "ui.style":"size:6px; fill-color:white; "
+an "car window"
+cn "car window"  "ui.label":"car window"
+cn "car window"  "ui.style":"size:6px; fill-color:white; "
+an "fuel system"
+cn "fuel system"  "ui.label":"fuel system"
+cn "fuel system"  "ui.style":"size:6px; fill-color:white; "
+an "sport utility"
+cn "sport utility"  "ui.label":"sport utility"
+cn "sport utility"  "ui.style":"size:6px; fill-color:white; "
+an "tail fin"
+cn "tail fin"  "ui.label":"tail fin"
+cn "tail fin"  "ui.style":"size:6px; fill-color:white; "
+an "internal-combustion engine"
+cn "internal-combustion engine"  "ui.label":"internal-combustion engine"
+cn "internal-combustion engine"  "ui.style":"size:6px; fill-color:white; "
+an "stabilizer"
+cn "stabilizer"  "ui.label":"stabilizer"
+cn "stabilizer"  "ui.style":"size:6px; fill-color:white; "
+an "pedal"
+cn "pedal"  "ui.label":"pedal"
+cn "pedal"  "ui.style":"size:6px; fill-color:white; "
+an "cable car"
+cn "cable car"  "ui.label":"cable car"
+cn "cable car"  "ui.style":"size:6px; fill-color:white; "
+an "rear window"
+cn "rear window"  "ui.label":"rear window"
+cn "rear window"  "ui.style":"size:6px; fill-color:white; "
+an "stabilizer bar"
+cn "stabilizer bar"  "ui.label":"stabilizer bar"
+cn "stabilizer bar"  "ui.style":"size:6px; fill-color:white; "
+an "suspension"
+cn "suspension"  "ui.label":"suspension"
+cn "suspension"  "ui.style":"size:6px; fill-color:white; "
+an "fender"
+cn "fender"  "ui.label":"fender"
+cn "fender"  "ui.style":"size:6px; fill-color:white; "
+an "running board"
+cn "running board"  "ui.label":"running board"
+cn "running board"  "ui.style":"size:6px; fill-color:white; "
+an "ambulance"
+cn "ambulance"  "ui.label":"ambulance"
+cn "ambulance"  "ui.style":"size:6px; fill-color:white; "
+an "sports car"
+cn "sports car"  "ui.label":"sports car"
+cn "sports car"  "ui.style":"size:6px; fill-color:white; "
+an "beach wagon"
+cn "beach wagon"  "ui.label":"beach wagon"
+cn "beach wagon"  "ui.style":"size:6px; fill-color:white; "
+an "club car"
+cn "club car"  "ui.label":"club car"
+cn "club car"  "ui.style":"size:6px; fill-color:white; "
+an "passenger car"
+cn "passenger car"  "ui.label":"passenger car"
+cn "passenger car"  "ui.style":"size:6px; fill-color:white; "
+an "bus"
+cn "bus"  "ui.label":"bus"
+cn "bus"  "ui.style":"size:6px; fill-color:white; "
+an "locomotive"
+cn "locomotive"  "ui.label":"locomotive"
+cn "locomotive"  "ui.style":"size:6px; fill-color:white; "
+an "framework"
+cn "framework"  "ui.label":"framework"
+cn "framework"  "ui.style":"size:6px; fill-color:white; "
+an "building"
+cn "building"  "ui.label":"building"
+cn "building"  "ui.style":"size:6px; fill-color:white; "
+an "first gear"
+cn "first gear"  "ui.label":"first gear"
+cn "first gear"  "ui.style":"size:6px; fill-color:white; "
+an "roof"
+cn "roof"  "ui.label":"roof"
+cn "roof"  "ui.style":"size:6px; fill-color:white; "
+an "window"
+cn "window"  "ui.label":"window"
+cn "window"  "ui.style":"size:6px; fill-color:white; "
+an "gear"
+cn "gear"  "ui.label":"gear"
+cn "gear"  "ui.style":"size:6px; fill-color:white; "
+an "buffer"
+cn "buffer"  "ui.label":"buffer"
+cn "buffer"  "ui.style":"size:6px; fill-color:white; "
+an "sunroof"
+cn "sunroof"  "ui.label":"sunroof"
+cn "sunroof"  "ui.style":"size:6px; fill-color:white; "
+an "floorboard"
+cn "floorboard"  "ui.label":"floorboard"
+cn "floorboard"  "ui.style":"size:6px; fill-color:white; "
+an "mail car"
+cn "mail car"  "ui.label":"mail car"
+cn "mail car"  "ui.style":"size:6px; fill-color:white; "
+an "automobile horn"
+cn "automobile horn"  "ui.label":"automobile horn"
+cn "automobile horn"  "ui.style":"size:6px; fill-color:white; "
+an "compartment"
+cn "compartment"  "ui.label":"compartment"
+cn "compartment"  "ui.style":"size:6px; fill-color:white; "
+an "carriage"
+cn "carriage"  "ui.label":"carriage"
+cn "carriage"  "ui.style":"size:6px; fill-color:white; "
+an "handcar"
+cn "handcar"  "ui.label":"handcar"
+cn "handcar"  "ui.style":"size:6px; fill-color:white; "
+an "minicab"
+cn "minicab"  "ui.label":"minicab"
+cn "minicab"  "ui.style":"size:6px; fill-color:white; "
+an "compact"
+cn "compact"  "ui.label":"compact"
+cn "compact"  "ui.style":"size:6px; fill-color:white; "
+an "wheeled vehicle"
+cn "wheeled vehicle"  "ui.label":"wheeled vehicle"
+cn "wheeled vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "gasoline engine"
+cn "gasoline engine"  "ui.label":"gasoline engine"
+cn "gasoline engine"  "ui.style":"size:6px; fill-color:white; "
+an "convertible"
+cn "convertible"  "ui.label":"convertible"
+cn "convertible"  "ui.style":"size:6px; fill-color:white; "
+an "automobile engine"
+cn "automobile engine"  "ui.label":"automobile engine"
+cn "automobile engine"  "ui.style":"size:6px; fill-color:white; "
+an "guard's van"
+cn "guard's van"  "ui.label":"guard's van"
+cn "guard's van"  "ui.style":"size:6px; fill-color:white; "
+an "auto accessory"
+cn "auto accessory"  "ui.label":"auto accessory"
+cn "auto accessory"  "ui.style":"size:6px; fill-color:white; "
+an "cabin car"
+cn "cabin car"  "ui.label":"cabin car"
+cn "cabin car"  "ui.style":"size:6px; fill-color:white; "
+an "coupe"
+cn "coupe"  "ui.label":"coupe"
+cn "coupe"  "ui.style":"size:6px; fill-color:white; "
+an "cruiser"
+cn "cruiser"  "ui.label":"cruiser"
+cn "cruiser"  "ui.style":"size:6px; fill-color:white; "
+an "glove compartment"
+cn "glove compartment"  "ui.label":"glove compartment"
+cn "glove compartment"  "ui.style":"size:6px; fill-color:white; "
+an "air bag"
+cn "air bag"  "ui.label":"air bag"
+cn "air bag"  "ui.style":"size:6px; fill-color:white; "
+an "grille"
+cn "grille"  "ui.label":"grille"
+cn "grille"  "ui.style":"size:6px; fill-color:white; "
+an "opening"
+cn "opening"  "ui.label":"opening"
+cn "opening"  "ui.style":"size:6px; fill-color:white; "
+an "baggage car"
+cn "baggage car"  "ui.label":"baggage car"
+cn "baggage car"  "ui.style":"size:6px; fill-color:white; "
+an "electric"
+cn "electric"  "ui.label":"electric"
+cn "electric"  "ui.style":"size:6px; fill-color:white; "
+an "gas guzzler"
+cn "gas guzzler"  "ui.label":"gas guzzler"
+cn "gas guzzler"  "ui.style":"size:6px; fill-color:white; "
+an "hardtop"
+cn "hardtop"  "ui.label":"hardtop"
+cn "hardtop"  "ui.style":"size:6px; fill-color:white; "
+an "hatchback"
+cn "hatchback"  "ui.label":"hatchback"
+cn "hatchback"  "ui.style":"size:6px; fill-color:white; "
+an "car door"
+cn "car door"  "ui.label":"car door"
+cn "car door"  "ui.style":"size:6px; fill-color:white; "
+an "horseless carriage"
+cn "horseless carriage"  "ui.label":"horseless carriage"
+cn "horseless carriage"  "ui.style":"size:6px; fill-color:white; "
+an "hot rod"
+cn "hot rod"  "ui.label":"hot rod"
+cn "hot rod"  "ui.style":"size:6px; fill-color:white; "
+an "jeep"
+cn "jeep"  "ui.label":"jeep"
+cn "jeep"  "ui.style":"size:6px; fill-color:white; "
+an "limousine"
+cn "limousine"  "ui.label":"limousine"
+cn "limousine"  "ui.style":"size:6px; fill-color:white; "
+an "sedan"
+cn "sedan"  "ui.label":"sedan"
+cn "sedan"  "ui.style":"size:6px; fill-color:white; "
+an "loaner"
+cn "loaner"  "ui.label":"loaner"
+cn "loaner"  "ui.style":"size:6px; fill-color:white; "
+an "high gear"
+cn "high gear"  "ui.label":"high gear"
+cn "high gear"  "ui.style":"size:6px; fill-color:white; "
+an "reverse"
+cn "reverse"  "ui.label":"reverse"
+cn "reverse"  "ui.style":"size:6px; fill-color:white; "
+an "freight car"
+cn "freight car"  "ui.label":"freight car"
+cn "freight car"  "ui.style":"size:6px; fill-color:white; "
+an "minicar"
+cn "minicar"  "ui.label":"minicar"
+cn "minicar"  "ui.style":"size:6px; fill-color:white; "
+an "minivan"
+cn "minivan"  "ui.label":"minivan"
+cn "minivan"  "ui.style":"size:6px; fill-color:white; "
+an "passenger van"
+cn "passenger van"  "ui.label":"passenger van"
+cn "passenger van"  "ui.style":"size:6px; fill-color:white; "
+an "Model T"
+cn "Model T"  "ui.label":"Model T"
+cn "Model T"  "ui.style":"size:6px; fill-color:white; "
+an "pace car"
+cn "pace car"  "ui.label":"pace car"
+cn "pace car"  "ui.style":"size:6px; fill-color:white; "
+an "racer"
+cn "racer"  "ui.label":"racer"
+cn "racer"  "ui.style":"size:6px; fill-color:white; "
+an "luggage compartment"
+cn "luggage compartment"  "ui.label":"luggage compartment"
+cn "luggage compartment"  "ui.style":"size:6px; fill-color:white; "
+an "hood"
+cn "hood"  "ui.label":"hood"
+cn "hood"  "ui.style":"size:6px; fill-color:white; "
+an "stock car"
+cn "stock car"  "ui.label":"stock car"
+cn "stock car"  "ui.style":"size:6px; fill-color:white; "
+an "cockpit"
+cn "cockpit"  "ui.label":"cockpit"
+cn "cockpit"  "ui.style":"size:6px; fill-color:white; "
+an "roadster"
+cn "roadster"  "ui.label":"roadster"
+cn "roadster"  "ui.style":"size:6px; fill-color:white; "
+an "protective covering"
+cn "protective covering"  "ui.label":"protective covering"
+cn "protective covering"  "ui.style":"size:6px; fill-color:white; "
+an "van"
+cn "van"  "ui.label":"van"
+cn "van"  "ui.style":"size:6px; fill-color:white; "
+an "covering"
+cn "covering"  "ui.label":"covering"
+cn "covering"  "ui.style":"size:6px; fill-color:white; "
+ae "automobile->motor vehicle" "automobile" > "motor vehicle"
+ce "automobile->motor vehicle"  "type":0
+ce "automobile->motor vehicle"  "ui.style":"text-color:black;"
+ae "motor vehicle->self-propelled vehicle" "motor vehicle" > "self-propelled vehicle"
+ce "motor vehicle->self-propelled vehicle"  "type":0
+ce "motor vehicle->self-propelled vehicle"  "ui.style":"text-color:black;"
+ae "cable railway->cable car" "cable railway" > "cable car"
+ce "cable railway->cable car"  "type":7
+ce "cable railway->cable car"  "ui.style":"text-color:pink;"
+ae "car->third gear" "car" > "third gear"
+ce "car->third gear"  "type":7
+ce "car->third gear"  "ui.style":"text-color:pink;"
+ae "motor vehicle->car" "motor vehicle" > "car"
+ce "motor vehicle->car"  "type":1
+ce "motor vehicle->car"  "ui.style":"text-color:gray;"
+ae "car->cable railway" "car" > "cable railway"
+ce "car->cable railway"  "type":6
+ce "car->cable railway"  "ui.style":"text-color:red;"
+ae "car->tail fin" "car" > "tail fin"
+ce "car->tail fin"  "type":7
+ce "car->tail fin"  "ui.style":"text-color:pink;"
+ae "car->sunroof" "car" > "sunroof"
+ce "car->sunroof"  "type":7
+ce "car->sunroof"  "ui.style":"text-color:pink;"
+ae "elevator->car" "elevator" > "car"
+ce "elevator->car"  "type":7
+ce "elevator->car"  "ui.style":"text-color:pink;"
+ae "elevator->building" "elevator" > "building"
+ce "elevator->building"  "type":6
+ce "elevator->building"  "ui.style":"text-color:red;"
+ae "car->stabilizer bar" "car" > "stabilizer bar"
+ce "car->stabilizer bar"  "type":7
+ce "car->stabilizer bar"  "ui.style":"text-color:pink;"
+ae "car->running board" "car" > "running board"
+ce "car->running board"  "type":7
+ce "car->running board"  "ui.style":"text-color:pink;"
+ae "motor vehicle->truck" "motor vehicle" > "truck"
+ce "motor vehicle->truck"  "type":1
+ce "motor vehicle->truck"  "ui.style":"text-color:gray;"
+ae "car->roof" "car" > "roof"
+ce "car->roof"  "type":7
+ce "car->roof"  "ui.style":"text-color:pink;"
+ae "car->reverse" "car" > "reverse"
+ce "car->reverse"  "type":7
+ce "car->reverse"  "ui.style":"text-color:pink;"
+ae "car->elevator" "car" > "elevator"
+ce "car->elevator"  "type":6
+ce "car->elevator"  "ui.style":"text-color:red;"
+ae "motor vehicle->cab" "motor vehicle" > "cab"
+ce "motor vehicle->cab"  "type":7
+ce "motor vehicle->cab"  "ui.style":"text-color:pink;"
+ae "airship->car" "airship" > "car"
+ce "airship->car"  "type":7
+ce "airship->car"  "ui.style":"text-color:pink;"
+ae "car->rear window" "car" > "rear window"
+ce "car->rear window"  "type":7
+ce "car->rear window"  "ui.style":"text-color:pink;"
+ae "car->luggage compartment" "car" > "luggage compartment"
+ce "car->luggage compartment"  "type":7
+ce "car->luggage compartment"  "ui.style":"text-color:pink;"
+ae "car->hood" "car" > "hood"
+ce "car->hood"  "type":7
+ce "car->hood"  "ui.style":"text-color:pink;"
+ae "car->airship" "car" > "airship"
+ce "car->airship"  "type":6
+ce "car->airship"  "ui.style":"text-color:red;"
+ae "motor vehicle->fuel system" "motor vehicle" > "fuel system"
+ce "motor vehicle->fuel system"  "type":7
+ce "motor vehicle->fuel system"  "ui.style":"text-color:pink;"
+ae "car->high gear" "car" > "high gear"
+ce "car->high gear"  "type":7
+ce "car->high gear"  "ui.style":"text-color:pink;"
+ae "car->grille" "car" > "grille"
+ce "car->grille"  "type":7
+ce "car->grille"  "ui.style":"text-color:pink;"
+ae "motor vehicle->internal-combustion engine" "motor vehicle" > "internal-combustion engine"
+ce "motor vehicle->internal-combustion engine"  "type":7
+ce "motor vehicle->internal-combustion engine"  "ui.style":"text-color:pink;"
+ae "car->glove compartment" "car" > "glove compartment"
+ce "car->glove compartment"  "type":7
+ce "car->glove compartment"  "ui.style":"text-color:pink;"
+ae "motor vehicle->pedal" "motor vehicle" > "pedal"
+ce "motor vehicle->pedal"  "type":7
+ce "motor vehicle->pedal"  "ui.style":"text-color:pink;"
+ae "car->gasoline engine" "car" > "gasoline engine"
+ce "car->gasoline engine"  "type":7
+ce "car->gasoline engine"  "ui.style":"text-color:pink;"
+ae "car->floorboard" "car" > "floorboard"
+ce "car->floorboard"  "type":7
+ce "car->floorboard"  "ui.style":"text-color:pink;"
+ae "compartment->luggage compartment" "compartment" > "luggage compartment"
+ce "compartment->luggage compartment"  "type":1
+ce "compartment->luggage compartment"  "ui.style":"text-color:gray;"
+ae "motor vehicle->suspension" "motor vehicle" > "suspension"
+ce "motor vehicle->suspension"  "type":7
+ce "motor vehicle->suspension"  "ui.style":"text-color:pink;"
+ae "compartment->glove compartment" "compartment" > "glove compartment"
+ce "compartment->glove compartment"  "type":1
+ce "compartment->glove compartment"  "ui.style":"text-color:gray;"
+ae "car->first gear" "car" > "first gear"
+ce "car->first gear"  "type":7
+ce "car->first gear"  "ui.style":"text-color:pink;"
+ae "automobile->ambulance" "automobile" > "ambulance"
+ce "automobile->ambulance"  "type":1
+ce "automobile->ambulance"  "ui.style":"text-color:gray;"
+ae "ambulance->car" "ambulance" > "car"
+ce "ambulance->car"  "type":0
+ce "ambulance->car"  "ui.style":"text-color:black;"
+ae "car->fender" "car" > "fender"
+ce "car->fender"  "type":7
+ce "car->fender"  "ui.style":"text-color:pink;"
+ae "automobile->beach wagon" "automobile" > "beach wagon"
+ce "automobile->beach wagon"  "type":1
+ce "automobile->beach wagon"  "ui.style":"text-color:gray;"
+ae "beach wagon->car" "beach wagon" > "car"
+ce "beach wagon->car"  "type":0
+ce "beach wagon->car"  "ui.style":"text-color:black;"
+ae "compartment->cockpit" "compartment" > "cockpit"
+ce "compartment->cockpit"  "type":1
+ce "compartment->cockpit"  "ui.style":"text-color:gray;"
+ae "compartment->car" "compartment" > "car"
+ce "compartment->car"  "type":1
+ce "compartment->car"  "ui.style":"text-color:gray;"
+ae "automobile->bus" "automobile" > "bus"
+ce "automobile->bus"  "type":1
+ce "automobile->bus"  "ui.style":"text-color:gray;"
+ae "compartment->cable car" "compartment" > "cable car"
+ce "compartment->cable car"  "type":1
+ce "compartment->cable car"  "ui.style":"text-color:gray;"
+ae "car->car window" "car" > "car window"
+ce "car->car window"  "type":7
+ce "car->car window"  "ui.style":"text-color:pink;"
+ae "car->car seat" "car" > "car seat"
+ce "car->car seat"  "type":7
+ce "car->car seat"  "ui.style":"text-color:pink;"
+ae "compartment->cab" "compartment" > "cab"
+ce "compartment->cab"  "type":1
+ce "compartment->cab"  "ui.style":"text-color:gray;"
+ae "bus->roof" "bus" > "roof"
+ce "bus->roof"  "type":7
+ce "bus->roof"  "ui.style":"text-color:pink;"
+ae "bus->window" "bus" > "window"
+ce "bus->window"  "type":7
+ce "bus->window"  "ui.style":"text-color:pink;"
+ae "car->car mirror" "car" > "car mirror"
+ce "car->car mirror"  "type":7
+ce "car->car mirror"  "ui.style":"text-color:pink;"
+ae "car->car door" "car" > "car door"
+ce "car->car door"  "type":7
+ce "car->car door"  "ui.style":"text-color:pink;"
+ae "car->bumper" "car" > "bumper"
+ce "car->bumper"  "type":7
+ce "car->bumper"  "ui.style":"text-color:pink;"
+ae "car->buffer" "car" > "buffer"
+ce "car->buffer"  "type":7
+ce "car->buffer"  "ui.style":"text-color:pink;"
+ae "car->automobile horn" "car" > "automobile horn"
+ce "car->automobile horn"  "type":7
+ce "car->automobile horn"  "ui.style":"text-color:pink;"
+ae "bus->car" "bus" > "car"
+ce "bus->car"  "type":0
+ce "bus->car"  "ui.style":"text-color:black;"
+ae "car->automobile engine" "car" > "automobile engine"
+ce "car->automobile engine"  "type":7
+ce "car->automobile engine"  "ui.style":"text-color:pink;"
+ae "automobile->cab" "automobile" > "cab"
+ce "automobile->cab"  "type":1
+ce "automobile->cab"  "ui.style":"text-color:gray;"
+ae "cab->compartment" "cab" > "compartment"
+ce "cab->compartment"  "type":0
+ce "cab->compartment"  "ui.style":"text-color:black;"
+ae "cab->motor vehicle" "cab" > "motor vehicle"
+ce "cab->motor vehicle"  "type":6
+ce "cab->motor vehicle"  "ui.style":"text-color:red;"
+ae "cab->carriage" "cab" > "carriage"
+ce "cab->carriage"  "type":0
+ce "cab->carriage"  "ui.style":"text-color:black;"
+ae "cab->car" "cab" > "car"
+ce "cab->car"  "type":0
+ce "cab->car"  "ui.style":"text-color:black;"
+ae "car->auto accessory" "car" > "auto accessory"
+ce "car->auto accessory"  "type":7
+ce "car->auto accessory"  "ui.style":"text-color:pink;"
+ae "cab->minicab" "cab" > "minicab"
+ce "cab->minicab"  "type":1
+ce "cab->minicab"  "ui.style":"text-color:gray;"
+ae "automobile->compact" "automobile" > "compact"
+ce "automobile->compact"  "type":1
+ce "automobile->compact"  "ui.style":"text-color:gray;"
+ae "car->compartment" "car" > "compartment"
+ce "car->compartment"  "type":0
+ce "car->compartment"  "ui.style":"text-color:black;"
+ae "car->air bag" "car" > "air bag"
+ce "car->air bag"  "type":7
+ce "car->air bag"  "ui.style":"text-color:pink;"
+ae "compact->car" "compact" > "car"
+ce "compact->car"  "type":0
+ce "compact->car"  "ui.style":"text-color:black;"
+ae "automobile->convertible" "automobile" > "convertible"
+ce "automobile->convertible"  "type":1
+ce "automobile->convertible"  "ui.style":"text-color:gray;"
+ae "convertible->car" "convertible" > "car"
+ce "convertible->car"  "type":0
+ce "convertible->car"  "ui.style":"text-color:black;"
+ae "car->accelerator" "car" > "accelerator"
+ce "car->accelerator"  "type":7
+ce "car->accelerator"  "ui.style":"text-color:pink;"
+ae "car->used-car" "car" > "used-car"
+ce "car->used-car"  "type":1
+ce "car->used-car"  "ui.style":"text-color:gray;"
+ae "car->touring car" "car" > "touring car"
+ce "car->touring car"  "type":1
+ce "car->touring car"  "ui.style":"text-color:gray;"
+ae "suspension->car" "suspension" > "car"
+ce "suspension->car"  "type":6
+ce "suspension->car"  "ui.style":"text-color:red;"
+ae "automobile->coupe" "automobile" > "coupe"
+ce "automobile->coupe"  "type":1
+ce "automobile->coupe"  "ui.style":"text-color:gray;"
+ae "coupe->car" "coupe" > "car"
+ce "coupe->car"  "type":0
+ce "coupe->car"  "ui.style":"text-color:black;"
+ae "automobile->cruiser" "automobile" > "cruiser"
+ce "automobile->cruiser"  "type":1
+ce "automobile->cruiser"  "ui.style":"text-color:gray;"
+ae "cruiser->car" "cruiser" > "car"
+ce "cruiser->car"  "type":0
+ce "cruiser->car"  "ui.style":"text-color:black;"
+ae "suspension->motor vehicle" "suspension" > "motor vehicle"
+ce "suspension->motor vehicle"  "type":6
+ce "suspension->motor vehicle"  "ui.style":"text-color:red;"
+ae "car->subcompact" "car" > "subcompact"
+ce "car->subcompact"  "type":1
+ce "car->subcompact"  "ui.style":"text-color:gray;"
+ae "car->stock car" "car" > "stock car"
+ce "car->stock car"  "type":1
+ce "car->stock car"  "ui.style":"text-color:gray;"
+ae "car->Stanley Steamer" "car" > "Stanley Steamer"
+ce "car->Stanley Steamer"  "type":1
+ce "car->Stanley Steamer"  "ui.style":"text-color:gray;"
+ae "car->sport utility" "car" > "sport utility"
+ce "car->sport utility"  "type":1
+ce "car->sport utility"  "ui.style":"text-color:gray;"
+ae "automobile->electric" "automobile" > "electric"
+ce "automobile->electric"  "type":1
+ce "automobile->electric"  "ui.style":"text-color:gray;"
+ae "electric->car" "electric" > "car"
+ce "electric->car"  "type":0
+ce "electric->car"  "ui.style":"text-color:black;"
+ae "automobile->gas guzzler" "automobile" > "gas guzzler"
+ce "automobile->gas guzzler"  "type":1
+ce "automobile->gas guzzler"  "ui.style":"text-color:gray;"
+ae "gas guzzler->car" "gas guzzler" > "car"
+ce "gas guzzler->car"  "type":0
+ce "gas guzzler->car"  "ui.style":"text-color:black;"
+ae "automobile->hardtop" "automobile" > "hardtop"
+ce "automobile->hardtop"  "type":1
+ce "automobile->hardtop"  "ui.style":"text-color:gray;"
+ae "hardtop->car" "hardtop" > "car"
+ce "hardtop->car"  "type":0
+ce "hardtop->car"  "ui.style":"text-color:black;"
+ae "automobile->hatchback" "automobile" > "hatchback"
+ce "automobile->hatchback"  "type":1
+ce "automobile->hatchback"  "ui.style":"text-color:gray;"
+ae "hatchback->car" "hatchback" > "car"
+ce "hatchback->car"  "type":0
+ce "hatchback->car"  "ui.style":"text-color:black;"
+ae "hatchback->car door" "hatchback" > "car door"
+ce "hatchback->car door"  "type":0
+ce "hatchback->car door"  "ui.style":"text-color:black;"
+ae "automobile->horseless carriage" "automobile" > "horseless carriage"
+ce "automobile->horseless carriage"  "type":1
+ce "automobile->horseless carriage"  "ui.style":"text-color:gray;"
+ae "horseless carriage->car" "horseless carriage" > "car"
+ce "horseless carriage->car"  "type":0
+ce "horseless carriage->car"  "ui.style":"text-color:black;"
+ae "automobile->hot rod" "automobile" > "hot rod"
+ce "automobile->hot rod"  "type":1
+ce "automobile->hot rod"  "ui.style":"text-color:gray;"
+ae "hot rod->car" "hot rod" > "car"
+ce "hot rod->car"  "type":0
+ce "hot rod->car"  "ui.style":"text-color:black;"
+ae "automobile->jeep" "automobile" > "jeep"
+ce "automobile->jeep"  "type":1
+ce "automobile->jeep"  "ui.style":"text-color:gray;"
+ae "jeep->car" "jeep" > "car"
+ce "jeep->car"  "type":0
+ce "jeep->car"  "ui.style":"text-color:black;"
+ae "automobile->limousine" "automobile" > "limousine"
+ce "automobile->limousine"  "type":1
+ce "automobile->limousine"  "ui.style":"text-color:gray;"
+ae "limousine->car" "limousine" > "car"
+ce "limousine->car"  "type":0
+ce "limousine->car"  "ui.style":"text-color:black;"
+ae "car->sports car" "car" > "sports car"
+ce "car->sports car"  "type":1
+ce "car->sports car"  "ui.style":"text-color:gray;"
+ae "automobile->loaner" "automobile" > "loaner"
+ce "automobile->loaner"  "type":1
+ce "automobile->loaner"  "ui.style":"text-color:gray;"
+ae "car->sedan" "car" > "sedan"
+ce "car->sedan"  "type":1
+ce "car->sedan"  "ui.style":"text-color:gray;"
+ae "car->roadster" "car" > "roadster"
+ce "car->roadster"  "type":1
+ce "car->roadster"  "ui.style":"text-color:gray;"
+ae "car->racer" "car" > "racer"
+ce "car->racer"  "type":1
+ce "car->racer"  "ui.style":"text-color:gray;"
+ae "loaner->car" "loaner" > "car"
+ce "loaner->car"  "type":0
+ce "loaner->car"  "ui.style":"text-color:black;"
+ae "automobile->minicar" "automobile" > "minicar"
+ce "automobile->minicar"  "type":1
+ce "automobile->minicar"  "ui.style":"text-color:gray;"
+ae "minicar->car" "minicar" > "car"
+ce "minicar->car"  "type":0
+ce "minicar->car"  "ui.style":"text-color:black;"
+ae "minicar->minicab" "minicar" > "minicab"
+ce "minicar->minicab"  "type":1
+ce "minicar->minicab"  "ui.style":"text-color:gray;"
+ae "automobile->minivan" "automobile" > "minivan"
+ce "automobile->minivan"  "type":1
+ce "automobile->minivan"  "ui.style":"text-color:gray;"
+ae "minivan->passenger van" "minivan" > "passenger van"
+ce "minivan->passenger van"  "type":0
+ce "minivan->passenger van"  "ui.style":"text-color:black;"
+ae "minivan->car" "minivan" > "car"
+ce "minivan->car"  "type":0
+ce "minivan->car"  "ui.style":"text-color:black;"
+ae "automobile->Model T" "automobile" > "Model T"
+ce "automobile->Model T"  "type":1
+ce "automobile->Model T"  "ui.style":"text-color:gray;"
+ae "Model T->car" "Model T" > "car"
+ce "Model T->car"  "type":0
+ce "Model T->car"  "ui.style":"text-color:black;"
+ae "automobile->pace car" "automobile" > "pace car"
+ce "automobile->pace car"  "type":1
+ce "automobile->pace car"  "ui.style":"text-color:gray;"
+ae "pace car->car" "pace car" > "car"
+ce "pace car->car"  "type":0
+ce "pace car->car"  "ui.style":"text-color:black;"
+ae "automobile->racer" "automobile" > "racer"
+ce "automobile->racer"  "type":1
+ce "automobile->racer"  "ui.style":"text-color:gray;"
+ae "car->pace car" "car" > "pace car"
+ce "car->pace car"  "type":1
+ce "car->pace car"  "ui.style":"text-color:gray;"
+ae "car->Model T" "car" > "Model T"
+ce "car->Model T"  "type":1
+ce "car->Model T"  "ui.style":"text-color:gray;"
+ae "racer->car" "racer" > "car"
+ce "racer->car"  "type":0
+ce "racer->car"  "ui.style":"text-color:black;"
+ae "racer->stock car" "racer" > "stock car"
+ce "racer->stock car"  "type":1
+ce "racer->stock car"  "ui.style":"text-color:gray;"
+ae "racer->cockpit" "racer" > "cockpit"
+ce "racer->cockpit"  "type":7
+ce "racer->cockpit"  "ui.style":"text-color:pink;"
+ae "car->minivan" "car" > "minivan"
+ce "car->minivan"  "type":1
+ce "car->minivan"  "ui.style":"text-color:gray;"
+ae "car->minicar" "car" > "minicar"
+ce "car->minicar"  "type":1
+ce "car->minicar"  "ui.style":"text-color:gray;"
+ae "car->loaner" "car" > "loaner"
+ce "car->loaner"  "type":1
+ce "car->loaner"  "ui.style":"text-color:gray;"
+ae "car->limousine" "car" > "limousine"
+ce "car->limousine"  "type":1
+ce "car->limousine"  "ui.style":"text-color:gray;"
+ae "car->jeep" "car" > "jeep"
+ce "car->jeep"  "type":1
+ce "car->jeep"  "ui.style":"text-color:gray;"
+ae "car->hot rod" "car" > "hot rod"
+ce "car->hot rod"  "type":1
+ce "car->hot rod"  "ui.style":"text-color:gray;"
+ae "automobile->roadster" "automobile" > "roadster"
+ce "automobile->roadster"  "type":1
+ce "automobile->roadster"  "ui.style":"text-color:gray;"
+ae "roadster->car" "roadster" > "car"
+ce "roadster->car"  "type":0
+ce "roadster->car"  "ui.style":"text-color:black;"
+ae "car->horseless carriage" "car" > "horseless carriage"
+ce "car->horseless carriage"  "type":1
+ce "car->horseless carriage"  "ui.style":"text-color:gray;"
+ae "roadster->carriage" "roadster" > "carriage"
+ce "roadster->carriage"  "type":0
+ce "roadster->carriage"  "ui.style":"text-color:black;"
+ae "automobile->sedan" "automobile" > "sedan"
+ce "automobile->sedan"  "type":1
+ce "automobile->sedan"  "ui.style":"text-color:gray;"
+ae "sedan->car" "sedan" > "car"
+ce "sedan->car"  "type":0
+ce "sedan->car"  "ui.style":"text-color:black;"
+ae "car->hatchback" "car" > "hatchback"
+ce "car->hatchback"  "type":1
+ce "car->hatchback"  "ui.style":"text-color:gray;"
+ae "car->hardtop" "car" > "hardtop"
+ce "car->hardtop"  "type":1
+ce "car->hardtop"  "ui.style":"text-color:gray;"
+ae "car->gas guzzler" "car" > "gas guzzler"
+ce "car->gas guzzler"  "type":1
+ce "car->gas guzzler"  "ui.style":"text-color:gray;"
+ae "automobile->sports car" "automobile" > "sports car"
+ce "automobile->sports car"  "type":1
+ce "automobile->sports car"  "ui.style":"text-color:gray;"
+ae "sports car->car" "sports car" > "car"
+ce "sports car->car"  "type":0
+ce "sports car->car"  "ui.style":"text-color:black;"
+ae "automobile->sport utility" "automobile" > "sport utility"
+ce "automobile->sport utility"  "type":1
+ce "automobile->sport utility"  "ui.style":"text-color:gray;"
+ae "sport utility->car" "sport utility" > "car"
+ce "sport utility->car"  "type":0
+ce "sport utility->car"  "ui.style":"text-color:black;"
+ae "automobile->Stanley Steamer" "automobile" > "Stanley Steamer"
+ce "automobile->Stanley Steamer"  "type":1
+ce "automobile->Stanley Steamer"  "ui.style":"text-color:gray;"
+ae "Stanley Steamer->car" "Stanley Steamer" > "car"
+ce "Stanley Steamer->car"  "type":0
+ce "Stanley Steamer->car"  "ui.style":"text-color:black;"
+ae "automobile->stock car" "automobile" > "stock car"
+ce "automobile->stock car"  "type":1
+ce "automobile->stock car"  "ui.style":"text-color:gray;"
+ae "stock car->car" "stock car" > "car"
+ce "stock car->car"  "type":0
+ce "stock car->car"  "ui.style":"text-color:black;"
+ae "stock car->racer" "stock car" > "racer"
+ce "stock car->racer"  "type":0
+ce "stock car->racer"  "ui.style":"text-color:black;"
+ae "automobile->subcompact" "automobile" > "subcompact"
+ce "automobile->subcompact"  "type":1
+ce "automobile->subcompact"  "ui.style":"text-color:gray;"
+ae "subcompact->car" "subcompact" > "car"
+ce "subcompact->car"  "type":0
+ce "subcompact->car"  "ui.style":"text-color:black;"
+ae "automobile->touring car" "automobile" > "touring car"
+ce "automobile->touring car"  "type":1
+ce "automobile->touring car"  "ui.style":"text-color:gray;"
+ae "touring car->car" "touring car" > "car"
+ce "touring car->car"  "type":0
+ce "touring car->car"  "ui.style":"text-color:black;"
+ae "automobile->used-car" "automobile" > "used-car"
+ce "automobile->used-car"  "type":1
+ce "automobile->used-car"  "ui.style":"text-color:gray;"
+ae "used-car->car" "used-car" > "car"
+ce "used-car->car"  "type":0
+ce "used-car->car"  "ui.style":"text-color:black;"
+ae "automobile->accelerator" "automobile" > "accelerator"
+ce "automobile->accelerator"  "type":7
+ce "automobile->accelerator"  "ui.style":"text-color:pink;"
+ae "accelerator->pedal" "accelerator" > "pedal"
+ce "accelerator->pedal"  "type":0
+ce "accelerator->pedal"  "ui.style":"text-color:black;"
+ae "accelerator->car" "accelerator" > "car"
+ce "accelerator->car"  "type":6
+ce "accelerator->car"  "ui.style":"text-color:red;"
+ae "accelerator->airplane" "accelerator" > "airplane"
+ce "accelerator->airplane"  "type":6
+ce "accelerator->airplane"  "ui.style":"text-color:red;"
+ae "car->electric" "car" > "electric"
+ce "car->electric"  "type":1
+ce "car->electric"  "ui.style":"text-color:gray;"
+ae "accelerator->fuel system" "accelerator" > "fuel system"
+ce "accelerator->fuel system"  "type":6
+ce "accelerator->fuel system"  "ui.style":"text-color:red;"
+ae "car->cruiser" "car" > "cruiser"
+ce "car->cruiser"  "type":1
+ce "car->cruiser"  "ui.style":"text-color:gray;"
+ae "car->coupe" "car" > "coupe"
+ce "car->coupe"  "type":1
+ce "car->coupe"  "ui.style":"text-color:gray;"
+ae "car->convertible" "car" > "convertible"
+ce "car->convertible"  "type":1
+ce "car->convertible"  "ui.style":"text-color:gray;"
+ae "car->suspension" "car" > "suspension"
+ce "car->suspension"  "type":7
+ce "car->suspension"  "ui.style":"text-color:pink;"
+ae "car->compact" "car" > "compact"
+ce "car->compact"  "type":1
+ce "car->compact"  "ui.style":"text-color:gray;"
+ae "van->passenger van" "van" > "passenger van"
+ce "van->passenger van"  "type":1
+ce "van->passenger van"  "ui.style":"text-color:gray;"
+ae "car->cab" "car" > "cab"
+ce "car->cab"  "type":1
+ce "car->cab"  "ui.style":"text-color:gray;"
+ae "car->bus" "car" > "bus"
+ce "car->bus"  "type":1
+ce "car->bus"  "ui.style":"text-color:gray;"
+ae "car->beach wagon" "car" > "beach wagon"
+ce "car->beach wagon"  "type":1
+ce "car->beach wagon"  "ui.style":"text-color:gray;"
+ae "car->ambulance" "car" > "ambulance"
+ce "car->ambulance"  "type":1
+ce "car->ambulance"  "ui.style":"text-color:gray;"
+ae "car->motor vehicle" "car" > "motor vehicle"
+ce "car->motor vehicle"  "type":0
+ce "car->motor vehicle"  "ui.style":"text-color:black;"
+ae "van->truck" "van" > "truck"
+ce "van->truck"  "type":0
+ce "van->truck"  "ui.style":"text-color:black;"
+ae "automobile->air bag" "automobile" > "air bag"
+ce "automobile->air bag"  "type":7
+ce "automobile->air bag"  "ui.style":"text-color:pink;"
+ae "cabin car->car" "cabin car" > "car"
+ce "cabin car->car"  "type":0
+ce "cabin car->car"  "ui.style":"text-color:black;"
+ae "van->car" "van" > "car"
+ce "van->car"  "type":0
+ce "van->car"  "ui.style":"text-color:black;"
+ae "air bag->car" "air bag" > "car"
+ce "air bag->car"  "type":6
+ce "air bag->car"  "ui.style":"text-color:red;"
+ae "automobile->auto accessory" "automobile" > "auto accessory"
+ce "automobile->auto accessory"  "type":7
+ce "automobile->auto accessory"  "ui.style":"text-color:pink;"
+ae "running board->car" "running board" > "car"
+ce "running board->car"  "type":6
+ce "running board->car"  "ui.style":"text-color:red;"
+ae "auto accessory->car" "auto accessory" > "car"
+ce "auto accessory->car"  "type":6
+ce "auto accessory->car"  "ui.style":"text-color:red;"
+ae "automobile->automobile engine" "automobile" > "automobile engine"
+ce "automobile->automobile engine"  "type":7
+ce "automobile->automobile engine"  "ui.style":"text-color:pink;"
+ae "automobile->stabilizer bar" "automobile" > "stabilizer bar"
+ce "automobile->stabilizer bar"  "type":7
+ce "automobile->stabilizer bar"  "ui.style":"text-color:pink;"
+ae "automobile engine->car" "automobile engine" > "car"
+ce "automobile engine->car"  "type":6
+ce "automobile engine->car"  "ui.style":"text-color:red;"
+ae "car->van" "car" > "van"
+ce "car->van"  "type":1
+ce "car->van"  "ui.style":"text-color:gray;"
+ae "automobile->automobile horn" "automobile" > "automobile horn"
+ce "automobile->automobile horn"  "type":7
+ce "automobile->automobile horn"  "ui.style":"text-color:pink;"
+ae "roof->building" "roof" > "building"
+ce "roof->building"  "type":6
+ce "roof->building"  "ui.style":"text-color:red;"
+ae "automobile horn->car" "automobile horn" > "car"
+ce "automobile horn->car"  "type":6
+ce "automobile horn->car"  "ui.style":"text-color:red;"
+ae "stabilizer bar->stabilizer" "stabilizer bar" > "stabilizer"
+ce "stabilizer bar->stabilizer"  "type":0
+ce "stabilizer bar->stabilizer"  "ui.style":"text-color:black;"
+ae "automobile->buffer" "automobile" > "buffer"
+ce "automobile->buffer"  "type":7
+ce "automobile->buffer"  "ui.style":"text-color:pink;"
+ae "window->window" "window" > "window"
+ce "window->window"  "type":6
+ce "window->window"  "ui.style":"text-color:red;"
+ae "tender->car" "tender" > "car"
+ce "tender->car"  "type":0
+ce "tender->car"  "ui.style":"text-color:black;"
+ae "buffer->framework" "buffer" > "framework"
+ce "buffer->framework"  "type":0
+ce "buffer->framework"  "ui.style":"text-color:black;"
+ae "buffer->locomotive" "buffer" > "locomotive"
+ce "buffer->locomotive"  "type":6
+ce "buffer->locomotive"  "ui.style":"text-color:red;"
+ae "stabilizer bar->car" "stabilizer bar" > "car"
+ce "stabilizer bar->car"  "type":6
+ce "stabilizer bar->car"  "ui.style":"text-color:red;"
+ae "stabilizer bar->truck" "stabilizer bar" > "truck"
+ce "stabilizer bar->truck"  "type":6
+ce "stabilizer bar->truck"  "ui.style":"text-color:red;"
+ae "automobile->sunroof" "automobile" > "sunroof"
+ce "automobile->sunroof"  "type":7
+ce "automobile->sunroof"  "ui.style":"text-color:pink;"
+ae "window->bus" "window" > "bus"
+ce "window->bus"  "type":6
+ce "window->bus"  "ui.style":"text-color:red;"
+ae "window->car" "window" > "car"
+ce "window->car"  "type":6
+ce "window->car"  "ui.style":"text-color:red;"
+ae "window->car window" "window" > "car window"
+ce "window->car window"  "type":1
+ce "window->car window"  "ui.style":"text-color:gray;"
+ae "window->opening" "window" > "opening"
+ce "window->opening"  "type":0
+ce "window->opening"  "ui.style":"text-color:black;"
+ae "sunroof->roof" "sunroof" > "roof"
+ce "sunroof->roof"  "type":0
+ce "sunroof->roof"  "ui.style":"text-color:black;"
+ae "buffer->device" "buffer" > "device"
+ce "buffer->device"  "type":0
+ce "buffer->device"  "ui.style":"text-color:black;"
+ae "buffer->car" "buffer" > "car"
+ce "buffer->car"  "type":6
+ce "buffer->car"  "ui.style":"text-color:red;"
+ae "sunroof->car" "sunroof" > "car"
+ce "sunroof->car"  "type":6
+ce "sunroof->car"  "ui.style":"text-color:red;"
+ae "automobile->bumper" "automobile" > "bumper"
+ce "automobile->bumper"  "type":7
+ce "automobile->bumper"  "ui.style":"text-color:pink;"
+ae "automobile->tail fin" "automobile" > "tail fin"
+ce "automobile->tail fin"  "type":7
+ce "automobile->tail fin"  "ui.style":"text-color:pink;"
+ae "tail fin->stabilizer" "tail fin" > "stabilizer"
+ce "tail fin->stabilizer"  "type":0
+ce "tail fin->stabilizer"  "ui.style":"text-color:black;"
+ae "bumper->car" "bumper" > "car"
+ce "bumper->car"  "type":6
+ce "bumper->car"  "ui.style":"text-color:red;"
+ae "bumper->truck" "bumper" > "truck"
+ce "bumper->truck"  "type":6
+ce "bumper->truck"  "ui.style":"text-color:red;"
+ae "car->cabin car" "car" > "cabin car"
+ce "car->cabin car"  "type":1
+ce "car->cabin car"  "ui.style":"text-color:gray;"
+ae "automobile->car door" "automobile" > "car door"
+ce "automobile->car door"  "type":7
+ce "automobile->car door"  "ui.style":"text-color:pink;"
+ae "wheeled vehicle->self-propelled vehicle" "wheeled vehicle" > "self-propelled vehicle"
+ce "wheeled vehicle->self-propelled vehicle"  "type":1
+ce "wheeled vehicle->self-propelled vehicle"  "ui.style":"text-color:gray;"
+ae "car door->hatchback" "car door" > "hatchback"
+ce "car door->hatchback"  "type":1
+ce "car door->hatchback"  "ui.style":"text-color:gray;"
+ae "car door->car" "car door" > "car"
+ce "car door->car"  "type":6
+ce "car door->car"  "ui.style":"text-color:red;"
+ae "tail fin->car" "tail fin" > "car"
+ce "tail fin->car"  "type":6
+ce "tail fin->car"  "ui.style":"text-color:red;"
+ae "window->building" "window" > "building"
+ce "window->building"  "type":6
+ce "window->building"  "ui.style":"text-color:red;"
+ae "baggage car->car" "baggage car" > "car"
+ce "baggage car->car"  "type":0
+ce "baggage car->car"  "ui.style":"text-color:black;"
+ae "automobile->car mirror" "automobile" > "car mirror"
+ce "automobile->car mirror"  "type":7
+ce "automobile->car mirror"  "ui.style":"text-color:pink;"
+ae "roof->hood" "roof" > "hood"
+ce "roof->hood"  "type":1
+ce "roof->hood"  "ui.style":"text-color:gray;"
+ae "roof->car" "roof" > "car"
+ce "roof->car"  "type":6
+ce "roof->car"  "ui.style":"text-color:red;"
+ae "roof->bus" "roof" > "bus"
+ce "roof->bus"  "type":6
+ce "roof->bus"  "ui.style":"text-color:red;"
+ae "car mirror->car" "car mirror" > "car"
+ce "car mirror->car"  "type":6
+ce "car mirror->car"  "ui.style":"text-color:red;"
+ae "automobile->car seat" "automobile" > "car seat"
+ce "automobile->car seat"  "type":7
+ce "automobile->car seat"  "ui.style":"text-color:pink;"
+ae "automobile->third gear" "automobile" > "third gear"
+ce "automobile->third gear"  "type":7
+ce "automobile->third gear"  "ui.style":"text-color:pink;"
+ae "third gear->gear" "third gear" > "gear"
+ce "third gear->gear"  "type":0
+ce "third gear->gear"  "ui.style":"text-color:black;"
+ae "car seat->car" "car seat" > "car"
+ce "car seat->car"  "type":6
+ce "car seat->car"  "ui.style":"text-color:red;"
+ae "third gear->car" "third gear" > "car"
+ce "third gear->car"  "type":6
+ce "third gear->car"  "ui.style":"text-color:red;"
+ae "automobile->window" "automobile" > "window"
+ce "automobile->window"  "type":7
+ce "automobile->window"  "ui.style":"text-color:pink;"
+ae "window->framework" "window" > "framework"
+ce "window->framework"  "type":0
+ce "window->framework"  "ui.style":"text-color:black;"
+ae "automobile->car window" "automobile" > "car window"
+ce "automobile->car window"  "type":7
+ce "automobile->car window"  "ui.style":"text-color:pink;"
+ae "car window->window" "car window" > "window"
+ce "car window->window"  "type":0
+ce "car window->window"  "ui.style":"text-color:black;"
+ae "roof->truck" "roof" > "truck"
+ce "roof->truck"  "type":6
+ce "roof->truck"  "ui.style":"text-color:red;"
+ae "car window->rear window" "car window" > "rear window"
+ce "car window->rear window"  "type":1
+ce "car window->rear window"  "ui.style":"text-color:gray;"
+ae "car window->car" "car window" > "car"
+ce "car window->car"  "type":6
+ce "car window->car"  "ui.style":"text-color:red;"
+ae "automobile->fender" "automobile" > "fender"
+ce "automobile->fender"  "type":7
+ce "automobile->fender"  "ui.style":"text-color:pink;"
+ae "wheeled vehicle->car" "wheeled vehicle" > "car"
+ce "wheeled vehicle->car"  "type":1
+ce "wheeled vehicle->car"  "ui.style":"text-color:gray;"
+ae "roof->covering" "roof" > "covering"
+ce "roof->covering"  "type":0
+ce "roof->covering"  "ui.style":"text-color:black;"
+ae "fender->car" "fender" > "car"
+ce "fender->car"  "type":6
+ce "fender->car"  "ui.style":"text-color:red;"
+ae "fender->framework" "fender" > "framework"
+ce "fender->framework"  "type":0
+ce "fender->framework"  "ui.style":"text-color:black;"
+ae "fender->locomotive" "fender" > "locomotive"
+ce "fender->locomotive"  "type":6
+ce "fender->locomotive"  "ui.style":"text-color:red;"
+ae "roof->sunroof" "roof" > "sunroof"
+ce "roof->sunroof"  "type":1
+ce "roof->sunroof"  "ui.style":"text-color:gray;"
+ae "fender->device" "fender" > "device"
+ce "fender->device"  "type":0
+ce "fender->device"  "ui.style":"text-color:black;"
+ae "automobile->first gear" "automobile" > "first gear"
+ce "automobile->first gear"  "type":7
+ce "automobile->first gear"  "ui.style":"text-color:pink;"
+ae "first gear->gear" "first gear" > "gear"
+ce "first gear->gear"  "type":0
+ce "first gear->gear"  "ui.style":"text-color:black;"
+ae "first gear->car" "first gear" > "car"
+ce "first gear->car"  "type":6
+ce "first gear->car"  "ui.style":"text-color:red;"
+ae "automobile->floorboard" "automobile" > "floorboard"
+ce "automobile->floorboard"  "type":7
+ce "automobile->floorboard"  "ui.style":"text-color:pink;"
+ae "car->window" "car" > "window"
+ce "car->window"  "type":7
+ce "car->window"  "ui.style":"text-color:pink;"
+ae "car->wheeled vehicle" "car" > "wheeled vehicle"
+ce "car->wheeled vehicle"  "type":0
+ce "car->wheeled vehicle"  "ui.style":"text-color:black;"
+ae "floorboard->car" "floorboard" > "car"
+ce "floorboard->car"  "type":6
+ce "floorboard->car"  "ui.style":"text-color:red;"
+ae "automobile->gasoline engine" "automobile" > "gasoline engine"
+ce "automobile->gasoline engine"  "type":7
+ce "automobile->gasoline engine"  "ui.style":"text-color:pink;"
+ae "gasoline engine->internal-combustion engine" "gasoline engine" > "internal-combustion engine"
+ce "gasoline engine->internal-combustion engine"  "type":0
+ce "gasoline engine->internal-combustion engine"  "ui.style":"text-color:black;"
+ae "automobile->running board" "automobile" > "running board"
+ce "automobile->running board"  "type":7
+ce "automobile->running board"  "ui.style":"text-color:pink;"
+ae "gasoline engine->car" "gasoline engine" > "car"
+ce "gasoline engine->car"  "type":6
+ce "gasoline engine->car"  "ui.style":"text-color:red;"
+ae "car->club car" "car" > "club car"
+ce "car->club car"  "type":1
+ce "car->club car"  "ui.style":"text-color:gray;"
+ae "automobile->glove compartment" "automobile" > "glove compartment"
+ce "automobile->glove compartment"  "type":7
+ce "automobile->glove compartment"  "ui.style":"text-color:pink;"
+ae "glove compartment->compartment" "glove compartment" > "compartment"
+ce "glove compartment->compartment"  "type":0
+ce "glove compartment->compartment"  "ui.style":"text-color:black;"
+ae "glove compartment->car" "glove compartment" > "car"
+ce "glove compartment->car"  "type":6
+ce "glove compartment->car"  "ui.style":"text-color:red;"
+ae "automobile->grille" "automobile" > "grille"
+ce "automobile->grille"  "type":7
+ce "automobile->grille"  "ui.style":"text-color:pink;"
+ae "grille->opening" "grille" > "opening"
+ce "grille->opening"  "type":0
+ce "grille->opening"  "ui.style":"text-color:black;"
+ae "car->baggage car" "car" > "baggage car"
+ce "car->baggage car"  "type":1
+ce "car->baggage car"  "ui.style":"text-color:gray;"
+ae "club car->car" "club car" > "car"
+ce "club car->car"  "type":0
+ce "club car->car"  "ui.style":"text-color:black;"
+ae "grille->car" "grille" > "car"
+ce "grille->car"  "type":6
+ce "grille->car"  "ui.style":"text-color:red;"
+ae "grille->framework" "grille" > "framework"
+ce "grille->framework"  "type":0
+ce "grille->framework"  "ui.style":"text-color:black;"
+ae "automobile->high gear" "automobile" > "high gear"
+ce "automobile->high gear"  "type":7
+ce "automobile->high gear"  "ui.style":"text-color:pink;"
+ae "high gear->gear" "high gear" > "gear"
+ce "high gear->gear"  "type":0
+ce "high gear->gear"  "ui.style":"text-color:black;"
+ae "car->freight car" "car" > "freight car"
+ce "car->freight car"  "type":1
+ce "car->freight car"  "ui.style":"text-color:gray;"
+ae "high gear->car" "high gear" > "car"
+ce "high gear->car"  "type":6
+ce "high gear->car"  "ui.style":"text-color:red;"
+ae "automobile->hood" "automobile" > "hood"
+ce "automobile->hood"  "type":7
+ce "automobile->hood"  "ui.style":"text-color:pink;"
+ae "roof->protective covering" "roof" > "protective covering"
+ce "roof->protective covering"  "type":0
+ce "roof->protective covering"  "ui.style":"text-color:black;"
+ae "car->tender" "car" > "tender"
+ce "car->tender"  "type":1
+ce "car->tender"  "ui.style":"text-color:gray;"
+ae "hood->covering" "hood" > "covering"
+ce "hood->covering"  "type":0
+ce "hood->covering"  "ui.style":"text-color:black;"
+ae "slip coach->car" "slip coach" > "car"
+ce "slip coach->car"  "type":0
+ce "slip coach->car"  "ui.style":"text-color:black;"
+ae "car->slip coach" "car" > "slip coach"
+ce "car->slip coach"  "type":1
+ce "car->slip coach"  "ui.style":"text-color:gray;"
+ae "automobile->roof" "automobile" > "roof"
+ce "automobile->roof"  "type":7
+ce "automobile->roof"  "ui.style":"text-color:pink;"
+ae "freight car->car" "freight car" > "car"
+ce "freight car->car"  "type":0
+ce "freight car->car"  "ui.style":"text-color:black;"
+ae "reverse->gear" "reverse" > "gear"
+ce "reverse->gear"  "type":0
+ce "reverse->gear"  "ui.style":"text-color:black;"
+ae "reverse->car" "reverse" > "car"
+ce "reverse->car"  "type":6
+ce "reverse->car"  "ui.style":"text-color:red;"
+ae "hood->roof" "hood" > "roof"
+ce "hood->roof"  "type":0
+ce "hood->roof"  "ui.style":"text-color:black;"
+ae "guard's van->car" "guard's van" > "car"
+ce "guard's van->car"  "type":0
+ce "guard's van->car"  "ui.style":"text-color:black;"
+ae "car->guard's van" "car" > "guard's van"
+ce "car->guard's van"  "type":1
+ce "car->guard's van"  "ui.style":"text-color:gray;"
+ae "passenger car->car" "passenger car" > "car"
+ce "passenger car->car"  "type":0
+ce "passenger car->car"  "ui.style":"text-color:black;"
+ae "car->passenger car" "car" > "passenger car"
+ce "car->passenger car"  "type":1
+ce "car->passenger car"  "ui.style":"text-color:gray;"
+ae "hood->protective covering" "hood" > "protective covering"
+ce "hood->protective covering"  "type":0
+ce "hood->protective covering"  "ui.style":"text-color:black;"
+ae "hood->car" "hood" > "car"
+ce "hood->car"  "type":6
+ce "hood->car"  "ui.style":"text-color:red;"
+ae "hood->airplane" "hood" > "airplane"
+ce "hood->airplane"  "type":6
+ce "hood->airplane"  "ui.style":"text-color:red;"
+ae "mail car->car" "mail car" > "car"
+ce "mail car->car"  "type":0
+ce "mail car->car"  "ui.style":"text-color:black;"
+ae "car->mail car" "car" > "mail car"
+ce "car->mail car"  "type":1
+ce "car->mail car"  "ui.style":"text-color:gray;"
+ae "automobile->luggage compartment" "automobile" > "luggage compartment"
+ce "automobile->luggage compartment"  "type":7
+ce "automobile->luggage compartment"  "ui.style":"text-color:pink;"
+ae "luggage compartment->compartment" "luggage compartment" > "compartment"
+ce "luggage compartment->compartment"  "type":0
+ce "luggage compartment->compartment"  "ui.style":"text-color:black;"
+ae "handcar->car" "handcar" > "car"
+ce "handcar->car"  "type":0
+ce "handcar->car"  "ui.style":"text-color:black;"
+ae "luggage compartment->car" "luggage compartment" > "car"
+ce "luggage compartment->car"  "type":6
+ce "luggage compartment->car"  "ui.style":"text-color:red;"
+ae "automobile->rear window" "automobile" > "rear window"
+ce "automobile->rear window"  "type":7
+ce "automobile->rear window"  "ui.style":"text-color:pink;"
+ae "rear window->car window" "rear window" > "car window"
+ce "rear window->car window"  "type":0
+ce "rear window->car window"  "ui.style":"text-color:black;"
+ae "rear window->car" "rear window" > "car"
+ce "rear window->car"  "type":6
+ce "rear window->car"  "ui.style":"text-color:red;"
+ae "automobile->reverse" "automobile" > "reverse"
+ce "automobile->reverse"  "type":7
+ce "automobile->reverse"  "ui.style":"text-color:pink;"
+ae "car->handcar" "car" > "handcar"
+ce "car->handcar"  "type":1
+ce "car->handcar"  "ui.style":"text-color:gray;"

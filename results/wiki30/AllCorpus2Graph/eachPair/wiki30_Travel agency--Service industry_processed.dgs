@@ -1,0 +1,457 @@
+DGS004
+null 0 0
+an "Travel agency"
+cn "Travel agency"  "ui.label":"Travel agency"
+cn "Travel agency"  "ui.style":"size-mode:fit;"
+an "agency"
+cn "agency"  "ui.label":"agency"
+cn "agency"  "ui.style":"size:6px; fill-color:white; "
+an "administrative unit"
+cn "administrative unit"  "ui.label":"administrative unit"
+cn "administrative unit"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "definite quantity"
+cn "definite quantity"  "ui.label":"definite quantity"
+cn "definite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Service industry"
+cn "Service industry"  "ui.label":"Service industry"
+cn "Service industry"  "ui.style":"size-mode:fit;"
+an "industry"
+cn "industry"  "ui.label":"industry"
+cn "industry"  "ui.style":"size:6px; fill-color:white; "
+an "commercial enterprise"
+cn "commercial enterprise"  "ui.label":"commercial enterprise"
+cn "commercial enterprise"  "ui.style":"size:6px; fill-color:white; "
+an "enterprise"
+cn "enterprise"  "ui.label":"enterprise"
+cn "enterprise"  "ui.style":"size:6px; fill-color:white; "
+an "undertaking"
+cn "undertaking"  "ui.label":"undertaking"
+cn "undertaking"  "ui.style":"size:6px; fill-color:white; "
+an "work"
+cn "work"  "ui.label":"work"
+cn "work"  "ui.style":"size:6px; fill-color:white; "
+an "product"
+cn "product"  "ui.label":"product"
+cn "product"  "ui.style":"size:6px; fill-color:white; "
+an "commodity"
+cn "commodity"  "ui.label":"commodity"
+cn "commodity"  "ui.style":"size:6px; fill-color:white; "
+an "artifact"
+cn "artifact"  "ui.label":"artifact"
+cn "artifact"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "sericulture"
+cn "sericulture"  "ui.label":"sericulture"
+cn "sericulture"  "ui.style":"size:6px; fill-color:white; "
+an "Perception"
+cn "Perception"  "ui.label":"Perception"
+cn "Perception"  "ui.style":"size:6px; fill-color:white; "
+an "Innovation"
+cn "Innovation"  "ui.label":"Innovation"
+cn "Innovation"  "ui.style":"size:6px; fill-color:white; "
+an "release"
+cn "release"  "ui.label":"release"
+cn "release"  "ui.style":"size:6px; fill-color:white; "
+an "softening"
+cn "softening"  "ui.label":"softening"
+cn "softening"  "ui.style":"size:6px; fill-color:white; "
+an "molecule"
+cn "molecule"  "ui.label":"molecule"
+cn "molecule"  "ui.style":"size:6px; fill-color:white; "
+an "stiffening"
+cn "stiffening"  "ui.label":"stiffening"
+cn "stiffening"  "ui.style":"size:6px; fill-color:white; "
+an "waste"
+cn "waste"  "ui.label":"waste"
+cn "waste"  "ui.style":"size:6px; fill-color:white; "
+an "Philosophy"
+cn "Philosophy"  "ui.label":"Philosophy"
+cn "Philosophy"  "ui.style":"size:6px; fill-color:white; "
+an "Foreign Service"
+cn "Foreign Service"  "ui.label":"Foreign Service"
+cn "Foreign Service"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "Abstract and concrete"
+cn "Abstract and concrete"  "ui.label":"Abstract and concrete"
+cn "Abstract and concrete"  "ui.style":"size:6px; fill-color:white; "
+an "Object (philosophy)"
+cn "Object (philosophy)"  "ui.label":"Object (philosophy)"
+cn "Object (philosophy)"  "ui.style":"size:6px; fill-color:white; "
+an "scene"
+cn "scene"  "ui.label":"scene"
+cn "scene"  "ui.style":"size:6px; fill-color:white; "
+an "Surety bond"
+cn "Surety bond"  "ui.label":"Surety bond"
+cn "Surety bond"  "ui.style":"size:6px; fill-color:white; "
+an "Regions of New Zealand"
+cn "Regions of New Zealand"  "ui.label":"Regions of New Zealand"
+cn "Regions of New Zealand"  "ui.style":"size:6px; fill-color:white; "
+an "point"
+cn "point"  "ui.label":"point"
+cn "point"  "ui.style":"size:6px; fill-color:white; "
+an "play"
+cn "play"  "ui.label":"play"
+cn "play"  "ui.style":"size:6px; fill-color:white; "
+an "organization"
+cn "organization"  "ui.label":"organization"
+cn "organization"  "ui.style":"size:6px; fill-color:white; "
+an "book"
+cn "book"  "ui.label":"book"
+cn "book"  "ui.style":"size:6px; fill-color:white; "
+an "part"
+cn "part"  "ui.label":"part"
+cn "part"  "ui.style":"size:6px; fill-color:white; "
+an "electrophoresis"
+cn "electrophoresis"  "ui.label":"electrophoresis"
+cn "electrophoresis"  "ui.style":"size:6px; fill-color:white; "
+an "Man"
+cn "Man"  "ui.label":"Man"
+cn "Man"  "ui.style":"size:6px; fill-color:white; "
+an "job"
+cn "job"  "ui.label":"job"
+cn "job"  "ui.style":"size:6px; fill-color:white; "
+an "Notion (philosophy)"
+cn "Notion (philosophy)"  "ui.label":"Notion (philosophy)"
+cn "Notion (philosophy)"  "ui.style":"size:6px; fill-color:white; "
+an "concretion"
+cn "concretion"  "ui.label":"concretion"
+cn "concretion"  "ui.style":"size:6px; fill-color:white; "
+an "Bill of lading"
+cn "Bill of lading"  "ui.label":"Bill of lading"
+cn "Bill of lading"  "ui.style":"size:6px; fill-color:white; "
+an "attribute"
+cn "attribute"  "ui.label":"attribute"
+cn "attribute"  "ui.style":"size:6px; fill-color:white; "
+an "centrifugation"
+cn "centrifugation"  "ui.label":"centrifugation"
+cn "centrifugation"  "ui.style":"size:6px; fill-color:white; "
+an "capture"
+cn "capture"  "ui.label":"capture"
+cn "capture"  "ui.style":"size:6px; fill-color:white; "
+an "Water"
+cn "Water"  "ui.label":"Water"
+cn "Water"  "ui.style":"size:6px; fill-color:white; "
+an "motion"
+cn "motion"  "ui.label":"motion"
+cn "motion"  "ui.style":"size:6px; fill-color:white; "
+ae "Travel agency->agency" "Travel agency"  "agency"
+ce "Travel agency->agency"  "type":0
+ae "agency->administrative unit" "agency"  "administrative unit"
+ce "agency->administrative unit"  "type":0
+ae "administrative unit->unit" "administrative unit"  "unit"
+ce "administrative unit->unit"  "type":0
+ae "unit->definite quantity" "unit"  "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity"  "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "activity->state" "activity"  "state"
+ce "activity->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "Service industry->industry" "Service industry"  "industry"
+ce "Service industry->industry"  "type":0
+ae "industry->commercial enterprise" "industry"  "commercial enterprise"
+ce "industry->commercial enterprise"  "type":0
+ae "commercial enterprise->enterprise" "commercial enterprise"  "enterprise"
+ce "commercial enterprise->enterprise"  "type":0
+ae "enterprise->undertaking" "enterprise"  "undertaking"
+ce "enterprise->undertaking"  "type":0
+ae "undertaking->work" "undertaking"  "work"
+ce "undertaking->work"  "type":0
+ae "work->activity" "work"  "activity"
+ce "work->activity"  "type":0
+ae "work->product" "work"  "product"
+ce "work->product"  "type":0
+ae "product->commodity" "product"  "commodity"
+ce "product->commodity"  "type":0
+ae "commodity->artifact" "commodity"  "artifact"
+ce "commodity->artifact"  "type":0
+ae "artifact->whole" "artifact"  "whole"
+ce "artifact->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "measure->point" "measure" > "point"
+ce "measure->point"  "type":1
+ae "act->waste" "act" > "waste"
+ce "act->waste"  "type":1
+ae "act->communication" "act" > "communication"
+ce "act->communication"  "type":1
+ae "idea->Philosophy" "idea" > "Philosophy"
+ce "idea->Philosophy"  "type":8
+ae "act->play" "act" > "play"
+ce "act->play"  "type":6
+ae "state->Foreign Service" "state" > "Foreign Service"
+ce "state->Foreign Service"  "type":7
+ae "activity->electrophoresis" "activity" > "electrophoresis"
+ce "activity->electrophoresis"  "type":1
+ae "concept->Man" "concept" > "Man"
+ce "concept->Man"  "type":8
+ae "act->scene" "act" > "scene"
+ce "act->scene"  "type":7
+ae "action->stiffening" "action" > "stiffening"
+ce "action->stiffening"  "type":1
+ae "unit->organization" "unit" > "organization"
+ce "unit->organization"  "type":0
+ae "district->Regions of New Zealand" "district" > "Regions of New Zealand"
+ce "district->Regions of New Zealand"  "type":8
+ae "document->Bill of lading" "document" > "Bill of lading"
+ce "document->Bill of lading"  "type":8
+ae "unit->part" "unit" > "part"
+ce "unit->part"  "type":7
+ae "Travel agency->Surety bond" "Travel agency" > "Surety bond"
+ce "Travel agency->Surety bond"  "type":8
+ae "whole->part" "whole" > "part"
+ce "whole->part"  "type":7
+ae "concept->Notion (philosophy)" "concept" > "Notion (philosophy)"
+ce "concept->Notion (philosophy)"  "type":8
+ae "action->centrifugation" "action" > "centrifugation"
+ce "action->centrifugation"  "type":1
+ae "location->point" "location" > "point"
+ce "location->point"  "type":1
+ae "action->capture" "action" > "capture"
+ce "action->capture"  "type":1
+ae "action->electrophoresis" "action" > "electrophoresis"
+ce "action->electrophoresis"  "type":1
+ae "activity->capture" "activity" > "capture"
+ce "activity->capture"  "type":1
+ae "abstraction->Object (philosophy)" "abstraction" > "Object (philosophy)"
+ce "abstraction->Object (philosophy)"  "type":8
+ae "activity->centrifugation" "activity" > "centrifugation"
+ce "activity->centrifugation"  "type":1
+ae "activity->concretion" "activity" > "concretion"
+ce "activity->concretion"  "type":1
+ae "action->concretion" "action" > "concretion"
+ce "action->concretion"  "type":1
+ae "collection->book" "collection" > "book"
+ce "collection->book"  "type":1
+ae "work->location" "work" > "location"
+ce "work->location"  "type":1
+ae "abstraction->Innovation" "abstraction" > "Innovation"
+ce "abstraction->Innovation"  "type":8
+ae "activity->sericulture" "activity" > "sericulture"
+ce "activity->sericulture"  "type":1
+ae "abstraction->Bill of lading" "abstraction" > "Bill of lading"
+ce "abstraction->Bill of lading"  "type":8
+ae "activity->softening" "activity" > "softening"
+ce "activity->softening"  "type":1
+ae "idea->Innovation" "idea" > "Innovation"
+ce "idea->Innovation"  "type":8
+ae "idea->Perception" "idea" > "Perception"
+ce "idea->Perception"  "type":8
+ae "agency->state" "agency" > "state"
+ce "agency->state"  "type":0
+ae "abstraction->Philosophy" "abstraction" > "Philosophy"
+ce "abstraction->Philosophy"  "type":8
+ae "action->work" "action" > "work"
+ce "action->work"  "type":0
+ae "idea->Abstract and concrete" "idea" > "Abstract and concrete"
+ce "idea->Abstract and concrete"  "type":8
+ae "abstraction->Perception" "abstraction" > "Perception"
+ce "abstraction->Perception"  "type":8
+ae "activity->stiffening" "activity" > "stiffening"
+ce "activity->stiffening"  "type":1
+ae "artifact->creation" "artifact" > "creation"
+ce "artifact->creation"  "type":1
+ae "agency->Foreign Service" "agency" > "Foreign Service"
+ce "agency->Foreign Service"  "type":1
+ae "unit->molecule" "unit" > "molecule"
+ce "unit->molecule"  "type":1
+ae "document->communication" "document" > "communication"
+ce "document->communication"  "type":0
+ae "district->Water" "district" > "Water"
+ce "district->Water"  "type":8
+ae "product->release" "product" > "release"
+ce "product->release"  "type":1
+ae "content->scene" "content" > "scene"
+ce "content->scene"  "type":6
+ae "abstraction->Abstract and concrete" "abstraction" > "Abstract and concrete"
+ce "abstraction->Abstract and concrete"  "type":8
+ae "product->book" "product" > "book"
+ce "product->book"  "type":1
+ae "abstraction->communication" "abstraction" > "communication"
+ce "abstraction->communication"  "type":1
+ae "abstraction->attribute" "abstraction" > "attribute"
+ce "abstraction->attribute"  "type":1
+ae "maneuver->motion" "maneuver" > "motion"
+ce "maneuver->motion"  "type":0
+ae "region->Water" "region" > "Water"
+ce "region->Water"  "type":8
+ae "idea->Man" "idea" > "Man"
+ce "idea->Man"  "type":8
+ae "product->job" "product" > "job"
+ce "product->job"  "type":1
+ae "state->attribute" "state" > "attribute"
+ce "state->attribute"  "type":0
+ae "enterprise->organization" "enterprise" > "organization"
+ce "enterprise->organization"  "type":0
+ae "measure->legal document" "measure" > "legal document"
+ce "measure->legal document"  "type":0
+ae "object->Object (philosophy)" "object" > "Object (philosophy)"
+ce "object->Object (philosophy)"  "type":8
+ae "work->job" "work" > "job"
+ce "work->job"  "type":1
+ae "work->action" "work" > "action"
+ce "work->action"  "type":1
+ae "object->Abstract and concrete" "object" > "Abstract and concrete"
+ce "object->Abstract and concrete"  "type":8
+ae "activity->waste" "activity" > "waste"
+ce "activity->waste"  "type":1
+ae "undertaking->Surety bond" "undertaking" > "Surety bond"
+ce "undertaking->Surety bond"  "type":8
+ae "action->release" "action" > "release"
+ce "action->release"  "type":1
+ae "group->molecule" "group" > "molecule"
+ce "group->molecule"  "type":6
+ae "activity->operation" "activity" > "operation"
+ce "activity->operation"  "type":1
+ae "object->part" "object" > "part"
+ce "object->part"  "type":1
+ae "action->agency" "action" > "agency"
+ce "action->agency"  "type":1
+ae "idea->Notion (philosophy)" "idea" > "Notion (philosophy)"
+ce "idea->Notion (philosophy)"  "type":8
+ae "action->sericulture" "action" > "sericulture"
+ce "action->sericulture"  "type":1
+ae "action->play" "action" > "play"
+ce "action->play"  "type":1
+ae "state->motion" "state" > "motion"
+ce "state->motion"  "type":1
+ae "concept->abstraction" "concept" > "abstraction"
+ce "concept->abstraction"  "type":1
+ae "action->softening" "action" > "softening"
+ce "action->softening"  "type":1
+ae "region->Regions of New Zealand" "region" > "Regions of New Zealand"
+ce "region->Regions of New Zealand"  "type":8

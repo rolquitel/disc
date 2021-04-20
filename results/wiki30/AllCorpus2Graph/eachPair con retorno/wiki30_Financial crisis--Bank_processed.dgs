@@ -1,0 +1,109 @@
+DGS004
+null 0 0
+an "Financial crisis"
+cn "Financial crisis"  "ui.label":"Financial crisis"
+cn "Financial crisis"  "ui.style":"size-mode:fit;"
+an "Recession"
+cn "Recession"  "ui.label":"Recession"
+cn "Recession"  "ui.style":"size:6px; fill-color:white; "
+an "economic condition"
+cn "economic condition"  "ui.label":"economic condition"
+cn "economic condition"  "ui.style":"size:6px; fill-color:white; "
+an "condition"
+cn "condition"  "ui.label":"condition"
+cn "condition"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "States and union territories of India"
+cn "States and union territories of India"  "ui.label":"States and union territories of India"
+cn "States and union territories of India"  "ui.style":"size:6px; fill-color:white; "
+an "Business cycle"
+cn "Business cycle"  "ui.label":"Business cycle"
+cn "Business cycle"  "ui.style":"size:6px; fill-color:white; "
+an "Bank"
+cn "Bank"  "ui.label":"Bank"
+cn "Bank"  "ui.style":"size-mode:fit;"
+an "slope"
+cn "slope"  "ui.label":"slope"
+cn "slope"  "ui.style":"size:6px; fill-color:white; "
+an "geological formation"
+cn "geological formation"  "ui.label":"geological formation"
+cn "geological formation"  "ui.style":"size:6px; fill-color:white; "
+an "Water"
+cn "Water"  "ui.label":"Water"
+cn "Water"  "ui.style":"size:6px; fill-color:white; "
+an "situation"
+cn "situation"  "ui.label":"situation"
+cn "situation"  "ui.style":"size:6px; fill-color:white; "
+an "Earth"
+cn "Earth"  "ui.label":"Earth"
+cn "Earth"  "ui.style":"size:6px; fill-color:white; "
+an "International Monetary Fund"
+cn "International Monetary Fund"  "ui.label":"International Monetary Fund"
+cn "International Monetary Fund"  "ui.style":"size:6px; fill-color:white; "
+ae "Financial crisis->Recession" "Financial crisis"  "Recession"
+ce "Financial crisis->Recession"  "type":8
+ae "Recession->economic condition" "Recession"  "economic condition"
+ce "Recession->economic condition"  "type":0
+ae "economic condition->condition" "economic condition"  "condition"
+ce "economic condition->condition"  "type":0
+ae "condition->state" "condition"  "state"
+ce "condition->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "region->Water" "region" > "Water"
+ce "region->Water"  "type":8
+ae "state->situation" "state" > "situation"
+ce "state->situation"  "type":1
+ae "Bank->slope" "Bank"  "slope"
+ce "Bank->slope"  "type":0
+ae "slope->geological formation" "slope"  "geological formation"
+ce "slope->geological formation"  "type":0
+ae "geological formation->object" "geological formation"  "object"
+ce "geological formation->object"  "type":0
+ae "Bank->Business cycle" "Bank" > "Business cycle"
+ce "Bank->Business cycle"  "type":8
+ae "Financial crisis->Financial crisis" "Financial crisis" > "Financial crisis"
+ce "Financial crisis->Financial crisis"  "type":8
+ae "district->Water" "district" > "Water"
+ce "district->Water"  "type":8
+ae "Bank->International Monetary Fund" "Bank" > "International Monetary Fund"
+ce "Bank->International Monetary Fund"  "type":8
+ae "Recession->Business cycle" "Recession" > "Business cycle"
+ce "Recession->Business cycle"  "type":8
+ae "district->States and union territories of India" "district" > "States and union territories of India"
+ce "district->States and union territories of India"  "type":8
+ae "location->Earth" "location" > "Earth"
+ce "location->Earth"  "type":8
+ae "state->States and union territories of India" "state" > "States and union territories of India"
+ce "state->States and union territories of India"  "type":8
+ae "condition->situation" "condition" > "situation"
+ce "condition->situation"  "type":1
+ae "Recession->International Monetary Fund" "Recession" > "International Monetary Fund"
+ce "Recession->International Monetary Fund"  "type":8
+ae "region->Earth" "region" > "Earth"
+ce "region->Earth"  "type":8

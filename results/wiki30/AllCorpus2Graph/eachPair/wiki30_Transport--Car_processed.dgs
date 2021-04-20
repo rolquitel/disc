@@ -1,0 +1,744 @@
+DGS004
+null 0 0
+an "Transport"
+cn "Transport"  "ui.label":"Transport"
+cn "Transport"  "ui.style":"size-mode:fit;"
+an "instrumentality"
+cn "instrumentality"  "ui.label":"instrumentality"
+cn "instrumentality"  "ui.style":"size:6px; fill-color:white; "
+an "unit"
+cn "unit"  "ui.label":"unit"
+cn "unit"  "ui.style":"size:6px; fill-color:white; "
+an "definite quantity"
+cn "definite quantity"  "ui.label":"definite quantity"
+cn "definite quantity"  "ui.style":"size:6px; fill-color:white; "
+an "measure"
+cn "measure"  "ui.label":"measure"
+cn "measure"  "ui.style":"size:6px; fill-color:white; "
+an "maneuver"
+cn "maneuver"  "ui.label":"maneuver"
+cn "maneuver"  "ui.style":"size:6px; fill-color:white; "
+an "operation"
+cn "operation"  "ui.label":"operation"
+cn "operation"  "ui.style":"size:6px; fill-color:white; "
+an "action"
+cn "action"  "ui.label":"action"
+cn "action"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "state"
+cn "state"  "ui.label":"state"
+cn "state"  "ui.style":"size:6px; fill-color:white; "
+an "administrative district"
+cn "administrative district"  "ui.label":"administrative district"
+cn "administrative district"  "ui.style":"size:6px; fill-color:white; "
+an "district"
+cn "district"  "ui.label":"district"
+cn "district"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+cn "entity"  "ui.label":"entity"
+cn "entity"  "ui.style":"size:6px; fill-color:white; "
+an "Car"
+cn "Car"  "ui.label":"Car"
+cn "Car"  "ui.style":"size-mode:fit;"
+an "motor vehicle"
+cn "motor vehicle"  "ui.label":"motor vehicle"
+cn "motor vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "self-propelled vehicle"
+cn "self-propelled vehicle"  "ui.label":"self-propelled vehicle"
+cn "self-propelled vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "wheeled vehicle"
+cn "wheeled vehicle"  "ui.label":"wheeled vehicle"
+cn "wheeled vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "vehicle"
+cn "vehicle"  "ui.label":"vehicle"
+cn "vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "conveyance"
+cn "conveyance"  "ui.label":"conveyance"
+cn "conveyance"  "ui.style":"size:6px; fill-color:white; "
+an "transmission"
+cn "transmission"  "ui.label":"transmission"
+cn "transmission"  "ui.style":"size:6px; fill-color:white; "
+an "sending"
+cn "sending"  "ui.label":"sending"
+cn "sending"  "ui.style":"size:6px; fill-color:white; "
+an "causing"
+cn "causing"  "ui.label":"causing"
+cn "causing"  "ui.style":"size:6px; fill-color:white; "
+an "trigger"
+cn "trigger"  "ui.label":"trigger"
+cn "trigger"  "ui.style":"size:6px; fill-color:white; "
+an "lever"
+cn "lever"  "ui.label":"lever"
+cn "lever"  "ui.style":"size:6px; fill-color:white; "
+an "bar"
+cn "bar"  "ui.label":"bar"
+cn "bar"  "ui.style":"size:6px; fill-color:white; "
+an "room"
+cn "room"  "ui.label":"room"
+cn "room"  "ui.style":"size:6px; fill-color:white; "
+an "area"
+cn "area"  "ui.label":"area"
+cn "area"  "ui.style":"size:6px; fill-color:white; "
+an "topic"
+cn "topic"  "ui.label":"topic"
+cn "topic"  "ui.style":"size:6px; fill-color:white; "
+an "message"
+cn "message"  "ui.label":"message"
+cn "message"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "diffusion"
+cn "diffusion"  "ui.label":"diffusion"
+cn "diffusion"  "ui.style":"size:6px; fill-color:white; "
+an "written communication"
+cn "written communication"  "ui.label":"written communication"
+cn "written communication"  "ui.style":"size:6px; fill-color:white; "
+an "emotional state"
+cn "emotional state"  "ui.label":"emotional state"
+cn "emotional state"  "ui.style":"size:6px; fill-color:white; "
+an "space"
+cn "space"  "ui.label":"space"
+cn "space"  "ui.style":"size:6px; fill-color:white; "
+an "movement"
+cn "movement"  "ui.label":"movement"
+cn "movement"  "ui.style":"size:6px; fill-color:white; "
+an "vitrification"
+cn "vitrification"  "ui.label":"vitrification"
+cn "vitrification"  "ui.style":"size:6px; fill-color:white; "
+an "Radio"
+cn "Radio"  "ui.label":"Radio"
+cn "Radio"  "ui.style":"size:6px; fill-color:white; "
+an "Cargo_airlines_of_Bahrain"
+cn "Cargo_airlines_of_Bahrain"  "ui.label":"Cargo_airlines_of_Bahrain"
+cn "Cargo_airlines_of_Bahrain"  "ui.style":"size:6px; fill-color:white; "
+an "transpiration"
+cn "transpiration"  "ui.label":"transpiration"
+cn "transpiration"  "ui.style":"size:6px; fill-color:white; "
+an "transshipment"
+cn "transshipment"  "ui.label":"transshipment"
+cn "transshipment"  "ui.style":"size:6px; fill-color:white; "
+an "delivery"
+cn "delivery"  "ui.label":"delivery"
+cn "delivery"  "ui.style":"size:6px; fill-color:white; "
+an "matter"
+cn "matter"  "ui.label":"matter"
+cn "matter"  "ui.style":"size:6px; fill-color:white; "
+an "Cargo_airlines_of_Austria"
+cn "Cargo_airlines_of_Austria"  "ui.label":"Cargo_airlines_of_Austria"
+cn "Cargo_airlines_of_Austria"  "ui.style":"size:6px; fill-color:white; "
+an "group action"
+cn "group action"  "ui.label":"group action"
+cn "group action"  "ui.style":"size:6px; fill-color:white; "
+an "Transmission (mechanics)"
+cn "Transmission (mechanics)"  "ui.label":"Transmission (mechanics)"
+cn "Transmission (mechanics)"  "ui.style":"size:6px; fill-color:white; "
+an "stimulation"
+cn "stimulation"  "ui.label":"stimulation"
+cn "stimulation"  "ui.style":"size:6px; fill-color:white; "
+an "sink"
+cn "sink"  "ui.label":"sink"
+cn "sink"  "ui.style":"size:6px; fill-color:white; "
+an "Papyrus"
+cn "Papyrus"  "ui.label":"Papyrus"
+cn "Papyrus"  "ui.style":"size:6px; fill-color:white; "
+an "implement"
+cn "implement"  "ui.label":"implement"
+cn "implement"  "ui.style":"size:6px; fill-color:white; "
+an "Brake"
+cn "Brake"  "ui.label":"Brake"
+cn "Brake"  "ui.style":"size:6px; fill-color:white; "
+an "Author"
+cn "Author"  "ui.label":"Author"
+cn "Author"  "ui.style":"size:6px; fill-color:white; "
+an "Cargo_airlines_of_Indonesia"
+cn "Cargo_airlines_of_Indonesia"  "ui.label":"Cargo_airlines_of_Indonesia"
+cn "Cargo_airlines_of_Indonesia"  "ui.style":"size:6px; fill-color:white; "
+an "Communication"
+cn "Communication"  "ui.label":"Communication"
+cn "Communication"  "ui.style":"size:6px; fill-color:white; "
+an "Lexeme"
+cn "Lexeme"  "ui.label":"Lexeme"
+cn "Lexeme"  "ui.style":"size:6px; fill-color:white; "
+an "Train"
+cn "Train"  "ui.label":"Train"
+cn "Train"  "ui.style":"size:6px; fill-color:white; "
+an "Driver's license"
+cn "Driver's license"  "ui.label":"Driver's license"
+cn "Driver's license"  "ui.style":"size:6px; fill-color:white; "
+an "Transportation_in_Carroll_County,_Missouri"
+cn "Transportation_in_Carroll_County,_Missouri"  "ui.label":"Transportation_in_Carroll_County,_Missouri"
+cn "Transportation_in_Carroll_County,_Missouri"  "ui.style":"size:6px; fill-color:white; "
+an "Urban sprawl"
+cn "Urban sprawl"  "ui.label":"Urban sprawl"
+cn "Urban sprawl"  "ui.style":"size:6px; fill-color:white; "
+an "Quantity"
+cn "Quantity"  "ui.label":"Quantity"
+cn "Quantity"  "ui.style":"size:6px; fill-color:white; "
+an "Indus Valley Civilisation"
+cn "Indus Valley Civilisation"  "ui.label":"Indus Valley Civilisation"
+cn "Indus Valley Civilisation"  "ui.style":"size:6px; fill-color:white; "
+an "motion"
+cn "motion"  "ui.label":"motion"
+cn "motion"  "ui.style":"size:6px; fill-color:white; "
+an "extinction"
+cn "extinction"  "ui.label":"extinction"
+cn "extinction"  "ui.style":"size:6px; fill-color:white; "
+an "Internal combustion engine"
+cn "Internal combustion engine"  "ui.label":"Internal combustion engine"
+cn "Internal combustion engine"  "ui.style":"size:6px; fill-color:white; "
+an "magnetization"
+cn "magnetization"  "ui.label":"magnetization"
+cn "magnetization"  "ui.style":"size:6px; fill-color:white; "
+an "Carriage_houses_in_the_United_States"
+cn "Carriage_houses_in_the_United_States"  "ui.label":"Carriage_houses_in_the_United_States"
+cn "Carriage_houses_in_the_United_States"  "ui.style":"size:6px; fill-color:white; "
+an "Cargo_airlines_of_New_Zealand"
+cn "Cargo_airlines_of_New_Zealand"  "ui.label":"Cargo_airlines_of_New_Zealand"
+cn "Cargo_airlines_of_New_Zealand"  "ui.style":"size:6px; fill-color:white; "
+an "Automobile_associations"
+cn "Automobile_associations"  "ui.label":"Automobile_associations"
+cn "Automobile_associations"  "ui.style":"size:6px; fill-color:white; "
+an "medium"
+cn "medium"  "ui.label":"medium"
+cn "medium"  "ui.style":"size:6px; fill-color:white; "
+an "county"
+cn "county"  "ui.label":"county"
+cn "county"  "ui.style":"size:6px; fill-color:white; "
+an "Cargo_airlines_of_Panama"
+cn "Cargo_airlines_of_Panama"  "ui.label":"Cargo_airlines_of_Panama"
+cn "Cargo_airlines_of_Panama"  "ui.style":"size:6px; fill-color:white; "
+an "capture"
+cn "capture"  "ui.label":"capture"
+cn "capture"  "ui.style":"size:6px; fill-color:white; "
+an "Body language"
+cn "Body language"  "ui.label":"Body language"
+cn "Body language"  "ui.style":"size:6px; fill-color:white; "
+an "Transportation_in_Carroll_County,_Maryland"
+cn "Transportation_in_Carroll_County,_Maryland"  "ui.label":"Transportation_in_Carroll_County,_Maryland"
+cn "Transportation_in_Carroll_County,_Maryland"  "ui.style":"size:6px; fill-color:white; "
+an "Automobile_magazines"
+cn "Automobile_magazines"  "ui.label":"Automobile_magazines"
+cn "Automobile_magazines"  "ui.style":"size:6px; fill-color:white; "
+an "center"
+cn "center"  "ui.label":"center"
+cn "center"  "ui.style":"size:6px; fill-color:white; "
+an "absorption"
+cn "absorption"  "ui.label":"absorption"
+cn "absorption"  "ui.style":"size:6px; fill-color:white; "
+an "Paper"
+cn "Paper"  "ui.label":"Paper"
+cn "Paper"  "ui.style":"size:6px; fill-color:white; "
+an "Ethanol fuel"
+cn "Ethanol fuel"  "ui.label":"Ethanol fuel"
+cn "Ethanol fuel"  "ui.style":"size:6px; fill-color:white; "
+an "Rapid transit"
+cn "Rapid transit"  "ui.label":"Rapid transit"
+cn "Rapid transit"  "ui.style":"size:6px; fill-color:white; "
+an "enclosure"
+cn "enclosure"  "ui.label":"enclosure"
+cn "enclosure"  "ui.style":"size:6px; fill-color:white; "
+an "Germany"
+cn "Germany"  "ui.label":"Germany"
+cn "Germany"  "ui.style":"size:6px; fill-color:white; "
+an "container"
+cn "container"  "ui.label":"container"
+cn "container"  "ui.style":"size:6px; fill-color:white; "
+an "Gasoline"
+cn "Gasoline"  "ui.label":"Gasoline"
+cn "Gasoline"  "ui.style":"size:6px; fill-color:white; "
+an "Transportation_in_Carroll_County,_Iowa"
+cn "Transportation_in_Carroll_County,_Iowa"  "ui.label":"Transportation_in_Carroll_County,_Iowa"
+cn "Transportation_in_Carroll_County,_Iowa"  "ui.style":"size:6px; fill-color:white; "
+an "Commuting"
+cn "Commuting"  "ui.label":"Commuting"
+cn "Commuting"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "Plug-in electric vehicle"
+cn "Plug-in electric vehicle"  "ui.label":"Plug-in electric vehicle"
+cn "Plug-in electric vehicle"  "ui.style":"size:6px; fill-color:white; "
+an "area of cardiac dullness"
+cn "area of cardiac dullness"  "ui.label":"area of cardiac dullness"
+cn "area of cardiac dullness"  "ui.style":"size:6px; fill-color:white; "
+an "Construction"
+cn "Construction"  "ui.label":"Construction"
+cn "Construction"  "ui.style":"size:6px; fill-color:white; "
+an "Motorcycle"
+cn "Motorcycle"  "ui.label":"Motorcycle"
+cn "Motorcycle"  "ui.style":"size:6px; fill-color:white; "
+an "artifact"
+cn "artifact"  "ui.label":"artifact"
+cn "artifact"  "ui.style":"size:6px; fill-color:white; "
+an "macula"
+cn "macula"  "ui.label":"macula"
+cn "macula"  "ui.style":"size:6px; fill-color:white; "
+an "cortical area"
+cn "cortical area"  "ui.label":"cortical area"
+cn "cortical area"  "ui.style":"size:6px; fill-color:white; "
+an "cleavage"
+cn "cleavage"  "ui.label":"cleavage"
+cn "cleavage"  "ui.style":"size:6px; fill-color:white; "
+an "areola"
+cn "areola"  "ui.label":"areola"
+cn "areola"  "ui.style":"size:6px; fill-color:white; "
+an "English language"
+cn "English language"  "ui.label":"English language"
+cn "English language"  "ui.style":"size:6px; fill-color:white; "
+an "Nuclear power"
+cn "Nuclear power"  "ui.label":"Nuclear power"
+cn "Nuclear power"  "ui.style":"size:6px; fill-color:white; "
+an "expression"
+cn "expression"  "ui.label":"expression"
+cn "expression"  "ui.style":"size:6px; fill-color:white; "
+an "search"
+cn "search"  "ui.label":"search"
+cn "search"  "ui.style":"size:6px; fill-color:white; "
+an "Latin"
+cn "Latin"  "ui.label":"Latin"
+cn "Latin"  "ui.style":"size:6px; fill-color:white; "
+an "Transportation_in_Carroll_County,_Illinois"
+cn "Transportation_in_Carroll_County,_Illinois"  "ui.label":"Transportation_in_Carroll_County,_Illinois"
+cn "Transportation_in_Carroll_County,_Illinois"  "ui.style":"size:6px; fill-color:white; "
+an "Water"
+cn "Water"  "ui.label":"Water"
+cn "Water"  "ui.style":"size:6px; fill-color:white; "
+ae "Transport->instrumentality" "Transport"  "instrumentality"
+ce "Transport->instrumentality"  "type":0
+ae "instrumentality->unit" "instrumentality"  "unit"
+ce "instrumentality->unit"  "type":0
+ae "unit->definite quantity" "unit"  "definite quantity"
+ce "unit->definite quantity"  "type":0
+ae "definite quantity->measure" "definite quantity"  "measure"
+ce "definite quantity->measure"  "type":0
+ae "measure->maneuver" "measure"  "maneuver"
+ce "measure->maneuver"  "type":0
+ae "maneuver->operation" "maneuver"  "operation"
+ce "maneuver->operation"  "type":0
+ae "operation->action" "operation"  "action"
+ce "operation->action"  "type":0
+ae "action->act" "action"  "act"
+ce "action->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "activity->state" "activity"  "state"
+ce "activity->state"  "type":0
+ae "state->administrative district" "state"  "administrative district"
+ce "state->administrative district"  "type":0
+ae "administrative district->district" "administrative district"  "district"
+ce "administrative district->district"  "type":0
+ae "district->region" "district"  "region"
+ce "district->region"  "type":0
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0
+ae "Car->motor vehicle" "Car"  "motor vehicle"
+ce "Car->motor vehicle"  "type":0
+ae "motor vehicle->self-propelled vehicle" "motor vehicle"  "self-propelled vehicle"
+ce "motor vehicle->self-propelled vehicle"  "type":0
+ae "self-propelled vehicle->wheeled vehicle" "self-propelled vehicle"  "wheeled vehicle"
+ce "self-propelled vehicle->wheeled vehicle"  "type":0
+ae "wheeled vehicle->vehicle" "wheeled vehicle"  "vehicle"
+ce "wheeled vehicle->vehicle"  "type":0
+ae "vehicle->conveyance" "vehicle"  "conveyance"
+ce "vehicle->conveyance"  "type":0
+ae "conveyance->legal document" "conveyance"  "legal document"
+ce "conveyance->legal document"  "type":0
+ae "conveyance->transmission" "conveyance"  "transmission"
+ce "conveyance->transmission"  "type":0
+ae "transmission->sending" "transmission"  "sending"
+ce "transmission->sending"  "type":0
+ae "sending->causing" "sending"  "causing"
+ce "sending->causing"  "type":0
+ae "causing->act" "causing"  "act"
+ce "causing->act"  "type":0
+ae "causing->trigger" "causing"  "trigger"
+ce "causing->trigger"  "type":1
+ae "trigger->lever" "trigger"  "lever"
+ce "trigger->lever"  "type":0
+ae "lever->bar" "lever"  "bar"
+ce "lever->bar"  "type":0
+ae "bar->room" "bar"  "room"
+ce "bar->room"  "type":0
+ae "room->area" "room"  "area"
+ce "room->area"  "type":0
+ae "area->region" "area"  "region"
+ce "area->region"  "type":0
+ae "area->topic" "area"  "topic"
+ce "area->topic"  "type":0
+ae "topic->message" "topic"  "message"
+ce "topic->message"  "type":0
+ae "message->communication" "message"  "communication"
+ce "message->communication"  "type":0
+ae "communication->act" "communication"  "act"
+ce "communication->act"  "type":0
+ae "communication->abstraction" "communication"  "abstraction"
+ce "communication->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Transport->diffusion" "Transport" > "diffusion"
+ce "Transport->diffusion"  "type":0
+ae "wheeled vehicle->container" "wheeled vehicle" > "container"
+ce "wheeled vehicle->container"  "type":0
+ae "Transport->emotional state" "Transport" > "emotional state"
+ce "Transport->emotional state"  "type":0
+ae "region->macula" "region" > "macula"
+ce "region->macula"  "type":1
+ae "Car->Rapid transit" "Car" > "Rapid transit"
+ce "Car->Rapid transit"  "type":8
+ae "writing->Author" "writing" > "Author"
+ce "writing->Author"  "type":8
+ae "conveyance->movement" "conveyance" > "movement"
+ce "conveyance->movement"  "type":0
+ae "lever->Brake" "lever" > "Brake"
+ce "lever->Brake"  "type":8
+ae "Transport->Cargo_airlines_of_Panama" "Transport" > "Cargo_airlines_of_Panama"
+ce "Transport->Cargo_airlines_of_Panama"  "type":8
+ae "Transport->transshipment" "Transport" > "transshipment"
+ce "Transport->transshipment"  "type":1
+ae "Transport->delivery" "Transport" > "delivery"
+ce "Transport->delivery"  "type":1
+ae "activity->sink" "activity" > "sink"
+ce "activity->sink"  "type":1
+ae "Transport->Automobile_magazines" "Transport" > "Automobile_magazines"
+ce "Transport->Automobile_magazines"  "type":8
+ae "Transport->Automobile_associations" "Transport" > "Automobile_associations"
+ce "Transport->Automobile_associations"  "type":8
+ae "activity->stimulation" "activity" > "stimulation"
+ce "activity->stimulation"  "type":1
+ae "bar->Germany" "bar" > "Germany"
+ce "bar->Germany"  "type":8
+ae "abstraction->Lexeme" "abstraction" > "Lexeme"
+ce "abstraction->Lexeme"  "type":8
+ae "vehicle->object" "vehicle" > "object"
+ce "vehicle->object"  "type":0
+ae "Car->Carriage_houses_in_the_United_States" "Car" > "Carriage_houses_in_the_United_States"
+ce "Car->Carriage_houses_in_the_United_States"  "type":8
+ae "activity->transpiration" "activity" > "transpiration"
+ce "activity->transpiration"  "type":1
+ae "area->cortical area" "area" > "cortical area"
+ce "area->cortical area"  "type":1
+ae "Car->wheeled vehicle" "Car" > "wheeled vehicle"
+ce "Car->wheeled vehicle"  "type":0
+ae "Transport->Cargo_airlines_of_Austria" "Transport" > "Cargo_airlines_of_Austria"
+ce "Transport->Cargo_airlines_of_Austria"  "type":8
+ae "vehicle->Driver's license" "vehicle" > "Driver's license"
+ce "vehicle->Driver's license"  "type":8
+ae "Transport->Train" "Transport" > "Train"
+ce "Transport->Train"  "type":8
+ae "activity->absorption" "activity" > "absorption"
+ce "activity->absorption"  "type":1
+ae "vehicle->Transport" "vehicle" > "Transport"
+ce "vehicle->Transport"  "type":8
+ae "Transport->Urban sprawl" "Transport" > "Urban sprawl"
+ce "Transport->Urban sprawl"  "type":8
+ae "writing->Indus Valley Civilisation" "writing" > "Indus Valley Civilisation"
+ce "writing->Indus Valley Civilisation"  "type":8
+ae "Transport->Indus Valley Civilisation" "Transport" > "Indus Valley Civilisation"
+ce "Transport->Indus Valley Civilisation"  "type":8
+ae "action->stimulation" "action" > "stimulation"
+ce "action->stimulation"  "type":1
+ae "action->sink" "action" > "sink"
+ce "action->sink"  "type":1
+ae "Transport->Internal combustion engine" "Transport" > "Internal combustion engine"
+ce "Transport->Internal combustion engine"  "type":8
+ae "abstraction->Communication" "abstraction" > "Communication"
+ce "abstraction->Communication"  "type":8
+ae "abstraction->Construction" "abstraction" > "Construction"
+ce "abstraction->Construction"  "type":8
+ae "activity->capture" "activity" > "capture"
+ce "activity->capture"  "type":1
+ae "instrumentality->container" "instrumentality" > "container"
+ce "instrumentality->container"  "type":1
+ae "instrumentality->artifact" "instrumentality" > "artifact"
+ce "instrumentality->artifact"  "type":0
+ae "physical entity->matter" "physical entity" > "matter"
+ce "physical entity->matter"  "type":1
+ae "Transport->Cargo_airlines_of_Bahrain" "Transport" > "Cargo_airlines_of_Bahrain"
+ce "Transport->Cargo_airlines_of_Bahrain"  "type":8
+ae "Car->Plug-in electric vehicle" "Car" > "Plug-in electric vehicle"
+ce "Car->Plug-in electric vehicle"  "type":8
+ae "state->motion" "state" > "motion"
+ce "state->motion"  "type":1
+ae "Car->Brake" "Car" > "Brake"
+ce "Car->Brake"  "type":8
+ae "Car->Cargo_airlines_of_Indonesia" "Car" > "Cargo_airlines_of_Indonesia"
+ce "Car->Cargo_airlines_of_Indonesia"  "type":8
+ae "document->representation" "document" > "representation"
+ce "document->representation"  "type":0
+ae "state->emotional state" "state" > "emotional state"
+ce "state->emotional state"  "type":0
+ae "writing->Paper" "writing" > "Paper"
+ce "writing->Paper"  "type":8
+ae "Car->Cargo_airlines_of_Bahrain" "Car" > "Cargo_airlines_of_Bahrain"
+ce "Car->Cargo_airlines_of_Bahrain"  "type":8
+ae "Transport->Rapid transit" "Transport" > "Rapid transit"
+ce "Transport->Rapid transit"  "type":8
+ae "writing->Papyrus" "writing" > "Papyrus"
+ce "writing->Papyrus"  "type":8
+ae "Car->Cargo_airlines_of_Austria" "Car" > "Cargo_airlines_of_Austria"
+ce "Car->Cargo_airlines_of_Austria"  "type":8
+ae "district->Germany" "district" > "Germany"
+ce "district->Germany"  "type":8
+ae "operation->search" "operation" > "search"
+ce "operation->search"  "type":1
+ae "document->enclosure" "document" > "enclosure"
+ce "document->enclosure"  "type":1
+ae "Car->Transportation_in_Carroll_County,_Illinois" "Car" > "Transportation_in_Carroll_County,_Illinois"
+ce "Car->Transportation_in_Carroll_County,_Illinois"  "type":8
+ae "action->movement" "action" > "movement"
+ce "action->movement"  "type":1
+ae "region->county" "region" > "county"
+ce "region->county"  "type":1
+ae "instrumentality->implement" "instrumentality" > "implement"
+ce "instrumentality->implement"  "type":1
+ae "Transport->Construction" "Transport" > "Construction"
+ce "Transport->Construction"  "type":8
+ae "Transport->Motorcycle" "Transport" > "Motorcycle"
+ce "Transport->Motorcycle"  "type":8
+ae "area->cleavage" "area" > "cleavage"
+ce "area->cleavage"  "type":1
+ae "Car->Cargo_airlines_of_New_Zealand" "Car" > "Cargo_airlines_of_New_Zealand"
+ce "Car->Cargo_airlines_of_New_Zealand"  "type":8
+ae "Car->Cargo_airlines_of_Panama" "Car" > "Cargo_airlines_of_Panama"
+ce "Car->Cargo_airlines_of_Panama"  "type":8
+ae "action->group action" "action" > "group action"
+ce "action->group action"  "type":0
+ae "bar->implement" "bar" > "implement"
+ce "bar->implement"  "type":0
+ae "Car->Latin" "Car" > "Latin"
+ce "Car->Latin"  "type":8
+ae "Transport->Nuclear power" "Transport" > "Nuclear power"
+ce "Transport->Nuclear power"  "type":8
+ae "Car->Automobile_magazines" "Car" > "Automobile_magazines"
+ce "Car->Automobile_magazines"  "type":8
+ae "Car->English language" "Car" > "English language"
+ce "Car->English language"  "type":8
+ae "area->enclosure" "area" > "enclosure"
+ce "area->enclosure"  "type":1
+ae "Transport->Cargo_airlines_of_Indonesia" "Transport" > "Cargo_airlines_of_Indonesia"
+ce "Transport->Cargo_airlines_of_Indonesia"  "type":8
+ae "Transport->Water" "Transport" > "Water"
+ce "Transport->Water"  "type":8
+ae "writing->Communication" "writing" > "Communication"
+ce "writing->Communication"  "type":8
+ae "vehicle->Nuclear power" "vehicle" > "Nuclear power"
+ce "vehicle->Nuclear power"  "type":8
+ae "Transport->Transportation_in_Carroll_County,_Iowa" "Transport" > "Transportation_in_Carroll_County,_Iowa"
+ce "Transport->Transportation_in_Carroll_County,_Iowa"  "type":8
+ae "region->area of cardiac dullness" "region" > "area of cardiac dullness"
+ce "region->area of cardiac dullness"  "type":1
+ae "activity->vitrification" "activity" > "vitrification"
+ce "activity->vitrification"  "type":1
+ae "unit->artifact" "unit" > "artifact"
+ce "unit->artifact"  "type":1
+ae "location->space" "location" > "space"
+ce "location->space"  "type":1
+ae "action->vitrification" "action" > "vitrification"
+ce "action->vitrification"  "type":1
+ae "document->Author" "document" > "Author"
+ce "document->Author"  "type":8
+ae "action->transpiration" "action" > "transpiration"
+ce "action->transpiration"  "type":1
+ae "area->areola" "area" > "areola"
+ce "area->areola"  "type":1
+ae "Transport->Commuting" "Transport" > "Commuting"
+ce "Transport->Commuting"  "type":8
+ae "writing->matter" "writing" > "matter"
+ce "writing->matter"  "type":1
+ae "document->Papyrus" "document" > "Papyrus"
+ce "document->Papyrus"  "type":8
+ae "object->center" "object" > "center"
+ce "object->center"  "type":1
+ae "vehicle->Transmission (mechanics)" "vehicle" > "Transmission (mechanics)"
+ce "vehicle->Transmission (mechanics)"  "type":8
+ae "area->Quantity" "area" > "Quantity"
+ce "area->Quantity"  "type":8
+ae "measure->activity" "measure" > "activity"
+ce "measure->activity"  "type":0
+ae "Car->Ethanol fuel" "Car" > "Ethanol fuel"
+ce "Car->Ethanol fuel"  "type":8
+ae "Transport->Cargo_airlines_of_New_Zealand" "Transport" > "Cargo_airlines_of_New_Zealand"
+ce "Transport->Cargo_airlines_of_New_Zealand"  "type":8
+ae "writing->written communication" "writing" > "written communication"
+ce "writing->written communication"  "type":0
+ae "communication->Paper" "communication" > "Paper"
+ce "communication->Paper"  "type":8
+ae "communication->Lexeme" "communication" > "Lexeme"
+ce "communication->Lexeme"  "type":8
+ae "measure->magnetization" "measure" > "magnetization"
+ce "measure->magnetization"  "type":1
+ae "Transport->Transportation_in_Carroll_County,_Illinois" "Transport" > "Transportation_in_Carroll_County,_Illinois"
+ce "Transport->Transportation_in_Carroll_County,_Illinois"  "type":8
+ae "state->representation" "state" > "representation"
+ce "state->representation"  "type":1
+ae "communication->Body language" "communication" > "Body language"
+ce "communication->Body language"  "type":8
+ae "document->Radio" "document" > "Radio"
+ce "document->Radio"  "type":8
+ae "location->activity" "location" > "activity"
+ce "location->activity"  "type":0
+ae "region->cortical area" "region" > "cortical area"
+ce "region->cortical area"  "type":1
+ae "region->cleavage" "region" > "cleavage"
+ce "region->cleavage"  "type":1
+ae "action->absorption" "action" > "absorption"
+ce "action->absorption"  "type":1
+ae "conveyance->delivery" "conveyance" > "delivery"
+ce "conveyance->delivery"  "type":1
+ae "conveyance->transshipment" "conveyance" > "transshipment"
+ce "conveyance->transshipment"  "type":1
+ae "region->areola" "region" > "areola"
+ce "region->areola"  "type":1
+ae "area->center" "area" > "center"
+ce "area->center"  "type":1
+ae "lever->Latin" "lever" > "Latin"
+ce "lever->Latin"  "type":8
+ae "activity->magnetization" "activity" > "magnetization"
+ce "activity->magnetization"  "type":1
+ae "transmission->communication" "transmission" > "communication"
+ce "transmission->communication"  "type":0
+ae "action->capture" "action" > "capture"
+ce "action->capture"  "type":1
+ae "act->group action" "act" > "group action"
+ce "act->group action"  "type":1
+ae "motor vehicle->Gasoline" "motor vehicle" > "Gasoline"
+ce "motor vehicle->Gasoline"  "type":8
+ae "transmission->medium" "transmission" > "medium"
+ce "transmission->medium"  "type":1
+ae "region->Water" "region" > "Water"
+ce "region->Water"  "type":8
+ae "lever->English language" "lever" > "English language"
+ce "lever->English language"  "type":8
+ae "measure->Quantity" "measure" > "Quantity"
+ce "measure->Quantity"  "type":8
+ae "maneuver->motion" "maneuver" > "motion"
+ce "maneuver->motion"  "type":0
+ae "Car->Commuting" "Car" > "Commuting"
+ce "Car->Commuting"  "type":8
+ae "communication->written communication" "communication" > "written communication"
+ce "communication->written communication"  "type":1
+ae "Transport->Carriage_houses_in_the_United_States" "Transport" > "Carriage_houses_in_the_United_States"
+ce "Transport->Carriage_houses_in_the_United_States"  "type":8
+ae "Transport->Transportation_in_Carroll_County,_Maryland" "Transport" > "Transportation_in_Carroll_County,_Maryland"
+ce "Transport->Transportation_in_Carroll_County,_Maryland"  "type":8
+ae "communication->expression" "communication" > "expression"
+ce "communication->expression"  "type":1
+ae "act->delivery" "act" > "delivery"
+ce "act->delivery"  "type":1
+ae "administrative district->county" "administrative district" > "county"
+ce "administrative district->county"  "type":1
+ae "communication->medium" "communication" > "medium"
+ce "communication->medium"  "type":1
+ae "act->expression" "act" > "expression"
+ce "act->expression"  "type":0
+ae "transmission->Transmission (mechanics)" "transmission" > "Transmission (mechanics)"
+ce "transmission->Transmission (mechanics)"  "type":8
+ae "motor vehicle->Ethanol fuel" "motor vehicle" > "Ethanol fuel"
+ce "motor vehicle->Ethanol fuel"  "type":8
+ae "action->diffusion" "action" > "diffusion"
+ce "action->diffusion"  "type":1
+ae "message->Radio" "message" > "Radio"
+ce "message->Radio"  "type":8
+ae "action->extinction" "action" > "extinction"
+ce "action->extinction"  "type":1
+ae "motor vehicle->Driver's license" "motor vehicle" > "Driver's license"
+ce "motor vehicle->Driver's license"  "type":8
+ae "activity->extinction" "activity" > "extinction"
+ce "activity->extinction"  "type":1
+ae "area->space" "area" > "space"
+ce "area->space"  "type":1
+ae "motor vehicle->Plug-in electric vehicle" "motor vehicle" > "Plug-in electric vehicle"
+ce "motor vehicle->Plug-in electric vehicle"  "type":8
+ae "Car->Gasoline" "Car" > "Gasoline"
+ce "Car->Gasoline"  "type":8
+ae "Transport->Transportation_in_Carroll_County,_Missouri" "Transport" > "Transportation_in_Carroll_County,_Missouri"
+ce "Transport->Transportation_in_Carroll_County,_Missouri"  "type":8
+ae "activity->writing" "activity" > "writing"
+ce "activity->writing"  "type":1
+ae "message->Body language" "message" > "Body language"
+ce "message->Body language"  "type":8
+ae "area->macula" "area" > "macula"
+ce "area->macula"  "type":1
+ae "activity->representation" "activity" > "representation"
+ce "activity->representation"  "type":1
+ae "unit->object" "unit" > "object"
+ce "unit->object"  "type":0
+ae "motor vehicle->Motorcycle" "motor vehicle" > "Motorcycle"
+ce "motor vehicle->Motorcycle"  "type":8
+ae "activity->search" "activity" > "search"
+ce "activity->search"  "type":1
+ae "motor vehicle->Internal combustion engine" "motor vehicle" > "Internal combustion engine"
+ce "motor vehicle->Internal combustion engine"  "type":8
+ae "Car->Urban sprawl" "Car" > "Urban sprawl"
+ce "Car->Urban sprawl"  "type":8
+ae "Car->Transportation_in_Carroll_County,_Missouri" "Car" > "Transportation_in_Carroll_County,_Missouri"
+ce "Car->Transportation_in_Carroll_County,_Missouri"  "type":8
+ae "motor vehicle->Train" "motor vehicle" > "Train"
+ce "motor vehicle->Train"  "type":8
+ae "area->area of cardiac dullness" "area" > "area of cardiac dullness"
+ce "area->area of cardiac dullness"  "type":1
+ae "Car->Automobile_associations" "Car" > "Automobile_associations"
+ce "Car->Automobile_associations"  "type":8
+ae "Car->Transportation_in_Carroll_County,_Maryland" "Car" > "Transportation_in_Carroll_County,_Maryland"
+ce "Car->Transportation_in_Carroll_County,_Maryland"  "type":8
+ae "Car->Transportation_in_Carroll_County,_Iowa" "Car" > "Transportation_in_Carroll_County,_Iowa"
+ce "Car->Transportation_in_Carroll_County,_Iowa"  "type":8

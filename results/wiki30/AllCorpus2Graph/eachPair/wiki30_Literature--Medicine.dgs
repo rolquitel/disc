@@ -1,0 +1,130 @@
+DGS004
+null 0 0
+an "Literature"
+an "writing"
+cn "writing"  "ui.label":"writing"
+cn "writing"  "ui.style":"size:6px; fill-color:white; "
+an "verbal creation"
+cn "verbal creation"  "ui.label":"verbal creation"
+cn "verbal creation"  "ui.style":"size:6px; fill-color:white; "
+an "creating by mental acts"
+cn "creating by mental acts"  "ui.label":"creating by mental acts"
+cn "creating by mental acts"  "ui.style":"size:6px; fill-color:white; "
+an "creation"
+cn "creation"  "ui.label":"creation"
+cn "creation"  "ui.style":"size:6px; fill-color:white; "
+an "activity"
+cn "activity"  "ui.label":"activity"
+cn "activity"  "ui.style":"size:6px; fill-color:white; "
+an "act"
+cn "act"  "ui.label":"act"
+cn "act"  "ui.style":"size:6px; fill-color:white; "
+an "legal document"
+cn "legal document"  "ui.label":"legal document"
+cn "legal document"  "ui.style":"size:6px; fill-color:white; "
+an "document"
+cn "document"  "ui.label":"document"
+cn "document"  "ui.style":"size:6px; fill-color:white; "
+an "representation"
+cn "representation"  "ui.label":"representation"
+cn "representation"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "entity"
+an "Medicine"
+cn "Medicine"  "ui.label":"Medicine"
+cn "Medicine"  "ui.style":"size:6px; fill-color:white; "
+an "medical science"
+cn "medical science"  "ui.label":"medical science"
+cn "medical science"  "ui.style":"size:6px; fill-color:white; "
+an "life science"
+cn "life science"  "ui.label":"life science"
+cn "life science"  "ui.style":"size:6px; fill-color:white; "
+an "natural science"
+cn "natural science"  "ui.label":"natural science"
+cn "natural science"  "ui.style":"size:6px; fill-color:white; "
+an "science"
+cn "science"  "ui.label":"science"
+cn "science"  "ui.style":"size:6px; fill-color:white; "
+an "discipline"
+cn "discipline"  "ui.label":"discipline"
+cn "discipline"  "ui.style":"size:6px; fill-color:white; "
+an "knowledge domain"
+cn "knowledge domain"  "ui.label":"knowledge domain"
+cn "knowledge domain"  "ui.style":"size:6px; fill-color:white; "
+an "region"
+cn "region"  "ui.label":"region"
+cn "region"  "ui.style":"size:6px; fill-color:white; "
+an "location"
+cn "location"  "ui.label":"location"
+cn "location"  "ui.style":"size:6px; fill-color:white; "
+an "object"
+cn "object"  "ui.label":"object"
+cn "object"  "ui.style":"size:6px; fill-color:white; "
+an "physical entity"
+cn "physical entity"  "ui.label":"physical entity"
+cn "physical entity"  "ui.style":"size:6px; fill-color:white; "
+ae "Literature->writing" "Literature"  "writing"
+ce "Literature->writing"  "type":0
+ae "writing->verbal creation" "writing"  "verbal creation"
+ce "writing->verbal creation"  "type":0
+ae "verbal creation->creating by mental acts" "verbal creation"  "creating by mental acts"
+ce "verbal creation->creating by mental acts"  "type":0
+ae "creating by mental acts->creation" "creating by mental acts"  "creation"
+ce "creating by mental acts->creation"  "type":0
+ae "creation->activity" "creation"  "activity"
+ce "creation->activity"  "type":0
+ae "activity->act" "activity"  "act"
+ce "activity->act"  "type":0
+ae "act->legal document" "act"  "legal document"
+ce "act->legal document"  "type":0
+ae "legal document->document" "legal document"  "document"
+ce "legal document->document"  "type":0
+ae "document->writing" "document"  "writing"
+ce "document->writing"  "type":0
+ae "document->representation" "document"  "representation"
+ce "document->representation"  "type":0
+ae "representation->content" "representation"  "content"
+ce "representation->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "abstraction->entity" "abstraction"  "entity"
+ce "abstraction->entity"  "type":0
+ae "Medicine->medical science" "Medicine"  "medical science"
+ce "Medicine->medical science"  "type":0
+ae "medical science->life science" "medical science"  "life science"
+ce "medical science->life science"  "type":0
+ae "life science->natural science" "life science"  "natural science"
+ce "life science->natural science"  "type":0
+ae "natural science->science" "natural science"  "science"
+ce "natural science->science"  "type":0
+ae "science->discipline" "science"  "discipline"
+ce "science->discipline"  "type":0
+ae "discipline->knowledge domain" "discipline"  "knowledge domain"
+ce "discipline->knowledge domain"  "type":0
+ae "knowledge domain->content" "knowledge domain"  "content"
+ce "knowledge domain->content"  "type":0
+ae "knowledge domain->region" "knowledge domain"  "region"
+ce "knowledge domain->region"  "type":1
+ae "region->location" "region"  "location"
+ce "region->location"  "type":0
+ae "location->object" "location"  "object"
+ce "location->object"  "type":0
+ae "object->physical entity" "object"  "physical entity"
+ce "object->physical entity"  "type":0
+ae "physical entity->entity" "physical entity"  "entity"
+ce "physical entity->entity"  "type":0

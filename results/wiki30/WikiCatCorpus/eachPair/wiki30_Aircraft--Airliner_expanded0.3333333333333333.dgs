@@ -1,0 +1,19 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Aircraft"
+cn "Aircraft"  "ui.label":"Aircraft"
+cn "Aircraft"  "ui.style":"size-mode:fit;"
+an "Airliner"
+cn "Airliner"  "ui.label":"Airliner"
+cn "Airliner"  "ui.style":"size-mode:fit;"
+an "Civil_aircraft_by_type"
+cn "Civil_aircraft_by_type"  "ui.label":"Civil_aircraft_by_type"
+cn "Civil_aircraft_by_type"  "ui.style":"size:6px; fill-color:white; "
+an "Commons_category_link_is_on_Wikidata"
+cn "Commons_category_link_is_on_Wikidata"  "ui.label":"Commons_category_link_is_on_Wikidata"
+cn "Commons_category_link_is_on_Wikidata"  "ui.style":"size:6px; fill-color:white; "
+ae "Airliner->Civil_aircraft_by_type" "Airliner"  "Civil_aircraft_by_type"
+ce "Airliner->Civil_aircraft_by_type"  "type":0
+ae "Airliner->Commons_category_link_is_on_Wikidata" "Airliner"  "Commons_category_link_is_on_Wikidata"
+ce "Airliner->Commons_category_link_is_on_Wikidata"  "type":0

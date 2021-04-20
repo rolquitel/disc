@@ -1,0 +1,34 @@
+DGS004
+null 0 0
+cg  "ui.antialias":true
+an "Scholar"
+cn "Scholar"  "ui.label":"Scholar"
+cn "Scholar"  "ui.style":"size-mode:fit;"
+an "Academia"
+cn "Academia"  "ui.label":"Academia"
+cn "Academia"  "ui.style":"size-mode:fit;"
+an "Education"
+cn "Education"  "ui.label":"Education"
+cn "Education"  "ui.style":"size:6px; fill-color:white; "
+an "Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.label":"Main_topic_classifications"
+cn "Main_topic_classifications"  "ui.style":"size:6px; fill-color:white; "
+an "Knowledge"
+cn "Knowledge"  "ui.label":"Knowledge"
+cn "Knowledge"  "ui.style":"size:6px; fill-color:white; "
+an "Culture"
+cn "Culture"  "ui.label":"Culture"
+cn "Culture"  "ui.style":"size:6px; fill-color:white; "
+an "Human_activities"
+cn "Human_activities"  "ui.label":"Human_activities"
+cn "Human_activities"  "ui.style":"size:6px; fill-color:white; "
+ae "Academia->Education" "Academia"  "Education"
+ce "Academia->Education"  "type":0
+ae "Education->Main_topic_classifications" "Education"  "Main_topic_classifications"
+ce "Education->Main_topic_classifications"  "type":0
+ae "Academia->Knowledge" "Academia" > "Knowledge"
+ce "Academia->Knowledge"  "type":0
+ae "Education->Culture" "Education" > "Culture"
+ce "Education->Culture"  "type":0
+ae "Education->Human_activities" "Education" > "Human_activities"
+ce "Education->Human_activities"  "type":0

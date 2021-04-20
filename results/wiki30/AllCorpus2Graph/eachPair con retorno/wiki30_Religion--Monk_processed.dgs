@@ -1,0 +1,245 @@
+DGS004
+null 0 0
+an "Religion"
+cn "Religion"  "ui.label":"Religion"
+cn "Religion"  "ui.style":"size-mode:fit;"
+an "belief"
+cn "belief"  "ui.label":"belief"
+cn "belief"  "ui.style":"size:6px; fill-color:white; "
+an "content"
+cn "content"  "ui.label":"content"
+cn "content"  "ui.style":"size:6px; fill-color:white; "
+an "collection"
+cn "collection"  "ui.label":"collection"
+cn "collection"  "ui.style":"size:6px; fill-color:white; "
+an "group"
+cn "group"  "ui.label":"group"
+cn "group"  "ui.style":"size:6px; fill-color:white; "
+an "abstraction"
+cn "abstraction"  "ui.label":"abstraction"
+cn "abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "Evidence"
+cn "Evidence"  "ui.label":"Evidence"
+cn "Evidence"  "ui.style":"size:6px; fill-color:white; "
+an "Monk"
+cn "Monk"  "ui.label":"Monk"
+cn "Monk"  "ui.style":"size-mode:fit;"
+an "religious"
+cn "religious"  "ui.label":"religious"
+cn "religious"  "ui.style":"size:6px; fill-color:white; "
+an "religious person"
+cn "religious person"  "ui.label":"religious person"
+cn "religious person"  "ui.style":"size:6px; fill-color:white; "
+an "person"
+cn "person"  "ui.label":"person"
+cn "person"  "ui.style":"size:6px; fill-color:white; "
+an "organism"
+cn "organism"  "ui.label":"organism"
+cn "organism"  "ui.style":"size:6px; fill-color:white; "
+an "living thing"
+cn "living thing"  "ui.label":"living thing"
+cn "living thing"  "ui.style":"size:6px; fill-color:white; "
+an "whole"
+cn "whole"  "ui.label":"whole"
+cn "whole"  "ui.style":"size:6px; fill-color:white; "
+an "concept"
+cn "concept"  "ui.label":"concept"
+cn "concept"  "ui.style":"size:6px; fill-color:white; "
+an "idea"
+cn "idea"  "ui.label":"idea"
+cn "idea"  "ui.style":"size:6px; fill-color:white; "
+an "Islam"
+cn "Islam"  "ui.label":"Islam"
+cn "Islam"  "ui.style":"size:6px; fill-color:white; "
+an "Philosophy of mind"
+cn "Philosophy of mind"  "ui.label":"Philosophy of mind"
+cn "Philosophy of mind"  "ui.style":"size:6px; fill-color:white; "
+an "Eucharist"
+cn "Eucharist"  "ui.label":"Eucharist"
+cn "Eucharist"  "ui.style":"size:6px; fill-color:white; "
+an "Gottlob Frege"
+cn "Gottlob Frege"  "ui.label":"Gottlob Frege"
+cn "Gottlob Frege"  "ui.style":"size:6px; fill-color:white; "
+an "Hypostatic abstraction"
+cn "Hypostatic abstraction"  "ui.label":"Hypostatic abstraction"
+cn "Hypostatic abstraction"  "ui.style":"size:6px; fill-color:white; "
+an "Law"
+cn "Law"  "ui.label":"Law"
+cn "Law"  "ui.style":"size:6px; fill-color:white; "
+an "Ontology"
+cn "Ontology"  "ui.label":"Ontology"
+cn "Ontology"  "ui.style":"size:6px; fill-color:white; "
+an "communication"
+cn "communication"  "ui.label":"communication"
+cn "communication"  "ui.style":"size:6px; fill-color:white; "
+an "Anthropologist"
+cn "Anthropologist"  "ui.label":"Anthropologist"
+cn "Anthropologist"  "ui.style":"size:6px; fill-color:white; "
+an "India"
+cn "India"  "ui.label":"India"
+cn "India"  "ui.style":"size:6px; fill-color:white; "
+an "Pakistan"
+cn "Pakistan"  "ui.label":"Pakistan"
+cn "Pakistan"  "ui.style":"size:6px; fill-color:white; "
+an "Category:Main topic articles"
+cn "Category:Main topic articles"  "ui.label":"Category:Main topic articles"
+cn "Category:Main topic articles"  "ui.style":"size:6px; fill-color:white; "
+an "Metaphysics"
+cn "Metaphysics"  "ui.label":"Metaphysics"
+cn "Metaphysics"  "ui.style":"size:6px; fill-color:white; "
+an "Karma"
+cn "Karma"  "ui.label":"Karma"
+cn "Karma"  "ui.style":"size:6px; fill-color:white; "
+an "Linguistics"
+cn "Linguistics"  "ui.label":"Linguistics"
+cn "Linguistics"  "ui.style":"size:6px; fill-color:white; "
+an "Myth"
+cn "Myth"  "ui.label":"Myth"
+cn "Myth"  "ui.style":"size:6px; fill-color:white; "
+an "life"
+cn "life"  "ui.label":"life"
+cn "life"  "ui.style":"size:6px; fill-color:white; "
+an "part"
+cn "part"  "ui.label":"part"
+cn "part"  "ui.style":"size:6px; fill-color:white; "
+an "Belief"
+cn "Belief"  "ui.label":"Belief"
+cn "Belief"  "ui.style":"size:6px; fill-color:white; "
+an "Huguenots"
+cn "Huguenots"  "ui.label":"Huguenots"
+cn "Huguenots"  "ui.style":"size:6px; fill-color:white; "
+an "Ethnic group"
+cn "Ethnic group"  "ui.label":"Ethnic group"
+cn "Ethnic group"  "ui.style":"size:6px; fill-color:white; "
+an "Atheism"
+cn "Atheism"  "ui.label":"Atheism"
+cn "Atheism"  "ui.style":"size:6px; fill-color:white; "
+an "Oxford University Press"
+cn "Oxford University Press"  "ui.label":"Oxford University Press"
+cn "Oxford University Press"  "ui.style":"size:6px; fill-color:white; "
+ae "Religion->belief" "Religion"  "belief"
+ce "Religion->belief"  "type":0
+ae "belief->content" "belief"  "content"
+ce "belief->content"  "type":0
+ae "content->collection" "content"  "collection"
+ce "content->collection"  "type":0
+ae "collection->group" "collection"  "group"
+ce "collection->group"  "type":0
+ae "group->abstraction" "group"  "abstraction"
+ce "group->abstraction"  "type":0
+ae "group->Ethnic group" "group" > "Ethnic group"
+ce "group->Ethnic group"  "type":8
+ae "Monk->religious" "Monk"  "religious"
+ce "Monk->religious"  "type":0
+ae "religious->religious person" "religious"  "religious person"
+ce "religious->religious person"  "type":0
+ae "religious person->person" "religious person"  "person"
+ce "religious person->person"  "type":0
+ae "person->organism" "person"  "organism"
+ce "person->organism"  "type":0
+ae "organism->living thing" "organism"  "living thing"
+ce "organism->living thing"  "type":0
+ae "living thing->whole" "living thing"  "whole"
+ce "living thing->whole"  "type":0
+ae "whole->concept" "whole"  "concept"
+ce "whole->concept"  "type":0
+ae "concept->idea" "concept"  "idea"
+ce "concept->idea"  "type":0
+ae "idea->content" "idea"  "content"
+ce "idea->content"  "type":0
+ae "concept->Hypostatic abstraction" "concept" > "Hypostatic abstraction"
+ce "concept->Hypostatic abstraction"  "type":8
+ae "concept->Linguistics" "concept" > "Linguistics"
+ce "concept->Linguistics"  "type":8
+ae "Monk->India" "Monk" > "India"
+ce "Monk->India"  "type":8
+ae "belief->Myth" "belief" > "Myth"
+ce "belief->Myth"  "type":8
+ae "Religion->Evidence" "Religion" > "Evidence"
+ce "Religion->Evidence"  "type":8
+ae "person->Ethnic group" "person" > "Ethnic group"
+ce "person->Ethnic group"  "type":8
+ae "whole->part" "whole" > "part"
+ce "whole->part"  "type":7
+ae "Religion->India" "Religion" > "India"
+ce "Religion->India"  "type":8
+ae "Religion->Huguenots" "Religion" > "Huguenots"
+ce "Religion->Huguenots"  "type":8
+ae "concept->Gottlob Frege" "concept" > "Gottlob Frege"
+ce "concept->Gottlob Frege"  "type":8
+ae "Religion->Karma" "Religion" > "Karma"
+ce "Religion->Karma"  "type":8
+ae "abstraction->Hypostatic abstraction" "abstraction" > "Hypostatic abstraction"
+ce "abstraction->Hypostatic abstraction"  "type":8
+ae "abstraction->Gottlob Frege" "abstraction" > "Gottlob Frege"
+ce "abstraction->Gottlob Frege"  "type":8
+ae "idea->Law" "idea" > "Law"
+ce "idea->Law"  "type":8
+ae "Religion->Eucharist" "Religion" > "Eucharist"
+ce "Religion->Eucharist"  "type":8
+ae "abstraction->Anthropologist" "abstraction" > "Anthropologist"
+ce "abstraction->Anthropologist"  "type":8
+ae "belief->Islam" "belief" > "Islam"
+ce "belief->Islam"  "type":8
+ae "Monk->Eucharist" "Monk" > "Eucharist"
+ce "Monk->Eucharist"  "type":8
+ae "Religion->Belief" "Religion" > "Belief"
+ce "Religion->Belief"  "type":8
+ae "belief->Metaphysics" "belief" > "Metaphysics"
+ce "belief->Metaphysics"  "type":8
+ae "belief->Anthropologist" "belief" > "Anthropologist"
+ce "belief->Anthropologist"  "type":8
+ae "Religion->Atheism" "Religion" > "Atheism"
+ce "Religion->Atheism"  "type":8
+ae "belief->Oxford University Press" "belief" > "Oxford University Press"
+ce "belief->Oxford University Press"  "type":8
+ae "concept->part" "concept" > "part"
+ce "concept->part"  "type":1
+ae "concept->abstraction" "concept" > "abstraction"
+ce "concept->abstraction"  "type":1
+ae "Religion->Law" "Religion" > "Law"
+ce "Religion->Law"  "type":8
+ae "abstraction->communication" "abstraction" > "communication"
+ce "abstraction->communication"  "type":1
+ae "abstraction->Linguistics" "abstraction" > "Linguistics"
+ce "abstraction->Linguistics"  "type":8
+ae "belief->Atheism" "belief" > "Atheism"
+ce "belief->Atheism"  "type":8
+ae "Monk->Karma" "Monk" > "Karma"
+ce "Monk->Karma"  "type":8
+ae "Religion->Islam" "Religion" > "Islam"
+ce "Religion->Islam"  "type":8
+ae "idea->Oxford University Press" "idea" > "Oxford University Press"
+ce "idea->Oxford University Press"  "type":8
+ae "person->Philosophy of mind" "person" > "Philosophy of mind"
+ce "person->Philosophy of mind"  "type":8
+ae "content->communication" "content" > "communication"
+ce "content->communication"  "type":0
+ae "concept->Ontology" "concept" > "Ontology"
+ce "concept->Ontology"  "type":8
+ae "belief->Philosophy of mind" "belief" > "Philosophy of mind"
+ce "belief->Philosophy of mind"  "type":8
+ae "belief->Belief" "belief" > "Belief"
+ce "belief->Belief"  "type":8
+ae "person->life" "person" > "life"
+ce "person->life"  "type":1
+ae "Religion->Metaphysics" "Religion" > "Metaphysics"
+ce "Religion->Metaphysics"  "type":8
+ae "belief->Evidence" "belief" > "Evidence"
+ce "belief->Evidence"  "type":8
+ae "living thing->life" "living thing" > "life"
+ce "living thing->life"  "type":1
+ae "Religion->Myth" "Religion" > "Myth"
+ce "Religion->Myth"  "type":8
+ae "abstraction->Ontology" "abstraction" > "Ontology"
+ce "abstraction->Ontology"  "type":8
+ae "Religion->Category:Main topic articles" "Religion" > "Category:Main topic articles"
+ce "Religion->Category:Main topic articles"  "type":8
+ae "belief->Huguenots" "belief" > "Huguenots"
+ce "belief->Huguenots"  "type":8
+ae "belief->Pakistan" "belief" > "Pakistan"
+ce "belief->Pakistan"  "type":8
+ae "person->Category:Main topic articles" "person" > "Category:Main topic articles"
+ce "person->Category:Main topic articles"  "type":8
+ae "Religion->Pakistan" "Religion" > "Pakistan"
+ce "Religion->Pakistan"  "type":8
